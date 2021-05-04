@@ -1,0 +1,135 @@
+Return-Path: <selectquote-insurance-bruce=untroubled.org@stks3.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2357202 invoked from network); 13 Apr 2021 19:33:29 -0000
+Received: (qmail 53028 invoked by uid 222); 13 Apr 2021 19:33:29 -0000
+Return-Path: <selectquote-insurance-bruce=untroubled.org@stks3.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 53025 invoked from network); 13 Apr 2021 19:33:29 -0000
+Received: from mail.stks3.com ([69.94.138.172])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 19:33:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=stks3.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote-insurance@stks3.com;
+ bh=AxgL4igYGj9o3/c1SXcbNMS7/HM=;
+ b=PJvLyAGovo9EqXbPrOBEZeUiSMBfuadjeveAXej4I+rI2xuQ4drgP4Np3oXjiT/4rFCI/22FQMNK
+   MdNFVZpu9JJ8IbM87+EsFeACos5DQod3ScyZ1ZOGgmBrHyQk3rn9ZnCT9I3BXhxU2Eldvcl0RZ31
+   hyqIXafr2wNohZt38KU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=stks3.com;
+ b=VE7JAu0a+RalrgfT1ICOi0SJJRuZynrWFRp1VdTl2IwsAKPNgBdvtBcEZNv0/TGtT2EFdC4xV5cD
+   GnRM1CL1bqbz+M7Ez+fjIPp3C9B7CpPQeCElxOYgVvD/zxp1elG9OD+T5dlPr1REfdWtMHF5Egje
+   TroIktIqKJ8+v+pDNB0=;
+Received: by mail.stks3.com id henp0c0001gc for <bruce@untroubled.org>; Tue, 13 Apr 2021 15:20:15 -0400 (envelope-from <selectquote-insurance-bruce=untroubled.org@stks3.com>)
+Date: Tue, 13 Apr 2021 15:20:15 -0400
+From: "SelectQuote Insurance" <selectquote-insurance@stks3.com>
+To:   <bruce@untroubled.org>
+Subject: Need Life insurance?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_460_373484960.1618341601853"
+List-Unsubscribe: <http://www.stks3.com/1b56V2K39F5B89mz13Gnp1N1tt4acaj21QFv4GIf4rxvs4FhIHEsvZ11NRuomnmKoY96y1_Q0U6EOkcNY/deadlocks-solemn>
+Message-ID: <0.0.0.32.1D7309A08705142.1ACB60@mail.stks3.com>
+Content-Length: 6719
+
+------=_Part_460_373484960.1618341601853
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>reexamined</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><span style=3D"font-size:18px; "><span style=3D"font-family:arial,helv=
+etica,sans-serif; "><a href=3D"http://www.stks3.com/9e96dmo2395P8G6g17HN1_5sId5kbz4acaT21nFv4GIf4rxvs4FhIHEsvZ11KRuomnmKoY97vY1GT0_6PAWc2Y/regenerative-corrosive">Quickest way to get covered for =
+just a 1 a day </a></span></span><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.stks3.com/9e96dmo2395P8G6g17HN1_5sId5kbz4acaT21nFv4GIf4rxvs4FhIHEsvZ11KRuomnmKoY97vY1GT0_6PAWc2Y/regenerative-corrosive"><img alt=3D"happyr" src=3D"http://www.stks3.com/earmarking-beers/7565r23R95O7HSa12r15d5fO4acan21DFv4GIf4rxvs4FhIHEsvZ11KRuomnmKoY95vOz105DjkcY" style=
+=3D"border-width: 0px; border-style: solid; width: 76%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">Copyright &copy; SelectQuote | All Rights Reserve=
+d 2020</span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">SelectQuote Insurance Services offers insurance p=
+roducts and services through its licensed insurance agency, SelectQuote Ins=
+urance Services, LLC. SelectQuote Insurance Services is not an insurance co=
+mpany. We represent trusted insurance companies, and receive commissions ? =
+and possibly other performance-based compensation ? for our services. Produ=
+cts and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">*40 year-old male in excellent health, $500,000, =
+10-year policy for under a $1 a day. Example policy is for $23 a month. Pol=
+icy is a United of Omaha : Term Life Answers 10 is a non-participating term=
+ life insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), unde=
+rwritten by United of Omaha Life Insurance Company, Omaha, NE 68175. The pr=
+emium is guaranteed to stay the same for the 10 year period. Minimum issue =
+amount is $100,000. Premiums include a $62.50 annual policy fee. Forms and =
+plan provisions may vary by state. Plan is available in all states except N=
+ew York. Suicide and other limits may apply. The most favorable rate classe=
+s (and lowest rates) are generally intended for those who can meet strict h=
+ealth/lifestyle criteria. All rates subject to underwriting qualifications.=
+ Rates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">* Best' s Credit Ratings? are under continuous re=
+view and subject to change and/or affirmation. For the latest Best' s Credi=
+t Ratings? and Best' s Credit Reports (which include Best' s Credit Ratings=
+? ), visit the A.M. Best website at ambest.com. See Guide to Best' s Credit=
+ Ratings? for explanation of use and charges.? ? Best' s Credit Ratings? re=
+produced herein appear under license from A.M. Best and do not constitute, =
+either expressly or impliedly, an endorsement of SelectQuote or its recomme=
+ndations, formulas, criteria or comparisons to any other ratings, rating sc=
+ales or rating organizations which are published or referenced herein. A.M.=
+ Best is not responsible for transcription errors made in presenting Best' =
+s Credit Ratings? . Best' s Credit Ratings? are proprietary and may not be =
+reproduced or distributed without the express written permission of A.M. Be=
+st Company.? A Best' s Financial Strength Rating opinion addresses the rela=
+tive ability of an insurer to meet its ongoing insurance obligations. It is=
+ not a warranty of a company' s financial strength and ability to meet its =
+obligations to policyholders. View our Important Notice: Best' s Credit Rat=
+ings for a disclaimer notice and complete details at <a href=3D"http://www.stks3.com/c7d5mI2395u86RF12y15d5cu4acaA21HFv4GIf4rxvs4FhIHEsvZ11MRuomnmKoY96wSj1K06HTMcYy/femininity-definitional"=
+>http://www.stks3.com/c7d5mI2395u86RF12y15d5cu4acaA21HFv4GIf4rxvs4FhIHEsvZ11MRuomnmKoY96wSj1K06HTMcYy/femininity-definitional</a></span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">SelectQuote Insurance Services Corporate Office: =
+6800 W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=
+=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">This email was sent to you on behalf of SelectQuo=
+te by a third-party marketing company. You are receiving email from this th=
+ird-party marketing company because you have expressed your interest in rec=
+eiving commercial email through a site or sites associated with them.</span=
+></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:9px; ">This email contains information regarding products=
+ and services offered by SelectQuote. If you do not wish to receive email m=
+essages from SelectQuote that are advertising or promotional in nature, ple=
+ase<a href=3D"http://www.stks3.com/ed54A2395i8T6U13JQ15d5dm4acaU21pFv4GIf4rxvs4FhIHEsvZ11FRuomnmKoY95luK105A1OcY/compile-dactylic"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; =
+"> &nbsp; End <a href=3D"http://www.stks3.com/rosiness-distributing/9184R2395u8L9F13A15Zd5eM4acal21HFv4GIf4rxvs4FhIHEsvZ11aRuomnmKoY96JH1jZ05w0BcY">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style><span face="Fauntleroy"><small></span></small></style><span color="rickety"></span> =20
+ <img src=3D"http://www.stks3.com/1b54C2395h8_5u12F15d60q4acav21GFv4GIf4rxvs4FhIHEsvZ11HRuomnmKoY97STYF1q05PPcPY/femininity-definitional" alt=3D""/></body>
+</html>
+
+------=_Part_460_373484960.1618341601853--
+

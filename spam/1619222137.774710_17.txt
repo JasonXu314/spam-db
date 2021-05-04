@@ -1,0 +1,79 @@
+Return-Path: <renewal_by_andersen_window_replacement-bruce=untroubled.org@tspeed30.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3514404 invoked from network); 23 Apr 2021 18:08:43 -0000
+Received: (qmail 21553 invoked by uid 222); 23 Apr 2021 18:08:42 -0000
+Return-Path: <renewal_by_andersen_window_replacement-bruce=untroubled.org@tspeed30.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 21550 invoked from network); 23 Apr 2021 18:08:42 -0000
+Received: from mail.tspeed30.cloud ([208.187.244.151])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 18:08:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed30.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal_by_andersen_window_replacement@tspeed30.cloud;
+ bh=1INkeG7cQRJLDitgRwOO6Zb9JD0=;
+ b=Fn/44O5s2p1cIhvor/d3nEafRMtlRwRpkue/T1BRNwYy7mBG0UBH+CjfNzEiwkSZrhie0CTW3yUV
+   7gONmwa8fAXmj0rNSfwXNfJmS1v4MdqEDyjObEDBsKmILQxrMarBAPmVwY235A0lQGrtnA64zhOn
+   VMPo5n2pdkwglxj75aM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed30.cloud;
+ b=akQ6lbfXO0GTDL+KbBiA2mtBCyJML4KtzJG2/yyeY7Uh1DqimqgTGSGuPOiuJdPi4nUd3BmtZYdK
+   F1HhorPStTliCb0U1EbJFyrzeOs0qAAIVkOlIKO3DtHX+zb6N/Noe4gfVLXn6FMDvvk3YdWOqup0
+   /GP9KbgnI46hx66cO/8=;
+Received: by mail.tspeed30.cloud id hgc6i40001gc for <bruce@untroubled.org>; Fri, 23 Apr 2021 13:58:52 -0400 (envelope-from <renewal_by_andersen_window_replacement-bruce=untroubled.org@tspeed30.cloud>)
+Date: Fri, 23 Apr 2021 13:58:52 -0400
+From: "Renewal By Andersen Window Replacement" <renewal_by_andersen_window_replacement@tspeed30.cloud>
+To:   <bruce@untroubled.org>
+Subject: Need windows? Nervous about COVID-19? We Offer Free Virtual Consultations!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_766_1427886752.1619200716337"
+List-Unsubscribe: <http://www.tspeed30.cloud/3955Kh2395fZ8_913hu1J1FVH4b60h21SFv4GIf4rxvs4FhIHEsvZ8YRgomoRS5fx1T05AjcYB/obsoleted-phosgene>
+Message-ID: <0.0.0.54.1D7386A521F211A.21D59D@mail.tspeed30.cloud>
+Content-Length: 3693
+
+------=_Part_766_1427886752.1619200716337
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Delmarva</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.tspeed30.cloud/disadvantage-braying/a086QpY2395MB86h17MTK1B6t0V82T4b60W21SFv4GIf4rxvs4FhIHEsvZ8eRgomoRS5Cl10Z5zOc@Y">Keep your house cool this summer with new windows</a>
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.tspeed30.cloud/disadvantage-braying/a086QpY2395MB86h17MTK1B6t0V82T4b60W21SFv4GIf4rxvs4FhIHEsvZ8eRgomoRS5Cl10Z5zOc@Y"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 701px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, Leave&nbsp; <a href="http://www.tspeed30.cloud/recognitions-spanner/cba6dOs2395fU8W612B16083h4b60n21kFv4GIf4rxvs4FhIHEsvZ8MRgomoRS7NO1CXF05K0XcY"> here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.tspeed30.cloud/9536U239Sk5N86mP17SK1pQS60V84g4b60C21SFv4GIf4rxvs4FhIHEsvZ8sRgomoRS6B1x0yp5DPkcY/Presbyterianism-dishwashers">here.</a></b></span></span></p> <span style="font-family:arial,helvetica,sans-serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Remove <a href="http://www.tspeed30.cloud/4a35W23W95R8C9Z17FhX1h608Js5i4b60Q21zFv4GIf4rxvs4FhIHEsvZ8NRgomoRS7PU1Ht0z5GLcYq/retraining-Baldwin">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <span style="neglected"></span><span style="solenoid"><big></span></big><style size="moderated"></style><small><font style="Nouakchott"></small></font>  
+ <img src="http://www.tspeed30.cloud/obsoleted-phosgene/7385n23Q95rR85s17iF1w60zM86yD4b60_21hFv4GIf4rxvs4FhIHEsvZ8LRgomoRS7AgvzG106akAc@Y" alt=""/></body>
+</html>
+
+------=_Part_766_1427886752.1619200716337--
+

@@ -1,0 +1,179 @@
+Return-Path: <mini_swamp_cooler-bruce=untroubled.org@pechnomasks.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3552561 invoked from network); 24 Apr 2021 12:36:09 -0000
+Received: (qmail 29531 invoked by uid 222); 24 Apr 2021 12:36:09 -0000
+Return-Path: <mini_swamp_cooler-bruce=untroubled.org@pechnomasks.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 29528 invoked from network); 24 Apr 2021 12:36:09 -0000
+Received: from mail.pechnomasks.com (205-236-248-252.serversto.com [205.236.248.252])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Apr 2021 12:36:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=pechnomasks.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mini_swamp_cooler@pechnomasks.com;
+ bh=m/DP9+BtHtMR3xPHkGMAqdkhrzY=;
+ b=gWLRu/snQ/zuouUV/IHfGB7UqPyB2fHdBnbONuMCkARmdJTKydetoDs85qEj8stFuuz/JJKlpurA
+   D3HMuWVT3LlHR01KJs0/4E9y8FXa742vy/D7b7FYeX9zNdBpYJI93/BG6OUqM30dnfFujLTDlICS
+   zMCgDFHcOX2Cp0eel9c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=pechnomasks.com;
+ b=u4IlF6OKGjs0Ht3JfmSSZCbGSDPAc44d8lLq/n5vLu6nD/uwX8ucaQZIcZi1dEqyS8dpu8GItgrB
+   gO+gz4AUbyQIGW6fXOZ68M+yHLlWV/NAi7cO0MM+TFaC2LRMME2kYX481RWgWXrSnM/IpTLGGy1j
+   290dx7/Xm0OpzTKklnc=;
+Received: by mail.pechnomasks.com id hgg8ic0001gm for <bruce@untroubled.org>; Sat, 24 Apr 2021 08:32:40 -0400 (envelope-from <mini_swamp_cooler-bruce=untroubled.org@pechnomasks.com>)
+Date: Sat, 24 Apr 2021 08:32:40 -0400
+From: "Mini Swamp Cooler" <mini_swamp_cooler@pechnomasks.com>
+To:   <bruce@untroubled.org>
+Subject: Take this air conditioner with you anywhere
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1324_44405621.1619267426462"
+List-Unsubscribe: <http://www.pechnomasks.com/a435o239U5z8K9K11J1T1hCM506M21hFv4GIf4rxvs4FhIHEsvZ7PQgn9mo5X1nG05Qysqv/callously-tonnage>
+Message-ID: <0.0.0.DC.1D73905EAA356B8.787EE6@mail.pechnomasks.com>
+Content-Length: 8412
+
+------=_Part_1324_44405621.1619267426462
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+1 DAY LEFT!
+Daily Deal 72% OFF!
+
+3 in 1 Portable Space Cooler: Air conditioner, humidifier, air purifier.  While it's small in size, it's mighty in power, and will make quick work of cooling your home down for the benefit of your family, friends and work colleagues.   During the heat of summer, the inside temperature of your home or place of business can become unbearable.  However, the thought of a high power bill can also be more than enough incentive to just battle through and wear less clothing.  Air conditioners, as a whole, are also expensive to buy, cumbersome to operate, and take up more room in your home than you typically have spare.  Therein lies the question: Can there be another solution?
+
+
+Take Up To 72% Off Today Only -> http://www.pechnomasks.com/splices-migrant/6845h2n395k86hw10U21efF506_21HFv4GIf4rxvs4FhIHEsvZ7JQgn9mo6FD1S0K5iNs3v
+
+
+
+
+
+If you have any questions, we are Hawking, Black, and Johl Publishing Group
+34 Miller Rd.  Farmingdale.  NY, 11735.  Edit prefs http://www.pechnomasks.com/aural-cliques/51c4e2395S8rK610w21ebK506D21CFv4GIf4rxvs4FhIHEsvZ7vQgn9mo6Vuv1j06oWsTv@
+
+
+------=_Part_1324_44405621.1619267426462
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table role=3D"presentation" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" aria-hidden=3D"true">=20
+   <tbody>=20
+    <tr>=20
+     <td valign=3D"top">=20
+      <table role=3D"presentation" border=3D"0" width=3D"750" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center" aria-hidden=3D"true">=20
+       <tbody>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"width: 500px; font-family: Verdana, sans-serif;" =
+role=3D"presentation" border=3D"0" width=3D"500" cellspacing=3D"0" cellpadd=
+ing=3D"0" align=3D"center" aria-hidden=3D"true">=20
+           <tbody>=20
+            <tr>=20
+             <td align=3D"center">=20
+              <div style=3D"padding: 25px;">
+               <a href=3D"http://www.pechnomasks.com/miscalculations-provident/60c5p2A395D86FB12YO21epaC506F21gFv4GIf4rxvs4FhIHEsvZ7SQgn9mo5SQl106oBWsOv"> <img style=3D"width: auto; max-width=
+: 95px;" src=3D"http://www.pechnomasks.com/3956V2W39x5v7hpa11q2K1edN506B21MFv4GIf4rxvs4FhIHEsvZ7gQgn9mo6P1Gs0B5DzsvM/callously-tonnage" /> </a>
+              </div>=20
+              <div>
+               <a href=3D"http://www.pechnomasks.com/miscalculations-provident/60c5p2A395D86FB12YO21epaC506F21gFv4GIf4rxvs4FhIHEsvZ7SQgn9mo5SQl106oBWsOv" target=3D"_blank" rel=3D"noopener"> <=
+img style=3D"width: 100%;" src=3D"http://www.pechnomasks.com/dc75QG2395Mtn7a10w21eeo506C21BFv4GIf4rxvs4FhIHEsvZ7aQgn9mo7z1To0iI5B0Xsv/splices-migrant" /> </a>
+              </div> <h1>3-in-1 Portable Air Cooler</h1> <p>Create your own=
+ personal microclimate.</p> <p>This 3-in-1 evaporative air cooler cools, hu=
+midifies, and purifies the air around you. Ideal for nightstands, desktops,=
+ camping tents, or dorm rooms.</p>=20
+              <div>=20
+               <div style=3D"padding: 10px 18px; background-color: #eb6820;=
+ display: inline-block; border-radius: 4px;">
+                <a style=3D"font-weight: bold; text-decoration: none; color=
+: #ffffff;" href=3D"http://www.pechnomasks.com/miscalculations-provident/60c5p2A395D86FB12YO21epaC506F21gFv4GIf4rxvs4FhIHEsvZ7SQgn9mo5SQl106oBWsOv"> GET 50% OFF and FREE SHIPPING </a>
+               </div>=20
+              </div> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table role=3D"presentation" border=3D"0" width=3D"750" cellspacing=
+=3D"0" cellpadding=3D"20" align=3D"center" aria-hidden=3D"true">=20
+       <tbody>=20
+        <tr>=20
+         <td>&nbsp;</td>=20
+        </tr>=20
+        <tr>=20
+         <td>&nbsp;</td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"font-size: 14px; color: #383838;" align=3D"center"> <=
+p>Click or mail <a style=3D"color: #383838;" href=3D"http://www.pechnomasks.com/e215t23_95zC8m611RM21ebK506o21jFv4GIf4rxvs4FhIHEsvZ7VQgn9mo7BMh1hj05eXlsv/aural-cliques" target=3D"=
+_blank" rel=3D"noopener"> Anderson Vault Data Transfer </a> to set preferen=
+ces. <br /> 1444 N 91st Street. Scottsdale, AZ. 85260-7036.</p> <p>&nbsp;</=
+p> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Rescue teams se=
+arching for a missing Indonesian naval submarine have recovered debris, ind=
+icating that the vessel with a crew of 53 has sunk, a military chief said.<=
+/span></p> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Admiral=
+ Yudo Margono, the chief of staff, said rescuers found several items from K=
+RI Nanggala 402, including parts of a torpedo straightener, a grease bottle=
+ believed to be used to oil the periscope, and prayer rugs.</span></p> <p i=
+d=3D"sign-in-gate"><span style=3D"color: #ffffff;">&nbsp;</span></p> <p cla=
+ss=3D"css-1yqigsj"><span style=3D"color: #ffffff;">?With the authentic evid=
+ence we found believed to be from the submarine, we have now moved from the=
+ ?sub miss' phase to ?sub sunk',? Margono said.</span></p> <p class=3D"css-=
+1yqigsj"><span style=3D"color: #ffffff;">Indonesia had considered the subma=
+rine, which disappeared on Thursday off the coast of Bali, as missing. It n=
+ow declares the submarine as officially sunk with no hope of finding surviv=
+ors.</span></p>=20
+          <div id=3D"dfp-ad--inline1" class=3D"js-ad-slot ad-slot ad-slot--=
+inline ad-slot--inline1 ad-slot--rendered" data-link-name=3D"ad slot inline=
+1" data-name=3D"inline1" aria-hidden=3D"true" data-mobile=3D"1,1|2,2|300,19=
+7|300,250|300,274|fluid" data-phablet=3D"1,1|2,2|300,197|300,250|300,274|62=
+0,350|550,310|fluid" data-desktop=3D"1,1|2,2|300,250|300,274|620,1|620,350|=
+550,310|fluid" data-google-query-id=3D"CPe63ajtlvACFa06AQodS4kHqg">=20
+           <div class=3D"ad-slot__label">
+            <span style=3D"color: #ffffff;">Advertisement</span>
+           </div>=20
+           <div id=3D"google_ads_iframe_/59666047/theguardian.com/world/art=
+icle/ng_0__container__" class=3D"ad-slot__content">
+            &nbsp;
+           </div>=20
+          </div> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">O=
+fficials said the oxygen supply for the vessel's crew would have run out ea=
+rly on Saturday.</span></p> <p class=3D"css-1yqigsj"><span style=3D"color: =
+#ffffff;">As hundreds of military personnel took part in a frantic hunt for=
+ the the submarine, authorities had said the German-built craft was equippe=
+d with enough oxygen for three days after losing power.</span></p> <p class=
+=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Search helicopters and shi=
+ps had left Bali and a naval base in Java heading to the area on Friday whe=
+re&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.pechnomasks.com/budgeter-Rigel/9905b23M95I86FJ10q21ecq506B21SFv4GIf4rxvs4FhIHEsvZ7VQgn9mo5B1t0Z6mJsPAv" data-link-name=3D"=
+in body link">contact was lost with the 44-year-old vessel on Wednesday</a>=
+&nbsp;as it prepared to conduct a torpedo drill, with the head of the Indon=
+esian submarine fleet aboard.</span></p> <p class=3D"css-1yqigsj"><span sty=
+le=3D"color: #ffffff;">An American reconnaissance plane, P-8 Poseidon, land=
+ed early on Saturday to join the search, along with 20 Indonesian ships, a =
+sonar-equipped Australian warship and four Indonesian aircraft.</span></p> =
+<p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">An air force pilot=
+ said six tonnes of equipment had been flown to a base to help with the sea=
+rch, including underwater balloons to help lift a vessel.</span></p> <p cla=
+ss=3D"css-1yqigsj"><span style=3D"color: #ffffff;">The navy said it was inv=
+estigating whether the submarine lost power during a dive and could not car=
+ry out emergency procedures as it descended to a depth of 600-700 metres, w=
+ell beyond its survivable limits.</span></p>=20
+          <div id=3D"slot-body-end">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.pechnomasks.com/aural-cliques/ef44A2395Q8u5v11S21fJ0v506W21QFv4GIf4rxvs4FhIHEsvZ7qQgn9mo5qYH106Q21s3v" alt=3D""/></body>
+</html>
+
+------=_Part_1324_44405621.1619267426462--
+

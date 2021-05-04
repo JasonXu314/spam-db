@@ -1,0 +1,75 @@
+Return-Path: <myseniorperks-bruce=untroubled.org@speed95.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3607828 invoked from network); 25 Apr 2021 15:33:52 -0000
+Received: (qmail 38976 invoked by uid 222); 25 Apr 2021 15:33:51 -0000
+Return-Path: <myseniorperks-bruce=untroubled.org@speed95.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 38973 invoked from network); 25 Apr 2021 15:33:51 -0000
+Received: from mail.speed95.cloud ([69.94.138.195])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Apr 2021 15:33:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed95.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=myseniorperks@speed95.cloud;
+ bh=rEC96oVdnTx5Ub7otD95vqx/vMA=;
+ b=kYrz890vM2oeD3uwAIV1PG3IdwIwk1PVeHd4pD3TGhKrmYnJOwNj1zNKz/qj2FIXUu9aNhYRojlN
+   64hlC60wK2aFaZjd0QBi3rLC+HCX+RkpiHcjgeu7TkrKpFSwjr11X8mxNiZGyNNRBHnQGIbQA+nd
+   j7GT9Tl4BjVVhFJHSdc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed95.cloud;
+ b=O8QLyvzw3jzETfTMoZTBmhugteZs5IIKviRgMM94Jb62j7Uuminhr2XIflTHkrYOe2Luc3G0+Bmr
+   P6R8TPqzJcHgAdPWeb6ySHHhTby83Iwsyq+e7hxsASdxIdd16Hw6yGkM3kAFIxRUQ9ibk1EHeRdx
+   qX5rRFruzM4GdNwJMVo=;
+Received: by mail.speed95.cloud id hgm5tq0001g4 for <bruce@untroubled.org>; Sun, 25 Apr 2021 11:25:23 -0400 (envelope-from <myseniorperks-bruce=untroubled.org@speed95.cloud>)
+Date: Sun, 25 Apr 2021 11:25:23 -0400
+From: Myseniorperks <myseniorperks@speed95.cloud>
+To:   <bruce@untroubled.org>
+Subject: 18 Senior Savings That you Can Only Get if You Ask
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_946_765466550.1619364310640"
+List-Unsubscribe: <http://www.speed95.cloud/remembering-reverie/3f05Vx2395zB8K911iX11IS4b70C21SFv4GIf4rxvs4FhIHEsvZ11ARVomoedoX97NCF1H0L5yXcTY>
+Message-ID: <0.0.0.67.1D739E735C844D2.6038C0@mail.speed95.cloud>
+Content-Length: 2863
+
+------=_Part_946_765466550.1619364310640
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Betty</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.speed95.cloud/during-politic/9185V2K395z8Ak612N160d9u4b70m21DFv4GIf4rxvs4FhIHEsvZ11RRVomoedoX95r10kt6MTzcYL">Hidden deals for seniors to save a ton</a></span></span>
+  </div> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.speed95.cloud/during-politic/9185V2K395z8Ak612N160d9u4b70m21DFv4GIf4rxvs4FhIHEsvZ11RRVomoedoX95r10kt6MTzcYL"><img alt="senior s" src="http://www.speed95.cloud/2c34r2395E7RaZ12L160dcW4b70G21CFv4GIf4rxvs4FhIHEsvZ11gRVomoedoX95e1PW05b@zcY/favored-ascetics" style="border-width: 0px; border-style: solid; height: 1225px; width: 654px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:times new roman,times,serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <font color="#666666">Leave</font><a href="http://www.speed95.cloud/canoes-predictability/3d25U23t95AB8N613n160jdax4b70N21GFv4GIf4rxvs4FhIHEsvZ11uRVomoedoX97YU1qI0N5QpcYU"><font color="#666666"> Here</font></a>.<br /> <a href="http://www.speed95.cloud/during-politic/9185V2K395z8Ak612N160d9u4b70m21DFv4GIf4rxvs4FhIHEsvZ11RRVomoedoX95r10kt6MTzcYL"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.speed95.cloud/cannibalize-megabits/26a6Vz239_5Q8m9U13ym160dbO4b70x21aFv4GIf4rxvs4FhIHEsvZ11WRVomoedoX97KBq10M_6mBJcYW">&nbsp; Exit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <style><span class="investigating"></span><span lang="scared"></span><font><small><style face="emerged"></small><font></font></style><big></big></style></font>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.speed95.cloud/c416b2G39B5cu85y13F1Y60ddN4b70K21yFv4GIf4rxvs4FhIHEsvZ11ERVomoedoX95UZ10x6o3NcWY/sorrows-Belgian" alt=""/></body>
+</html>
+
+------=_Part_946_765466550.1619364310640--
+

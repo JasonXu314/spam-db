@@ -1,0 +1,65 @@
+Return-Path: <just_gismos_offer_finder-bruce=untroubled.org@tspeed41.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3610617 invoked from network); 25 Apr 2021 18:03:39 -0000
+Received: (qmail 39950 invoked by uid 222); 25 Apr 2021 18:03:38 -0000
+Return-Path: <just_gismos_offer_finder-bruce=untroubled.org@tspeed41.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 39947 invoked from network); 25 Apr 2021 18:03:38 -0000
+Received: from mail.tspeed41.cloud ([70.102.102.85])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Apr 2021 18:03:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed41.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=just_gismos_offer_finder@tspeed41.cloud;
+ bh=wmRg0VJa0TeqhB6+QzlWM/a/nyg=;
+ b=mgBSuyIqJHkh67+CwEg0M/sC41zRad56RBz0eQW1nv6vubW02SuMbGXSk6AuGu5mcjPtYa7pIbIg
+   7hRZEDeDyVoyU2mb7MVsqT2yfEjhaPxiLCO1TNfr5gKaBs7HBEU797Txyns0PvAoakIWvkcmrG77
+   uMQUHL9YFp7d2EmL2mw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed41.cloud;
+ b=kikupgk6+xcDDf7ItNx1LI0a+Uvj/1rUNc/tU4xigoJVIbpfsnv/wy1WYo4jVFA2cneu9hADhs/K
+   TxkOwfeHHfXEErhd4DcysctIC/Hy1t6PsbFhJr6sLEVbeAQUgmzcuBiV9+ijlmdcdSuzatRc1q+/
+   X6Gb6ZzkjkeWQG3n68c=;
+Received: by mail.tspeed41.cloud id hgmnfk0001ga for <bruce@untroubled.org>; Sun, 25 Apr 2021 13:52:12 -0400 (envelope-from <just_gismos_offer_finder-bruce=untroubled.org@tspeed41.cloud>)
+Date: Sun, 25 Apr 2021 13:52:12 -0400
+From: "Just Gismos Offer Finder" <just_gismos_offer_finder@tspeed41.cloud>
+To:   <bruce@untroubled.org>
+Subject: 19 Gadgets Your Friends Want But Don't Know It Yet
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_451_1813929263.1619373122031"
+List-Unsubscribe: <http://www.tspeed41.cloud/6835h23O95Xis8911E11gPz4b75I21RFv4GIf4rxvs4FhIHEsvZ8IRqomoeK6I1Q0Sj6eWzcTY/qualifications-Northrup>
+Message-ID: <0.0.0.30.1D739FBB868F210.7B88B3@mail.tspeed41.cloud>
+Content-Length: 2417
+
+------=_Part_451_1813929263.1619373122031
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>unbind</title> 
+ </head> 
+ <body> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span style="font-size:18px; "><a href="http://www.tspeed41.cloud/qualifications-Northrup/b706C2v3D95uFP8613N160fu5j4b75D21WFv4GIf4rxvs4FhIHEsvZ8LRqomoeK7Q10HZnA6BW0lcY">19 amazing gadgets at the best prices</a></span><br /> &nbsp; 
+       <center>
+        <a href="http://www.tspeed41.cloud/qualifications-Northrup/b706C2v3D95uFP8613N160fu5j4b75D21WFv4GIf4rxvs4FhIHEsvZ8LRqomoeK7Q10HZnA6BW0lcY"><img alt="" src="http://www.tspeed41.cloud/q4d5q23v95B7jGa17gB1F6jy0If8o4b75G21GFv4GIf4rxvs4FhIHEsvZ8CRqomoeK5Oi10V5yWTcY/ceaselessly-Emma" style="border-width: 0px; border-style: solid; height: 738px; width: 611px; " /></a>
+       </center> 
+       <div align="center">
+        <br /> 
+        <span style="font-family:georgia,serif; "><span style="font-size:11px; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed41.cloud/1d34U2395L8p6w12R160f6N4b75V21MFv4GIf4rxvs4FhIHEsvZ8LRqomoeK6QX10ns5h2cYp/qualifications-Northrup"><font color="#666666">Unsubscribe Here</font></a>.<br /> 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> Hault&nbsp; <a href="http://www.tspeed41.cloud/navigate-Olympus/e224n2395B8RJ917a1hI6k0Vf7xl4b75t21lFv4GIf4rxvs4FhIHEsvZ8NRqomoeK6AG10VR6pOA3cY"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> <big></big><span lang="bivariate"><span><small></small></span><style><style face="intubation"></span></style><style face="incompetents"></style></style><style></style><style color="Halpern"></style><font><small></font></small>
+  </center>   
+ <img src="http://www.tspeed41.cloud/discoverers-lusciously/9ae5K2O395Hg85s12V160f9v4b75O21RFv4GIf4rxvs4FhIHEsvZ8iRqomoeK5l1x0p6Vlc2AY" alt=""/></body>
+</html>
+
+------=_Part_451_1813929263.1619373122031--
+

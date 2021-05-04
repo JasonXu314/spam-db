@@ -1,0 +1,48 @@
+Return-Path: <dpcamichapeco@pc.sc.gov.br>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 204916 invoked from network); 28 Apr 2021 16:15:39 -0000
+Received: (qmail 88924 invoked by uid 222); 28 Apr 2021 16:15:38 -0000
+Return-Path: <dpcamichapeco@pc.sc.gov.br>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 88921 invoked from network); 28 Apr 2021 16:15:38 -0000
+Received: from smtp3.sc.gov.br (smtp3.sc.gov.br [200.19.215.13])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Apr 2021 16:15:38 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp3.sc.gov.br (Postfix) with ESMTP id 194ABAB38F;
+	Wed, 28 Apr 2021 13:15:35 -0300 (-03)
+X-Virus-Scanned: amavisd-new at sc.gov.br
+Received: from smtp3.sc.gov.br ([127.0.0.1])
+	by localhost (smtp3.sc.gov.br [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id wNJcY-dWmdTD; Wed, 28 Apr 2021 13:15:32 -0300 (-03)
+Received: from lnciasc-pae-web03.localdomain (unknown [200.19.215.140])
+	by smtp3.sc.gov.br (Postfix) with ESMTP id EF599AB3A6;
+	Wed, 28 Apr 2021 13:15:31 -0300 (-03)
+Date: Wed, 28 Apr 2021 13:15:31 -0300 (GMT-03:00)
+From: Delegacia de Protecao a Crianca Adolescente Mulher e Idoso de Chapeco <dpcamichapeco@pc.sc.gov.br>
+Message-ID: <228581526.46394.1619626531911.JavaMail.root@lnciasc-pae-web03>
+Subject: sangat penting
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_46392_1324713541.1619626531908"
+Content-Length: 1008
+
+------=_Part_46392_1324713541.1619626531908
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_46393_1497515138.1619626531908"
+
+------=_Part_46393_1497515138.1619626531908
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Kotak surat Anda akan segera berhenti mengirim dan menerima pesan. Akun  Anda tampak tidak aktif di server. Untuk terus menggunakan akun ini  tanpa perubahan apa pun, klik untuk menghindari pemblokiran akun email Anda.
+
+Pusat layanan
+------=_Part_46393_1497515138.1619626531908
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Kotak surat Anda akan segera berhenti mengirim dan menerima pesan. Akun  Anda tampak tidak aktif di server. Untuk terus menggunakan akun ini  tanpa perubahan apa pun, <a href="https://kontactr.com/form-page/f46a00bf2bd61c4">klik</a> untuk menghindari pemblokiran akun email Anda.<br /><br />Pusat layanan
+------=_Part_46393_1497515138.1619626531908--
+
+------=_Part_46392_1324713541.1619626531908--

@@ -1,0 +1,190 @@
+Return-Path: <melody.hayes-bruce=untroubled.org@bootclothing.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3171124 invoked from network); 20 Apr 2021 19:14:21 -0000
+Received: (qmail 57882 invoked by uid 222); 20 Apr 2021 19:14:20 -0000
+Return-Path: <melody.hayes-bruce=untroubled.org@bootclothing.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57879 invoked from network); 20 Apr 2021 19:14:20 -0000
+Received: from mail.bootclothing.com (205-236-248-140.serversto.com [205.236.248.140])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 19:14:14 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bootclothing.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=melody.hayes@bootclothing.com;
+ bh=Ba7nREKBKOgBLzcheY2nozgq5Lw=;
+ b=y4UzzMF6/7ka+jUpR0PiYvM9RYMr+37fp60+NiRimLDKGb8225LM7N+2SxX71OXNIKiLmpNaDpSO
+   +a2+bRGBxTWPCLM7jrE048iba5ywiw0ygEpcRhPDZbvEKEweZ2mBRHMkze/I+909F4tqmMMLMnkr
+   zMx/nODvscVZMWN52Yg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bootclothing.com;
+ b=UirngTvX4qp2e+E53Wl2j0b1Gi8H9i6r9suDT+EN7cL52aJh9kArvfpl+wn9/JF6z+yfPetECHSx
+   /i6aXlNNEWdNXmuldbUEHWdAT0DsWQFAKJB8bhQen/JTElssSYOkwH0nL6BuDsde0CNbuc2gaHSs
+   usFFm1NZmBxL64PuGKU=;
+Received: by mail.bootclothing.com id hfsk9k0001gq for <bruce@untroubled.org>; Tue, 20 Apr 2021 15:14:50 -0400 (envelope-from <melody.hayes-bruce=untroubled.org@bootclothing.com>)
+Date: Tue, 20 Apr 2021 15:14:50 -0400
+From: "Melody Hayes" <melody.hayes@bootclothing.com>
+To:   <bruce@untroubled.org>
+Subject: Portable Mini Air Conditioners, 50% OFF
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_139_621789573.1618945917580"
+List-Unsubscribe: <http://www.bootclothing.com/b155g2C395U8rq911LA1G1GX4ecA21eFv4GIf4rxvs4FhIHEsvZ7eQvnoSd7Bw1qj0n6BljsvX/underdone-midscale>
+Message-ID: <0.0.0.17.1D736196F94156E.B4EC4F@mail.bootclothing.com>
+Content-Length: 10556
+
+------=_Part_139_621789573.1618945917580
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Instantly Cool the Air Around You!
+
+
+CoolAir is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long.  Great for offices, nightstands, garages, and more.   In the heart of summer, anyone can benefit from CoolAir.  Whether you're an office worker who's tired of the airless box in which you have to work, or you're a mother with children who won't take a nap in their stifling hot bedroom, AirCool is for you.  For children, this device is even more popular as it also features a nightlight that changes color for ultimate effect. 
+
+However, anyone in need of a cool breeze and a lower temperature in their home or place of business will notice just how beneficial this product can be.  Whether you just want respite as you watch TV in your living room, or you're trying to relax poolside but the heat is too intense, you too, may just find CoolAir ticks all the boxes. 
+
+
+Take Up To 72% Off Instantly -> http://www.bootclothing.com/underdone-midscale/f305L239w5N8I6T10m211cJ4ecq21VFv4GIf4rxvs4FhIHEsvZ7OQvnoSd5W1xM06jqTsTv
+
+
+
+
+
+Merryweather Computing Creative Partners.  1009 19th Street S.  Fargo, ND 58103/2931 Want to stop future messages? http://www.bootclothing.com/e3f4L2395hJx8612B211U4YQ4ecr21nFv4GIf4rxvs4FhIHEsvZ7lQvnoSd5p1PL06w3@Lsv/naturally-surrenders
+
+
+------=_Part_139_621789573.1618945917580
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table width="100%" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#ffffff" width="100%"> 
+      <div style="line-height: 5px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width88 hauto" width="166"><img class="width88 hauto" style="display: block; border: 0;" src="http://www.bootclothing.com/8bd6o2A3q95l7mla12kVJ2118i4ecw21NFv4GIf4rxvs4FhIHEsvZ7sQvnoSd5WG10s5s0@sv/bolsters-opportune" alt="" width="127" height="auto" /></td> 
+         <td class="width232 hauto" align="right" valign="bottom" width="434">&nbsp;</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix line8" style="line-height: 15px;">
+       &nbsp;
+      </div> 
+      <table class="width320 hauto" border="0" width="600" cellspacing="0" cellpadding="0" bgcolor="#eeeeee"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 2px;" align="center" valign="middle"> 
+          <div style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decoration: none; padding-top: 10px;">
+           <img src="http://www.bootclothing.com/7eb4p2395s7Jka12i21o19HQ4ecs21HFv4GIf4rxvs4FhIHEsvZ7nQvnoSd7h1j0FJG6wMA0sv/horseman-Toryize" width="350" />
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" width="600"> 
+          <table cellspacing="0" cellpadding="0"> 
+           <tbody> 
+            <tr> 
+             <td class="width320" style="padding: 20px;" align="center" valign="top" bgcolor="#eeeeee" width="600"><a href="http://www.bootclothing.com/underdone-midscale/e4W4r2395g8g6j10i2112z4ecJ21tFv4GIf4rxvs4FhIHEsvZ7rQvnoSd7yN10Kyk6iMqsLv"><img style="display: block; font-family: arial, sans serif; font-size: 20px; color: #ffffff;" src="http://www.bootclothing.com/catastrophe-impolite/4pe4M2395m7LGa10X211aV4ecO21jFv4GIf4rxvs4FhIHEsvZ7aQvnoSd7z1AP0jS6K3sTvL" width="100%" height="auto" border="0" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" align="center" width="600"> 
+          <div class="lhfix line12" style="line-height: 14px;">
+           &nbsp;
+          </div> 
+          <table class="width280" border="0" width="540" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 12px;" align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text-decoration: none;">
+               <a style="color: #832d98; text-decoration: none; font-weight: bold;" href="http://www.bootclothing.com/6fb4N2395l8m6s12VsX2113J4ect21BFv4GIf4rxvs4FhIHEsvZ7iQvnoSd7KHWus106oLUysv/Millington-catalysts">CoolAir</a> is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp; &nbsp;
+              </div> </td> 
+            </tr> 
+            <tr align="center"> 
+             <td style="padding-top: 16px;"><a href="http://www.bootclothing.com/underdone-midscale/e4W4r2395g8g6j10i2112z4ecJ21tFv4GIf4rxvs4FhIHEsvZ7rQvnoSd7yN10Kyk6iMqsLv"><img src="http://www.bootclothing.com/bolsters-opportune/a445d239m5SV7wa12C2v11ObP4ecD21vFv4GIf4rxvs4FhIHEsvZ7EQvnoSd6vu10st5HUPsv" alt="main image" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table cellspacing="0" cellpadding="0" bgcolor="#fff"> 
+           <tbody> 
+            <tr> 
+             <td class="width20" width="31">&nbsp;</td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix" style="line-height: 30px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 19px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="border-top: 1px solid #B7B7B7; line-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="center" width="560"> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fargo, ND 58103/2931 
+           <a href="http://www.bootclothing.com/cZ54K2395r8PI610G2114G4ecn21IFv4GIf4rxvs4FhIHEsvZ7yQvnoSd6aGk1Q05SWysv/bolsters-opportune">Want to stop future messages?</a>
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           &nbsp;
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <h6><span style="color: #ffffff;">Ask her how she's doing</span></h6> 
+           <p><span style="color: #ffffff;">So many of us, especially moms, power through things often at the expense of our physical and mental health. Call, text, FaceTime and check in with her and see how she's doing on a regular basis. New parents will often need&nbsp;<a style="color: #ffffff;" href="http://www.bootclothing.com/catastrophe-impolite/a805j239R5dU8l612p2115wQh4ecM21mFv4GIf4rxvs4FhIHEsvZ7bQvnoSd6qC1G0C6Jzzslv">mental health support</a>&nbsp;after bringing a new baby home. Provide her reassurance, solicited advice and let her know she's doing a great job.</span></p> 
+           <h6><span style="color: #ffffff;">3. Stay away when you're sick</span></h6> 
+           <p><span style="color: #ffffff;">This should go without saying, but if you aren't feeling your best, just stay home. It may just be a head cold, but don't unnecessarily put the new baby and parents at risk.</span></p> 
+           <h6><span style="color: #ffffff;">4. Get your booster vaccine for Tdap</span></h6> 
+           <p><span style="color: #ffffff;">Any family or friends who will be in close contact with the newborn in the first few months of life should consider&nbsp;<a style="color: #ffffff;" href="http://www.bootclothing.com/a256j23YG95z86pF11W211o6y4eco21gFv4GIf4rxvs4FhIHEsvZ7dQvnoSd6nmUx106X@Wsv0/bolsters-opportune">getting a booster vaccine of Tdap</a>&nbsp;and a flu shot, if possible.</span></p> 
+           <h6><span style="color: #ffffff;">5. Host a virtual or socially distanced gathering</span></h6> 
+           <p><span style="color: #ffffff;">There's nothing like bringing together some of their closest family and friends to brighten their day. Host a virtual game night, share some funny new parenting stories or simply keep the conversation focused on them and how you can support them.</span></p> 
+           <h6><span style="color: #ffffff;">6. Celebrate the siblings</span></h6> 
+           <p><span style="color: #ffffff;">When a newborn comes, some siblings may feel a bit slighted. They may wonder, ?Why does the new baby get all the attention now and all my old clothes and blankies?? Send over some crafts and new play toys to keep them entertained or give them things that will help them feel like they are a helpful big brother or sister.</span></p> 
+           <p><span style="color: #ffffff;">Even during these uncertain times, babies are a reminder of the hope and&nbsp;<a style="color: #ffffff;" href="http://www.bootclothing.com/9356pUl2395b8jn612gsW2117h4ecr21hFv4GIf4rxvs4FhIHEsvZ7OQvnoSd7WVKOq106MPqlsv/rafters-designation">beauty</a>&nbsp;in this world. Take this time to celebrate the new miracle in your life. And remember, just because we are in a pandemic, you don't have to do this alone.</span></p> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.bootclothing.com/underdone-midscale/9ea5N23L95iSh8510S211dk4ecH21SFv4GIf4rxvs4FhIHEsvZ7cQvnoSd7EVu1zD06j@zs2v" alt=""/></body>
+</html>
+
+------=_Part_139_621789573.1618945917580--
+

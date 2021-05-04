@@ -1,0 +1,65 @@
+Return-Path: <canvas.prints.advertisement-bruce=untroubled.org@tspeed47.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 102731 invoked from network); 26 Apr 2021 20:07:38 -0000
+Received: (qmail 60863 invoked by uid 222); 26 Apr 2021 20:07:37 -0000
+Return-Path: <canvas.prints.advertisement-bruce=untroubled.org@tspeed47.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 60860 invoked from network); 26 Apr 2021 20:07:37 -0000
+Received: from mail.tspeed47.cloud ([208.187.244.254])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 20:07:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed47.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.advertisement@tspeed47.cloud;
+ bh=N3QRdn7n02uhm3Liy9rcuclUbbA=;
+ b=OoyO8MSDn6BBUiS633UgYouDBITxHL2hRwaf1drn9KTtA64PW1GhVRecFs7tPZQF+qAtCNlXXdRW
+   SbqYajtpiP+M0zQbz8+Wz7BZPvebqp/tZy0M312fdYiXc+Z0Qty4k/Z6na8KJlu1V+ZahNqWdvSU
+   c8hIOROyZesCtsb0P6U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed47.cloud;
+ b=J1IC8fEUXjIq5vh6K8IrlNKM6V/KsqwiP3R+1tvfVxTZkqKOuicogy4xG3nKz6oW2F26/V1aZIsD
+   8uEHAhGrzKNRfY7fIOyXJKATI68ViNNYouBWHKFcyIchTwhDSJbPAY9tiuFw7SL8oEFpl5v3VSyU
+   CU2UlwDrTMDNpvzgae0=;
+Received: by mail.tspeed47.cloud id hgseoc0001gm for <bruce@untroubled.org>; Mon, 26 Apr 2021 15:56:34 -0400 (envelope-from <canvas.prints.advertisement-bruce=untroubled.org@tspeed47.cloud>)
+Date: Mon, 26 Apr 2021 15:56:34 -0400
+From: "Canvas Prints Advertisement" <canvas.prints.advertisement@tspeed47.cloud>
+To:   <bruce@untroubled.org>
+Subject: Stuck at home? Make it brighter with Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_391_557516977.1619466974043"
+List-Unsubscribe: <http://www.tspeed47.cloud/organization-rejoining/44a6j2X39y5oWn8912r1Nux1t4b8aV21SFv4GIf4rxvs4FhIHEsvZ8IRkom9nn5F1k0U6SW2ycY>
+Message-ID: <0.0.0.2B.1D73AD6426E7644.5D206@mail.tspeed47.cloud>
+Content-Length: 2914
+
+------=_Part_391_557516977.1619466974043
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>superhumanly</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:verdana,geneva,sans-serif; "><a href="http://www.tspeed47.cloud/academic-radicals/44a6S2NR395f86VD13e161X60G4b8av21MFv4GIf4rxvs4FhIHEsvZ8rRkom9nn7s1PBnr06Lzk@cY"><span style="font-size:18px; ">Mothers Day Sale going on now </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.tspeed47.cloud/academic-radicals/44a6S2NR395f86VD13e161X60G4b8av21MFv4GIf4rxvs4FhIHEsvZ8rRkom9nn7s1PBnr06Lzk@cY"><img alt="canvas momse" src="http://www.tspeed47.cloud/vegetating-abounding/3964u2395lV7Ga13E161_63O4b8aW21WFv4GIf4rxvs4FhIHEsvZ8gRkom9nn6P10oPk5qUcYW" style="width: 616px; height: 764px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:10px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.tspeed47.cloud/1975Xz2395Et8r612r16161h4b8aB21UFv4GIf4rxvs4FhIHEsvZ8pRkom9nn7H10riIQ5LJycY/academic-radicals"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> hault&nbsp; <a href="http://www.tspeed47.cloud/22d6FA239L5t89DC12J16162r4b8aV21dFv4GIf4rxvs4FhIHEsvZ8JRkom9nn5zMO105BOBcY/academic-radicals"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <big><style><small></small></big><span color="Calhoun"><style></span></style></style><font size="grateful"></font><font face="inaccurate"><span color="sweaters"></font><span face="nicer"></span><span class="vigorous"></span></span>
+  </center>   
+ <img src="http://www.tspeed47.cloud/accelerators-surrey/e5e4A2395Ml85r13J16164gP4b8al21jFv4GIf4rxvs4FhIHEsvZ8YRkom9nn5k10ri6UOPkcY" alt=""/></body>
+</html>
+
+------=_Part_391_557516977.1619466974043--
+

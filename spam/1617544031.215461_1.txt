@@ -1,0 +1,129 @@
+Return-Path: <ntg-bruce=untroubled.org@carpro-3.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1115010 invoked from network); 3 Apr 2021 17:37:10 -0000
+Received: (qmail 152076 invoked by uid 222); 3 Apr 2021 17:37:09 -0000
+Return-Path: <ntg-bruce=untroubled.org@carpro-3.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 152073 invoked from network); 3 Apr 2021 17:37:09 -0000
+Received: from mail.carpro-3.com ([69.94.155.133])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 17:37:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=carpro-3.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ntg@carpro-3.com;
+ bh=iXcnLt+0v7FJ4JWIZ1mkQ8ohL6s=;
+ b=Jtv8Jx050rhF2jS4dzWVIv6L8ZNoJElHjnNbwcGDOvinWLWMosAn3DhJ9OfhSb3QZP2ipSaGn25s
+   R1Xt7NRp0NdyFXt8hhztJksjuoyJsdL1VK99WViZ5082uF92zptW9l7OLcQT/H2byCST943ZcKQo
+   vDT6B5WUXnNHdcky9Us=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=carpro-3.com;
+ b=C4xEBtzOiAZzlXFGWgVk4Gema3SA7FO+RHvjxzKbfrkNOrdCvz8PNqnr+Zp/DKqqGLnfciMfdODO
+   S9aGDdYAiOpOadUpdUmdIy2YM85v/5p0C0KSz92uWSTjaFRROhuKd74MKUKsRAZ10V7RebrKvUsU
+   o1JgYvtvBKzHberlkVg=;
+Received: by mail.carpro-3.com id hd2js20001g2 for <bruce@untroubled.org>; Sat, 3 Apr 2021 13:20:50 -0400 (envelope-from <ntg-bruce=untroubled.org@carpro-3.com>)
+Date: Sat, 3 Apr 2021 13:20:50 -0400
+From: NTG <ntg@carpro-3.com>
+To:   <bruce@untroubled.org>
+Subject: 10 second trick to erase nerve pain?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_523_1549098767.1617470434364"
+List-Unsubscribe: <http://www.carpro-3.com/15b4z2395XUG8911vy1U1D4a30t21EFv4GIf4rxvs4FhIHEsvZ8CR4nKKQm6jV10ST5lzpcY/tattooed-assassinating>
+Message-ID: <0.0.0.3A.1D728ADB1BE9488.4D242@mail.carpro-3.com>
+Content-Length: 7261
+
+------=_Part_523_1549098767.1617470434364
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>radars</title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:verdana,geneva,sans-s=
+erif; "><span style=3D"font-size: 16px; ">Robert was a fit 70-year-old who =
+could walk circles around most guys half his age...<br /> <br /> But during=
+ a hiking trip, his feet and legs hurt so bad he could hardly lift them to =
+walk.<br /> <br /> When they got home, Robert was diagnosed with neuropathy=
+..<br /> <br /> And told he would never enjoy his active, mobile lifestyle=
+ again.<br /> <br /> Desperate for solutions, he accidentally stumbled acro=
+ss Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist an=
+d best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend o=
+f 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Toda=
+y, Robert lives pain-free.<br /> <br /> <u><strong><a href=3D"http://www.carpro-3.com/hitchhiker-notation/b706g2Js395iD8j613R1F5a24q4a30R21bFv4GIf4rxvs4FhIHEsvZ8IR4nKKQm7Yx10oky5yqcAY" t=
+arget=3D"_blank">&gt; &gt; See the essential nerve-healing nutrients here</=
+a></strong></u></span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <span style=3D"font-family:verdana,geneva,sans-serif; "><a href=3D"=
+http://www.carpro-3.com/hitchhiker-notation/b706g2Js395iD8j613R1F5a24q4a30R21bFv4GIf4rxvs4FhIHEsvZ8IR4nKKQm7Yx10oky5yqcAY" style=3D"font-family: -webkit-standard; font-style: normal; font-vari=
+ant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: aut=
+o; text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -w=
+ebkit-text-stroke-width: 0px; " target=3D"_blank"><img alt=3D"nerves" src=
+=3D"http://www.carpro-3.com/a7f6KX239O5c7sXa17kxv15NPa2W7V4a30_21SFv4GIf4rxvs4FhIHEsvZ8QR4nKKQm5a10LQ6rjWcYU/elevator-popularizes" style=3D"width: 451px; height: 390px; " /></a></span>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:12px; ">NerveRenew | 38=
+55 W. Lorenzo Ste. 100, Eagle, ID 83616</span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:12px; "><a href=3D"=
+http://www.carpro-3.com/capitalized-relabeled/7b05n23k95sX8g617dL15a2nzAn5v4a30U21dFv4GIf4rxvs4FhIHEsvZ8dR4nKKQm7g1WZU0m5RLcqY" target=3D"_blank">Unsubscribe</a><br /> <br /> Remove<a href=3D"=
+http://www.carpro-3.com/audiometer-vibration/4ne4r2395KgP8912J15a26q4a30m21WFv4GIf4rxvs4FhIHEsvZ8vR4nKKQm6S1_AP05i1OcY"> Here</a><br /> 6547 N Academy Boulevard #1170 80918 Color=
+ado Springs CO</span><br /> &nbsp; </p> <span dir="crumbling"></span><big><big></big><span title="drought"></big><span class="blistered"></span><span size="environs"></span><font title="describing"></span></font><font dir="beeps"><span class="Yiddish"></font></span><font size="productively"></font> =20
+ <img src=3D"http://www.carpro-3.com/bc96L23hF95Mir8513r15a2n8B4a30i21QFv4GIf4rxvs4FhIHEsvZ8NR4nKKQm7DZZL1F05Q3lcY/hitchhiker-notation" alt=3D""/></body>
+</html>
+
+------=_Part_523_1549098767.1617470434364--
+

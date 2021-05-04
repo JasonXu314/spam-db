@@ -1,0 +1,65 @@
+Return-Path: <easycanvasprintsdeals-offer-bruce=untroubled.org@speed80.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3208098 invoked from network); 21 Apr 2021 16:16:07 -0000
+Received: (qmail 71158 invoked by uid 222); 21 Apr 2021 16:16:07 -0000
+Return-Path: <easycanvasprintsdeals-offer-bruce=untroubled.org@speed80.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71155 invoked from network); 21 Apr 2021 16:16:07 -0000
+Received: from mail.speed80.cloud ([70.102.102.52])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 16:16:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed80.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=easycanvasprintsdeals-offer@speed80.cloud;
+ bh=2pF4WXZ0opdrIAv2Y6F+ddHv5SE=;
+ b=DR11Gpj4loYJfQ95e6XUxb36qTEDptoX1Dn4VfS3oyC+8Tf7n1TLKMUGB2ASlJe4KC7/Ml0+LJtp
+   PGNR9blul0r1yOuaypq1RK05QYIDF1EYV5xZcUmlul6h6ptCi6WxNY21/Q4OmOb80ky/LfphJpn3
+   LffonyYa+u6AhJv9jSw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed80.cloud;
+ b=MrxU6Nf7sSOU8kgOVuItIizRXC7RGGp7mvLflhmYEdXtyX3JGm1QNvyKhK6V73t2bNiVvv0qwKE3
+   GaQqvZdxWmUv31FD99b7jNbCOSYcvUih44jC4xe72OHz/FzENk0pvsE/cGBiwzXtxzqaGr1E+Wwo
+   UUIgSDQRvplDGL6dw6U=;
+Received: by mail.speed80.cloud id hg17s20001g8 for <bruce@untroubled.org>; Wed, 21 Apr 2021 12:12:27 -0400 (envelope-from <easycanvasprintsdeals-offer-bruce=untroubled.org@speed80.cloud>)
+Date: Wed, 21 Apr 2021 12:12:27 -0400
+From: "EasyCanvasPrintsDeals Offer" <easycanvasprintsdeals-offer@speed80.cloud>
+To:   <bruce@untroubled.org>
+Subject: While you're home, add some new art from Custom Canvas Prints
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_922_1733928817.1619021538043"
+List-Unsubscribe: <http://www.speed80.cloud/ed56f23W9p5kv8m912g11iyUz4b40w21dFv4GIf4rxvs4FhIHEsvZ8kRHomo995h1nI06I3WcYk/fictitious-farmyard>
+Message-ID: <0.0.0.66.1D736C91F6A3D60.4498EC@mail.speed80.cloud>
+Content-Length: 2932
+
+------=_Part_922_1733928817.1619021538043
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>broadness</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.speed80.cloud/98f4c2395w86Pg17lQ1WL5fdW4Ss4b40A21LFv4GIf4rxvs4FhIHEsvZ8lRHomo995V1ju06WOcqTY/fictitious-farmyard"><span style="font-size:18px; ">Best Price ever on Canvas Prints </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed80.cloud/98f4c2395w86Pg17lQ1WL5fdW4Ss4b40A21LFv4GIf4rxvs4FhIHEsvZ8lRHomo995V1ju06WOcqTY/fictitious-farmyard"><img alt="canvas" src="http://www.speed80.cloud/89s4H2395QS7Fa12F15fd7s4b40B21vFv4GIf4rxvs4FhIHEsvZ8ORHomo997E1Q0SJk6XjcYXl/fluctuates-collaring" style="width: 614px; height: 757px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed80.cloud/8455W239_5dA8K617Mr15nifdn5mX4b40k21wFv4GIf4rxvs4FhIHEsvZ8QRHomo996qxDT106mAclYB/fluctuates-collaring"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Halt&nbsp; <a href="http://www.speed80.cloud/coursed-bland/35a6cG2l395ksL8913t15fJd6o4b40A21bFv4GIf4rxvs4FhIHEsvZ8oRHomo997AZ10Thr6qpMcqY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <span></span><style size="antisymmetry"><font size="heaps"><font style="treatises"><font style="expediently"><span></font><style color="indexing"></font></span></style><font><font class="Waldron"></font></font></style></font>
+  </center>   
+ <img src="http://www.speed80.cloud/pronoun-backdrops/4e06O23Pp95F8rW512v15fd8u4b40N21AFv4GIf4rxvs4FhIHEsvZ8gRHomo995Rj10q5cBzcY" alt=""/></body>
+</html>
+
+------=_Part_922_1733928817.1619021538043--
+

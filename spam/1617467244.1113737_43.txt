@@ -1,0 +1,133 @@
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@car-ace2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1111685 invoked from network); 3 Apr 2021 14:22:55 -0000
+Received: (qmail 150859 invoked by uid 222); 3 Apr 2021 14:22:55 -0000
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@car-ace2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 150856 invoked from network); 3 Apr 2021 14:22:55 -0000
+Received: from mail.car-ace2.com ([208.187.164.102])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 14:22:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=car-ace2.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifequote.selectquote.com@car-ace2.com;
+ bh=P5Wt24hQkSdYZfIqvN9nI5YTO0E=;
+ b=poYNbh8aoxgPocDs8opEQaiFjnvtVn+f8WNMSm0KwAArOqH7HaGHY+7UgtpNoJmmAfTV/w+N9OgH
+   JFsG4XTCzVxQ8KX+LvSZm+GN0nNW7mG5J5P1RvmXT0VSTU5pys3B/xzOlDhWafSDeEaRpojZ5C7z
+   P5Qd78lCiGI5KoyfFCI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=car-ace2.com;
+ b=Gswa3w7LOITBKSJGbUMN62WaMZtHjc5qC+muMgSXGyjHPXuKIClk9huVehq85NMK/1z0LpKePoSy
+   pNqXyzCndZ8OmcFnbeYOoJfYRdvFQdOW5YjbaDDd4U28cPX3RlugQs8jYDSMuOhwy6P00DZRqHJt
+   NXbBq4ML6v83nnypNyM=;
+Received: by mail.car-ace2.com id hd1t3m0001g4 for <bruce@untroubled.org>; Sat, 3 Apr 2021 10:14:01 -0400 (envelope-from <lifequote.selectquote.com-bruce=untroubled.org@car-ace2.com>)
+Date: Sat, 3 Apr 2021 10:14:01 -0400
+From: Lifequote.selectquote.com <lifequote.selectquote.com@car-ace2.com>
+To:   <bruce@untroubled.org>
+Subject: Get a Free Life Insurance Quote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1021_1179352816.1617459221658"
+List-Unsubscribe: <http://www.car-ace2.com/6dd5i23m95EQ89l11iPX11z4a2bF21nFv4GIf4rxvs4FhIHEsvZ11aRTnKKdQo.97joMs10z5h@cOY/Tutankhamun-problematic>
+Message-ID: <0.0.0.71.1D7289398BA6B0C.692347@mail.car-ace2.com>
+Content-Length: 6687
+
+------=_Part_1021_1179352816.1617459221658
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Glenn</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.car-ace2.com/breakfasters-glaciers/c9c4M2395Qm8k612q15a0an4a2bm21dFv4GIf4rxvs4FhIHEsvZ11QRTnKKdQo.96D1wt0h6JAkckY">Get coverage in minutes and feel the relief </a=
+><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.car-ace2.com/breakfasters-glaciers/c9c4M2395Qm8k612q15a0an4a2bm21dFv4GIf4rxvs4FhIHEsvZ11QRTnKKdQo.96D1wt0h6JAkckY"><img alt=3D"happyr" src=3D"http://www.car-ace2.com/2e16OK23M95d7KAa17F15apP0eSKkV4a2bp21gFv4GIf4rxvs4FhIHEsvZ11fRTnKKdQo.97q1yxP0i5fPLcY/Tutankhamun-problematic" style=
+=3D"border-width: 0px; border-style: solid; width: 67%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance produ=
+cts and services through its licensed insurance agency, SelectQuote Insuran=
+ce Services, LLC. SelectQuote Insurance Services is not an insurance compan=
+y. We represent trusted insurance companies, and receive commissions ? and =
+possibly other performance-based compensation ? for our services. Products =
+and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10-y=
+ear policy for under a $1 a day. Example policy is for $23 a month. Policy =
+is a United of Omaha : Term Life Answers 10 is a non-participating term lif=
+e insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwri=
+tten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premiu=
+m is guaranteed to stay the same for the 10 year period. Minimum issue amou=
+nt is $100,000. Premiums include a $62.50 annual policy fee. Forms and plan=
+ provisions may vary by state. Plan is available in all states except New Y=
+ork. Suicide and other limits may apply. The most favorable rate classes (a=
+nd lowest rates) are generally intended for those who can meet strict healt=
+h/lifestyle criteria. All rates subject to underwriting qualifications. Rat=
+es effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous review=
+ and subject to change and/or affirmation. For the latest Best' s Credit Ra=
+tings? and Best' s Credit Reports (which include Best' s Credit Ratings? ),=
+ visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Rat=
+ings? for explanation of use and charges.? ? Best' s Credit Ratings? reprod=
+uced herein appear under license from A.M. Best and do not constitute, eith=
+er expressly or impliedly, an endorsement of SelectQuote or its recommendat=
+ions, formulas, criteria or comparisons to any other ratings, rating scales=
+ or rating organizations which are published or referenced herein. A.M. Bes=
+t is not responsible for transcription errors made in presenting Best' s Cr=
+edit Ratings? . Best' s Credit Ratings? are proprietary and may not be repr=
+oduced or distributed without the express written permission of A.M. Best C=
+ompany.? A Best' s Financial Strength Rating opinion addresses the relative=
+ ability of an insurer to meet its ongoing insurance obligations. It is not=
+ a warranty of a company' s financial strength and ability to meet its obli=
+gations to policyholders. View our Important Notice: Best' s Credit Ratings=
+ for a disclaimer notice and complete details at <a href=3D"http://www.car-ace2.com/Da75X23t95O8m6o13b15ta0bp4a2bi21GFv4GIf4rxvs4FhIHEsvZ11URTnKKdQo.97GSn1M0X6r@O0cY/breakfasters-glaciers">=
+http://www.car-ace2.com/Da75X23t95O8m6o13b15ta0bp4a2bi21GFv4GIf4rxvs4FhIHEsvZ11URTnKKdQo.97GSn1M0X6r@O0cY/breakfasters-glaciers</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 6800=
+ W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote b=
+y a third-party marketing company. You are receiving email from this third-=
+party marketing company because you have expressed your interest in receivi=
+ng commercial email through a site or sites associated with them.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email contains i=
+nformation regarding products and services offered by SelectQuote. If you d=
+o not wish to receive email messages from SelectQuote that are advertising =
+or promotional in nature, pleas</span>e<a href=3D"http://www.car-ace2.com/de55W239k5c8J6K13B15a0cSv4a2bg21jFv4GIf4rxvs4FhIHEsvZ11pRTnKKdQo.95HwR105WLUcY/Tutankhamun-problematic"> unsubscribe =
+here.</a></span></span></p>=20
+      </div> &nbsp; Hault <a href=3D"http://www.car-ace2.com/kicked-outgrow/c7e6lt239M5rW89M12c15a0dT4a2bG21qFv4GIf4rxvs4FhIHEsvZ11tRTnKKdQo.97e1NA0hi5vMc1Y">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <span class="breached"><style><small></span></small><span></style></span><style title="ballots"></style><big></big><font></font><span title="perturbations"></span><font dir="overalls"><big></font></big> =20
+ <img src=3D"http://www.car-ace2.com/breakfasters-glaciers/17a5e23H95y8mq512G15a0fM4a2bi21KFv4GIf4rxvs4FhIHEsvZ11ORTnKKdQo.97a1vDwz06kkcPYO" alt=3D""/></body>
+</html>
+
+------=_Part_1021_1179352816.1617459221658--
+

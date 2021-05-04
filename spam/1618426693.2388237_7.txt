@@ -1,0 +1,110 @@
+Return-Path: <31632-44520-39280-8265-bruce=untroubled.org@mail.secrettraining.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2399918 invoked from network); 14 Apr 2021 14:42:05 -0000
+Received: (qmail 65715 invoked by uid 222); 14 Apr 2021 14:42:05 -0000
+Return-Path: <31632-44520-39280-8265-bruce=untroubled.org@mail.secrettraining.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 65712 invoked from network); 14 Apr 2021 14:42:05 -0000
+Received: from rita.secrettraining.us ([134.73.142.224])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Apr 2021 14:42:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=secrettraining.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FurnitureFlipping@secrettraining.us;
+ bh=i9jHFSJv2JCZ1JGZEHxZn8zD1zQ=;
+ b=3s6fjxukVim1yiT7JAm8DVcoWWgw+8zsGmvwlpNIPavEMAYDILuqgpM+52MmXliuc802Y1xRWHqQ
+   tNs8IU6HM/nz5+0cgYeOe6WS5HyCF0+R85swC4NqBrwLpxFdDYw4O6bOVGMXBw1Xh4K0TS1Lm3/c
+   DdbGl+ZdOkWvnilOAEY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=secrettraining.us;
+ b=4xDooK0nPp7jt/s9wZRHi8Tp7G644Ra5Cx4iqTMQeOXhQkkMESg5aU41btbuNL2KCOipmzffJmlx
+   0fSPcFxYUd7/9RBi7z5Dhz9MbyIqXFGy4QLyLyoATOCI00AL+cwBNlWd+BSQ5nhtk4c917iibZls
+   2X3BhbdhwKMKvcc45yk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="15f1879cb1bc2b7a805269b2ee1aa589_ade8_9970"
+Date: Wed, 14 Apr 2021 07:42:03 -0700
+From: "Finding Treasure" <FurnitureFlipping@secrettraining.us>
+Reply-To: "Furniture Flipping" <FindingTreasure@secrettraining.us>
+Subject: Turning "Trash" Into Treasure
+To: <bruce@untroubled.org>
+Message-ID: <5caxe0krb3rhu9z0-qarc8mn67eyzu9e4-ade8-9970@secrettraining.us>
+Content-Length: 6699
+
+--15f1879cb1bc2b7a805269b2ee1aa589_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Turning "Trash" Into Treasure
+
+http://secrettraining.us/B6K3xNaWrT3jvuKYuC8-H04IJji_mnjpf2zn1CsScE_rhH6k
+
+http://secrettraining.us/4484EFw1InusSyI4ybrUY396xzMGtQcxn1ET5XPZfc3YcJD0
+
+ssing through the Suez Canal on its way to Rotterdam from Tanjung Pelepas when it became stuck (coordinates 30.01761, 32.58018) near the village of Manshiyet Rugola and blocked the canal. According to a statement by the Suez Canal Authority (SCA), the ship ran aground diagonally after losing the ability to steer amid high winds and a dust storm. In a separate statement, Evergreen Marine said that it had been told the ship "was suspected of being hit by a sudden strong wind, causing the hull to deviate from  waterway and accidentally hit the bottom". The ship ended up with its bow wedged in one bank of the canal and stern nearly touching the other.
+
+
+Satellite image of Ever Given blocking the Suez Canal
+The ship had been running fifth in a northbound convoy, with fifteen vessels behind it when it ran aground. Traffic in both directions was blocked for just over six days, leading to a traffic jam of over two hundred vessels. On 24 March, Bernhard Schulte Shipmanagement (BSM), the technical manager of the ship, denied earlier reports that it had been partially refloated. In addition, trade experts were worried about a supply chain delay, and tension due to the delay for the ships trapped as well as other vessels that planned to cross the Suez.
+
+Eight tugboats worked to re-float the vessel in collaboration with a Komatsu excavator removing sand from the side of the canal where the bow of the vessel was wedged. After an overnight break, the salvage work resumed in the morning of 25 March.
+
+On 25 March, an unnamed Egyptian official was reported as saying that refloating the ship would take days, if not weeks. Lt. Gen. Ossama Rabei, head of the SCA, announced, "The Suez Canal will not spare any efforts to ensure the restoration of navigation and to serve the movement of global trade." BSM and SKK said that all 25 crew are safe and accounted for. All crew remains on board, and there had been "no reports of injuries or pollution". Egyptian meteorologists reported that high winds and a sandstorm had affected the area on the day of the grounding, with winds gusting as much as 50 kilomet
+
+--15f1879cb1bc2b7a805269b2ee1aa589_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://secrettraining.us/x40ghc6rnL_F5tl2W908Mq4XcGWknF5ZHr0UvS-ki-Q3egTh"><img src="http://secrettraining.us/bfdc53be347cf7944b.jpg" /><img height="1" src="http://www.secrettraining.us/mLRSMFV8aGGAJWk3pQcpPzdM-MYARAJyrUtKTeOtBreGqPPj" width="1" /></a>
+<div style="font-family:Arial;width:550px;padding:15px;">It&#39;s odd, isn&#39;t it?<br />
+<br />
+People talk about <i>flipping houses</i>, but they don&#39;t talk about <i>flipping what&#39;s inside.</i><br />
+<br />
+What&#39;s inside, is where the treasure is at.<br />
+<br />
+<b>I&#39;m referring to furniture, of course.</b><br />
+<br />
+And you would think more and more people would take advantage of what I&#39;ve discovered to be <i>&quot;The Great Furniture Boom&quot;.</i><br />
+<br />
+(I&#39;ll explain more below)<br />
+<br />
+<a href="http://secrettraining.us/B6K3xNaWrT3jvuKYuC8-H04IJji_mnjpf2zn1CsScE_rhH6k" target="blank">Imagine Having The Skills...</a><br />
+<br />
+..to transform old, ugly furniture, into beautiful pieces like above!<br />
+<br />
+Not only that but imagine being able to make money while doing it!<br />
+<br />
+<a href="http://secrettraining.us/B6K3xNaWrT3jvuKYuC8-H04IJji_mnjpf2zn1CsScE_rhH6k" style="color:#0000FF;" target="blank">That&#39;s what Furniture Flipping Secrets is all about!</a><br />
+<br />
+<a href="http://secrettraining.us/B6K3xNaWrT3jvuKYuC8-H04IJji_mnjpf2zn1CsScE_rhH6k" target="blank"><img src="http://secrettraining.us/f581db07c0fc5ed70b.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;font-size:5px;">ssing through the Suez Canal on its way to Rotterdam from Tanjung Pelepas when it became stuck (coordinates 30.01761, 32.58018) near the village of Manshiyet Rugola and blocked the canal. According to a statement by the Suez Canal Authority (SCA), the ship ran aground diagonally after losing the ability to steer amid high winds and a dust storm. In a separate statement, Evergreen Marine said that it had been told the ship &quot;was suspected of being hit by a sudden strong wind, causing the hull to deviate from  waterway and accidentally hit the bottom&quot;. The ship ended up with its bow wedged in one bank of the canal and stern nearly touching the other. Satellite image of Ever Given blocking the Suez Canal The ship had been running fifth in a northbound convoy, with fifteen vessels behind it when it ran aground. Traffic in both directions was blocked for just over six days, leading to a traffic jam of over two hundred vessels. On 24 March, Bernhard Schulte Shipmanagement (BSM), the technical manager of the ship, denied earlier reports that it had been partially refloated. In addition, trade experts were worried about a supply chain delay, and tension due to the delay for the ships trapped as well as other vessels that planned to cross the Suez. Eight tugboats worked to re-float the vessel in collaboration with a Komatsu excavator removing sand from the side of the canal where the bow of the vessel was wedged. After an overnight break, the salvage work resumed in the morning of 25 March. On 25 March, an unnamed Egyptian official was reported as saying that refloating the ship would take days, if not weeks. Lt. Gen. Ossama Rabei, head of the SCA, announced, &quot;The Suez Canal will not spare any efforts to ensure the restoration of navigation and to serve the movement of global trade.&quot; BSM and SKK said that all 25 crew are safe and accounted for. All crew remains on board, and there had been &quot;no reports of injuries or pollution&quot;. Egyptian meteorologists reported that high winds and a sandstorm had affected the area on the day of the grounding, with winds gusting as much as 50 kilomet</span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://secrettraining.us/DKx-qkh07q_P43ZVIVm0ac0UnC6YKv5viZeBBBo31y8p33kn" target="_blank"><img src="http://secrettraining.us/74167010087d5a7c9a.jpg" /><br />
+<img src="http://secrettraining.us/c4293d3a1dbad5534e.jpg" /></a><br />
+<br />
+<br />
+&nbsp;</div>
+</body>
+</html>
+
+--15f1879cb1bc2b7a805269b2ee1aa589_ade8_9970--

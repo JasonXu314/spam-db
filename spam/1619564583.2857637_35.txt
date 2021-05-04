@@ -1,0 +1,151 @@
+Return-Path: <vivint_security_provider-bruce=untroubled.org@le-c.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 150882 invoked from network); 27 Apr 2021 16:25:34 -0000
+Received: (qmail 73692 invoked by uid 222); 27 Apr 2021 16:25:33 -0000
+Return-Path: <vivint_security_provider-bruce=untroubled.org@le-c.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 73689 invoked from network); 27 Apr 2021 16:25:33 -0000
+Received: from mail.le-c.cyou ([208.187.244.193])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 16:25:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=le-c.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint_security_provider@le-c.cyou;
+ bh=3uNALIoUx3vn5zKaCmx4+yj9rgA=;
+ b=YDu898XJot/++Ky46dzXP2/qrVRv9WBl4kWSTEGFqqFRH0/CNrGoBIj2g2nzRlsVucZkbQXBQjq6
+   NZyw4yVDBTHkHsKv5yiLKQEW+jpKxnHLN6vDUsY15SbQvXqeMklxyJq+FYz7pZeVf2To3CKosg4u
+   Fpm5eAAPE420BXlcCJo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=le-c.cyou;
+ b=XQWCcTU16vO8v7LQgbUSb8/qvPjS4m0CvShQOKB8aaaYuf1trznZQ307okmwS8oI8yX+AmVF8v33
+   J42tpzJXwMQB8xL3Vr/gLCUHc49114+vbAryMK5AedseVT1srrIz58s4VVtFxS/m6fmyHHSyx2X7
+   cp3HOOEz0xcw+7aBSM4=;
+Received: by mail.le-c.cyou id hh0tfi0001gh for <bruce@untroubled.org>; Tue, 27 Apr 2021 12:09:44 -0400 (envelope-from <vivint_security_provider-bruce=untroubled.org@le-c.cyou>)
+Date: Tue, 27 Apr 2021 12:09:44 -0400
+From: "Vivint Security Provider" <vivint_security_provider@le-c.cyou>
+To:   <bruce@untroubled.org>
+Subject: Your offer from Vivint
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_265_166488400.1619539771851"
+List-Unsubscribe: <http://www.le-c.cyou/bombing-blackened/33c6Q239rM5JR89y12E1oLk1Y4b94U21LFv4GIf4rxvs4FhIHEsvZ8HR0om9on5u1IJ06Dlcj2Y>
+Message-ID: <0.0.0.1D.1D73B7FBD043A52.8B5D4B@mail.le-c.cyou>
+Content-Length: 7995
+
+------=_Part_265_166488400.1619539771851
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>implicitly</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-size:18px; "><span style=3D"font-family:arial,helvet=
+ica,sans-serif; "><a href=3D"http://www.le-c.cyou/2ff6Ep23T95tJH8617h16iTC1i9bCL4b94S21WFv4GIf4rxvs4FhIHEsvZ8qR0om9on5QDh106ay@clY/soften-Armageddon">Keep an eye on what matters the mo=
+st</a></span></span>
+  </div>=20
+  <br />=20
+  <titleMcGovern< title=3D"">=20
+  </titlewaltzes<>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.le-c.cyou/2ff6Ep23T95tJH8617h16iTC1i9bCL4b94S21WFv4GIf4rxvs4FhIHEsvZ8qR0om9on5QDh106ay@clY/soften-Armageddon" style=3D"text-decoration: none; "><img alt=3D"viv" src=3D"http://www.le-c.cyou/Kiewit-affectionately/71a5e239j5k7aCm12G161a1F4b94J21aFv4GIf4rxvs4FhIHEsvZ8jR0om9on6o1sVS06g1ycjY=
+" style=3D"width: 671px; max-width: 600px; background-color: rgb(255, 255, =
+255); font-family: sans-serif; font-size: 15px; line-height: 15px; color: r=
+gb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-sty=
+le: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "> <p=
+><span style=3D"font-family:times new roman,times,serif; "><span style=3D"f=
+ont-size:10px; "><strong>Offer Details</strong></span></span></p> <p><span =
+style=3D"font-family:times new roman,times,serif; "><span style=3D"font-siz=
+e:10px; ">Qualifying system purchase requires minimum $599.99 equipment pur=
+chase, professional installation and applicable services agreement. DIY sys=
+tem purchases and reactivations of previously-installed systems not eligibl=
+e for offer. Click <a href=3D"http://www.le-c.cyou/31d4r2395FCY8612K1619cF4b94M21VFv4GIf4rxvs4FhIHEsvZ8ER0om9on5d10BP5LOzcY/subunits-rooms" style=3D"text-decoration: none; "=
+>here</a> for monthly service plan prices. Equipment purchase may be financ=
+ed subject to an agreement with one of Vivint' s financing partners. Offer =
+not available in all states or provinces. Monthly $1.48 cellular network ma=
+intenance fee applies. Taxes and local permit fees may apply. New Vivint Cu=
+stomers only.</span></span></p> &nbsp; <p><span style=3D"font-family:times =
+new roman,times,serif; "><span style=3D"font-size:10px; "><strong>Financing=
+ Options Available</strong></span></span></p> <p><span style=3D"font-family=
+:times new roman,times,serif; "><span style=3D"font-size:10px; ">Financing =
+eligibility and terms subject to credit approval. Financing options require=
+ a service agreement coterminous with applicable financing agreement. Month=
+-to-month service agreement available when equipment is purchased upfront. =
+Additional equipment may be purchased and financed.</span></span></p> <span=
+ style=3D"font-family:times new roman,times,serif; "><span style=3D"font-si=
+ze:10px; ">&nbsp; </span></span> <p><span style=3D"font-family:times new ro=
+man,times,serif; "><span style=3D"font-size:10px; "><strong>Vivint Systems =
+&amp; Services</strong></span></span></p> <p><span style=3D"font-family:tim=
+es new roman,times,serif; "><span style=3D"font-size:10px; ">System support=
+s up to six cameras subject to sufficient WiFi speeds. Without a Vivint ser=
+vices plan, product and system functionality is limited (including loss of =
+remote connectivity). Speak to a Vivint representative at the phone number =
+in this offer for complete equipment, services, and package details, includ=
+ing pricing and financing details. Products and services in Louisiana provi=
+ded by Vivint Louisiana Commercial Certificate #58280. See Vivint license n=
+umbers <a href=3D"http://www.le-c.cyou/imitating-regenerative/f124k2395XW8A613c1Z619dK4b94Q21qFv4GIf4rxvs4FhIHEsvZ8SR0om9on7HstU10j5hJcYp" style=3D"text-decoration: none; ">here</a>.</=
+span></span></p> <br /> <span style=3D"font-family:arial,helvetica,sans-ser=
+if; "><span style=3D"font-family:times new roman,times,serif; "><span style=
+=3D"font-size:10px; ">&nbsp; If you do not wish to receive future messages =
+click here to <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.le-c.cyou/hearings-empowered/eb85K239A5c8C6B12u1619eH4b94G21BFv4GIf4rxvs4FhIHEsvZ8nR0om9on6j1wW0R5QWycY" style=3D"text-decoration: underline !important; border-bottom-width: =
+0px !important; cursor: default !important; color: rgb(153, 153, 153); font=
+-size: 10px; font-family: sans-serif; font-weight: inherit !important; line=
+-height: 14px; ">unsubscribe</a></span><br /> <br /> We respect your right =
+to privacy -<span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.le-c.cyou/Spaniard-factories/a266E239VB5QJ8t617q1R6Lt1v9fwZ4b94q21tFv4GIf4rxvs4FhIHEsvZ8WR0om9on5fMQ105QTWcY" style=3D"text-decoration: underline !important; border-bottom-width: 0p=
+x !important; cursor: default !important; color: rgb(153, 153, 153); font-s=
+ize: 10px; font-family: sans-serif; font-weight: inherit !important; line-h=
+eight: 14px; text-align: center; "> View our policy</a><br /> <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.le-c.cyou/2ff6Ep23T95tJH8617h16iTC1i9bCL4b94S21WFv4GIf4rxvs4FhIHEsvZ8qR0om9on5QDh106ay@clY/soften-Armageddon" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px; text-align=
+: center; ">Vivint.SmartHome</a>&nbsp; |&nbsp; 4931 N 300 W, Provo, UT 8460=
+4 </span></span></span></span><br /> <br /> <br /> Get off list <a href=3D"=
+http://www.le-c.cyou/e3f5Ml2395VwY8912V161a0x4b94M21DFv4GIf4rxvs4FhIHEsvZ8RR0om9on7hUJ1T0V5gqNcY/subunits-rooms">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 809=
+18 Colorado Springs CO</span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br /> <span><font size="thumbs"><big></font></big><span face="Ecuadorian"><span class="gauze"><font></font></span></span></span><big></big> =20
+ <img src=3D"http://www.le-c.cyou/imitating-regenerative/7ce6O239Yj5e85YT17PK16u1YagL2Z4b94p21eFv4GIf4rxvs4FhIHEsvZ8YR0om9on7kQ1uX0s6dyXPcY" alt=3D""/></body>
+</html>
+
+------=_Part_265_166488400.1619539771851--
+

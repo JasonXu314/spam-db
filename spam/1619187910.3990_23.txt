@@ -1,0 +1,193 @@
+Return-Path: <mary.johnson03@weboptimizes.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3449859 invoked from network); 23 Apr 2021 13:26:17 -0000
+Received: (qmail 17204 invoked by uid 222); 23 Apr 2021 13:26:17 -0000
+Return-Path: <mary.johnson03@weboptimizes.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 17201 invoked from network); 23 Apr 2021 13:26:17 -0000
+Received: from mail-io1-xd45.google.com (mail-io1-xd45.google.com [IPv6:2607:f8b0:4864:20::d45])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 23 Apr 2021 13:26:17 -0000
+Received: by mail-io1-xd45.google.com with SMTP id k20-20020a5d97d40000b02903e994fab1f1so18976955ios.17
+        for <bruce@untroubled.org>; Fri, 23 Apr 2021 06:26:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=weboptimizes.com; s=google;
+        h=mime-version:reply-to:message-id:date:subject:from:to;
+        bh=nDFHRBk4uCiBPvMFvVgN171v9Y4ehQDylNEpmffzHVw=;
+        b=fRnIM3WgF//RsPQnWLg/ePU1+iTpqDcKsprev5oyRzbdJHZQfh2OoeSIu38vISxyVW
+         PlsxaEZjEhpGrTBc7ShBesTn5S7d/X3Foyt0lppbO8vBxYS90nqhLMZe4uNMJhKB9n8S
+         73rhL+D32EFVfMtYBpN8GBRYur20XEkGtTulc=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:message-id:date:subject
+         :from:to;
+        bh=nDFHRBk4uCiBPvMFvVgN171v9Y4ehQDylNEpmffzHVw=;
+        b=kGytkU0eqSk2FS32ra8J83dBTqIYLYyXFlz7wAN9UefMcwuQCvTM87jDGFPf8qH/mx
+         xoOoTcCHwCMD7b/DGL+8nMbTAqkQiVt6lm9CGI/DnYgGG8QsWRt9De/IVG/QMSU35mcl
+         M9s3n2MxMviiL/E40whXuUwRmpy6dOFyHjZeoPzICtxIVBXQt9KoWe8uQhZOIyAus34x
+         NLyGMAsB6OTL7+f1x6iu+jnRkneWWe/NHbe8+smS3E8Ue0D9s0No3r466DshoDgSJMch
+         bawWKcRA7R6ehNTupgIEENgFRrBKwa+Hd8hlMj+aI5mK+Wd/yIu2rRa+7vrMat0r24iN
+         TnQQ==
+X-Gm-Message-State: AOAM530ZESvryL6sJDvuwqR02qciIQGUFU3nKJXYNaV4Nk/LKGYMl+UH
+	+Xn14xa/ORr0GizFUg70+RIN64lnwe+c
+X-Google-Smtp-Source: ABdhPJzrKBRndNCS8SkGjDi+wdC4ib6P7vV0SfHVl7t+wEmBBpgi+RPLwqLgrCiuGralGEOZidfTWxYYNA==
+MIME-Version: 1.0
+X-Received: by 2002:a6b:5907:: with SMTP id n7mr3135576iob.3.1619184376137;
+ Fri, 23 Apr 2021 06:26:16 -0700 (PDT)
+Reply-To: mary.johnson03@weboptimizes.com
+Message-ID: <00000000000090d4ef05c0a3bd6b@google.com>
+Date: Fri, 23 Apr 2021 13:26:16 +0000
+Subject: About Your untroubled.org Issue.
+From: Mary Johnson <mary.johnson03@weboptimizes.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary="00000000000090d4de05c0a3bd68"
+Content-Length: 8791
+
+--00000000000090d4de05c0a3bd68
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJsaW5lLWhlaWdo
+dDogMTIuNjVwdDsgbWFyZ2luOiAwaW4gMGluICANCjEwcHQ7Ij48Zm9udCBzaXplPSIyIj48c3Bh
+biBzdHlsZT0iZm9udC1mYW1pbHk6IHRhaG9tYSwgc2Fucy1zZXJpZjsiPjxzcGFuICANCnN0eWxl
+PSJjb2xvcjpyZ2IoMzQsMzQsMzQpIj5IaSA8Yj51bnRyb3VibGVkLm9yZzwvYj4sPGJyPg0KPGJy
+Pg0KSSBub3RpY2VkIHNvbWV0aGluZyBpbnRlcmVzdGluZyB3aGlsZSBnb2luZyB0aHJvdWdoIHlv
+dXIgIA0Kd2Vic2l0ZSwmbmJzcDs8L3NwYW4+PGI+dW50cm91YmxlZC5vcmc8L2I+IDxzcGFuICAN
+CnN0eWxlPSJjb2xvcjpyZ2IoMzQsMzQsMzQpIj48YnI+PGJyPg0KSXQncyBhcHBhcmVudCB0aGF0
+IHlvdSBoYXZlIHVzZWQgQWR3b3JkcyBtYXJrZXRpbmcgdG8gcHJvbW90ZSB5b3VyIGJ1c2luZXNz
+ICANCmluDQp0aGUgcGFzdCwgaG93ZXZlciB5b3VyIHdlYnNpdGUgZG9lcyBzZWUgc29tZSBvcmdh
+bmljIHNlYXJjaCB0cmFmZmljIGhlcmUgYW5kDQp0aGVyZS4gTm93LCBJIGJlbGlldmUgSSBjYW4g
+aGVscCBpbmNyZWFzZSB0aGF0IHBvcnRpb24gb2Ygb3JnYW5pYyB0cmFmZmljDQpzaWduaWZpY2Fu
+dGx5LCBhdDxiPiZuYnNwOzwvYj48L3NwYW4+PGI+dW50cm91YmxlZC5vcmc8L2I+IDxzcGFuICAN
+CnN0eWxlPSJjb2xvcjpyZ2IoMzQsMzQsMzQpIj48YnI+PGJyPg0KSSBiZWxpZXZlIHlvdSB3b3Vs
+ZCBsaWtlIHRvIGNvbWUgdG9wIG9uIHNlYXJjaGVzIGZvciBrZXl3b3JkcyByZWxhdGVkICANCnRv
+PC9zcGFuPjxiPiB1bnRyb3VibGVkLm9yZy4uLjwvYj48c3BhbiBzdHlsZT0iY29sb3I6cmdiKDM0
+LDM0LDM0KSI+ICANCjxicj48YnI+SQ0KZm91bmQgYSBudW1iZXIgb2YgU0VPIGlzc3VlcyBzdWNo
+IGFzIGJyb2tlbiBsaW5rcywgcGFnZSBzcGVlZCBpc3N1ZSwgSFRNTA0KdmFsaWRhdGlvbiBlcnJv
+cnMsIGltYWdlcyB3aXRoIG5vIEFMVCB0ZXh0IG9uIHlvdXIgd2Vic2l0ZSwgdGhhdCdzIHN0b3Bw
+aW5nICANCnlvdQ0KZnJvbSBnZXR0aW5nIHRoYXQgdHJhZmZpYy48YnI+DQo8YnI+DQpIb3cgYWJv
+dXQgSSBmaXggdGhvc2UsIGFuZCBhbHNvIHByb21vdGUgeW91IHRocm91Z2ggZW5nYWdpbmcgY29u
+dGVudCBvbg0KcmVsZXZhbnQgcGxhY2VzIG9uIHRoZSB3ZWIgKHJlYWQsIHNvY2lhbCBtZWRpYSku
+PGJyPg0KPGJyPg0KSSBndWFyYW50ZWUgeW91IHdpbGwgc2VlIGEgZHJhc3RpYyBjaGFuZ2UgaW4g
+eW91ciBzZWFyY2ggcmFua2luZyBhbmQgdHJhZmZpYw0Kb25jZSB0aGVzZSBpc3N1ZXMgYXJlIGZp
+eGVkLiBBbHNvLCB0aGlzIGlzIG9uZSB0aW1lLCBzbyBubyBwYXlpbmcgQWRXb3JkcyAgDQpldmVy
+eQ0KbW9udGguPGJyPg0KPGJyPg0KSXMgdGhpcyBzb21ldGhpbmcgeW91IGFyZTxiPiA8c3BhbiBz
+dHlsZT0iYmFja2dyb3VuZC1jb2xvcjogcmdiKDAsIDI1NSwgIA0KMCk7Ij5pbnRlcmVzdGVkPC9z
+cGFuPjwvYj48c3BhbiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogcmdiKDAsIDI1NSwgMCk7Ij4g
+IA0KPC9zcGFuPmluPzxicj4NCjxicj48Yj4NCklmIDxzcGFuIHN0eWxlPSJjb2xvcjogcmdiKDAs
+IDAsIDI1NSk7Ij55ZXM8L3NwYW4+LDwvYj4gcGxlYXNlIGFsbG93IG1lIHRvICANCnNlbmQgeW91
+IGE8Yj48c3BhbiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogcmdiKDI1NSwgMjU1LCAyNTUpOyI+
+IDxzcGFuICANCnN0eWxlPSJjb2xvcjogcmdiKDE1MywgMCwgMjU1KTsiPm5vLW9ibGlnYXRpb24g
+YXVkaXQgcmVwb3J0IGFuZCAgDQpxdW90ZS48L3NwYW4+PC9zcGFuPjwvYj48YnI+DQo8YnI+DQpI
+b3BpbmcgdG8gaGVhciBmcm9tIHlvdSBhbmQgdGFrZSB0aGlzIHBhcnRuZXJzaGlwICANCmFoZWFk
+Ljwvc3Bhbj48L3NwYW4+PC9mb250PjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiAgDQpzdHlsZT0i
+bGluZS1oZWlnaHQ6MTIuNjVwdDttYXJnaW46MGluIDBpbiAxMHB0Ij48Zm9udCBzaXplPSIyIj48
+c3BhbiAgDQpzdHlsZT0iZm9udC1mYW1pbHk6IHRhaG9tYSwgc2Fucy1zZXJpZjsiPjxicj48c3Bh
+bj4NCkJlc3QgUmVnYXJkcyw8L3NwYW4+PGJyPjwvc3Bhbj48L2ZvbnQ+DQo8Zm9udCBzaXplPSIy
+Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IHRhaG9tYSwgc2Fucy1zZXJpZjsiPjxiPjxzcGFu
+ICANCnN0eWxlPSJjb2xvcjogZnVjaHNpYTsgYmFja2dyb3VuZDogd2hpdGUgbm9uZSByZXBlYXQg
+c2Nyb2xsIDAlIDAlOyI+TWFyeSAgDQpKb2huc29uPC9zcGFuPjxzcGFuIHN0eWxlPSJjb2xvcjog
+ZnVjaHNpYTsiPiZuYnNwO3wgRGlnaXRhbCBNYXJrZXRpbmcNClNwZWNpYWxpc3Q8L3NwYW4+PC9i
+PjxzcGFuPjxicj4NCuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKA
+puKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApuKApjx3YnI+4oCm4oCm
+4oCm4oCm4oCm4oCm4oCm4oCm4oCm4oCm4oCm4oCmLi48YnI+DQpQUyAxOiZuYnNwO1BsZWFzZSBh
+bnN3ZXIgb3VyIGVtYWlsIHdpdGg8c3BhbiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogIA0Kcmdi
+KDI1NSwgMjU1LCAyNTUpOyI+Jm5ic3A74oCcPHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoMTUzLCAw
+LCAgDQoyNTUpOyI+PGI+SW50ZXJlc3RlZDwvYj48L3NwYW4+4oCdIG9yJm5ic3A74oCcPHNwYW4g
+c3R5bGU9ImNvbG9yOiByZ2IoMjU1LCAwLCAgDQowKTsiPjxiPk5vdA0KSW50ZXJlc3RlZDwvYj48
+L3NwYW4+4oCdIDwvc3Bhbj5zbyB0aGF0IHdlIHdpbGwga25vdyB0aGUgc3RhdHVzIG9mIHlvdXIg
+IA0KaW5xdWlyeSBhbmQgYWN0DQphY2NvcmRpbmdseS4gSWYgeW91IGFyZSBpbnRlcmVzdGVkIHRo
+ZW4gSSB3aWxsIHNlbmQgbW9yZSBkZXRhaWxzIG9uDQpvdXImbmJzcDvigJxjb3Jwb3JhdGUgaWRl
+bnRpdHnigJ0sIOKAnGNvbXBhbnkgcHJvZmlsZeKAnSwg4oCcd2h5IHlvdSBzaG91bGQgY2hvb3Nl
+ICANCnVzP+KAnSwNCuKAnFByaWNlIGxpc3TigJ0sIOKAnG1vbmV5LWJhY2sgIA0KZ3VhcmFudGVl
+4oCdLiZuYnNwOzxzcGFuPjwvc3Bhbj48L3NwYW4+PC9zcGFuPjwvZm9udD48L3A+DQoNCjxwIGNs
+YXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW46IDBpbiAwaW4gMTBwdDsgbGluZS1oZWlnaHQ6
+IDExNSU7Ij48Zm9udCAgDQpzaXplPSIyIj48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IHRhaG9t
+YSwgIA0Kc2Fucy1zZXJpZjsiPiZuYnNwOzwvc3Bhbj48L2ZvbnQ+PC9wPg0KDQoNCg0KDQoNCjxm
+b250IHNpemU9IjIiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogdGFob21hLCAgDQpzYW5zLXNl
+cmlmOyI+PGJyPjxicj48L3NwYW4+PC9mb250PjwvZGl2Pjxicj48c3Ryb25nPjwvc3Ryb25nPg0K
+--00000000000090d4de05c0a3bd68
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+<p class=3D"MsoNormal" style=3D"line-height: 12.65pt; margin: 0in 0in 10pt;=
+"><font size=3D"2"><span style=3D"font-family: tahoma, sans-serif;"><span s=
+tyle=3D"color:rgb(34,34,34)">Hi <b>untroubled.org</b>,<br>
+<br>
+I noticed something interesting while going through your website,&nbsp;</sp=
+an><b>untroubled.org</b> <span style=3D"color:rgb(34,34,34)"><br><br>
+It's apparent that you have used Adwords marketing to promote your business=
+ in
+the past, however your website does see some organic search traffic here an=
+d
+there. Now, I believe I can help increase that portion of organic traffic
+significantly, at<b>&nbsp;</b></span><b>untroubled.org</b> <span style=3D"c=
+olor:rgb(34,34,34)"><br><br>
+I believe you would like to come top on searches for keywords related to</s=
+pan><b> untroubled.org...</b><span style=3D"color:rgb(34,34,34)"> <br><br>I
+found a number of SEO issues such as broken links, page speed issue, HTML
+validation errors, images with no ALT text on your website, that's stopping=
+ you
+from getting that traffic.<br>
+<br>
+How about I fix those, and also promote you through engaging content on
+relevant places on the web (read, social media).<br>
+<br>
+I guarantee you will see a drastic change in your search ranking and traffi=
+c
+once these issues are fixed. Also, this is one time, so no paying AdWords e=
+very
+month.<br>
+<br>
+Is this something you are<b> <span style=3D"background-color: rgb(0, 255, 0=
+);">interested</span></b><span style=3D"background-color: rgb(0, 255, 0);">=
+ </span>in?<br>
+<br><b>
+If <span style=3D"color: rgb(0, 0, 255);">yes</span>,</b> please allow me t=
+o send you a<b><span style=3D"background-color: rgb(255, 255, 255);"> <span=
+ style=3D"color: rgb(153, 0, 255);">no-obligation audit report and quote.</=
+span></span></b><br>
+<br>
+Hoping to hear from you and take this partnership ahead.</span></span></fon=
+t></p><p class=3D"MsoNormal" style=3D"line-height:12.65pt;margin:0in 0in 10=
+pt"><font size=3D"2"><span style=3D"font-family: tahoma, sans-serif;"><br><=
+span>
+Best Regards,</span><br></span></font>
+<font size=3D"2"><span style=3D"font-family: tahoma, sans-serif;"><b><span =
+style=3D"color: fuchsia; background: white none repeat scroll 0% 0%;">Mary =
+Johnson</span><span style=3D"color: fuchsia;">&nbsp;| Digital Marketing
+Specialist</span></b><span><br>
+=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=
+=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=
+=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=
+=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6<wbr>=E2=80=A6=E2=80=A6=E2=80=
+=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=E2=80=A6=
+=E2=80=A6..<br>
+PS 1:&nbsp;Please answer our email with<span style=3D"background-color: rgb=
+(255, 255, 255);">&nbsp;=E2=80=9C<span style=3D"color: rgb(153, 0, 255);"><=
+b>Interested</b></span>=E2=80=9D or&nbsp;=E2=80=9C<span style=3D"color: rgb=
+(255, 0, 0);"><b>Not
+Interested</b></span>=E2=80=9D </span>so that we will know the status of yo=
+ur inquiry and act
+accordingly. If you are interested then I will send more details on
+our&nbsp;=E2=80=9Ccorporate identity=E2=80=9D, =E2=80=9Ccompany profile=E2=
+=80=9D, =E2=80=9Cwhy you should choose us?=E2=80=9D,
+=E2=80=9CPrice list=E2=80=9D, =E2=80=9Cmoney-back guarantee=E2=80=9D.&nbsp;=
+<span></span></span></span></font></p>
+
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 10pt; line-height: 115%;"><=
+font size=3D"2"><span style=3D"font-family: tahoma, sans-serif;">&nbsp;</sp=
+an></font></p>
+
+
+
+
+
+<font size=3D"2"><span style=3D"font-family: tahoma, sans-serif;"><br><br><=
+/span></font></div><br><strong></strong><img src=3D"https://ssl.google-anal=
+ytics.com/collect?v=3D1&t=3Devent&tid=3DUA-10351017-8&cid=3D81b23b33-7900-4=
+798-a046-29d92b722c40&ec=3DMmSMTP - About Your untroubled.org Issue.&ea=3DB=
+ruce@untroubled.org%20is%20opening%20the%20email" style=3D"display:none"/>
+--00000000000090d4de05c0a3bd68--

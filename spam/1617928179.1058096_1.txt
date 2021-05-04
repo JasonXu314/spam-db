@@ -1,0 +1,417 @@
+Return-Path: <gertrude-powers-bruce=untroubled.org@bradfitzpatric.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1504507 invoked from network); 8 Apr 2021 18:21:25 -0000
+Received: (qmail 6934 invoked by uid 222); 8 Apr 2021 18:21:24 -0000
+Return-Path: <gertrude-powers-bruce=untroubled.org@bradfitzpatric.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 6931 invoked from network); 8 Apr 2021 18:21:24 -0000
+Received: from mail.bradfitzpatric.com ([195.88.25.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 18:21:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bradfitzpatric.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=gertrude-powers@bradfitzpatric.com;
+ bh=ABVgg93vvTiHBteAoXUI+K285zw=;
+ b=EfUO6rjFTdC+54F/0DQRlUgnr1dafEoDgY9W/EZboMs8Qo0CkRA/K2kYWccMA+6xkujE6cajxM41
+   SpirFwWBjY7F/nppdJatGItdV1KhaAamVfwRDb2sIlwsdVq5QqsVG02eQX3vkwz1Ga7CCUYrv7K9
+   N/ZeYTbDRpQVAszs40c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bradfitzpatric.com;
+ b=UygfzQa0jErDiJgHzjRH5iv/heIy0a5L8VJNti2Lv1DdziSUyVQYZu+RavAzFG7cnWvsUSS6XDdM
+   h2FbmxiQkw1qG3h9oI+k4DnGjy7qb8cR7Ieii3VAqbEtn/2vgWee6h2onGtAFYhScj9NiEOM4F2b
+   co2rCA6CxW4gxB8vRIo=;
+Received: by mail.bradfitzpatric.com id hdt50k0001g1 for <bruce@untroubled.org>; Thu, 8 Apr 2021 14:21:08 -0400 (envelope-from <gertrude-powers-bruce=untroubled.org@bradfitzpatric.com>)
+Date: Thu, 8 Apr 2021 14:21:08 -0400
+From: "Gertrude Powers" <gertrude-powers@bradfitzpatric.com>
+To:   <bruce@untroubled.org>
+Subject: Adjustable Laptop Stand: Alternate between sitting & standing
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_274_1808385426.1617905937404"
+List-Unsubscribe: <http://www.bradfitzpatric.com/z4d6Jh2k395eh89H12wPH1H1ON4b1R21cFv4GIf4rxvs4FhIHEsvZ7dQbnono6Wo10qA6Y@Jlsv/obstructions-Agricola>
+Message-ID: <0.0.0.2D.1D72CA3F1E16C76.191729@mail.bradfitzpatric.com>
+Content-Length: 18558
+
+------=_Part_274_1808385426.1617905937404
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Need a better way to work from home? **
+-------------------------------------------
+
+The Rising Laptop Stand helps you create a solid, usable workspace that is easily packed away at the end of the day so that your home is yours again.  If you want to stay productive at home, having the right computer setup is key. 
+
+
+SHOP NOW -> http://www.bradfitzpatric.com/unseen-agglutinin/c426SJJ2395Ho86s12W1f0y9KJ4b1R21qFv4GIf4rxvs4FhIHEsvZ7cQbnono7Bv10BMC6LNsWv3
+
+
+
+
+
+LADV Technical Resources
+7450 Northern Dancer Ct, Nampa, ID 83686-3420
+Click here to change out.  http://www.bradfitzpatric.com/submit-pitying/8dc5t239M5EL8l610n1f08j4b1Z21KFv4GIf4rxvs4FhIHEsvZ7SQbnono7w10TFzD5nOsvA
+
+
+
+------=_Part_274_1808385426.1617905937404
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head></head>
+ <body>
+  <div style=3D"display: none !important; opacity: 0; color: transparent; m=
+so-hide: all; max-height: 0px; overflow: hidden;">
+   Better productivity starts here.   </div>=20
+  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#EFEFEF">=20
+   <tbody>=20
+    <tr>=20
+     <!--It was a uniquely strange experience watching a group of friends w=
+ho were then the age I am now when the series (and reality TV) started who =
+grow up together and come back together at the same age (or older) than my =
+parents.          ?Really what I want to see is 50 years. That would be int=
+eresting to see us at 70 years old,? Nies says in a throwback clip. Watchin=
+g them sit together and reflect on their younger selves and the world as it=
+ used to be is one of the compelling parts of this season.          During =
+the first season, for instance, Kevin and Becky engaged in intense discussi=
+ons regarding racism. Julie used the fact that the cameras followed her to =
+shine a spotlight on homelessness in New York City. And Norman, who was the=
+ first openly LGBTQ+ cast member on the show, still faced backlash from the=
+ community for not fitting into a label.          For the reunion, filming =
+amid a global pandemic ? which sets in on set after Nies calls from isolati=
+on after a Covid-19 diagnosis ? and national Black Lives Matter rallies, th=
+e group returned to the same discussions they had decades ago, including wa=
+tching footage of their younger selves grappling with the Los Angeles riots=
+ and police brutality. Despite the city?s and country?s landscape changing =
+drastically, the events taking place seem, sadly, to have remained the same=
+          And, unlike modern reality shows like ?Keeping Up With the Karda=
+shians'' or the ?Real Housewives'' franchise, MTV at the time cast people r=
+epresentative of their own generation?s experiences. It allowed for subject=
+s like race, sexuality and women?s rights to appear on television in millio=
+ns of households across the world, and some places, for the first time..---=
+>=20
+     <td align=3D"center" valign=3D"top">=20
+      <table class=3D"wrapper" style=3D"table-layout: fixed;" border=3D"0" =
+width=3D"680" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr class=3D"hide">=20
+         <td style=3D"line-height: 0px; font-size: 0px;" height=3D"1">&nbsp=
+;</td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"padding: 20px 0;" align=3D"center">=20
+          <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center">=20
+           <tbody>=20
+            <tr>=20
+             <!-- Logo -->=20
+             <td style=3D"padding-top: 10px; padding-bottom: 20px;" align=
+=3D"center" bgcolor=3D"#fff"><img style=3D"display: block; height: auto; bo=
+rder: 0;" src=3D"http://www.bradfitzpatric.com/unmanageable-Lucien/4a44K2395A7zia12P1tf0weM4b1w21RFv4GIf4rxvs4FhIHEsvZ7aQbnono5BAZ105IUsv@" alt=3D"ways to use it" width=3D"171" /></td>=
+=20
+            </tr>=20
+            <!-- Navigation -->=20
+            <!-- Navigation -->=20
+            <tr>=20
+             <td style=3D"padding: 0 20px;">=20
+              <!-- Header end -->=20
+              <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" align=3D"center">=20
+               <!-- MAIN CONTENT PASTE -->=20
+               <!--Content Section -->=20
+               <tbody>=20
+                <tr>=20
+                 <td class=3D"mob_pad" align=3D"center"><a href=3D"=
+http://www.bradfitzpatric.com/ad96d2N3z95u86gk10d1f0dY4b1y21fFv4GIf4rxvs4FhIHEsvZ7wQbnono7Cw1Z0Nx5GTjsv/unseen-agglutinin" target=3D"_blank" rel=3D"noopener"><img class=3D"full_img" style=3D"dis=
+play: block; height: auto; border: 0;" src=3D"http://www.bradfitzpatric.com/unmanageable-Lucien/f125i2U395l7TaB12Q1f0fLlh4b1w21eFv4GIf4rxvs4FhIHEsvZ7MQbnono6yJX10J6J2Bs2v" alt=3D"helmet" w=
+idth=3D"640" border=3D"0" /></a></td>=20
+                </tr>=20
+                <tr>=20
+                 <td>=20
+                  <table style=3D"border-collapse: collapse;" border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td bgcolor=3D"#ffffff">=20
+                      <table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center">=20
+                       <tbody>=20
+                        <tr>=20
+                         <!-- Title -->=20
+                         <td class=3D"f18" style=3D"font-size: 28px; line-h=
+eight: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; pad=
+ding-top: 20px;" align=3D"center"><a style=3D"color: #3b444e; text-decorati=
+on: none; font-size: 28px; line-height: 35px; font-family: Helvetica, Arial=
+,sans-serif; font-weight: bold;">Adjustable Laptop Stand</a></td>=20
+                        </tr>=20
+                        <tr>=20
+                         <td style=3D"font-size: 18px; line-height: 124%; f=
+ont-family: Arial,sans-serif; font-weight: normal; letter-spacing: 0.4px; p=
+adding: 20px 30px;" align=3D"center">This laptop stand can transform any de=
+sk, table, or surface into a comfortable, organized work environment. It's =
+great for people who work from home and also great for virtual learning.</t=
+d>=20
+                        </tr>=20
+                        <tr>=20
+                         <!-- CTA -->=20
+                         <td style=3D"padding-bottom: 30px;" align=3D"cente=
+r">=20
+                          <table border=3D"0" width=3D"222" cellspacing=3D"=
+0" cellpadding=3D"0" align=3D"center">=20
+                           <tbody>=20
+                            <tr>=20
+                             <td align=3D"center">=20
+                              <div>=20
+                               <a style=3D"background-color: #1e9f3d; color=
+: #ffffff; display: inline-block; font-family: Helvetica, Arial, sans-serif=
+; font-size: 14px; font-weight: bold; line-height: 46px; text-align: center=
+; text-decoration: none; width: 222px; -webkit-text-size-adjust: none;" hre=
+f=3D"http://www.bradfitzpatric.com/ad96d2N3z95u86gk10d1f0dY4b1y21fFv4GIf4rxvs4FhIHEsvZ7wQbnono7Cw1Z0Nx5GTjsv/unseen-agglutinin" target=3D"_blank" rel=3D"noopener"><strong>SHOP NOW</stron=
+g></a>=20
+                               <!-- [if mso]></center></v:roundrect><![en=
+dif]-->=20
+                              </div> </td>=20
+                            </tr>=20
+                           </tbody>=20
+                          </table> </td>=20
+                        </tr>=20
+                       </tbody>=20
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <tr>=20
+                 <td class=3D"mob_pad" align=3D"center">&nbsp;</td>=20
+                </tr>=20
+                <tr>=20
+                 <td>=20
+                  <table style=3D"border-collapse: collapse;" border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td bgcolor=3D"#ffffff">=20
+                      <table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center">=20
+                       <tbody>=20
+                        <tr>=20
+                         <!-- Title -->=20
+                         <td class=3D"f18" style=3D"font-size: 28px; line-h=
+eight: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; pad=
+ding: 20px 30px;" align=3D"center"><a style=3D"color: #3b444e; text-decorat=
+ion: none; font-size: 28px; line-height: 35px; font-family: Helvetica, Aria=
+l,sans-serif; font-weight: 300;" href=3D"http://www.bradfitzpatric.com/ad96d2N3z95u86gk10d1f0dY4b1y21fFv4GIf4rxvs4FhIHEsvZ7wQbnono7Cw1Z0Nx5GTjsv/unseen-agglutinin" target=3D"_blank" rel=
+=3D"noopener"><img src=3D"http://www.bradfitzpatric.com/submit-pitying/2106Q2i3r95ns7aJ10t1f10J4b1i21oFv4GIf4rxvs4FhIHEsvZ7lQbnono6gH1m0k5aksvX" alt=3D"" width=3D"600px" /></a></td>=
+=20
+                        </tr>=20
+                       </tbody>=20
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <tr>=20
+                 <td>=20
+                  <table style=3D"border-collapse: collapse;" border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td bgcolor=3D"#ffffff">&nbsp;</td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <!--Content Section -->=20
+                <tr>=20
+                 <td class=3D"mob_pad" align=3D"center">&nbsp;</td>=20
+                </tr>=20
+                <tr>=20
+                 <td>=20
+                  <table style=3D"border-collapse: collapse;" border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td bgcolor=3D"#ffffff">=20
+                      <table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center">=20
+                       <tbody>=20
+                        <tr>=20
+                         <!-- Title -->=20
+                         <td class=3D"f18" style=3D"font-size: 28px; line-h=
+eight: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; pad=
+ding: 20px 30px;" align=3D"center" height=3D"100">&nbsp;</td>=20
+                        </tr>=20
+                       </tbody>=20
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <!-- /Content Section -->=20
+                <tr>=20
+                 <td class=3D"h20" style=3D"font-size: 0; line-height: 0;" =
+height=3D"40">&nbsp;</td>=20
+                </tr>=20
+                <tr>=20
+                 <td class=3D"mob_pad" align=3D"center">&nbsp;</td>=20
+                </tr>=20
+                <tr>=20
+                 <td>=20
+                  <table style=3D"border-collapse: collapse;" border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td bgcolor=3D"#ffffff">&nbsp;</td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <!-- /Content Section -->=20
+                <tr>=20
+                 <td class=3D"h20" style=3D"font-size: 0; line-height: 0;" =
+height=3D"40">&nbsp;</td>=20
+                </tr>=20
+                <!-- /MAIN CONTENT PASTE -->=20
+                <!-- Footer start -->=20
+                <tr>=20
+                 <td class=3D"footer_pad" style=3D"padding: 26px;" align=3D=
+"center" bgcolor=3D"#ffffff">=20
+                  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td>=20
+                      <table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0">=20
+                       <tbody>=20
+                        <tr>=20
+                         <td align=3D"center">=20
+                          <table class=3D"wrapper" border=3D"0" width=3D"34=
+0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                           <tbody>=20
+                            <tr>=20
+                             <td align=3D"center">=20
+                              <table class=3D"wrapper" border=3D"0" width=
+=3D"158" cellspacing=3D"0" cellpadding=3D"0" align=3D"left">=20
+                               <tbody>=20
+                                <tr>=20
+                                 <td align=3D"center">&nbsp;</td>=20
+                                </tr>=20
+                               </tbody>=20
+                              </table> </td>=20
+                            </tr>=20
+                           </tbody>=20
+                          </table> </td>=20
+                        </tr>=20
+                       </tbody>=20
+                      </table> </td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td style=3D"padding: 32px 0 40px 0;">=20
+                      <table class=3D"wrapper" border=3D"0" width=3D"480" c=
+ellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+                       <tbody>=20
+                        <tr>=20
+                         <td style=3D"font-size: 0; line-height: 0;" bgcolo=
+r=3D"dadada" height=3D"1">&nbsp;</td>=20
+                        </tr>=20
+                       </tbody>=20
+                      </table> </td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td style=3D"color: #3b444e; font-size: 11px; font-fam=
+ily: Helvetica,Arial,sans-serif; padding: 15px 0;" align=3D"center"> <p>Hay=
+es, Griffen, Russell Sysop Computing <br />243 Cheswick Dr, Madison, AL, 35=
+757 <br /><a style=3D"color: #3b444e; text-decoration: none;" href=3D"=
+http://www.bradfitzpatric.com/unmanageable-Lucien/60c5k2A395D86mI11Q1jf08Q4b1M21gFv4GIf4rxvs4FhIHEsvZ7QQbnono7W10vKlY6AOOpsv">Adjust preferences here</a></p> <p>&nbsp;</p>=20
+                      <div class=3D"styles_body__1uzzK article-body publico=
+-txt f4 f5-m lh-copy gray-100" data-test=3D"articleBody">
+                       &nbsp;
+                      </div>=20
+                      <div class=3D"styles_rightRail__2Yu8p article-body__r=
+ight-rail HFSBumped">=20
+                       <div class=3D"pkg taboola styles_taboola__2M9_D dn-p=
+rint" data-packageid=3D"ncna1263299" data-test=3D"taboola">=20
+                        <div id=3D"taboola-right-rail-thumbnails-ncna126329=
+9" class=3D" trc_related_container trc_spotlight_widget trc_elastic trc_ela=
+stic_thumbnails-rr  tbl-feed-card " data-test=3D"placeholder" data-placemen=
+t-name=3D"Right Rail Thumbnails - Bento">=20
+                         <div class=3D"trc_rbox_container">=20
+                          <div>=20
+                           <div id=3D"trc_wrapper_77121" class=3D"trc_rbox =
+thumbnails-rr trc-content-sponsored ">=20
+                            <div class=3D"trc_clearer">
+                             &nbsp;
+                            </div>=20
+                           </div>=20
+                          </div>=20
+                         </div>=20
+                        </div>=20
+                       </div>=20
+                       <div class=3D"ad article-body__right-rail--ad tc tl-=
+m ad-container dn-print" data-test=3D"ad__container">
+                        &nbsp;
+                       </div>=20
+                      </div> </td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+                <!-- Footer end -->=20
+               </tbody>=20
+              </table> </td>=20
+            </tr>=20
+            <!-- Content end -->=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <!--YThe return of low-rise jeans isn't necessarily a revelation of 2021 =
+? some have been sounding the alarm on low-rise jeans coming back into fash=
+ion since 2017. Repeller published an article that year titled "I'm Sorry, =
+But Low-Rise Jeans Might Be Coming Back." The following year, The Cut publi=
+shed an article titled "The Countdown to Low-Rise Jeans Has Begun."
+=20
+Since then, the debate as to whether low-rise jeans were making a comeback =
+? and if they even should ? has raged. "It just brings back such a bad tast=
+e in your mouth from before the body positivity movement made such strides,=
+" D'Agrella said. =20
+Generally, Gen Z tends to be more body positive and doesn't see low-rise je=
+ans as something exclusive to thin bodies, D'Agrella said. However, she add=
+ed that she has yet to see a diverse range of body types wearing and reclai=
+ming low-rise jeans on TikTok at this point. On TikTok, the hashtag #lowris=
+ejeans has been viewed more than 34 million times. Related
+=20
+POP CULTURE
+Their lives were consumed as entertainment. Years later, the story looks mo=
+re complex. Filippi said Gen Z's infatuation with low-rise jeans is in part=
+ because her generation is enamored with images of the 2000s, of Britney Sp=
+ears and Paris Hilton and the styles and the fashion that they were too you=
+ng to experience. She added that Gen Z will only discover if they like low-=
+rise jeans by experiencing the trend themselves. "You know what they say, y=
+ou kind of got to learn the hard way," she said. Kalhan Rosenblatt
+Kalhan Rosenblatt is a reporter covering youth and internet culture for NBC=
+ News, based in New York. by Taboola
+Sponsored Stories
+=20
+NERDWALLETOur picks for excellent auto insurance in 2021
+=20
+=20
+=20
+=20
+BLUE BUFFALOWhat's In Your Dog's Food? Compare Brands and Get a Coupon--->=
+=20
+  <!--Full width table End-->=20
+  <div class=3D"gmailfix" style=3D"white-space: nowrap; font: 15px courier;=
+ line-height: 0;">
+   &nbsp;
+  </div>
+ <img src=3D"http://www.bradfitzpatric.com/a074s2395N8l5j11M1fp0aD4b1_21MFv4GIf4rxvs4FhIHEsvZ7fQbnono5yS10T6IAsBv2/scoffer-nablas" alt=3D""/></body>
+</html>
+
+------=_Part_274_1808385426.1617905937404--
+

@@ -1,0 +1,134 @@
+Return-Path: <selectquote.insurance-bruce=untroubled.org@speed8.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3002830 invoked from network); 18 Apr 2021 19:22:03 -0000
+Received: (qmail 14128 invoked by uid 222); 18 Apr 2021 19:22:02 -0000
+Return-Path: <selectquote.insurance-bruce=untroubled.org@speed8.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 14125 invoked from network); 18 Apr 2021 19:22:02 -0000
+Received: from mail.speed8.cloud ([70.102.102.35])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Apr 2021 19:22:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed8.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote.insurance@speed8.cloud;
+ bh=jxM4GjApE6p2tNWpFEemeYA//+E=;
+ b=LnH0NqGN8mxXnr2eiT+7AhwfXJWy0SzMtHJd0ICSoj7tZNVaNNrcs9KfcrQdHEyzQueBKcUkf2yz
+   /KvPTzV8WPuzRqHXkQqv6eHvki/RVbiYfXjKdirE3te3f7/+i+14pjoa5iGKtP67MLSgQjxjoRFB
+   KmmFaS2KmHxc/nMQqBM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed8.cloud;
+ b=UDvmMWzLS3tBVsJIcsP92ejbIx+3IkfMQns261nAIbEjbW1D0x+TfFJncsiX9/nnFhrUqODO4o45
+   +KF+DUc+cdv9MsDrDOeCtsUgC4RGfnGWoyUz9fP/JU3eIkRbwHc8ucy4k29h90BoK8/XJOphO7TD
+   1bsya3r/s2TkatoWOwQ=;
+Received: by mail.speed8.cloud id hfi3di0001g1 for <bruce@untroubled.org>; Sun, 18 Apr 2021 15:12:30 -0400 (envelope-from <selectquote.insurance-bruce=untroubled.org@speed8.cloud>)
+Date: Sun, 18 Apr 2021 15:12:30 -0400
+From: "SelectQuote Insurance" <selectquote.insurance@speed8.cloud>
+To:   <bruce@untroubled.org>
+Subject: Need Life insurance?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_904_1061469333.1618773137072"
+List-Unsubscribe: <http://www.speed8.cloud/infuriating-mutilation/ada6jr23A95rWr8913AFt11vvy4b16q21WFv4GIf4rxvs4FhIHEsvZ11fRcomneSoJ96vyF10g5rWNcY>
+Message-ID: <0.0.0.64.1D73486C76191F2.58DACA@mail.speed8.cloud>
+Content-Length: 6724
+
+------=_Part_904_1061469333.1618773137072
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Isaacson</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><span style=3D"font-size:18px; "><span style=3D"font-family:arial,helv=
+etica,sans-serif; "><a href=3D"http://www.speed8.cloud/accuracies-drowsy/ek46G23ys95A8Y6j17Qjn15eoeFL8G4b16k21fFv4GIf4rxvs4FhIHEsvZ11gRcomneSoJ96h1YBP06vlpkcY">No cost quote at the Lowest Pric=
+es </a></span></span><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.speed8.cloud/accuracies-drowsy/ek46G23ys95A8Y6j17Qjn15eoeFL8G4b16k21fFv4GIf4rxvs4FhIHEsvZ11gRcomneSoJ96h1YBP06vlpkcY"><img alt=3D"happyr" src=3D"http://www.speed8.cloud/Cornwallis-piston/9546S23t9K5B7HTa13G15veecI4b16l21oFv4GIf4rxvs4FhIHEsvZ11SRcomneSoJ95to1r05pXcOY" style=
+=3D"border-width: 0px; border-style: solid; width: 68%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">Copyright &copy; SelectQuote | All Rights Reserved 2020</span><=
+/span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">SelectQuote Insurance Services offers insurance products and se=
+rvices through its licensed insurance agency, SelectQuote Insurance Service=
+s, LLC. SelectQuote Insurance Services is not an insurance company. We repr=
+esent trusted insurance companies, and receive commissions ? and possibly o=
+ther performance-based compensation ? for our services. Products and servic=
+es are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">*40 year-old male in excellent health, $500,000, 10-year policy=
+ for under a $1 a day. Example policy is for $23 a month. Policy is a Unite=
+d of Omaha : Term Life Answers 10 is a non-participating term life insuranc=
+e to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwritten by Un=
+ited of Omaha Life Insurance Company, Omaha, NE 68175. The premium is guara=
+nteed to stay the same for the 10 year period. Minimum issue amount is $100=
+,000. Premiums include a $62.50 annual policy fee. Forms and plan provision=
+s may vary by state. Plan is available in all states except New York. Suici=
+de and other limits may apply. The most favorable rate classes (and lowest =
+rates) are generally intended for those who can meet strict health/lifestyl=
+e criteria. All rates subject to underwriting qualifications. Rates effecti=
+ve as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">* Best' s Credit Ratings? are under continuous review and subje=
+ct to change and/or affirmation. For the latest Best' s Credit Ratings? and=
+ Best' s Credit Reports (which include Best' s Credit Ratings? ), visit the=
+ A.M. Best website at ambest.com. See Guide to Best' s Credit Ratings? for =
+explanation of use and charges.? ? Best' s Credit Ratings? reproduced herei=
+n appear under license from A.M. Best and do not constitute, either express=
+ly or impliedly, an endorsement of SelectQuote or its recommendations, form=
+ulas, criteria or comparisons to any other ratings, rating scales or rating=
+ organizations which are published or referenced herein. A.M. Best is not r=
+esponsible for transcription errors made in presenting Best' s Credit Ratin=
+gs? . Best' s Credit Ratings? are proprietary and may not be reproduced or =
+distributed without the express written permission of A.M. Best Company.? A=
+ Best' s Financial Strength Rating opinion addresses the relative ability o=
+f an insurer to meet its ongoing insurance obligations. It is not a warrant=
+y of a company' s financial strength and ability to meet its obligations to=
+ policyholders. View our Important Notice: Best' s Credit Ratings for a dis=
+claimer notice and complete details at <a href=3D"http://www.speed8.cloud/89f4u2395Q8NN612H15ee9P4b16v21mFv4GIf4rxvs4FhIHEsvZ11SRcomneSoJ96koz1x06NJMc3Y/tenseness-patronized">http://www.speed8.cloud/89f4u2395Q8NN612H15ee9P4b16v21mFv4GIf4rxvs4FhIHEsvZ11SRcomneSoJ96koz1x06NJMc3Y/tenseness-patronized</a=
+></span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">SelectQuote Insurance Services Corporate Office: 6800 W. 115th =
+Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:10px; ">This email was sent to you on behalf of SelectQuote by a third-=
+party marketing company. You are receiving email from this third-party mark=
+eting company because you have expressed your interest in receiving commerc=
+ial email through a site or sites associated with them.</span></span></p>=
+=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:9px; ">This email contains information regarding products and services =
+offered by SelectQuote. If you do not wish to receive email messages from S=
+electQuote that are advertising or promotional in nature, please<a href=3D"=
+http://www.speed8.cloud/3774k2395O8yt613Jw15eeah4b16h21JFv4GIf4rxvs4FhIHEsvZ11YRcomneSoJ97SiwT1P05Y1cLY/accuracies-drowsy"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:tahoma,geneva,sans-serif; "> &nbsp;=
+ Remove <a href=3D"http://www.speed8.cloud/89Z5g239w5SZQ8917z1O5epUenCbZ4b16J21AFv4GIf4rxvs4FhIHEsvZ11PRcomneSoJ97hZnW1G06SzpqcY/nongovernmental-preinitialize">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font size="attuning"><span size="shrunk"></font></span><font><font face="comradely"><span color="hinges"><small></small></span></font></font><small></small><style face="trimmed"></style> =20
+ <img src=3D"http://www.speed8.cloud/a615Xt2395h8HK512U15eedI4b16l21SFv4GIf4rxvs4FhIHEsvZ11ERcomneSoJ97SDi10CN6O0TOcY/Charybdis-invertebrate" alt=3D""/></body>
+</html>
+
+------=_Part_904_1061469333.1618773137072--
+

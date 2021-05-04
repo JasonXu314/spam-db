@@ -1,0 +1,190 @@
+Return-Path: <jason-dixon-bruce=untroubled.org@kathernllogan.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3049505 invoked from network); 19 Apr 2021 19:38:01 -0000
+Received: (qmail 36585 invoked by uid 222); 19 Apr 2021 19:38:00 -0000
+Return-Path: <jason-dixon-bruce=untroubled.org@kathernllogan.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36582 invoked from network); 19 Apr 2021 19:38:00 -0000
+Received: from mail.kathernllogan.com (205-236-248-251.serversto.com [205.236.248.251])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 19:38:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kathernllogan.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=jason-dixon@kathernllogan.com;
+ bh=9GnjmIRnkOBVIvD0B0ouWD6EBZ8=;
+ b=IwoCX6HuxYSk4moEMqEON3kcY9wT3iU7TOd+rTlchGp23l74u5RqvFPtKR62cTK27LInTl2VsvIx
+   256GTwNGcEgo0RQSA7V0gs6GfW7I+nslGsCGHMOlx/4KAsjoi+gdXA/4AOXE7RtldbJYDLjoHBx2
+   um1ZDDme84rCEqFOLdw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kathernllogan.com;
+ b=P9DU0p+ZNOt6YixcYW3JhiIJO+CFzzx/075eXiXWU6IpW3Q5MM+4pAJ1MuEzkOT/FApYZ7EoqvZj
+   +AwUqnXQufdf9QRhPHtfnlT+m/EtApguZ6chX3Wv03NjYDheBhX/joCUv/6rHhYndS+1kmOjdRd8
+   YALHCRg0d4tPmEkjiVU=;
+Received: by mail.kathernllogan.com id hfneaa0001gm for <bruce@untroubled.org>; Mon, 19 Apr 2021 15:38:11 -0400 (envelope-from <jason-dixon-bruce=untroubled.org@kathernllogan.com>)
+Date: Mon, 19 Apr 2021 15:38:11 -0400
+From: "Jason Dixon" <jason-dixon@kathernllogan.com>
+To:   <bruce@untroubled.org>
+Subject: Precise measurements of any item anywhere
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_307_1014010834.1618860908138"
+List-Unsubscribe: <http://www.kathernllogan.com/Sacramento-Tristan/7386qXF2395t89VK12Vn11GKnV4e3R21GFv4GIf4rxvs4FhIHEsvZ7pQtnoR96oNV10_5dlsvz>
+Message-ID: <0.0.0.33.1D735538803B116.245CCA@mail.kathernllogan.com>
+Content-Length: 8251
+
+------=_Part_307_1014010834.1618860908138
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** THE WORLD'S BEST TAPE MEASURE **
+------------------------------------
+ToolFront is running a huge event with DISCOUNT BUNDLES AND NO SHIPPING on the Measure King measuring tape. 
+
+We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+Buy Now Up To 45% Off -> http://www.kathernllogan.com/trucked-unconsciousness/c7e4V2395dSN8611a20Ic9H4e3g21FFv4GIf4rxvs4FhIHEsvZ7QQtnoR96h1q0BB6fXsWvL
+
+
+
+
+
+
+Crownwell, Lecter, Higgins - Network Engineering
+160 Federal St Unit C-1c
+Boston, MA 02110-1700
+Adjust Subscription Preferences http://www.kathernllogan.com/eccentricities-Hickey/c424l2395uH86G11O20caBV4e3U21WFv4GIf4rxvs4FhIHEsvZ7YQtnoR95Si1O06Y2NsXv
+
+
+------=_Part_307_1014010834.1618860908138
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head></head>
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.kathernllogan.com/Sacramento-Tristan/33c6u2K39n5z8hX612L2w0c1PR4e3Z21rFv4GIf4rxvs4FhIHEsvZ7zQtnoR95OH1p06RAsv1k"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.kathernllogan.com/eccentricities-Hickey/13e4Q2395pg_7a12Q2nQ0c6l4e3G21eFv4GIf4rxvs4FhIHEsvZ7iQtnoR95dGz106W@TNsv" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.kathernllogan.com/Sacramento-Tristan/33c6u2K39n5z8hX612L2w0c1PR4e3Z21rFv4GIf4rxvs4FhIHEsvZ7zQtnoR95OH1p06RAsv1k"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.kathernllogan.com/price-illustrate/af85X239o5M7Bah12S2g0Yc7v4e3B21zFv4GIf4rxvs4FhIHEsvZ7BQtnoR95mg1X06vysJvX" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.kathernllogan.com/Sacramento-Tristan/33c6u2K39n5z8hX612L2w0c1PR4e3Z21rFv4GIf4rxvs4FhIHEsvZ7zQtnoR95OH1p06RAsv1k"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.kathernllogan.com/Sacramento-Tristan/33c6u2K39n5z8hX612L2w0c1PR4e3Z21rFv4GIf4rxvs4FhIHEsvZ7zQtnoR95OH1p06RAsv1k"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.kathernllogan.com/price-illustrate/ada5p239X5EK7ya12r2l0cn8l4e3L21AFv4GIf4rxvs4FhIHEsvZ7BQtnoR95sk1j06QBsv@1" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.kathernllogan.com/Sacramento-Tristan/33c6u2K39n5z8hX612L2w0c1PR4e3Z21rFv4GIf4rxvs4FhIHEsvZ7zQtnoR95OH1p06RAsv1k"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.kathernllogan.com/price-illustrate/4fe5UD2395kp86J10o20c2k4e3x21eFv4GIf4rxvs4FhIHEsvZ7DQtnoR95zzr106zL@s@v">Update Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p><span style=3D"color: #ffffff;">3. Accept Your Emotions ?The =
+reality is that the feelings we?re experiencing in response to what?s happe=
+ning right now aren?t unilaterally positive. We don?t want to get stuck the=
+re, but we?re overcompensating by painting sunshine if we aren?t first just=
+ accepting how we feel,? Dr. Goto said. ?Hard times are hard, and the more =
+we try to talk ourselves out of the way we feel, the more anxiety and depre=
+ssion will increase.? Being positive all the time just isn?t realistic. Be =
+fair to yourself and to others and allow yourself to grieve. ?At work, I th=
+ought I was being a supportive coworker and co-mom before the pandemic. Whi=
+le I listened to their concerns, I always felt this sense of separation?thi=
+s me versus them,? Dr. Adelayo said. ?Now I don?t ask how they are doing. I=
+ know they aren?t okay. I validate and share in their struggles. The layer =
+of support and understanding is deeper when we are truly authentic and hone=
+st with how we are feeling with one another. We?ve become a more supportive=
+ and united team.? 4. Ask for What You Need and Accept Help Your expectatio=
+ns of yourself are so high, you hold other people to those same expectation=
+s. And, as a result, you probably just do it yourself. But now working moms=
+ are paying the price for doing it all?big time. It?s time to ask for help?=
+and most importantly, accept it when it?s offered. Accepting help is not a =
+sign of weakness, but refusing it might be. ?The truth is that we probably =
+have supportive members of our family and social networks who are willing t=
+o help if we just allowed ourselves to accept their best efforts for what t=
+hey are,? Dr. Goto said. ?Yet letting go a smidge of control and accepting =
+help for just what it is, help, can relieve some of that stress we?re feeli=
+ng.? 5. Self-Care: Take Time for You Right now, you?re trying to keep every=
+thing and everyone together, but who helps mom? Who?s tending to your basic=
+ needs (i.e., getting sleep, eating right, drinking plenty of water)? All m=
+oms can agree these go out the window when family calls. It?s time to make =
+space for you and your self-care. Doing so helps your mind and body thrive.=
+ You?ll notice you are less anxious, more focused and present..</span> </p>=
+ </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>
+ <img src=3D"http://www.kathernllogan.com/3596u2S3Q95h8lR511G20BcbG4e3U21JFv4GIf4rxvs4FhIHEsvZ7NQtnoR95v10Hs5nqsvA/turrets-verticalness" alt=3D""/></body>
+</html>
+
+------=_Part_307_1014010834.1618860908138--
+

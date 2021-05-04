@@ -1,0 +1,1275 @@
+Return-Path: <kate.l@accurateleadinfo.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1545126 invoked from network); 9 Apr 2021 15:55:34 -0000
+Received: (qmail 22774 invoked by uid 222); 9 Apr 2021 15:55:33 -0000
+Return-Path: <kate.l@accurateleadinfo.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 22771 invoked from network); 9 Apr 2021 15:55:33 -0000
+Received: from IND01-MA1-obe.outbound.protection.outlook.com (mail-eopbgr1380133.outbound.protection.outlook.com [40.107.138.133])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 15:55:33 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=TlfHucaXPuhvH9mie7GPofjTfK5ticlfN1tBF0fJVbjQUadeU5ck27L5NADNS7p6ylMA5YqyITpsoQyZpbJwf2qdqApYdfkE6yUqUCtRpQ2VgAPuz7orayoBOAT4VvKWjHTXpj6xMl7iwklo60sKHe2x266Bc5ymUeSiGKVAAmRQt5tcSCVpc2b6ieoCQZteVnVLv1DEmBavQiWaRpW5E9aoEUYwVstxLwkfAH4uGCrwbl4qg0xMezrvz4ehfcw95q6N+M2Fs3iPPbtsWpGh02/53CgAFhT+Sm0HsFmyShfrzV/HmL8DgIr83Q0ltOTnHcvlKB7hYbhnHsQyqfbTLA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=AbUw8Wng60rP8gtVcb6/P929ZrNn5iTeDe9t+ZqyHE4=;
+ b=WVGuuEA+lnP7/c99C6wKZSbDbnCXivu2VQbLpKJv9fBvZr3Esi65syUsJjSryX/0qQ3paZuoZ4PcMmI/OpCDStVB3MmS7yT7Ej9UwH/y+fIdeEsyE8WcOiSEVBXpK76SzbBrfMM/EMBCK31JYX6MADCBeGf53mv/kPRNlryLjpAB95DICtLaqKUrgh0EwmdgE545uc9Nv5fcV45JMQrP0nEQZ5Oh3IkYT+Q4pS/Fu7kqkO1WcK5rtoVTKd8n0gVrxi6oVqJ28deJ2B9osGoG5eJZMPC0QCEM2Di/vX5pv9aiNfVfaDieKGj1bUVbZI5McwqfovnIQPUYygevIROqAg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=accurateleadinfo.com; dmarc=pass action=none
+ header.from=accurateleadinfo.com; dkim=pass header.d=accurateleadinfo.com;
+ arc=none
+Received: from MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a00:63::23)
+ by MAXPR01MB3024.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a00:56::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.28; Fri, 9 Apr
+ 2021 15:55:27 +0000
+Received: from MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::e5af:441b:ec6e:fed9]) by MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::e5af:441b:ec6e:fed9%5]) with mapi id 15.20.3999.035; Fri, 9 Apr 2021
+ 15:55:27 +0000
+From: Kate Lynch <kate.l@accurateleadinfo.com>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+Subject: Re:Southern Veterinary 
+Thread-Topic: Re:Southern Veterinary 
+Thread-Index: AdctWKI5k6RIkS5XR8qLnJIMHHtKzw==
+Importance: high
+X-Priority: 1
+Disposition-Notification-To: Kate Lynch <kate.l@accurateleadinfo.com>
+Date: Fri, 9 Apr 2021 15:55:01 +0000
+Message-ID:
+ <MAXPR01MB3245B2C293682B677E0C89EAF8739@MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: untroubled.org; dkim=none (message not signed)
+ header.d=none;untroubled.org; dmarc=none action=none
+ header.from=accurateleadinfo.com;
+x-originating-ip: [122.186.159.34]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 6f71c036-9be0-45f1-99ec-08d8fb6fe4f1
+x-ms-traffictypediagnostic: MAXPR01MB3024:
+x-microsoft-antispam-prvs:
+ <MAXPR01MB302449459D876B822D788720F8739@MAXPR01MB3024.INDPRD01.PROD.OUTLOOK.COM>
+x-ms-oob-tlc-oobclassifiers: OLM:10000;
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ ydNVJfjmeMzhIF4Mo2/RJ1/cyQJQspRKSzj8trNNADZUyX9oqnOpgOn7+qu3oSlNtqw6aWn9Mz3ucVt9BK7SaBobqKDY+vC+0PcRtPkD6mT/eF/R5gfHd93WYESwYvUolvSjqY9NEEG8UyLDP3GEGdVRVy6nlPA2l77ODNi/ZRQ4FVafbGSxrncjJURyPP0sOeB17R9jCi8kuWldvndGtrliPOfOLIjEvyFqRpxS9sqLpVkxAPqelSkoYijppsIb1XdYnKBuFzrWBalowbjxZ21UcFqyjriDoMSw/M9O9nGSrfLcK5fdlq8MMUu3OsSKJcE5CadcrDL7RnF/bxlnMwHpXK1VKyogK5A5+TlOTjKHiAhc2ck+yoDX02P0x6UzDkGW55RCrN31ooZdu0GYi+OBPqpuZx24jIcOih99NaH401Lfc4SxEWvX/6TSIFhHK3NUCJRibvWXPKy4baEARHlLgcx8jQYzvdNNEpdm9RzAyWcklwkEQCy3TFV5tOQLp0MDF7vo3Ni9GFjn7rGIIRIvMIc4kwBEJC2YEvz77LrR+GOmsIPwOtykADc1GMjOfv1cfZlH5UbxwFcn7YTBFF20VtcD133a7TbxkLQ4xdF4abV2GCAcs3jYMoK/AMGccd4eb/J8kj/xeWsxWMfps+PH2SBE332uTPQpL7ZcNIk=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(396003)(39850400004)(366004)(376002)(136003)(346002)(9326002)(52536014)(8936002)(5660300002)(7696005)(2906002)(6506007)(9686003)(26005)(6666004)(186003)(8676002)(66946007)(4743002)(66446008)(66556008)(4744005)(7116003)(86362001)(478600001)(76116006)(38100700001)(71200400001)(33656002)(316002)(6916009)(64756008)(3480700007)(55016002)(66476007)(146613001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata:
+ =?us-ascii?Q?zfz+7AI1B7gbyV6B28wqBc4RRzSjjmUSMEtes/qpCjMnKKmJ/FG6K1NzCLs8?=
+ =?us-ascii?Q?J2IS44Tv/o8PCXlfhoSDVgY6k0QcatYfm82vXoYk5awjqub6gsRLywDsMQb+?=
+ =?us-ascii?Q?rf4hQhCbDw0q4lFX66YktBXaXerpNQ1TSSPPbERI3bFT+BMvGWoSfFCOLwvg?=
+ =?us-ascii?Q?uDpxc4790Gws7N5yReB2o2sPiv6uXSWovSRARnohJYzPEANyNUVZNfIe6zEi?=
+ =?us-ascii?Q?P/DhKwtl6xcyzQdp0s5qVrSlIaR6rUNvl3heZv+Cr73btTNsDg691TX7VuP0?=
+ =?us-ascii?Q?iM55oiyYa2E7zpWyYV0S2c/tg3njDsXrTVYkBNKtQyd36SEBfnfzvQMpH7Tc?=
+ =?us-ascii?Q?4TcBYcwfVginQ9q4FOCOqdF9ZYO32XJJDOluVMFNHhJAvRSg/C7TJA+gA8V1?=
+ =?us-ascii?Q?trlKWAq05B38mZghF5c/BuWE5dIUSjDfFmxbCuYuCpjJJMe26Z2ERSkAyg/L?=
+ =?us-ascii?Q?aP1YBcCMEpdvw6/IyYHNghml82HTkZKdZwOISPpIhLkDqHorBaWVd2q6Mr2a?=
+ =?us-ascii?Q?ZHDh3+hpRH3dJ7zQtLZei7RbXeLeJLY+5jA0ZWZ7cfOl/1aJnTiFVaOIcSHE?=
+ =?us-ascii?Q?CkRkQWdwfEQWTt8XM2PFLVU5ZH62nyFvmpbvyWg+i/GVSXoRbG50x+ZA6zJ0?=
+ =?us-ascii?Q?VHtZfTDyy+Nevj2IXBONjfhmwa681oIGcb6VkogU+U4aMiSMbFYIcKm24dW+?=
+ =?us-ascii?Q?+B3WvPifiahfI/nLb57l0wTbT1ClNiTlgktyJyDlnIWDDQEk/314X+lfNW3x?=
+ =?us-ascii?Q?UI9eVxabXiXr32nnodfuCBMsggiG0BWHKfN/Xsl6+ioJ+wevJeMHcXywfHlp?=
+ =?us-ascii?Q?ZhRfRpsKnFsqvWiJLzQ7mZ41OlOr2/OekHBbFBfPrnub0Orf5YjzucZrBq8c?=
+ =?us-ascii?Q?hJ5B6SK4SVSObuecnjZih8JzPahT50uCShU9SbXOqp0l2y6sPfHDmNbEdo6V?=
+ =?us-ascii?Q?yfxZyyrPIwXCxudFUKW8T1D4in6ZmOjWG5XuH4FRL9/OAT3wFKR3xxXwTJFH?=
+ =?us-ascii?Q?f725Nd+DhGpNkHydVCU1SNkMAOZx32iySxdWfQuqcst2xfLL+zzi9hbm5+Vm?=
+ =?us-ascii?Q?b83OUJqB7TvjadurJCG2UHvocZQMVd9EO/EIS1aalRy+n2XmXKxXmixpq2Ix?=
+ =?us-ascii?Q?tNNJKEBOzmtUVorJcu1U/zJS9BcUlkU8sKEW8CEYkI13AUkfIc5Lkh+vf7fX?=
+ =?us-ascii?Q?0rZ6n14O8H+Pq5pyPwP7onhoyKFqNaYEbGJhKVqvQ25nyMZ/e0xBbHLTaH4J?=
+ =?us-ascii?Q?AUwJ2w52U/l0TPRW21N71IP7SuYLKZB3pnM9TYl9NC5wK16xNnEa/csJaOFJ?=
+ =?us-ascii?Q?VN9pB2spv4USoUA+U8t2FX2J?=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_MAXPR01MB3245B2C293682B677E0C89EAF8739MAXPR01MB3245INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: accurateleadinfo.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MAXPR01MB3245.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6f71c036-9be0-45f1-99ec-08d8fb6fe4f1
+X-MS-Exchange-CrossTenant-originalarrivaltime: 09 Apr 2021 15:55:01.4816
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 394a2bd5-4996-4127-a850-be6d94e198bf
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: ljreN3UbdyueeV9lgvwuI4o87/5rQh/Ovq5favaYSXyJUtpjv4VCUO1Nfudiu/rer02OeifNXiqd+oAEEbUqwyqwlwMdu4dk4ZnN2Tgu47o=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MAXPR01MB3024
+Content-Length: 32691
+
+--_000_MAXPR01MB3245B2C293682B677E0C89EAF8739MAXPR01MB3245INDP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I'm contacting you to learn if you would be interested in purchasing the So=
+uthern Veterinary Conference SVC 2021 professionals contacts for your sales=
+, marketing, and promotional activities.
+
+The List Contains: Name, Company's Name, Phone Number, Fax Number, Title, E=
+mail address, Complete Mailing Address, Company revenue, size, Web address,=
+ etc.
+
+Contacts include:  Key decision-makers
+
+
+?  Small animal, equine, practice management and veterinary technician prof=
+essionals
+
+If this sounds of any value, please specify your requirement in detail so t=
+hat I can get back to you with the cost and counts.
+
+I look forward to hearing from you soon.
+
+Kind Regards
+Kate Lynch
+Demand Generation Specialist
+
+    If you do not wish to receive future emails from us, please reply as "o=
+pt-out"
+
+
+--_000_MAXPR01MB3245B2C293682B677E0C89EAF8739MAXPR01MB3245INDP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:198593023;
+	mso-list-type:hybrid;
+	mso-list-template-ids:443975658 67698699 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:334457025;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-268523682 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:407385813;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2094283288 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:414474229;
+	mso-list-type:hybrid;
+	mso-list-template-ids:365720126 67698699 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:542330608;
+	mso-list-type:hybrid;
+	mso-list-template-ids:759723428 67698699 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:588588860;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1321801150 67698699 67698691 67698693 67698689 6769=
+8691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6
+	{mso-list-id:712316384;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-384004858 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l6:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l6:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l6:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l6:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l6:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7
+	{mso-list-id:762915850;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1867558330 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l8
+	{mso-list-id:781338862;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1284245894 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l8:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l8:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l8:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l8:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l8:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l8:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l8:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l8:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9
+	{mso-list-id:1053114960;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1694803170 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l9:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l9:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l10
+	{mso-list-id:1302804302;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-490166710 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l10:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l10:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l10:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l10:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l10:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l10:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l10:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l10:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l11
+	{mso-list-id:1598832727;
+	mso-list-type:hybrid;
+	mso-list-template-ids:899728902 67698699 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l11:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l11:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l11:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l11:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l11:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l11:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l11:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l11:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l11:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l12
+	{mso-list-id:1781337262;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1414586144 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l12:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l12:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l12:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l12:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l12:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l12:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l12:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l12:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l12:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l13
+	{mso-list-id:2080906120;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-581431652 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l13:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l13:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l13:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l13:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l13:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l13:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l13:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l13:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l13:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l14
+	{mso-list-id:2092044686;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1980653896 67698699 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l14:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l14:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l14:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l14:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l14:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l14:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l14:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l14:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" style=3D"word-wrap:break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">Hi,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">I&#8217;m contacting you to lea=
+rn if you would be interested in purchasing the
+<b><u>Southern Veterinary Conference SVC 2021</u> </b>professionals contact=
+s for your sales, marketing, and promotional activities.<b><u><o:p></o:p></=
+u></b></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-AU" style=3D"color:#0D0D0D">&nbs=
+p;</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-AU" style=3D"color:#0D0D0D">T=
+he List Contains:</span></u></b><span lang=3D"EN-AU" style=3D"color:#0D0D0D=
+">&nbsp;Name, Company's Name, Phone Number, Fax Number, Title, Email addres=
+s, Complete Mailing Address, Company revenue, size,
+ Web address, etc.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"color:#0D0D0D">&nbsp;<=
+/span><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-AU" style=3D"color:#0D0D0D">C=
+ontacts include:&nbsp; Key decision-makers &nbsp;<o:p></o:p></span></u></b>=
+</p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-AU" style=3D"color:#0D0D0D"><=
+o:p><span style=3D"text-decoration:none">&nbsp;</span></o:p></span></u></b>=
+</p>
+<p class=3D"MsoListParagraph" style=3D"text-indent:-18.0pt;mso-list:l12 lev=
+el1 lfo15">
+<![if !supportLists]><span lang=3D"EN-AU" style=3D"font-family:Wingdings"><=
+span style=3D"mso-list:Ignore">&Oslash;<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;
+</span></span></span><![endif]><span lang=3D"EN-AU">Small animal, equine, p=
+ractice management and veterinary technician professionals<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">If this sounds of any value, pl=
+ease specify your requirement in detail so that I can get back to you with =
+the cost and counts.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">I look forward to hearing from =
+you soon.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">Kind Regards</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">Kate Lynch&nbsp; &nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">Demand Generation Specialist</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:8.0pt">&nbsp=
+;&nbsp;&nbsp;&nbsp;If you do not wish to receive future emails from us, ple=
+ase reply as &#8220;opt-out&#8221;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_MAXPR01MB3245B2C293682B677E0C89EAF8739MAXPR01MB3245INDP_--

@@ -1,0 +1,201 @@
+Return-Path: <harold-sanchez-bruce=untroubled.org@perfumedhip.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2756088 invoked from network); 16 Apr 2021 20:24:15 -0000
+Received: (qmail 110301 invoked by uid 222); 16 Apr 2021 20:24:15 -0000
+Return-Path: <harold-sanchez-bruce=untroubled.org@perfumedhip.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 110298 invoked from network); 16 Apr 2021 20:24:15 -0000
+Received: from mail.perfumedhip.com (205-236-248-96.serversto.com [205.236.248.96])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 20:24:13 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=perfumedhip.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=harold-sanchez@perfumedhip.com;
+ bh=a69qJ32HgG/fbgk+CNp/IB2/4rg=;
+ b=qYbBGwykaF8yjMn4aWq7WjWPIFdQ1VeY1lL+47CQl5c/KzeDJEgkpV1D4qIDPvx68ZESx7bEt/zG
+   lo2qOWT8EK7FYKEPltE5IEiNAgFqXUjDWscTrEPnkJvYbQ5QRRKNeOIICBdzpIJkI/Cv4MkRaYXe
+   D/UTwX3egsdCA+UeMXU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=perfumedhip.com;
+ b=Q6NIWXtDNEEKXmjIaMXmAk7IyU6s9UjPNd+9y9cl1+WOlfiGYQTR23+jmidiZ+fkbecRNsr+hTKb
+   CyBemuhrXCBlxxTOPI5KI1AOZR4ZN8/OpP5cABQABeIyttoDaYh+/2iLFr4mCXAQCLS/ZlmVe9Lm
+   GIoxdaqCgRSvipGWkTU=;
+Received: by mail.perfumedhip.com id hf7pfg0001ge for <bruce@untroubled.org>; Fri, 16 Apr 2021 16:24:20 -0400 (envelope-from <harold-sanchez-bruce=untroubled.org@perfumedhip.com>)
+Date: Fri, 16 Apr 2021 16:24:20 -0400
+From: "Harold Sanchez" <harold-sanchez@perfumedhip.com>
+To:   <bruce@untroubled.org>
+Subject: Measure Any Area In Seconds With Newly Integrated Laser Technology
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_295_801797246.1618604487591"
+List-Unsubscribe: <http://www.perfumedhip.com/cb95t2B395QMD8911X1Np_1S4dew21cFv4GIf4rxvs4FhIHEsvZ7XQFnoQe6dv1Y0g5A3s1v/constructive-tinkers>
+Message-ID: <0.0.0.31.1D732FE7BBB59CE.CE3C67@mail.perfumedhip.com>
+Content-Length: 9741
+
+------=_Part_295_801797246.1618604487591
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** THE WORLD'S BEST TAPE MEASURE **
+------------------------------------------------------------
+ToolFront is running a huge event with DISCOUNT BUNDLES AND NO SHIPPING on the Measure King measuring tape. 
+
+We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+Buy Now Up To 45% Off -> http://www.perfumedhip.com/6475r2N395QRD8610e209dH4dei21kFv4GIf4rxvs4FhIHEsvZ7dQFnoQe5Egt106G@TBsv/interconnected-nervously
+
+
+
+
+
+
+Crownwell, Lecter, Higgins - Network Engineering
+160 Federal St Unit C-1c
+Boston, MA 02110-1700
+Adjust Subscription Preferences http://www.perfumedhip.com/forward-mammalian/6665q2Z395GyF8612m209ueZT4deT21NFv4GIf4rxvs4FhIHEsvZ7PQFnoQe5r10BM5XksUv
+
+
+------=_Part_295_801797246.1618604487591
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.perfumedhip.com/insurer-nicer/ed66r23y9Z5S8o6U10A2091A4deZ21DFv4GIf4rxvs4FhIHEsvZ7AQFnoQe7z1tDY0U6s3zOsv"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.perfumedhip.com/encompasses-generously/a264i2395AY7az12C20_9ta_4deT21rFv4GIf4rxvs4FhIHEsvZ7vQFnoQe6r10HyC6yAls@v" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.perfumedhip.com/insurer-nicer/ed66r23y9Z5S8o6U10A2091A4deZ21DFv4GIf4rxvs4FhIHEsvZ7AQFnoQe7z1tDY0U6s3zOsv"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.perfumedhip.com/89f5z2K395r7YPa10Q209bQ4deT21XFv4GIf4rxvs4FhIHEsvZ7FQFnoQe6Q1ytr06HlslvB/forward-mammalian" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.perfumedhip.com/insurer-nicer/ed66r23y9Z5S8o6U10A2091A4deZ21DFv4GIf4rxvs4FhIHEsvZ7AQFnoQe7z1tDY0U6s3zOsv"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.perfumedhip.com/insurer-nicer/ed66r23y9Z5S8o6U10A2091A4deZ21DFv4GIf4rxvs4FhIHEsvZ7AQFnoQe7z1tDY0U6s3zOsv"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.perfumedhip.com/insurer-nicer/42c6L23G9l5f7kDa12F209cLKs4dem21EFv4GIf4rxvs4FhIHEsvZ7aQFnoQe7PDw10TO5zTsvU" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.perfumedhip.com/insurer-nicer/ed66r23y9Z5S8o6U10A2091A4deZ21DFv4GIf4rxvs4FhIHEsvZ7AQFnoQe7z1tDY0U6s3zOsv"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.perfumedhip.com/constructive-tinkers/31e6zK23H95cZ8n612PW20X92R4del21JFv4GIf4rxvs4FhIHEsvZ7QQFnoQe6pQ1DA05iBUsv">Change Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p><span style=3D"color: #ffffff;">ver the past year, we have le=
+arned so much about&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.perfumedhip.com/refuses-sorted/3d24y2395C86As10a2093m4de_21MFv4GIf4rxvs4FhIHEsvZ7WQFnoQe6u1o0j_6cTpszv" t=
+arget=3D"_blank" rel=3D"noopener noreferrer">COVID-19</a>&nbsp;and even hav=
+e multiple vaccines rolling out across the country. Each day new informatio=
+n surfaces about both the virus and the vaccines. Here is a list of everyth=
+ing we know so far.</span></p> <p><span style=3D"color: #ffffff;">Visit the=
+ Banner Health website for the&nbsp;<a style=3D"color: #ffffff;" href=3D"=
+http://www.perfumedhip.com/reelect-aggregation/3966QG2y395yB8W611W2L094V4deS21LFv4GIf4rxvs4FhIHEsvZ7iQFnoQe6bIK10W6dL3@sv">latest information about COVID-19, vaccines, visitor restrictions=
+ and more</a>.</span></p> <p><span style=3D"color: #ffffff;">What to expect=
+ when you get the COVID-19 vaccination</span></p> <p><span style=3D"color: =
+#ffffff;">Although this news may bring a sigh of relief it also comes with =
+a whole new&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.perfumedhip.com/6654D2395B8s6i12SP209V5Q4deO21bFv4GIf4rxvs4FhIHEsvZ7DQFnoQe5mBo105OBsXv/Kingsley-displease" target=3D=
+"_blank" rel=3D"noopener noreferrer">list of questions</a>&nbsp;and concern=
+s.</span></p> <p><span style=3D"color: #ffffff;">When can I get the vaccine=
+?</span></p> <p><span style=3D"color: #ffffff;">When it's my turn to get va=
+ccinated, what then?</span></p> <p><span style=3D"color: #ffffff;">Should I=
+ take Tylenol or Motrin before my vaccine?</span></p> <p><span style=3D"col=
+or: #ffffff;">These questions, and more, answered&nbsp;<a style=3D"color: #=
+ffffff;" href=3D"http://www.perfumedhip.com/6654w2395B8zC612d20G9O6W4deR21vFv4GIf4rxvs4FhIHEsvZ7BQFnoQe5cQ1z06K@s0lv/forward-mammalian">here</a>.</span></p> <p><span style=3D"color: =
+#ffffff;">Should you worry about COVID-19 vaccinations and your medication?=
+</span></p> <p><span style=3D"color: #ffffff;">As you prepare to receive yo=
+ur vaccination, you may be wondering how your current medication will inter=
+act.&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.perfumedhip.com/6655h2i395GGA8612UM20R97O4deA21yFv4GIf4rxvs4FhIHEsvZ7SQFnoQe5d10Lt5rkLsv/insurer-nicer" target=3D"_blank=
+" rel=3D"noopener noreferrer">Ayrn O'Connor</a>, MD, is the director of med=
+ical toxicology fellowship at Banner ? University Medical Center Phoenix. T=
+hroughout the pandemic, she has led the way, reviewing and analyzing the be=
+st possible treatments for COVID-19.</span></p> <p><span style=3D"color: #f=
+fffff;"><a style=3D"color: #ffffff;" href=3D"http://www.perfumedhip.com/9534D2395Cs86Q10f2098i4deV21tFv4GIf4rxvs4FhIHEsvZ7UQFnoQe7X1lLIO05N31sv/refuses-sorted">Click here</a>&nbs=
+p;to find out more.</span></p> <p><span style=3D"color: #ffffff;">What can =
+I do after my COVID-19 vaccination?</span></p> <p><span style=3D"color: #ff=
+ffff;">Now that we have vaccines, the question in everyone's mind is, ?So w=
+hen can we finally get back to normal??&nbsp;<a style=3D"color: #ffffff;" h=
+ref=3D"http://www.perfumedhip.com/refuses-sorted/c245s239h5h8Nr610H2099k4dek21zFv4GIf4rxvs4FhIHEsvZ7wQFnoQe5py1m06NMXsvk">Here's what we know</a>&nbsp;so far.</span></p> <p><span=
+ style=3D"color: #ffffff;">Debunking the COVID-19 vaccine myths</span></p> =
+<p><span style=3D"color: #ffffff;">While social media has given us a platfo=
+rm to share whatever we want, false information, particularly as it pertain=
+s to the vaccines, can dilute their life-saving value and stir up fear and =
+doubt. So, it's no surprise there has been some questionable information ou=
+t there about the COVID-19 vaccines. See the infographic below to help set =
+the record straight on some common myths.</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.perfumedhip.com/starling-hasher/5b26S2PQ395t_8g512v20g9fvT4deG21uFv4GIf4rxvs4FhIHEsvZ7EQFnoQe7nOO1wm06AAMsNv" alt=3D""/></body>
+</html>
+
+------=_Part_295_801797246.1618604487591--
+

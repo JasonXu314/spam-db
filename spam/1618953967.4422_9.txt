@@ -1,0 +1,156 @@
+Return-Path: <desk_mugwarmer-bruce=untroubled.org@gillsenish.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3173162 invoked from network); 20 Apr 2021 20:40:38 -0000
+Received: (qmail 59308 invoked by uid 222); 20 Apr 2021 20:40:37 -0000
+Return-Path: <desk_mugwarmer-bruce=untroubled.org@gillsenish.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 59305 invoked from network); 20 Apr 2021 20:40:37 -0000
+Received: from mail.gillsenish.com (205-236-248-210.serversto.com [205.236.248.210])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 20:40:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gillsenish.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=desk_mugwarmer@gillsenish.com;
+ bh=t46pMfNYtvcauPvEkGcwdayz/X8=;
+ b=d8WCB86/HdNx7Ovtuu41V0GMWOU8erlD+3DLiiDH3jjQ7JqoS17BGOzFOHiJwnJoGORgRKlRi5bS
+   X+i2YQBUeoP837+5Di6e29NlHxcIFncQ1zqn9Apyc/oVLgsGHHOpupupmt8y33GLKsezAAM4UQoY
+   12oQZR83K40wwmz6sKw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gillsenish.com;
+ b=raV7JCQWsCkTGqwOaRDpyclcqVJ276Uztn3l3CZYTZM5VjcO1J/nGU3K0RgEouTuvVEW97HR9Irg
+   8bHBKPHujihjnduIragtKjT8y+8NWEg25NRzeVrhyF70LRYkPsFE5PaRDVGnnDci3WSVjiff+vgX
+   fOXUp0T1bFpuDDDFKW4=;
+Received: by mail.gillsenish.com id hfsucu0001gv for <bruce@untroubled.org>; Tue, 20 Apr 2021 16:35:07 -0400 (envelope-from <desk_mugwarmer-bruce=untroubled.org@gillsenish.com>)
+Date: Tue, 20 Apr 2021 16:35:07 -0400
+From: "Desk MugWarmer" <desk_mugwarmer@gillsenish.com>
+To:   <bruce@untroubled.org>
+Subject: Keeps your drink warm, no zapping required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_468_610206500.1618950641917"
+List-Unsubscribe: <http://www.gillsenish.com/stringiness-Ligget/9364J2395uV8P910o1pZ1M4f0Q21nFv4GIf4rxvs4FhIHEsvZ7YQTnoSK5on1L06hNUsWv>
+Message-ID: <0.0.0.4F.1D73624A694ACD0.37AEA1@mail.gillsenish.com>
+Content-Length: 9026
+
+------=_Part_468_610206500.1618950641917
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Keep your Drink Hot Without the Microwave- The Homestyle Mug Warmer **
+------------------------------------------------------------
+
+
+This mug warmer is great to have on hand to heat up a variety of hot beverages and soups.  It keeps your beverages at the most suitable temperature.  The warming pad is activated by a pressure-based switch, so it's powered when your mug is on the device.  Additionally, the mug warmer is waterproof, so removing spillage and its stain is one wipe away. 
+
+
+Shop now  Up To 63% Off ->  http://www.gillsenish.com/electives-sitters/8825B239F5bj8y611Q214u3m4f0s21PFv4GIf4rxvs4FhIHEsvZ7WQTnoSK6yU10wm5klsvO
+
+
+
+
+Klien Attler Network Cooperative
+706 S Lincoln, Knoxville IA, 50138
+MANAGE SUBSCRIPTION PREFERENCES http://www.gillsenish.com/stammer-sentence/4866Q23G9S5nX8P611S213Aei4f0r21aFv4GIf4rxvs4FhIHEsvZ7wQTnoSK5a10tn5z0s3v
+
+
+
+------=_Part_468_610206500.1618950641917
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  <style>
+      @media only screen and (max-width: 500px) {
+        .background-image {
+          background-position: 0px !important;
+        }
+      }
+
+    </style> 
+ </head> 
+ <body style="margin: 0; padding: 0;"> 
+  <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+   <tbody>
+    <tr> 
+     <td style="padding: 0 0 30px 0"> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" style="width: 100%; max-width: 640px; font-family: Helvetica, Arial, Gotham, sans-serif; border: 1px solid #cccccc; border-collapse: collapse;"> 
+       <tbody>
+        <tr> 
+         <td align="center" bgcolor="ccc1b7"> 
+          <div style="padding: 18px 24px 0px 24px; background: #fff;"> 
+           <a href="http://www.gillsenish.com/2ff4B2395dx8X611Q213dyI4f0h21zFv4GIf4rxvs4FhIHEsvZ7HQTnoSK6U1V0Qr5P@lsv/recursions-castle" target="_blank"> <img src="http://www.gillsenish.com/electives-sitters/7b06zg2K395n7uaX12f2A1j3fU4f0I21SFv4GIf4rxvs4FhIHEsvZ7fQTnoSK5K1ms05cBOsv" alt="Logo for HomeStyle" width="200" height="auto" style="margin: 0; padding: 0; width: 100%; max-width: 200px; display:inline;" /> </a> 
+          </div> <img src="http://www.gillsenish.com/8636gr2h395I7RaZ10A2140C4f0p21uFv4GIf4rxvs4FhIHEsvZ7lQTnoSK5Kvj105O3svj/adulterated-refines" alt="shape divider" width="640" height="auto" style="margin-top: -2px; width: 100%; max-width: 640px; display:block;" /> 
+          <div style="width: 90%;"> 
+           <h1 style="padding-top: 1rem; margin-bottom: 3px; font-size: 25px; font-weight: 600; color: #3d343b">AWAY FROM A MICROWAVE?</h1> 
+           <h5 style="margin-top: 0; letter-spacing: 1px; font-size: 25px; width: 90%; font-weight: 100; color: #3d343b">OUR HEATED COASTER KEEPS<br /> COFFEE WARM FOR HOURS</h5> 
+          </div> <a href="http://www.gillsenish.com/2ff4B2395dx8X611Q213dyI4f0h21zFv4GIf4rxvs4FhIHEsvZ7HQTnoSK6U1V0Qr5P@lsv/recursions-castle" target="_blank"> <img src="http://www.gillsenish.com/33b5P239H5B7aGW12W2YV141t4f0B21fFv4GIf4rxvs4FhIHEsvZ7QQTnoSK6A_G1y06y@qsLv/electives-sitters" alt="shape divider" width="640" height="auto" style="width: 100%; max-width: 640px; display:block;" /> </a> 
+          <div style="width: 100%;"> 
+           <p style="color: #3d343b;font-weight: 100; width: 100%;"> Camping for the weekend or enjoying your morning coffee in the front<br /> yard? If you have an outlet or a power bank, this heated coaster can keep<br /> your mug warm for hours. No thermos or microwave required. </p> 
+           <p> <a href="http://www.gillsenish.com/2ff4B2395dx8X611Q213dyI4f0h21zFv4GIf4rxvs4FhIHEsvZ7HQTnoSK6U1V0Qr5P@lsv/recursions-castle" target="_blank"> <button style="padding: 10px 30px;
+										 font-size: 14px; 
+										 background-color: transparent; 
+										 text-decoration:none; 
+										 border: 2px solid #3d343b; 
+										 letter-spacing: 2px; 
+										 color: #3d343b; 
+										 cursor: pointer;
+										 margin-bottom: 30px;
+										 font-weight: bolder;">SHOP NOW</button> </a> </p> 
+           <a href="http://www.gillsenish.com/2ff4B2395dx8X611Q213dyI4f0h21zFv4GIf4rxvs4FhIHEsvZ7HQTnoSK6U1V0Qr5P@lsv/recursions-castle" target="_blank"> <img src="http://www.gillsenish.com/42b6Q2uP395mSg7a10z2142Z4f0l21aFv4GIf4rxvs4FhIHEsvZ7cQTnoSK5gMx106l@ksvN/stammer-sentence" alt="product mug warmer" width="640" height="auto" style="width: 80%; max-width: 640px; display:block; padding-bottom: 10px;" /> </a> 
+           <p> <a href="http://www.gillsenish.com/2ff4B2395dx8X611Q213dyI4f0h21zFv4GIf4rxvs4FhIHEsvZ7HQTnoSK6U1V0Qr5P@lsv/recursions-castle" target="_blank"> <button style="padding: 10px 30px;
+										 font-size: 14px; 
+										 background-color: transparent; 
+										 text-decoration:none; 
+										 border: 2px solid #3d343b; 
+										 letter-spacing: 2px; 
+										 color: #3d343b; 
+										 cursor: pointer;
+										 margin-bottom: 30px;
+										 font-weight: bolder;">SHOP NOW</button> </a> </p> 
+          </div> </td> 
+        </tr> 
+        <!-- FOOTER --> 
+        <tr> 
+         <td bgcolor="#423e33" style="padding: 30px 30px 30px 30px;"> 
+          <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+           <tbody>
+            <tr> 
+             <td width="50%" style="color:#756e5b; font-family: Helvetica, Arial, Gotham, sans-serif;"> 
+              <div style="text-align: center;"> 
+               <div style="margin-bottom: 6px;">
+                Reed-Bailey Net Stewards
+               </div> 
+               <div style="margin-bottom: 6px;">
+                1950 S Club Drive
+               </div> 
+               <div style="margin-bottom: 6px;">
+                West Palm Beach FL 33414 9088
+               </div> 
+               <a href="http://www.gillsenish.com/stringiness-Ligget/oc64K2395n8hs611X2h13eP4f0T21rFv4GIf4rxvs4FhIHEsvZ7mQTnoSK5B1F0P5rWOsv" style="color: inherit; text-decoration: none;"> 
+                <div>
+                 Cick here to end all further communication.                 </div> </a> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+         <!--e have a vaccine! In fact, we have three?with more on the way. It?s a medical marvel that we have gotten to this point so quickly. 
+After a grueling, scary and disruptive 2020, 2021 came out of the gate with the reassurance that progress is being made. Now that we have vaccines, the question in everyone?s mind is, ?So when can we finally get back to normal?? To help respond to this important question, we spoke with Ayrn O?Connor, MD, director of the medical toxicology fellowship at Banner ? University Medical Center Phoenix. Throughout the pandemic she has helped to study the most effective tools in our fight against COVID-19, including the Pfizer and Moderna vaccines. 
+Do I still need a mask?
+We know masks, social distancing and hand washing are absolutely vital in slowing the spread of COVID-19,? emphasized Dr. O?Connor. ?We anticipate that the vaccines will make the possibility of spread less likely, but that has yet to be proven. Although the vaccines are very effective, their peak protection is not reached for 2 weeks after the second shot.? Furthermore the duration of the vaccine?s protection is an area of ongoing study. While we work toward getting everyone vaccinated and achieving herd immunity it is important to keep practicing the public health measures that we know will keep us, our neighbors, friends and loved ones safe. 
+NOTE: Since the original publication date of this article, the Centers for Disease Control and Prevention (CDC) have updated their post vaccine safety guidelines. Visit this link for the most up-to-date information regarding the current do?s and don?ts for masking and social distancing once you?ve been vaccinated. 
+
+Can I get together with friends now?
+Like masks, social distancing continues to be one of the most important ways to slow the spread. If you and all of your friends have been vaccinated, your likelihood for spread should be much lower. But your risk is not zero. As worldwide trends continue to see spikes in new cases and deaths, we all need to be diligent in practicing the healthy habits that have protected us thus far. This includes social distancing, frequent handwashing and avoiding crowded indoor spaces when possible.---> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table>  
+ <img src="http://www.gillsenish.com/4494J2395F85tJ11X2D144Z4f0G21FFv4GIf4rxvs4FhIHEsvZ7UQTnoSK6OV1P0O5F1slv/reproduces-unnaturally" alt=""/></body>
+</html>
+
+------=_Part_468_610206500.1618950641917--
+

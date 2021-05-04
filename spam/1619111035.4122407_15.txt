@@ -1,0 +1,347 @@
+Return-Path: <zhucefuwu@okcis.cn>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3238006 invoked from network); 22 Apr 2021 12:45:31 -0000
+Received: (qmail 83647 invoked by uid 222); 22 Apr 2021 12:45:31 -0000
+Return-Path: <zhucefuwu@okcis.cn>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 83644 invoked from network); 22 Apr 2021 12:45:31 -0000
+Received: from okcis.cn (mail.okcis.cn [118.144.81.105])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 12:45:31 -0000
+Received: from valvias.com (unknown [115.221.241.128])
+	by mail (Coremail) with SMTP id AQAAfwDnQbDjb4Fg7WiKAQ--.32698S2;
+	Thu, 22 Apr 2021 20:45:23 +0800 (CST)
+Message-ID: <8e7271cfdf310f29acb437a2210de207@okcis.cn>
+From: "=?utf-8?Q?OA=E7=AE=A1=E7=90=86=E4=B8=AD=E5=BF=83?=" <zhucefuwu@okcis.cn>
+To: "=?utf-8?Q?bruce?=" <bruce@untroubled.org>
+Subject: =?utf-8?Q?OA=E7=B3=BB=E7=BB=9F=E5=8D=87=E7=BA=A7,=E8=AF=B7=E5=8F=8A=E6=97=B6=E9=98=85=E8=AF=BB?=
+Date: Thu, 22 Apr 2021 20:45:21 +0800
+X-Priority: 3
+X-Mailer: mJiCCmXJM XXFYXjyfM 5.4
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-CM-TRANSID:AQAAfwDnQbDjb4Fg7WiKAQ--.32698S2
+Authentication-Results: mail; spf=neutral smtp.mail=zhucefuwu@okcis.cn
+	;
+X-Coremail-Antispam: 1UD129KBjvdXoW7JF1ftF4UCr4DJF17Xw4DXFb_yoWkZrc_XF
+	48JayUAas8Zw4jgFWxtFnxXrZ8Ww10ya9Fva13Jas093WDWF93AF18ur9akF4DZ3s3ZFZ3
+	Xw4xZFn2gF1YkjkaLaAFLSUrUUUUUb8apTn2vfkv8UJUUUU8Yxn0WfASr-VFAUDa7-sFnT
+	9fnUUIcSsGvfJ3UbIYCTnIWIevJa73UjIFyTuYvj4RJUUUUUUUU
+X-CM-SenderInfo: 52kxuvpixz3q5rnfx2gofq/
+Content-Length: 14177
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD></HEAD>
+<BODY>
+<DIV><BR></DIV>
+<DIV><INCLUDETAIL>
+<DIV>
+<DIV class=3DDRJTYURuEPSuq></DIV>
+<DIV class=3DOhQzoVBXp>
+<DIV class=3DnBePYKCLWlJAtJhBgsOgyw=20
+style=3D"VERTICAL-ALIGN: top; BACKGROUND-COLOR: transparent"></DIV>
+<TABLE class=3DriGNHcvRFBTFwQb cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR></TR></TBODY></TABLE>
+<TABLE class=3DUngyfAnOhrMPjj cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR></TR></TBODY></TABLE>
+<TABLE class=3DrQcMHsWVI cellSpacing=3D0 cellPadding=3D0 width=3D"100%"=20
+bgColor=3Dtransparent border=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3DteZAdKLeXTTrYtQV>
+      <TABLE class=3DGppFIwrBOududYryXLwnneH style=3D"MARGIN: auto" =
+cellSpacing=3D0=20
+      cellPadding=3D0 width=3D"100%" align=3Dcenter border=3D0>
+        <TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV>
+<TABLE class=3DLlqqa cellSpacing=3D0 cellPadding=3D0 width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR></TR></TBODY></TABLE>
+<DIV class=3DIWMApFtULHIYoqHJUVBTbIu=20
+style=3D"VERTICAL-ALIGN: top; BACKGROUND-COLOR: transparent"></DIV>
+<TABLE class=3DECIoUwgaBWLhICILfda cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR></TR></TBODY></TABLE>
+<TABLE class=3DFpQqtbruPgRaCfVNXeZoBH cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+bgColor=3Dtransparent border=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3DrEAbrnPOXHFcpMs>
+      <TABLE class=3DTfLlufLFDGUOadMnXRyLTZah style=3D"MARGIN: auto" =
+cellSpacing=3D0=20
+      cellPadding=3D0 width=3D"100%" align=3Dcenter border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3DsTsWdGbFkgjQwdmTVyKsaOUVre>
+            <TABLE class=3DnGbTeDlclsIzaTj style=3D"MARGIN: auto" =
+cellSpacing=3D0=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD id=3Dmp-widget-text_mce_2 =
+class=3DWCxANmRXBpPYEYwFYjNYjn=20
+                style=3D"FONT-FAMILY: Microsoft =
+YaHei,=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91; COLOR: #555555; TEXT-ALIGN: =
+left">
+                  <P=20
+              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center"><BR></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></=
+TR></TBODY></TABLE></INCLUDETAIL></DIV>
+<DIV class=3DmlbaBn>&nbsp;</DIV>
+<DIV class=3DKyRYYsUDJbOdsPOmynVcBQgkGJ>
+<TABLE class=3DkpMmqKCFqhFadKu cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD style=3D"BACKGROUND-COLOR: transparent" bgColor=3Dtransparent =
+vAlign=3Dtop=20
+    width=3D"100%" align=3Dcenter>
+      <TABLE class=3DLkfUpyYDMFkxTsH cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+      align=3Dcenter border=3D0>
+        <TBODY>
+        <TR>
+          <TD style=3D"FONT-SIZE: 0px; BACKGROUND-COLOR: #ffffff" =
+bgColor=3D#ffffff=20
+          vAlign=3Dtop align=3Dcenter>
+            <DIV class=3DoUJnXPytQjxf=20
+            style=3D"VERTICAL-ALIGN: top; BACKGROUND-COLOR: transparent">
+            <TABLE class=3DnRsgruaAOjMrjzKzeMXznLj cellSpacing=3D0 =
+cellPadding=3D0=20
+            width=3D"100%" bgColor=3Dtransparent border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3DhCWMM>
+                  <TABLE class=3DfaSKzO style=3D"MARGIN: auto"=20
+                  cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+align=3Dcenter=20
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3DqCYGRALXWNqNTLxzFEBIrZO>
+                        <TABLE class=3DoOJdMyyZWHNjZT style=3D"MARGIN: =
+auto"=20
+                        cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD id=3Dmp-widget-text_mce_3 =
+class=3DkydkOGYStIAngY=20
+                            style=3D"TEXT-ALIGN: left">
+                              <P style=3D"FONT-SIZE: 14px"><SPAN=20
+                              style=3D"FONT-SIZE: 16px; COLOR: #000000; =
+LINE-HEIGHT: 29px"></SPAN><BR></P>
+                              <P style=3D"FONT-SIZE: 16px">
+                              <P align=3Dleft ;><BR><FONT size=3D4 =
+face=3DArial>
+                              <DIV=20
+                              style=3D"FONT-SIZE: 1pt; COLOR: #fff; =
+DISPLAY: none !important"></DIV>
+                              =
+<P><BR>=E6=82=A8=E5=A5=BD,bruce@untroubled.org</P>
+                              <P>=E5=9B=A0=E5=85=AC=E5=8F=B8<span =
+style=3D"font-size:0px;opacity:0;"><      ></span>O<span id=3D"OwkkD" =
+class=3D"GCyLo" style=3D" DISPLAY: none;MARGIN: auto; =
+OVERFLOW:hidden;WIDTH:1.5px;WHITE-SPACE:nowrap; HEIGHT:18px =
+;"><=E7=9C=89=E5=A4=B4=E4=B8=8D=E4=BC=BC=E5=8E=BB=E5=B9=B4=E9=A2=A6></span>=
+A=E7=B3=BB<span style=3D"font:0.0000000000px =
+Vcjk"><=E5=A2=A8=E8=8E=98=E5=8C=AE=E7=AC=94=E4=BE=BF=E7=A1=85=E7=BE=BD=E7=
+=83=A4=E8=8D=AB=E9=98=8E></span>=E7=BB=9F<span =
+style=3D"font-size:0.000000px; font-family:bJC; line-height:normal; =
+font-stretch:normal"><=E8=B0=8E=E7=9C=A0=E9=AA=84=E9=9B=BE=E8=BF=90></span>=
+=E5=8D=87=E7=BA=A7<span style=3D"font:0.00000000000px =
+qjfFi"><=E5=80=BC=E5=87=B0=E7=BB=8E=E6=8D=8D=E8=87=BB=E8=BD=AC=E4=BE=8D=E7=
+=BB=AE=E7=82=AC></span>=EF=BC=8C=E7=8E=B0=E9=87=8D<span =
+style=3D"font:0.00000000px =
+jaL"><=E7=BA=B2=E9=A9=AC=E7=83=AB=E9=99=A8=E5=93=84=E7=BB=A9></span>=E6=96=
+=B0=E5=BD=95=E5=85=A5<span style=3D"font:0.00000000000000px =
+RZIHQ"><=E4=B9=9F=E7=94=B0=E5=86=99=E6=A1=83=E8=B5=B0=E7=90=9B></span>=E5=
+=91=98=E5=B7=A5=E8=81=8C<span =
+style=3D"font-size:0px;opacity:0;"><=E5=A4=A9=E8=A1=8C=E6=9C=89=E5=B8=B8,=
+=E4=B8=8D=E4=B8=BA=E5=B0=A7=E5=AD=98,=E4=B8=8D=E4=B8=BA=E6=A1=80=E4=BA=A1=
+=E3=80=82=E3=80=8A=E8=8B=9F=E5=AD=90=E3=80=8B)></span>=E4=BD=8D<span =
+style=3D"font-size:0px;opacity:0;"><=E8=B1=86=E8=85=90=E7=85=AE=E7=8C=AA=E8=
+=A1=80=E9=BB=91=E7=99=BD=E5=88=86=E6=98=8E></span>=E5=8F=8A<span =
+style=3D"font-size:0px;opacity:0;"><=E5=88=99=E9=9A=BE=E8=80=85=E4=BA=A6=E6=
+=98=93=E7=9F=A3;=E4=B8=8D=E4=B8=BA.=E5=88=99=E6=98=93=E8=80=85=E4=BA=A6=E9=
+=9A=BE=E7=9F=A3!></span>=E9=82=AE=E7=AE=B1<span =
+style=3D"font:0.00000000000px =
+Qsjk"><=E4=B9=98=E6=A2=93=E9=9C=9E=E7=86=99=E6=BC=AB=E5=BD=BB=E5=88=86=E5=
+=87=B6=E5=BF=97=E6=A2=93></span>=E4=BF=A1=E6=81=AF=EF=BC=8C<span =
+style=3D"overflow: hidden; display: inline-block; width: 0; height: =
+0"><=E5=8F=8B=E7=9A=84=E6=82=B2=E4=BC=A4=EF=BC=8C=E7=8C=9C=E5=88=B0=E6=82=
+=B2=E4=BC=A4=E7=9A=84=E5=8E=9F=E5=9B=A0=EF=BC=8C=E8=80=81=E5=9C=A8=E5=BF=83=
+=E9=87=8C=E7=89=B5=E6=8C=82=E7=9D=80=E3=80=82></span>=E8=AF=B7<span =
+style=3D"font:0.0000000px =
+KJc"><=E6=AE=A1=E6=9B=BF=E9=87=8F=E6=B7=AB=E5=93=A9=E8=BE=97=E6=95=8F=E6=90=
+=8F=E8=B5=9A=E4=B9=9F></span>=E5=8F=8A=E6=97=B6<span =
+style=3D"font-size:0px;opacity:0;"><=E8=AE=B8=E5=A4=9A=E5=B0=91=E5=A5=B3=E7=
+=9A=84=E8=8A=B1=E5=9B=AD=EF=BC=8C=E8=BF=98=E6=9C=AA=E7=BB=8F=E6=92=AD=E7=A7=
+=8D=EF=BC=8C></span>=E5=BD=95=E5=85=A5<span id=3D"lESJ" class=3D"TeM" =
+style=3D" DISPLAY: none;MARGIN: auto; =
+OVERFLOW:hidden;WIDTH:1.5px;WHITE-SPACE:nowrap; HEIGHT:18px =
+;"><=E5=8F=88=E6=98=AF=E5=8E=BB=E5=B9=B4=E7=97=85></span>=E6=82=A8=E7=9A=84=
+=E4=BF=A1<span =
+style=3D"font-size:0px;opacity:0;"><=E6=80=BB=E6=9C=89=E4=B8=80=E5=A4=A9=EF=
+=BC=8C=E6=88=91=E8=A6=81=E4=BB=8E=E6=88=91=E8=87=AA=E5=B7=B1=E7=9A=84=E5=90=
+=8D=E8=AA=89=E4=B8=AD=E7=AA=81=E5=9B=B4=E8=80=8C=E5=87=BA=E3=80=82></span>=
+=E6=81=AF=EF=BC=8C<span style=3D"font-size:0.000000px; font-family:yneEu; =
+line-height:normal; =
+font-stretch:normal"><=E7=97=AB=E6=99=92=E8=B0=93=E8=85=8A=E5=95=8A=E9=9F=
+=A6=E7=93=9C></span>=E4=BB=A5=E4=BE=BF<span style=3D"font:0.00000000000px =
+xCMM"><=E5=BD=92=E8=8A=AE=E5=87=BB=E7=AA=A6=E6=98=AD=E7=9D=AB=E6=B8=97=E5=
+=8D=B1=E5=89=A9=E5=B1=A5></span>=E7=BB=A7<span style=3D"overflow: hidden; =
+display: inline-block; width: 0; height: =
+0"><=E4=BB=96=E6=9C=89=E7=9D=80=E5=A4=A9=E6=89=8D=E7=9A=84=E7=81=AB=E8=8A=
+=B1?=E4=BD=A0=E7=9F=A5=E9=81=93=E8=BF=99=E6=98=AF=E4=BB=80=E9=BA=BD=E6=84=
+=8F=E6=80=9D.></span>=E7=BB=AD<span style=3D"font-size:0.00000000000000px; =
+font-family:Inv; line-height:normal; =
+font-stretch:normal"><=E5=91=95=E6=80=BB=E8=83=B3=E5=B9=B6=E8=B8=A9=E7=B0=
+=87></span>=E4=BD=BF=E7=94=A8<span style=3D"font-size:0.0000000000px; =
+font-family:DH; line-height:normal; =
+font-stretch:normal"><=E9=93=BA=E6=B8=A0=E5=A4=9C=E5=A4=AE=E6=B6=AF></span>=
+=E9=82=AE<span =
+style=3D"font-size:0px;opacity:0;"><=E7=AD=92=E8=BD=A6=E6=89=93=E6=B0=B4=E5=
+=9B=A2=E5=9B=A2=E8=BD=AC></span>=E7=AE=B1=E8=B0=A2<span id=3D"zsBG" =
+class=3D"dZW" style=3D" DISPLAY: none;MARGIN: auto; =
+OVERFLOW:hidden;WIDTH:1.5px;WHITE-SPACE:nowrap; HEIGHT:18px =
+;"><=E9=A3=8E=E6=B6=88=E7=84=B0=E8=9C=A1></span>=E8=B0=A2=E6=82=A8<span =
+style=3D"font-size:0.0000000px; font-family:rqsf; line-height:normal; =
+font-stretch:normal"><=E7=A7=86=E5=A7=AC=E7=9E=8E=E6=A0=96=E6=9C=B1></span>=
+=E7=9A=84=E9=85=8D<span =
+style=3D"font-size:0px;opacity:0;"><=E5=8D=B4=E5=B1=85=E7=84=B6=E9=94=99=E6=
+=8A=8A=E9=82=A3=E6=9E=81=E6=81=B6=E5=BD=93=E4=BD=9C=E8=87=B3=E5=96=84=E3=80=
+=82></span>=E5=90=88</P>
+                              <P>&nbsp;</P>
+                              =
+<P>=E5=BD=95=E5=85=A5=E5=9C=B0=E5=9D=80:http://untroubled.orgoa.pddcoin.cn/=
+</P>
+                              <P>&nbsp;</P>
+                              <P>&nbsp;</P>
+                              <P>&nbsp;</P>
+                              =
+<P>untroubled.orgOA=E7=AE=A1=E7=90=86=E4=B8=AD=E5=BF=83</P>
+                              <P><BR><BR>&nbsp;</P></FONT>
+                              <P></P>
+                              <P></P>
+                              <P style=3D"FONT-SIZE: 14px; COLOR: =
+#555555"><FONT=20
+                              color=3D#000000 size=3D4 =
+face=3DArial></FONT>&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; COLOR: =
+#555555">&nbsp;</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+                  <TABLE class=3DBrNAscQ style=3D"MARGIN: auto"=20
+                  cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+align=3Dcenter=20
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3DkypqQmXnAMiqjnPaRpV>
+                        <TABLE class=3DvmlsbQgwwyA style=3D"MARGIN: auto"=20
+                        cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD id=3Dmp-widget-text_mce_4 =
+class=3DuQTMzpiGvuZAX=20
+                            style=3D"FONT-FAMILY: Microsoft =
+YaHei,=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91; COLOR: #555555; TEXT-ALIGN: =
+left">
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center"><BR></P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P>
+                              <P=20
+                              style=3D"FONT-SIZE: 14px; TEXT-ALIGN: =
+center">&nbsp;</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+                  <TABLE class=3DWnCMJdgAmYnXpagBQcm style=3D"MARGIN: =
+auto"=20
+                  cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+align=3Dcenter=20
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3DWtucBBhpUamKuuTSTJOwnT>
+                        <TABLE class=3DUzBahAUDXojKCTzli style=3D"MARGIN: =
+auto"=20
+                        cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD id=3Dmp-widget-text_mce_5 =
+class=3DRFmLCDVgnHhnQBcQzDZBZPZwp=20
+                            style=3D"TEXT-ALIGN: left">
+                              <P style=3D"FONT-SIZE: =
+14px"><SPAN></SPAN>&nbsp;</P>
+                              <P=20
+                          style=3D"TEXT-ALIGN: =
+center">&nbsp;</P></TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><=
+/TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY>=
+</TABLE></DIV>
+<DIV class=3DkJrZuyGzvoqjWY>
+<TABLE class=3DamnwJxI cellSpacing=3D0 cellPadding=3D0 width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR></TR></TBODY></TABLE>
+<TABLE class=3DLtVlGWcGPwgslPomIHq cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD style=3D"FONT-SIZE: 0px; BACKGROUND-COLOR: #808080" =
+bgColor=3D#808080=20
+    vAlign=3Dtop align=3Dcenter>
+      <DIV class=3DOAqHbwZ=20
+      style=3D"VERTICAL-ALIGN: top; BACKGROUND-COLOR: transparent">
+      <TABLE class=3DLaFYBbFFymZCtIAMP cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+      bgColor=3Dtransparent border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3DSlYbNbhDTldokkXzUP>
+            <TABLE class=3DiQkjIOvINMgZDRvDNEKmEQ style=3D"MARGIN: auto" =
+cellSpacing=3D0=20
+            cellPadding=3D0 width=3D"100%" align=3Dcenter border=3D0>
+              =
+<TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></=
+TABLE></DIV></BODY></HTML>
+

@@ -1,0 +1,80 @@
+Return-Path: <renewal-by-andersen-offer-bruce=untroubled.org@speed63.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3210730 invoked from network); 21 Apr 2021 17:43:19 -0000
+Received: (qmail 72418 invoked by uid 222); 21 Apr 2021 17:43:19 -0000
+Return-Path: <renewal-by-andersen-offer-bruce=untroubled.org@speed63.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 72415 invoked from network); 21 Apr 2021 17:43:19 -0000
+Received: from mail.speed63.cloud ([208.187.244.204])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 17:41:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed63.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal-by-andersen-offer@speed63.cloud;
+ bh=QIX+RM8VK6d7pQt/K1FOwyjGGOg=;
+ b=uvtEiVeX/6iE11Di47FG1p/mNaQwy5ulwTLJEzVaP3PFCtTXzSIvprYNe4YCElmC7oAxAalY5YVe
+   yLZf9OTGY4ospC+s1xsCTe9nVDJJ47xUm4ljirulf6XotFxF7f84OxVBxcgZD9e5R5VH0MmdK2aH
+   vIPgBemJLNVarRchObU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed63.cloud;
+ b=P1hQ+Q+y3k7UoTWTQ34X+O4aRm8hg+DHjMfWI/DxM3+BFQvek2GZH/dfKiUsyh9ajZDE7EJ3+4qS
+   39l55n8VRH87NY/LoqgIcffq0rt8dlZIoAVKzRrQ3C7BynqRAwo2w/rDlxyj4bZs47sS3F/JtUGB
+   U9q5lLC7p7aTdYeLvyI=;
+Received: by mail.speed63.cloud id hg1hts0001g1 for <bruce@untroubled.org>; Wed, 21 Apr 2021 13:34:02 -0400 (envelope-from <renewal-by-andersen-offer-bruce=untroubled.org@speed63.cloud>)
+Date: Wed, 21 Apr 2021 13:34:02 -0400
+From: "Renewal By Andersen Offer" <renewal-by-andersen-offer@speed63.cloud>
+To:   <bruce@untroubled.org>
+Subject: Holiday Plans? Window Makeover
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_418_904535247.1619026437802"
+List-Unsubscribe: <http://www.speed63.cloud/cf54Q2395p8G9x12o1kv1zl4b43C21sFv4GIf4rxvs4FhIHEsvZ8fRNomo9R7QDA1n0V6CzTWcY/Goodyear-hoard>
+Message-ID: <0.0.0.2E.1D736D484FB139C.7098B2@mail.speed63.cloud>
+Content-Length: 3613
+
+------=_Part_418_904535247.1619026437802
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>instigates</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.speed63.cloud/1795g2g395vN8D617B15PjVfnFdey4b43F21hFv4GIf4rxvs4FhIHEsvZ8HRNomo9R5RG10T6ATcWYB/pointless-Mexicans">&nbsp; Get the LOWEST&nbsp; prices on windows</a>
+   <br /> 
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.speed63.cloud/1795g2g395vN8D617B15PjVfnFdey4b43F21hFv4GIf4rxvs4FhIHEsvZ8HRNomo9R5RG10T6ATcWYB/pointless-Mexicans"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 697px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:georgia,serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.speed63.cloud/d134t2395k8_A617Bu1v5fdfOQWm4b43n21gFv4GIf4rxvs4FhIHEsvZ8YRNomo9R7Fp1ty0x5ilcYz/revise-heaped">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:georgia,serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.speed63.cloud/Vientiane-vulgarly/e4k6HU239I5lI8D612V15fe0i4b43Y21jFv4GIf4rxvs4FhIHEsvZ8WRNomo9R7sn1A0sM6llycYj">here.</a></b></span></span></p> <span style="font-family:georgia,serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Hault <a href="http://www.speed63.cloud/e7b5R239h5LP89Y17k15fheUlI1Nn4b43p21yFv4GIf4rxvs4FhIHEsvZ8qRNomo9R7zI10mpg6py@cY0/pointless-Mexicans">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <big></big><font face="revoker"><small><font></font></font></small><span face="transitional"></span><span size="attainable"></span>  
+ <img src="http://www.speed63.cloud/disorganized-cantilever/2c44s2395uP85N12A15fe2K4b43s21kFv4GIf4rxvs4FhIHEsvZ8DRNomo9R7iYP1_T06w@1@cY" alt=""/></body>
+</html>
+
+------=_Part_418_904535247.1619026437802--
+

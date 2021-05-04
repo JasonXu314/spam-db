@@ -1,0 +1,72 @@
+Return-Path: <luciasande93@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3164913 invoked from network); 20 Apr 2021 15:35:19 -0000
+Received: (qmail 54881 invoked by uid 222); 20 Apr 2021 15:35:19 -0000
+Return-Path: <luciasande93@gmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 54878 invoked from network); 20 Apr 2021 15:35:19 -0000
+Received: from mail-ed1-x536.google.com (mail-ed1-x536.google.com [IPv6:2a00:1450:4864:20::536])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 20 Apr 2021 15:35:18 -0000
+Received: by mail-ed1-x536.google.com with SMTP id d21so25530947edv.9
+        for <bruce@untroubled.org>; Tue, 20 Apr 2021 08:35:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:date:message-id:in-reply-to:references:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=9OXLLzkhViPILoXxbBrfE08xUaTdRf19U7hLdfi0eXY=;
+        b=AlEP3BwJQ6CI1qdRMucHzk6Q47tOaarS3Xvq8Td+F2t8oJpSQrk5z2iUdDC+/OcIjY
+         TuUkwcgjqzHbE60TQy+2cUNTsICfzkeKHiNP/VD8qtuHU7x70GcYFjqYFgYMGwTUczlh
+         NDIBmXNP1Vf9X5ec4qlRtrVxYrfpjoDMPOTuOVYRoYPn9+6fOJwQlX5M7ltGkXzfm7Z/
+         eRvME3hypBUC+KAER2dV5d3eN9aMqHgU5B1btAqgfKE7N11+8oTK3ZyN0OzwHB8eMMMn
+         rcPj67u6Qgv5cONiXBNb4iY1+5OKIp/iqIXM/zBec4KvgB8+G+RjvbQrtb50uHy5LELG
+         KMLQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:date:message-id:in-reply-to:references
+         :subject:mime-version:content-transfer-encoding:content-disposition
+         :precedence:auto-submitted;
+        bh=9OXLLzkhViPILoXxbBrfE08xUaTdRf19U7hLdfi0eXY=;
+        b=rla6HdA1UedgpxfhgSSEoJVW3elC+p7TpTWOK3v9OOrcIX9p8Gwj0umeHVkC4pTe0e
+         u4QZQnCTtBN7hV5qWSv09TJXxlaJ2K4Ve5KTietu90WU6xnMt4fl4HgPTL+YV06cdSh+
+         YrcElIgq39M1mTSPUl/svJliof3zuh3jZaJtZb38fYCDBSCLQF++fiyWjoEk1eyjenqR
+         R9a+2EQ9/SZf7fHXUQWBi2Hrwdls249u8OkGR59+IJIS6Ly8CHimDG5KERp4zJpG/yDc
+         llluLskbrpiDIubuuOFfZwerGW8ajtKBB3vDC1S4LFHQWxgHinLM6rZsdCJ/aLFyNUsO
+         DIhQ==
+X-Gm-Message-State: AOAM531GpWOCrIrr6UfMwQvDdgvRAZ7qjffx7cUa1AVkeiaI3h4nTgC9
+	+BjUEFjFJDU0LHYVS+ELDnrfZGOArNBpvK4/H5O/LnKxm3BHeQJz7kwlSONCGg==
+X-Google-Smtp-Source: ABdhPJzuElbzvCcE0Qo+a1MSJ4BrDnVf1DKgglMihytBoeZNXoFzKK+WPIT/sjsqPP+ZzeO9cIksiQ4niHlbTv1crQeQLF9plmdl90OavQyJ
+X-Received: by 2002:aa7:c9cf:: with SMTP id i15mr33721233edt.4.1618932916010;
+        Tue, 20 Apr 2021 08:35:16 -0700 (PDT)
+To: bruce@untroubled.org
+From: "My Walgreens" <luciasande93@gmail.com>
+Date: Tue, 20 Apr 2021 08:35:15 -0700
+Message-ID: <CALQaQ_eY9MuPy8ZYybS2-Zdg7wu=BJiOvowuBsPHZGGDyb+rHA@mail.gmail.com>
+In-Reply-To: <556623937.-9237075709.27170668@Insidefacebook.facebook.com>
+References: <27170668.892284484.-6831408647.9272543290299@Insidesamsung..com>
+	<246246520.-27170668.1586002298045@mail.ru>
+	<556623937.-9237075709.27170668@Insidefacebook.facebook.com>
+Subject: Re: We have a surprise for Walgreens Shoppers
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+Content-Length: 941
+
+PGNlbnRlcj4NCjxicj4NCjxhIGhyZWY9Imh0dHBzOi8vYml0Lmx5LzJQWXNsdUcjOTk1MCIgYWx0
+PSJDbGljayBoZXJlIiB0YXJnZXQ9Il9ibGFuayI+DQo8aW1nIHNyYz0iaHR0cHM6Ly9jZG4uZGlz
+Y29yZGFwcC5jb20vYXR0YWNobWVudHMvODA3NTQxNjQ5MzkxNjE2MDE3LzgzMTQ3NjY0NDQ3NTgz
+MDI4Mi9TY3JlZW5zaG90XzIwMjEtMDQtMTNfSGlfUmVhbGx5X0dvb2RfRW1haWxzX2hvd19hcmVf
+eW91X2xpa2luZ19Cb2R5Xy5wbmciPg0KPC9hPiANCjwvY2VudGVyPg0KPGJyPg0KDQo8Y2VudGVy
+Pg0KCSAgICA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOm5vbmU7Y29sb3I6IzRhNGE0YTtib3Jk
+ZXItY29sbGFwc2U6Y29sbGFwc2UiPjwvYT5JZiB5b3UgZG9uJiMzOTt0IHdhbnQgdG8gcmVjZWl2
+ZSB0aG9zZSBlbWFpbHMgYW55bW9yZSwgdGhhdCYjMzk7cyBjb29sIC0geW91IGNhbsKgPGEgaHJl
+Zj0iaHR0cHM6Ly9iaXQubHkvMlFlUWJsRCMyMjE3IiBzdHlsZT0iY29sb3I6IzRhNGE0YTt0ZXh0
+LWRlY29yYXRpb246dW5kZXJsaW5lO2JvcmRlci1jb2xsYXBzZTpjb2xsYXBzZSIgdGFyZ2V0PSJf
+YmxhbmsiPlVuc3Vic2NyaWJlPC9hPjxicj4gb3IgYnkgd3JpdGluZyB0byA2MTMwIFcgRmxhbWlu
+Z28gUmQgTGFzIFZlZ2FzLCBOViA4OTEwMywgIGJ1dCB3ZSB3aWxsIG1pc3MgeW91IQ0KCSAgPC9j
+ZW50ZXI+DQoNCg==

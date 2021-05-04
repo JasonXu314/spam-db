@@ -1,0 +1,192 @@
+Return-Path: <emanuel-rice-bruce=untroubled.org@nextdooradamsestates.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3214850 invoked from network); 21 Apr 2021 20:29:23 -0000
+Received: (qmail 74124 invoked by uid 222); 21 Apr 2021 20:29:22 -0000
+Return-Path: <emanuel-rice-bruce=untroubled.org@nextdooradamsestates.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 74121 invoked from network); 21 Apr 2021 20:29:22 -0000
+Received: from mail.nextdooradamsestates.com (205-236-248-139.serversto.com [205.236.248.139])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 20:29:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=nextdooradamsestates.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=emanuel-rice@nextdooradamsestates.com;
+ bh=08UQEQibSsOhyR8Xchu5QPCfDeg=;
+ b=Tfqxrn14hhjRk8a6TGv+QSuJSSk+EFA8TG/HeFCZ9MbDZpYbAZ3wdy5Y7orDWvRdP9IXgfc7JL35
+   s8E+H3/qh+gyH3RXbL6q5+y/UIPjcMFLLYXMkb2OTS00/EOAi6y6nhMxrMIpQsSKHPtX/PSMjRX6
+   YTKPWzp6sN7LwfIAZZk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=nextdooradamsestates.com;
+ b=HA2qQXa3rqH8y2lIP7s2MAlH53IhPunUCzUMJ1Wz8APxIcEjMij+lk0Y/NF35T9M+21EyT4T5PpI
+   mJ0kkwb+m6OrHsiGaqqzzyFqoN3vubAOKhYo17Fr9VD/1qlZTyZVPWkggmafidyK9vDRKiSc+9BN
+   t7YT0PCmpeL/EdbO4/Y=;
+Received: by mail.nextdooradamsestates.com id hg25qc0001g1 for <bruce@untroubled.org>; Wed, 21 Apr 2021 16:25:36 -0400 (envelope-from <emanuel-rice-bruce=untroubled.org@nextdooradamsestates.com>)
+Date: Wed, 21 Apr 2021 16:25:36 -0400
+From: "Emanuel Rice" <emanuel-rice@nextdooradamsestates.com>
+To:   <bruce@untroubled.org>
+Subject: Take this air conditioner with you anywhere
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_403_1700966106.1619036390227"
+List-Unsubscribe: <http://www.nextdooradamsestates.com/4zd4D2395G89Ky11zu1NM1Z4f8o21hFv4GIf4rxvs4FhIHEsvZ7XQOnoee5nmv106C@Tsvj/failure-sponsor>
+Message-ID: <0.0.0.43.1D736EC7CFA3DEA.48F02A@mail.nextdooradamsestates.com>
+Content-Length: 10197
+
+------=_Part_403_1700966106.1619036390227
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+1 DAY LEFT!
+Daily Deal 72% OFF!
+
+3 in 1 Portable Space Cooler: Air conditioner, humidifier, air purifier.  While it's small in size, it's mighty in power, and will make quick work of cooling your home down for the benefit of your family, friends and work colleagues.   During the heat of summer, the inside temperature of your home or place of business can become unbearable.  However, the thought of a high power bill can also be more than enough incentive to just battle through and wear less clothing.  Air conditioners, as a whole, are also expensive to buy, cumbersome to operate, and take up more room in your home than you typically have spare.  Therein lies the question: Can there be another solution?
+
+
+Take Up To 72% Off Today Only -> http://www.nextdooradamsestates.com/justifier-prowled/8466O2r39m5hhR8610p2182C4f8F21mFv4GIf4rxvs4FhIHEsvZ7OQOnoee7jZWSt106Nl@3sv
+
+
+
+
+
+If you have any questions, we are Hawking, Black, and Johl Publishing Group
+34 Miller Rd.  Farmingdale.  NY, 11735.  Edit prefs http://www.nextdooradamsestates.com/de55F2q395J8h6W12G2g1B7dn4f8Z21sFv4GIf4rxvs4FhIHEsvZ7cQOnoee5N1ty05Vzs2v/passive-mournful
+
+
+------=_Part_403_1700966106.1619036390227
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table width="100%" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#ffffff" width="100%"> 
+      <div style="line-height: 5px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width88 hauto" width="166"><img class="width88 hauto" style="display: block; border: 0;" src="http://www.nextdooradamsestates.com/1014d2395P7IXa10p217eY4f8M21mFv4GIf4rxvs4FhIHEsvZ7fQOnoee5BPH106dlUNsv/justifier-prowled" alt="" width="127" height="auto" /></td> 
+         <td class="width232 hauto" align="right" valign="bottom" width="434">&nbsp;</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix line8" style="line-height: 15px;">
+       &nbsp;
+      </div> 
+      <table class="width320 hauto" border="0" width="600" cellspacing="0" cellpadding="0" bgcolor="#eeeeee"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 2px;" align="center" valign="middle"> 
+          <div style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decoration: none; padding-top: 10px;">
+           <img src="http://www.nextdooradamsestates.com/51b5H2u395Dq7Ca10a217fw4f8J21wFv4GIf4rxvs4FhIHEsvZ7oQOnoee5m1FZ05p1sLv/Martinson-receptive" width="350" />
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" width="600"> 
+          <table cellspacing="0" cellpadding="0"> 
+           <tbody> 
+            <tr> 
+             <td class="width320" style="padding: 20px;" align="center" valign="top" bgcolor="#eeeeee" width="600"><a href="http://www.nextdooradamsestates.com/8814M2395Yx8y611o21T7bK4f8r21QFv4GIf4rxvs4FhIHEsvZ7EQOnoee5SM10m5IJsMv/cloudiness-surveyed"><img style="display: block; font-family: arial, sans serif; font-size: 20px; color: #ffffff;" src="http://www.nextdooradamsestates.com/13d4r2395wL7Ia10B2180o4f8h21bFv4GIf4rxvs4FhIHEsvZ7GQOnoee7lSK1h0s6iWOBsv/cloudiness-surveyed" width="100%" height="auto" border="0" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" align="center" width="600"> 
+          <div class="lhfix line12" style="line-height: 14px;">
+           &nbsp;
+          </div> 
+          <table class="width280" border="0" width="540" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 12px;" align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text-decoration: none;">
+               <a style="color: #832d98; text-decoration: none; font-weight: bold;" href="http://www.nextdooradamsestates.com/3595iQ2395v8FP610A217cK4f8U21rFv4GIf4rxvs4FhIHEsvZ7sQOnoee6KMiT106fUAs@v/tightener-retrace">CoolAir</a> is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp; &nbsp;
+              </div> </td> 
+            </tr> 
+            <tr align="center"> 
+             <td style="padding-top: 16px;"><a href="http://www.nextdooradamsestates.com/8814M2395Yx8y611o21T7bK4f8r21QFv4GIf4rxvs4FhIHEsvZ7EQOnoee5SM10m5IJsMv/cloudiness-surveyed"><img src="http://www.nextdooradamsestates.com/40d6uA2D395LRk7a12pu21D81Y4f8x21CFv4GIf4rxvs4FhIHEsvZ7yQOnoee5YZ1n06r0sUv1/getting-armadillo" alt="main image" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table cellspacing="0" cellpadding="0" bgcolor="#fff"> 
+           <tbody> 
+            <tr> 
+             <td class="width20" width="31">&nbsp;</td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix" style="line-height: 30px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 19px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="border-top: 1px solid #B7B7B7; line-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="center" width="560"> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fargo, ND 58103/2931 
+           <a href="http://www.nextdooradamsestates.com/passive-mournful/daa6n23nD95oy8V611e217dZi4f8W21YFv4GIf4rxvs4FhIHEsvZ7DQOnoee6YO1p0g5LlsWv">Want to stop future messages?</a>
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+            <p class="css-19dnnol">&nbsp;</p> 
+           </div> 
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <p><span style="color: #ffffff;"><strong>Argentina</strong>&nbsp;is facing its ?worst moment? of the pandemic, the country's health minister said on Wednesday, as deaths from the virus neared 60,000 amid a sharp second wave that has forced the country to re-impose some lockdown measures.</span></p> 
+           <p><span style="color: #ffffff;">Reuters reports that&nbsp;<strong>Carla Vizzotti&nbsp;</strong>warned the country's healthcare system was at risk, especially in the metropolitan area around the capital&nbsp;<strong>Buenos</strong>&nbsp;<strong>Aires</strong>, which had forced the government to restrict movement and suspend indoor activities.</span></p> 
+           <p><span style="color: #ffffff;">?We are living through the worst moment of the pandemic now,? she told a daily briefing, adding the country was seeing an important rise in the circulation of new variants, with the virus surging in the capital and beyond.</span></p> 
+           <blockquote class="quoted"> 
+            <div class="quoted__contents"> 
+             <p><span style="color: #ffffff;">It's growing exponentially in most of the country.</span></p> 
+            </div> 
+           </blockquote> 
+           <p><span style="color: #ffffff;">Argentina, which is rolling out an inoculation program largely around Russia's Sputnik V vaccine, has recorded over 2.7 million Covid-19 cases and has set a series of new daily records for infections in recent weeks. Deaths from the virus are likely to hit 60,000 later on Wednesday.</span></p> 
+           <p><span style="color: #ffffff;">A local laboratory on Tuesday said it had produced a test batch of Sputnik V ahead of planned large-scale manufacture later this year. Vizzotti said it was ?great news? though cautioned it needed to be quality controlled and that the time frame would depend on how that process went.</span></p> 
+           <p><span style="color: #ffffff;">Carlos Camera, an Argentine infectious disease expert, said there was a possibility of health systems being overwhelmed, which was the cause of new restrictions that had sparked some protests amid a fragile economic rebound.</span></p> 
+           <p><span style="color: #ffffff;">?What was not foreseen was the size with which this second wave has hit and above all the speed of it compared to the speed we've managed with vaccinations,? he said.</span></p> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.nextdooradamsestates.com/playground-plucks/33c5zg2395n8z5R12tJ21t83R4f8Z21hFv4GIf4rxvs4FhIHEsvZ7lQOnoee7K1K0HzK6BMs@vA" alt=""/></body>
+</html>
+
+------=_Part_403_1700966106.1619036390227--
+

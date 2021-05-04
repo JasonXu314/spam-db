@@ -1,0 +1,78 @@
+Return-Path: <my_senior_perks_american_seniors-bruce=untroubled.org@tspeed27.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3531309 invoked from network); 23 Apr 2021 18:53:32 -0000
+Received: (qmail 22202 invoked by uid 222); 23 Apr 2021 18:53:31 -0000
+Return-Path: <my_senior_perks_american_seniors-bruce=untroubled.org@tspeed27.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 22199 invoked from network); 23 Apr 2021 18:53:31 -0000
+Received: from mail.tspeed27.cloud ([70.102.102.48])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 18:53:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed27.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my_senior_perks_american_seniors@tspeed27.cloud;
+ bh=XcmintHR+4sWFEnzYK/Lr1PqaPM=;
+ b=YVgaZiZWh9i0JnHqm115gRKx+J8h4BkPJGXx3OtnKPNiE9LtuEe1FRUY+bRUeO4Zb9rnHuTolo8Q
+   uZc+hfVHHC+21l9o7Vpk3Gq1Z56Bs+fH/2GF4bswQAiDD+rrLqPLyiDYWcPwo4/H7J+vp8GTEHk4
+   NK555CMbwVmxqRG6IAE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed27.cloud;
+ b=nPt8I9OzeWMF4VnMnK5R5BjT/dh1DySssMNKDXjd+Qm7S6B+M2T0GJg134DYisfq5vkGVLKb+WjJ
+   mT6OTUvm+eueKcGggtPeKftyjUsNlC7LZWds0BcyYjLSX088EIgosmkYYk8zYCY4L3X+zOTVCr6I
+   jIwITtji+qjvSxsFeeA=;
+Received: by mail.tspeed27.cloud id hgcbqc0001g1 for <bruce@untroubled.org>; Fri, 23 Apr 2021 14:39:58 -0400 (envelope-from <my_senior_perks_american_seniors-bruce=untroubled.org@tspeed27.cloud>)
+Date: Fri, 23 Apr 2021 14:39:58 -0400
+From: "My Senior Perks American Seniors" <my_senior_perks_american_seniors@tspeed27.cloud>
+To:   <bruce@untroubled.org>
+Subject: Updated - 18 of the best senior deals today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_292_935797086.1619203187155"
+List-Unsubscribe: <http://www.tspeed27.cloud/apparent-fairyland/13e6B2U3D95ES8p913jC1hTC1N4b62x21yFv4GIf4rxvs4FhIHEsvZ11kR2omoRKoP97DMD1n0n6iBXcYP>
+Message-ID: <0.0.0.20.1D738700F9FAAAC.70EB43@mail.tspeed27.cloud>
+Content-Length: 2856
+
+------=_Part_292_935797086.1619203187155
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>groped</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.tspeed27.cloud/6bf4a2395v86nF17S1MgrC60n8cH4b62_21iFv4GIf4rxvs4FhIHEsvZ11YR2omoRKoP96jP10KQ6U@cYT@/headphone-strangely">Hidden deals for seniors to save</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.tspeed27.cloud/6bf4a2395v86nF17S1MgrC60n8cH4b62_21iFv4GIf4rxvs4FhIHEsvZ11YR2omoRKoP96jP10KQ6U@cYT@/headphone-strangely"><img alt="senior s" src="http://www.tspeed27.cloud/violating-Rocco/Ze45l2j395Q7a_v13Y1608qfI4b62I21mFv4GIf4rxvs4FhIHEsvZ11IR2omoRKoP97Og1Tl0_5MXcYA" style="border-width: 0px; border-style: solid; height: 1219px; width: 651px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:georgia,serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed27.cloud/2ff5o23K95Qt8k613EO1608dD4b62Z21JFv4GIf4rxvs4FhIHEsvZ11BR2omoRKoP95G1oC05ML3cY/apparent-fairyland"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.tspeed27.cloud/6bf4a2395v86nF17S1MgrC60n8cH4b62_21iFv4GIf4rxvs4FhIHEsvZ11YR2omoRKoP96jP10KQ6U@cYT@/headphone-strangely"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed27.cloud/c414r2395w89Fk12M1608eP4b62Y21FFv4GIf4rxvs4FhIHEsvZ11zR2omoRKoP95a1Bo06uqz3cY/tenants-varieties">&nbsp; Get out Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <font title="rebels"></font><span dir="palliative"><big></big><big></span><span></span></big>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed27.cloud/irreflexive-dabbling/15c4b2395CA8u517v1Tn6090wHRR4b62m21cFv4GIf4rxvs4FhIHEsvZ11QR2omoRKoP96UV1Uw05tBc@Y" alt=""/></body>
+</html>
+
+------=_Part_292_935797086.1619203187155--
+

@@ -1,0 +1,74 @@
+Return-Path: <contato@empty.com.br>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3473972 invoked from network); 23 Apr 2021 15:49:45 -0000
+Received: (qmail 20073 invoked by uid 222); 23 Apr 2021 15:49:44 -0000
+Return-Path: <contato@empty.com.br>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 20070 invoked from network); 23 Apr 2021 15:49:44 -0000
+Received: from mx12.smtppulse.com (mx12.smtppulse.com [213.109.76.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 15:49:44 -0000
+Received: from [89.45.4.161]
+ by instance-empty.us-central1-c.c.steady-monitor-228721.internal with esmtpa
+ (Exim 4.93) (envelope-from <contato@empty.com.br>)
+ id 1lZuq9-00041c-Im
+ for bruce@untroubled.org; Fri, 23 Apr 2021 09:23:24 -0300
+Mime-Version: 1.0
+From: contato@empty.com.br
+Reply-To: vipfinanceace@gmail.com
+Subject: Re:Raising funds for startup and existing business.
+Date: Fri, 23 Apr 2021 13:23:25 +0100
+X-Bounce-Tracking-Info: <YnJ1Y2UJCQlicnVjZUB1bnRyb3VibGVkLm9yZwlSZTpSYWlzaW5nIGZ1bmRzIGZvciBzdGFydHVwIGFuZCBleGlzdGluZyBidXNpbmVzcy4JMTM4CQk4MDg4CWJvdW5jZQlubwlubw==>
+Content-type: text/plain; charset=iso-8859-1; format=flowed
+Content-transfer-encoding: quoted-printable
+Precedence: bulk
+Received: from username [35.188.80.110] (Authenticated sender:
+ contato@empty.com.br) by smtp-pulse.com (Exim); Fri,23 Apr 2021 15:04:41
+To: bruce@untroubled.org
+Errors-To: postmaster@smtppulse.com
+X-Complaints-To: abuse@smtppulse.com
+Feedback-ID: 7448132:smtp:SP
+List-Unsubscribe: <mailto:unsubscribe_20bd4e4f8b679a8994e296a60ad632db@smtp-pulse.com>,
+ <http://s7448132.unsubscribe.smtppulse.com/20bd4e4f8b679a8994e296a60ad632db>
+Message-Id: <qs0xau-0hff90-he@smtp-pulse.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=smtp-pulse.com; 
+ i=@smtp-pulse.com; q=dns/txt; s=smtpsign; t=1619192981; 
+ x=1619228981; h=subject : from : to : message-id : cc; 
+ bh=3i4qSk691fdesNjoIZrrpd+g4rsKQ7skUaBjAcbd9DM=; 
+ b=NL3lxfYsA6uLEdkO7xpdmYz0yL9YVEzQ6T1MiDrrfbVveRlK+/5p5IX0
+ FA/NmbsV4SW9Kn9NiBqpXymT8fnbBrLtTyCqqnCfAXWQO0CP/IEVj4HxAo
+ I55fIgEYo9FGAKGEUQ3tK/x4QJJfKqBEhcY/m0+pek5G5H5Z9UixKM9DQ=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=empty.com.br; 
+ i=@empty.com.br; q=dns/txt; s=smtpsign; t=1619192981; 
+ x=1619228981; h=subject : from : to : message-id : cc; 
+ bh=3i4qSk691fdesNjoIZrrpd+g4rsKQ7skUaBjAcbd9DM=; 
+ b=DDpRSB2HEzfEpjz2+UDtfLZkQfwpsz6EeUeS/HqGTapbNJtcJ7R2JOV7
+ bJcM1pwbdyJn7PY7CxtX15EIgoBSy1NU6ruEGPWg9/mqjJb3DVP2xnIGN/
+ Ve5REs48KDeIvcofKXPWHOBt3PoJeLhJzhsvh45t3LCtdJ115gj6sq9xY=
+Content-Length: 1142
+
+Dear Friend,
+
+I want to use this medium to wish you a happy and a prosperous new year=
+=2E
+Also, for this fiscal year 2021, this is to inform you that our investor
+have a new funding procedure to fund your project as provided below;
+Funding Option: Funds are credited directly to the bank account through
+Bitcoin wallet=2E Clients will set up a bitcoin wallet with the investor's
+bitcoin platform and client will complete the AML, KYC and account
+activation process=2E The investor's bitcoin platform is linked to their
+bank due to their partnership with their bank=2E After funding to their
+bitcoin wallet, clients can easily login to their bitcoin wallet to
+request and click on withdraw funds and they will be asked to fill in
+their receiving banking details and type in the amount for transfer and
+automatically, the investor's bank will process a wire transfer on
+behalf of client and credit the cash to their bank account in USD or
+their own local currency directly to their bank account=2E
+
+Kindly respond to the above to enable us to take it further from there=
+=2E
+I await your response=2E
+
+Walter Wong=2E
+www=2Eibintlconsult=2Enet
+

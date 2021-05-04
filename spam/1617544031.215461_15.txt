@@ -1,0 +1,133 @@
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@cargo-6.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1118377 invoked from network); 3 Apr 2021 20:58:28 -0000
+Received: (qmail 153229 invoked by uid 222); 3 Apr 2021 20:58:27 -0000
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@cargo-6.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 153226 invoked from network); 3 Apr 2021 20:58:27 -0000
+Received: from mail.cargo-6.com ([70.102.103.95])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 20:58:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cargo-6.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifequote.selectquote.com@cargo-6.com;
+ bh=7Gu+COAYP3oNFO17IGA2n0mh1Sk=;
+ b=GWYBBfoER23/v9nJeBpOzdKa6gm93QOReTWijbY1OPkhFY9/VsDQr5HaHYP5heC0iPCm07aldTeQ
+   I95MSievU7saWDEYjPqSx3l+HDV7J2hk9RdZ5LKZvFpMu6beyx29+OlRhvOv4XeMT1WxappqXWr2
+   KiXSxwedhJnXjL94WpI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cargo-6.com;
+ b=M1m0eFH1pTGx0Ur3oR2KRmfzIyA6+8OUac0dcE5x0SMeMkpos9D9TSdb+vRTodT4LlihLB1adM25
+   Ub707/0WWh/FgE8Bo4XkFcAL0vmP+J9oaOIa7OZmsvEtrHfOeEjwosQjwhOVLjJUcuniBQe2paR8
+   4AmLQqcWSdcwp8zco90=;
+Received: by mail.cargo-6.com id hd3beu0001gl for <bruce@untroubled.org>; Sat, 3 Apr 2021 16:44:19 -0400 (envelope-from <lifequote.selectquote.com-bruce=untroubled.org@cargo-6.com>)
+Date: Sat, 3 Apr 2021 16:44:19 -0400
+From: Lifequote.selectquote.com <lifequote.selectquote.com@cargo-6.com>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_487_1214247784.1617482641711"
+List-Unsubscribe: <http://www.cargo-6.com/d314e2395v89zg13nv1FGY1Y4a34M21qFv4GIf4rxvs4FhIHEsvZ11AROnKKQdoT97hnJ1H0M6Eq3jcY/sharers-pedant>
+Message-ID: <0.0.0.36.1D728CA1EBB4B00.6994E1@mail.cargo-6.com>
+Content-Length: 6677
+
+------=_Part_487_1214247784.1617482641711
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>tailors</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.cargo-6.com/paradigms-conceptualizing/7925S23J95XC8P617eM1pg5az39jB4a34y21OFv4GIf4rxvs4FhIHEsvZ11mROnKKQdoT95e1s0V5hTcYM">Get coverage in minutes and feel the relief </a=
+><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.cargo-6.com/paradigms-conceptualizing/7925S23J95XC8P617eM1pg5az39jB4a34y21OFv4GIf4rxvs4FhIHEsvZ11mROnKKQdoT95e1s0V5hTcYM"><img alt=3D"happyr" src=3D"http://www.cargo-6.com/6655GG2395O7aUG12W15a3dM4a34B21BFv4GIf4rxvs4FhIHEsvZ11aROnKKQdoT96H1L0oS6o@zPcY/boatman-bobbing" style=
+=3D"border-width: 0px; border-style: solid; width: 67%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance produ=
+cts and services through its licensed insurance agency, SelectQuote Insuran=
+ce Services, LLC. SelectQuote Insurance Services is not an insurance compan=
+y. We represent trusted insurance companies, and receive commissions ? and =
+possibly other performance-based compensation ? for our services. Products =
+and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10-y=
+ear policy for under a $1 a day. Example policy is for $23 a month. Policy =
+is a United of Omaha : Term Life Answers 10 is a non-participating term lif=
+e insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwri=
+tten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premiu=
+m is guaranteed to stay the same for the 10 year period. Minimum issue amou=
+nt is $100,000. Premiums include a $62.50 annual policy fee. Forms and plan=
+ provisions may vary by state. Plan is available in all states except New Y=
+ork. Suicide and other limits may apply. The most favorable rate classes (a=
+nd lowest rates) are generally intended for those who can meet strict healt=
+h/lifestyle criteria. All rates subject to underwriting qualifications. Rat=
+es effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous review=
+ and subject to change and/or affirmation. For the latest Best' s Credit Ra=
+tings? and Best' s Credit Reports (which include Best' s Credit Ratings? ),=
+ visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Rat=
+ings? for explanation of use and charges.? ? Best' s Credit Ratings? reprod=
+uced herein appear under license from A.M. Best and do not constitute, eith=
+er expressly or impliedly, an endorsement of SelectQuote or its recommendat=
+ions, formulas, criteria or comparisons to any other ratings, rating scales=
+ or rating organizations which are published or referenced herein. A.M. Bes=
+t is not responsible for transcription errors made in presenting Best' s Cr=
+edit Ratings? . Best' s Credit Ratings? are proprietary and may not be repr=
+oduced or distributed without the express written permission of A.M. Best C=
+ompany.? A Best' s Financial Strength Rating opinion addresses the relative=
+ ability of an insurer to meet its ongoing insurance obligations. It is not=
+ a warranty of a company' s financial strength and ability to meet its obli=
+gations to policyholders. View our Important Notice: Best' s Credit Ratings=
+ for a disclaimer notice and complete details at <a href=3D"http://www.cargo-6.com/boatman-bobbing/daa6D23SR95D86qR13vv15a3aS4a34G21NFv4GIf4rxvs4FhIHEsvZ11vROnKKQdoT95Q1pD05jAcAY">=
+http://www.cargo-6.com/boatman-bobbing/daa6D23SR95D86qR13vv15a3aS4a34G21NFv4GIf4rxvs4FhIHEsvZ11vROnKKQdoT95Q1pD05jAcAY</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 6800=
+ W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote b=
+y a third-party marketing company. You are receiving email from this third-=
+party marketing company because you have expressed your interest in receivi=
+ng commercial email through a site or sites associated with them.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email contains i=
+nformation regarding products and services offered by SelectQuote. If you d=
+o not wish to receive email messages from SelectQuote that are advertising =
+or promotional in nature, pleas</span>e<a href=3D"http://www.cargo-6.com/paradigms-conceptualizing/ed65L23F95Xk8r613z1F5a3bQ4a34V21NFv4GIf4rxvs4FhIHEsvZ11pROnKKQdoT95Y1SB05cPjcY"> unsubscribe =
+here.</a></span></span></p>=20
+      </div> &nbsp; Hault <a href=3D"http://www.cargo-6.com/6474e2395c8m9i13B15ja3cO4a34A21pFv4GIf4rxvs4FhIHEsvZ11oROnKKQdoT96hlFC106BqWcYA/sharers-pedant">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <span title="pediatric"></span><style face="perception"></style><font></font><style title="compilers"><style class="redundancy"><small></style></style></small><small></small><font color="concurs"></font><small></small> =20
+ <img src=3D"http://www.cargo-6.com/22d4e2395UI8K513P15ay3eB4a34t21hFv4GIf4rxvs4FhIHEsvZ11WROnKKQdoT96GRN1J05H1cAY/Harley-unification" alt=3D""/></body>
+</html>
+
+------=_Part_487_1214247784.1617482641711--
+

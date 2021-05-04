@@ -1,0 +1,75 @@
+Return-Path: <my.senior.perks-bruce=untroubled.org@tspeed57.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3612015 invoked from network); 25 Apr 2021 18:58:18 -0000
+Received: (qmail 40217 invoked by uid 222); 25 Apr 2021 18:58:18 -0000
+Return-Path: <my.senior.perks-bruce=untroubled.org@tspeed57.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 40214 invoked from network); 25 Apr 2021 18:58:18 -0000
+Received: from mail.tspeed57.cloud ([208.187.244.212])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Apr 2021 18:58:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed57.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my.senior.perks@tspeed57.cloud;
+ bh=ekaHDO5OTiUZ0YlgbClcEEyAHsU=;
+ b=hON0CWeQ6CkaYVqPohkAGTJfFuFxP1q3JqDBqXiheY7eFw8OAnoUg+EbolgMqA3OYDx9/XVKIem9
+   Y3niHfTdL8jNSIkqI9znq076gU4xaCLh/GqVJrTFFnK9wyp/sKpdCPh6FUAxIVyjTujCjrQ1oIau
+   yGiEnOpLK++KdNAjv0E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed57.cloud;
+ b=kXcUBPzyKQMBxMtLvFVRKcG7ZlJDYRw/O8Z6TZ4STrJj+kfm0zO/hXV2w8OMft6RVv3J7pMxnJA2
+   4ZF0FBvETcmBrFyFgpm7ztPwyJ2/j1orBlSjvMMPqxVysmVvOAAURMVt1s8hyNzKNdpkghZZ7tPc
+   7KMoNk4BRPRoBFm9kII=;
+Received: by mail.tspeed57.cloud id hgmtru0001gu for <bruce@untroubled.org>; Sun, 25 Apr 2021 14:45:37 -0400 (envelope-from <my.senior.perks-bruce=untroubled.org@tspeed57.cloud>)
+Date: Sun, 25 Apr 2021 14:45:37 -0400
+From: "My Senior Perks" <my.senior.perks@tspeed57.cloud>
+To:   <bruce@untroubled.org>
+Subject: 18 discounts for all seniors
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_118_407368472.1619376335717"
+List-Unsubscribe: <http://www.tspeed57.cloud/e3f6M2x39M5Ak89Q12jt11Kxk4b77J21bFv4GIf4rxvs4FhIHEsvZ11QRkomoKno.95nQD105UlcMY/asserter-Riyadh>
+Message-ID: <0.0.0.D.1D73A032EF510C4.6CCA36@mail.tspeed57.cloud>
+Content-Length: 3066
+
+------=_Part_118_407368472.1619376335717
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>cropper</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.tspeed57.cloud/allegation-sepulcher/9cc4y2395k8Z6N12a160ffx4b77n21aFv4GIf4rxvs4FhIHEsvZ11kRkomoKno.97u1syRA06FXc1PY">Seceret deals for seniors to save a bunch </a></span></span>
+  </div> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.tspeed57.cloud/allegation-sepulcher/9cc4y2395k8Z6N12a160ffx4b77n21aFv4GIf4rxvs4FhIHEsvZ11kRkomoKno.97u1syRA06FXc1PY"><img alt="senior s" src="http://www.tspeed57.cloud/24b6RQK2395SX7Ga13y16P102F4b77S21CFv4GIf4rxvs4FhIHEsvZ11oRkomoKno.95hS1w05kzWcY/principle-neurological" style="border-width: 0px; border-style: solid; height: 1226px; width: 655px; " /></a></span>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <font color="#666666">Leave</font><a href="http://www.tspeed57.cloud/be74E2395uOB8613V16100IS4b77F21KFv4GIf4rxvs4FhIHEsvZ11aRkomoKno.96yzU10_6tBcNYP/principle-neurological"><font color="#666666"> Here</font></a>.<br /> <a href="http://www.tspeed57.cloud/allegation-sepulcher/9cc4y2395k8Z6N12a160ffx4b77n21aFv4GIf4rxvs4FhIHEsvZ11kRkomoKno.97u1syRA06FXc1PY"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed57.cloud/asserter-Riyadh/2c44l2395hX8U912p16101h4b77J21kFv4GIf4rxvs4FhIHEsvZ11CRkomoKno.95X10o_5M@cWY">&nbsp; Leave Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <small><span size="governmentally"></span><span dir="bowel"></span></small><font></font><font lang="Georgians"></font><big></big><span><style id="mechanization"><font lang="Pasternak"><style face="wavefronts"></style><span id="comparably"></font></span></span></style>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed57.cloud/af74c2395Mt85W12Q16103t4b77W21nFv4GIf4rxvs4FhIHEsvZ11ERkomoKno.97qvFk10v6dOkcpY/metes-Darwinizes" alt=""/></body>
+</html>
+
+------=_Part_118_407368472.1619376335717--
+

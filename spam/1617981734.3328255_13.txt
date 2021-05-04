@@ -1,0 +1,235 @@
+Return-Path: <steve.taylor@acuitydatasolns.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1543346 invoked from network); 9 Apr 2021 15:03:55 -0000
+Received: (qmail 22130 invoked by uid 222); 9 Apr 2021 15:03:54 -0000
+Return-Path: <steve.taylor@acuitydatasolns.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 22127 invoked from network); 9 Apr 2021 15:03:54 -0000
+Received: from mail-ot1-x343.google.com (mail-ot1-x343.google.com [IPv6:2607:f8b0:4864:20::343])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 09 Apr 2021 15:03:54 -0000
+Received: by mail-ot1-x343.google.com with SMTP id g8-20020a9d6c480000b02901b65ca2432cso5969077otq.3
+        for <bruce@untroubled.org>; Fri, 09 Apr 2021 08:03:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=acuitydatasolns-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=s5dsZSbe3JbK36iEv9ZAySPG/QR8KKxZTuEsdLUsAKo=;
+        b=Q0UIIUASfkmZjsDxoohS05TIdYNN0/gtv548IGId0aYad6RUZcJCCmrsfcOrS0Hq7c
+         bWr3hbhMUw4idBF7qgZRbU5/PFs5BxnA6raeE/u6EQcPZph0l2Nz7mts30/0UxlWDgX/
+         9iLd2ZemTq02CXlvJyMcwYtd9LaIjW93E3IL1Y/2/aCmx7mpkzZhmoJZBSgNaRi5+YfF
+         Qr71s34Ecppq829UUtnuQoJ+DBjmMVC4r9fRelId5/I7JvjC6u9kwfMeJXDp/YquQQgN
+         2ovBtYFNof4RjdDm3tAhsEyXq4ha0S0dM5BSMyHaLzXwcv5DMLmL3O3f97fQaSQtkRB6
+         D2MA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=s5dsZSbe3JbK36iEv9ZAySPG/QR8KKxZTuEsdLUsAKo=;
+        b=p9jHsk5uA31cphYrSTpwC5XAIFeHqzyjiqdIlxFi7uCOhUK8cG1AOkBxpwlJUKbRdb
+         DFns4KIaq6tta4tZzeJjbe7T08I85z2uLJFWvtLDLKidAmGT8m98yAyyPVOAY2qhpwku
+         7BRzVBGGIxMLNQaN7fOs9jWmVspc7vMLRcCXxu9s6bTl9LXWtE/2CjaZ8sm1vSeJeAho
+         ZOPF6EpcuoDmEL7584xmsXU1hdX2ll7UpWwNisA0qDFDNJQn3s4e6UU7QXhSgfLUge5Q
+         nL47YJzTJrGOdy7Y4WMMU2LNKWeXf5qmx8TfGqk3HSupJ3buMRCXtHSc+mQCaCny5/Ef
+         OYdQ==
+X-Gm-Message-State: AOAM530EGXkPTEKbDtEh6Lib+1C/gLNVDzkiZBXxLh7yb9HtQDO4MnHD
+	fFh0XIbqz4l6zubX3VECxGIsJg0lv8ocLwl5U/Zb7A==
+X-Google-Smtp-Source: ABdhPJzYQcKgk4Qfbr+YwZSVwF+korLbBCGW+H0a95Y2u25zBflLvY8nbE0ZUV2B+f7XtkJWdsehFDdF/SXxvu/+zCc=
+X-Received: by 2002:a05:6830:118f:: with SMTP id u15mr12336532otq.43.1617980633486;
+ Fri, 09 Apr 2021 08:03:53 -0700 (PDT)
+MIME-Version: 1.0
+From: Steve Taylor <steve.taylor@acuitydatasolns.com>
+Date: Fri, 9 Apr 2021 08:03:38 -0700
+Message-ID: <CACboZTQQfFDx1et4jfte9E-SmYfvaKPNs8ivO0tK9XrbyHyXrg@mail.gmail.com>
+Subject: GULFOOD 2021 Attendees List
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000e9a89705bf8b78d0"
+Bcc: bruce@untroubled.org
+Content-Length: 7386
+
+--000000000000e9a89705bf8b78d0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+
+
+Hope you are doing well.
+
+
+
+I see that your company is a part of this event *GULFOOD 2021.*
+
+
+
+So I=E2=80=99m wondering if you are interested in acquiring Attendees List =
+contacts
+of
+
+*30,382 *for your pre and post event campaigns.
+
+
+
+We provide all the relevant information about the attendee including
+Company Name, Company URL, Contact Name, Title, Phone number, Fax Number,
+Email Address, Company Address and Industry type.
+
+
+
+Hence you can use this information for your email, telephonic and mailing
+campaigns.
+
+
+
+If you are interested, drop me a line. We will get back to you with
+pricing, counts and other information for your review.
+
+
+
+If you think I should be talking to someone else, please forward this email
+to the concerned person.
+
+
+
+Looking forward to hearing from you.
+
+
+
+Best Regards,
+
+
+
+*Grace Rose*
+
+*Marketing and communication*
+
+
+
+If you don't wish to receive emails from us reply back with =E2=80=9CUnsubs=
+cribe=E2=80=9D.
+
+--000000000000e9a89705bf8b78d0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-size:14pt;font-family:Cambria,serif">Hello,</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">Hope you are doing well.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">I see that your company is a part of this even=
+t <b>GULFOOD 2021.</b>=C2=A0=C2=A0=C2=A0=C2=A0 </span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">So I=E2=80=99m wondering if you are interested=
+ in acquiring Attendees List
+contacts of</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><b><span style=3D"font-size:=
+14pt;font-family:Cambria,serif">30,382 </span></b><span style=3D"font-size:=
+14pt;font-family:Cambria,serif">for your pre and post event campaigns.</spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">We provide all the relevant information about =
+the attendee
+including Company Name, Company URL, Contact Name, Title, Phone number, Fax
+Number, Email Address, Company Address and Industry type. =C2=A0=C2=A0</spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">Hence you can use this information for your em=
+ail, telephonic and
+mailing campaigns.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">If you are interested, drop me a line. We will=
+ get back to you
+with pricing, counts and other information for your review.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">If you think I should be talking to someone el=
+se, please forward
+this email to the concerned person.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">Looking forward to hearing from you.</span></p=
+>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">Best Regards,</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><b><span style=3D"font-size:=
+14pt;font-family:Cambria,serif;color:rgb(31,56,100)">Grace Rose</span></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><b><span style=3D"font-size:=
+14pt;font-family:Cambria,serif;color:rgb(31,56,100)">Marketing and communic=
+ation</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:14p=
+t;font-family:Cambria,serif">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:10p=
+t;font-family:Cambria,serif">If you don&#39;t wish to receive emails from u=
+s reply back with
+=E2=80=9CUnsubscribe=E2=80=9D.</span><span style=3D"font-size:10pt;font-fam=
+ily:Cambria,serif"> =C2=A0</span></p></div>
+
+--000000000000e9a89705bf8b78d0--

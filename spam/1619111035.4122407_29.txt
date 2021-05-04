@@ -1,0 +1,128 @@
+Return-Path: <mildred.tate-bruce=untroubled.org@murphyschooldistrict.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3333810 invoked from network); 22 Apr 2021 15:13:50 -0000
+Received: (qmail 85719 invoked by uid 222); 22 Apr 2021 15:13:50 -0000
+Return-Path: <mildred.tate-bruce=untroubled.org@murphyschooldistrict.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 85716 invoked from network); 22 Apr 2021 15:13:49 -0000
+Received: from mail.murphyschooldistrict.com (205-236-248-32.serversto.com [205.236.248.32])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 15:13:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=murphyschooldistrict.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mildred.tate@murphyschooldistrict.com;
+ bh=nfB3aVDa2/bu5Hgz/pulC569gy8=;
+ b=OdDduhidvz5gdTo0ZKKwMDiumgdPf7usdwiSjjqYSHeCIGwns8+OT1Zdykdp8Na+KKoDnKlKMr4u
+   WxcYilpgr4SLYzdcXM1doOICCIfY22whba/3toYwlKYh3ri0gBqm6StRQzTFgnVGtWnvMOlN0reB
+   KhlB0Bfmf/jxMQq/s28=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=murphyschooldistrict.com;
+ b=mCoK0n8KGfQwcoLCfDFZbFRKIKK2vuBm8vgXyCYAyDB9mhC0z7f4DSK2JMdFnlGeq6CPSB0E4zZX
+   +gX759mQFmHN+TEmuQ33IzQTgps8TBO+fauXVV4tLMgTye6mvO+skLZCkFXetvRBLTqZb/AEeINm
+   e7jdhfR7ujqt0hAnDJ4=;
+Received: by mail.murphyschooldistrict.com id hg69jq0001gm for <bruce@untroubled.org>; Thu, 22 Apr 2021 11:08:17 -0400 (envelope-from <mildred.tate-bruce=untroubled.org@murphyschooldistrict.com>)
+Date: Thu, 22 Apr 2021 11:08:17 -0400
+From: "Mildred Tate" <mildred.tate@murphyschooldistrict.com>
+To:   <bruce@untroubled.org>
+Subject: This tiny air cooler makes any office, room, or tent, cooler and more comfortable.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_985_1590791653.1619103692721"
+List-Unsubscribe: <http://www.murphyschooldistrict.com/5574p2395d8s_912FgK11Ulv4fcI21iFv4GIf4rxvs4FhIHEsvZ7VQ2noKo6tQp1S06vX@Msv/Elisabeth-keyed>
+Message-ID: <0.0.0.A4.1D73789532A4EC2.5A7730@mail.murphyschooldistrict.com>
+Content-Length: 8464
+
+------=_Part_985_1590791653.1619103692721
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Instantly Cool the Air Around You!
+
+
+CoolAir is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long.  Great for offices, nightstands, garages, and more.   In the heart of summer, anyone can benefit from CoolAir.  Whether you're an office worker who's tired of the airless box in which you have to work, or you're a mother with children who won't take a nap in their stifling hot bedroom, AirCool is for you.  For children, this device is even more popular as it also features a nightlight that changes color for ultimate effect. 
+
+However, anyone in need of a cool breeze and a lower temperature in their home or place of business will notice just how beneficial this product can be.  Whether you just want respite as you watch TV in your living room, or you're trying to relax poolside but the heat is too intense, you too, may just find CoolAir ticks all the boxes. 
+
+
+Take Up To 72% Off Instantly -> http://www.murphyschooldistrict.com/Hopkins-Poland/a9e4i2395Gm8C610q21a2o4fcj21JFv4GIf4rxvs4FhIHEsvZ7zQ2noKo7BQqR1O05KUOsv
+
+
+
+
+
+Merryweather Computing Creative Partners.  1009 19th Street S.  Fargo, ND 58103/2931 Want to stop future messages? http://www.murphyschooldistrict.com/restoration-cyclone/1026k23T9H5c8Xr611X219dJ_4fcu21WFv4GIf4rxvs4FhIHEsvZ7QQ2noKo5qO10J5kJPsv
+
+
+------=_Part_985_1590791653.1619103692721
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+   <tbody> 
+    <tr> 
+     <td valign="top"> 
+      <table role="presentation" border="0" width="750" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <table style="width: 500px; font-family: Verdana, sans-serif;" role="presentation" border="0" width="500" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="padding: 25px;">
+               <a href="http://www.murphyschooldistrict.com/1794z2395bNQ8610I219ct4fcg21CFv4GIf4rxvs4FhIHEsvZ7lQ2noKo5cJ1S05U@psv/upgraded-reprisal"> <img style="width: auto; max-width: 95px;" src="http://www.murphyschooldistrict.com/7af6SY23M95EAM7a10z21a0j4fcB21rFv4GIf4rxvs4FhIHEsvZ7gQ2noKo7y1S0orh6IjNjsv/pretends-capability" /> </a>
+              </div> 
+              <div>
+               <a href="http://www.murphyschooldistrict.com/1794z2395bNQ8610I219ct4fcg21CFv4GIf4rxvs4FhIHEsvZ7lQ2noKo5cJ1S05U@psv/upgraded-reprisal" target="_blank" rel="noopener"> <img style="width: 100%;" src="http://www.murphyschooldistrict.com/4674J2395Spu7a12u2QO1a1U4fc_21FFv4GIf4rxvs4FhIHEsvZ7IQ2noKo6UM1lO06nAPs3v/Hopkins-Poland" /> </a>
+              </div> <h1>3-in-1 Portable Air Cooler</h1> <p>Create your own personal microclimate.</p> <p>This 3-in-1 evaporative air cooler cools, humidifies, and purifies the air around you. Ideal for nightstands, desktops, camping tents, or dorm rooms.</p> 
+              <div> 
+               <div style="padding: 10px 18px; background-color: #eb6820; display: inline-block; border-radius: 4px;">
+                <a style="font-weight: bold; text-decoration: none; color: #ffffff;" href="http://www.murphyschooldistrict.com/1794z2395bNQ8610I219ct4fcg21CFv4GIf4rxvs4FhIHEsvZ7lQ2noKo5cJ1S05U@psv/upgraded-reprisal"> GET 50% OFF and FREE SHIPPING </a>
+               </div> 
+              </div> </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table role="presentation" border="0" width="750" cellspacing="0" cellpadding="20" align="center" aria-hidden="true"> 
+       <tbody> 
+        <tr> 
+         <td>&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td>&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td style="font-size: 14px; color: #383838;" align="center"> <p>Click or mail <a style="color: #383838;" href="http://www.murphyschooldistrict.com/4856WDN2395X86wZ12c219HQdW4fcr21pFv4GIf4rxvs4FhIHEsvZ7rQ2noKo5Xl10X6OXsq@v/upgraded-reprisal" target="_blank" rel="noopener"> Anderson Vault Data Transfer </a> to set preferences. <br /> 1444 N 91st Street. Scottsdale, AZ. 85260-7036.</p> 
+          <div class="css-1gvjw7e"> 
+           <div class="article-body-commercial-selector css-79elbk article-body-viewer-selector"> 
+            <p class="css-1x4bywk">&nbsp;</p> 
+            <p><span style="color: #ffffff;">Now that society is slowly opening up again, Beck says this is the ideal time to stick to your guns and be clear with yourself about whom you enjoy spending time with and what you love doing. ?If you are being honest and you are yourself with people, then they connect with you truly. So be true to yourself. Let yourself be seen as quirky or odd. Then the relationships you create with people will be real and solid and indestructible.?</span></p> 
+            <p><span style="color: #ffffff;">This seems like a helpful post-pandemic message: better to be weird than fake. But there is, she adds, another shortcut to keeping it real and connecting with your true self: ?Get a dog. The truth is in that dog?s eyes.?</span></p> 
+            <p><span style="color: #ffffff;">The Way of Integrity: Finding the Path to Your True Self by Martha Beck (Little, Brown, &pound;14.99) is out now. To order a copy, go to&nbsp;guardianbookshop.com. Delivery charges may apply.</span></p> 
+            <p><span style="color: #ffffff;">Listen to Martha Beck on&nbsp;Viv Groskop?s podcast&nbsp;How to Own the Room&nbsp;from&nbsp;23 April.</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span><br /><span style="color: #ffffff;">... we have a small favour to ask. You?ve read&nbsp;</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span><br /><span style="color: #ffffff;">&nbsp;in the last year. And you?re not alone; through these turbulent and challenging times, millions rely on the Guardian for independent journalism that stands for truth and integrity. Readers chose to support us financially more than 1.5 million times in 2020, joining existing supporters in 180 countries.</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span></p> 
+            <p><span style="color: #ffffff;">With your help, we will continue to provide high-impact reporting that can counter misinformation and offer an authoritative, trustworthy source of news for everyone. With no shareholders or billionaire owner, we set our own agenda and provide truth-seeking journalism that?s free from commercial and political influence. When it?s never mattered more, we can investigate and challenge without fear or favour.</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span></p> 
+            <p><span style="color: #ffffff;">Unlike many others, we have maintained our choice: to keep Guardian journalism open for all readers, regardless of where they live or what they can afford to pay. We do this because we believe in information equality, where everyone deserves to read accurate news and thoughtful analysis. Greater numbers of people are staying well-informed on world events, and being inspired to take meaningful action.</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span></p> 
+            <p><span style="color: #ffffff;">We aim to offer readers a comprehensive, international perspective on critical events shaping our world ? from the Black Lives Matter movement, to the new American administration, Brexit, and the world's slow emergence from a global pandemic. We are committed to upholding our reputation for urgent, powerful reporting on the climate emergency, and made the decision to reject advertising from fossil fuel companies, divest from the oil and gas industries, and set a course to achieve net zero emissions by 2030.</span></p> 
+            <p><span style="color: #ffffff;">&nbsp;</span></p> 
+           </div> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table>
+ <img src="http://www.murphyschooldistrict.com/1014w2395gK85m11E21ha3q4fcq21dFv4GIf4rxvs4FhIHEsvZ7cQ2noKo7RSKl1r06zNsy@v/notions-buffering" alt=""/></body>
+</html>
+
+------=_Part_985_1590791653.1619103692721--
+

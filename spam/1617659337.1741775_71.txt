@@ -1,0 +1,64 @@
+Return-Path: <canvasprints-promo-bruce=untroubled.org@cashsuit.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1186104 invoked from network); 4 Apr 2021 15:08:09 -0000
+Received: (qmail 159476 invoked by uid 222); 4 Apr 2021 15:08:08 -0000
+Return-Path: <canvasprints-promo-bruce=untroubled.org@cashsuit.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 159473 invoked from network); 4 Apr 2021 15:08:08 -0000
+Received: from mail.cashsuit.xyz ([70.102.103.62])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 15:08:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cashsuit.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-promo@cashsuit.xyz;
+ bh=U+UD5v+YauUygphK7m/JXDGmiAQ=;
+ b=L26fOoAh5aXwwq2JSzkovvKJu7i6yxQIbPy/Vw+NuIRor1kJPXZ3hXLHU0WmxU0bBdHkeEoN6FSb
+   ow9Von+Y25twXzyVSzfaOM1Gq8oqz7jINTh2TkGlbzwc4kIDYhfT0Oo1sEXfbqSq9Qt0vBBwCvWf
+   9Q71FSS+YCXS+Bswmkw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cashsuit.xyz;
+ b=y7x0sa4NtT19VWK/mhNrSqGETLze3u8uMJkjKCFpTOS+JpAmq1xwmxbFlkPPb3nH/DtSAZUis0ck
+   f77Q8jaV8l5ydKmiTDsGndwPjLQNMKJB3yu+XML6swaKJvh846OO5HrhAiSu8Iu3reynMaNOzfe2
+   9jyK9DhBach94QU/OYY=;
+Received: by mail.cashsuit.xyz id hd7b5c0001g8 for <bruce@untroubled.org>; Sun, 4 Apr 2021 10:57:11 -0400 (envelope-from <canvasprints-promo-bruce=untroubled.org@cashsuit.xyz>)
+Date: Sun, 4 Apr 2021 10:57:11 -0400
+From: "CanvasPrints Promo" <canvasprints-promo@cashsuit.xyz>
+To:   <bruce@untroubled.org>
+Subject: Save Big on Custom Canvas Prints | UNLIMITED Savings
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49_403994735.1617548214827"
+List-Unsubscribe: <http://www.cashsuit.xyz/a614p2395jz8i911oyk11C4a3eL21bFv4GIf4rxvs4FhIHEsvZ11aR3nKKRdou95Hw10s6kpTcYN/prescriptions-phased>
+Message-ID: <0.0.0.6.1D72962CAE9EB46.76498B@mail.cashsuit.xyz>
+Content-Length: 2692
+
+------=_Part_49_403994735.1617548214827
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>sobers</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.cashsuit.xyz/links-Greenberg/3f05t23U95Nr86A13F15ag6eL4a3ew21tFv4GIf4rxvs4FhIHEsvZ11QR3nKKRdou95R1N0h5FyclY"><span style="font-size:18px; ">Spring into savings with our Huge Sale</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.cashsuit.xyz/links-Greenberg/3f05t23U95Nr86A13F15ag6eL4a3ew21tFv4GIf4rxvs4FhIHEsvZ11QR3nKKRdou95R1N0h5FyclY"><img src="http://www.cashsuit.xyz/4c16P2J3s95O7aQn12H15a71Z4a3ei21dFv4GIf4rxvs4FhIHEsvZ11hR3nKKRdou96pu10Fo5b3UcY/Moorish-realize" style="width: 643px; height: 725px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.cashsuit.xyz/magicians-stiffer/e5e5mM2395h86ur12f15a6fS4a3eu21yFv4GIf4rxvs4FhIHEsvZ11KR3nKKRdou96BxX1I05L@cYl"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Halt&nbsp; <a href="http://www.cashsuit.xyz/casework-taxed/ada6bQ23w95W8pw912F15a70h4a3ev21yFv4GIf4rxvs4FhIHEsvZ11yR3nKKRdou96E10_tl6PX3@cY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <font><style style="espousing"></font><font id="Canadian"></style><span></font></span><style></style>
+  </center>   
+ <img src="http://www.cashsuit.xyz/e036pZJ2395AK85p17v1xk5Ua72KRJ4a3el21fFv4GIf4rxvs4FhIHEsvZ11eR3nKKRdou95P1qY06CWlcjY/Moorish-realize" alt=""/></body>
+</html>
+
+------=_Part_49_403994735.1617548214827--
+

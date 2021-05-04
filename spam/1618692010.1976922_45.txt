@@ -1,0 +1,65 @@
+Return-Path: <canvasprints-promotion-bruce=untroubled.org@new2.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2749785 invoked from network); 16 Apr 2021 16:01:19 -0000
+Received: (qmail 107162 invoked by uid 222); 16 Apr 2021 16:01:18 -0000
+Return-Path: <canvasprints-promotion-bruce=untroubled.org@new2.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 107159 invoked from network); 16 Apr 2021 16:01:18 -0000
+Received: from mail.new2.cloud ([91.228.101.63])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 16:01:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=new2.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-promotion@new2.cloud;
+ bh=kF2bN+Pgde9Ktuo3O0VdxzFJCFU=;
+ b=ckDmMnQAa4I3E+ABCb5ZyUuHoTZgZjSAlFj47vEc0jDsRSyQ5Wbg6o6zxpKoo4fv1wbBpsCdUAbl
+   +BsbLhnidZb/PmLLlebHyjfAKrj22l5hshJ7nVbdVFTRlfcCIIqM1B/RM4G/mhNAj7767W/NxIZZ
+   1YpWYJmzXnat0m6vcTc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=new2.cloud;
+ b=dsM6VYF0YWkmlaye0eBQFVoYwMyV8zfybEcE83VGc7EVrjYQKkV1lLxiCemE0JmMxXXfwUrv58tC
+   I5uR99WoHJLTknwMH19Oe7AniLnf2aTbMG4ZN8Nv0UV2KdGsBvMm3pRGwtfI9Xr8ItzCT5w7nK7p
+   IN6MXJqU2LB0CqE8370=;
+Received: by mail.new2.cloud id hf6qcs0001g3 for <bruce@untroubled.org>; Fri, 16 Apr 2021 11:50:22 -0400 (envelope-from <canvasprints-promotion-bruce=untroubled.org@new2.cloud>)
+Date: Fri, 16 Apr 2021 11:50:22 -0400
+From: "CanvasPrints Promotion" <canvasprints-promotion@new2.cloud>
+To:   <bruce@untroubled.org>
+Subject: Save Big on Custom Canvas Prints | UNLIMITED Savings
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_628_933347071.1618588217583"
+List-Unsubscribe: <http://www.new2.cloud/15b6uxK2395vi8L913ylI11Uqs4af4z21GFv4GIf4rxvs4FhIHEsvZ8LRjomnQ95pY1V06hq@@cY/pistols-Israelis>
+Message-ID: <0.0.0.45.1D732D835E3184A.8D073@mail.new2.cloud>
+Content-Length: 2911
+
+------=_Part_628_933347071.1618588217583
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>bartenders</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.new2.cloud/jeopardy-destinies/9ea4g2395roX8612v15e37I4af4v21pFv4GIf4rxvs4FhIHEsvZ8ORjomnQ97mTU1m0t6LXc22Y"><span style="font-size:18px; ">Give Mom a gift to remember</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.new2.cloud/jeopardy-destinies/9ea4g2395roX8612v15e37I4af4v21pFv4GIf4rxvs4FhIHEsvZ8ORjomnQ97mTU1m0t6LXc22Y"><img alt="canvas" src="http://www.new2.cloud/jeopardy-destinies/8be5L2g395z_7am12V15e3aJ4af4H21kFv4GIf4rxvs4FhIHEsvZ8iRjomnQ96bXl10k6v31zcY" style="width: 609px; height: 753px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.new2.cloud/institutionalizing-mailman/8be5n239k5Hr86r13w1F5e38F4af4A21IFv4GIf4rxvs4FhIHEsvZ8RRjomnQ96Sx10wG6PjcpzY"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Exit&nbsp; <a href="http://www.new2.cloud/9715J239K5r8Q9Q13A15e3z9N4af4j21yFv4GIf4rxvs4FhIHEsvZ8ARjomnQ95Q1M_06KqjlcY/larks-asymmetry"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <span face="rusticating"></span><style id="adornment"></style><span id="Latinizer"></span><span id="mindfulness"><big></span></big><span face="Elizabethanize"><span style="blank"></span></span><font></font>
+  </center>   
+ <img src="http://www.new2.cloud/larks-asymmetry/15c5y2F395n85Is13R15e3wbF4af4v21NFv4GIf4rxvs4FhIHEsvZ8lRjomnQ95vI1P06i0cY2l" alt=""/></body>
+</html>
+
+------=_Part_628_933347071.1618588217583--
+

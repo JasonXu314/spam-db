@@ -1,0 +1,84 @@
+Return-Path: <sorbonne@conference-news.website>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1524497 invoked from network); 9 Apr 2021 08:31:25 -0000
+Received: (qmail 15546 invoked by uid 222); 9 Apr 2021 08:31:24 -0000
+Return-Path: <sorbonne@conference-news.website>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 15543 invoked from network); 9 Apr 2021 08:31:24 -0000
+Received: from start-movement-30.movementis.pw (start-movement-30.movementis.pw [139.99.242.167])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 08:31:24 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=default; d=conference-news.website;
+ h=Content-Type:MIME-Version:subject:reply-to:To:From:List-Unsubscribe:Message-ID:Date; i=sorbonne@conference-news.website;
+ bh=MWZx1pcA9eCa2d5b4D9ucXOaw1q9Xc30RLGxSGbhBMQ=;
+ b=DPyhtxrUhAqcAw8gf/l29qaDhco+f86SWjuACnf68G9GmXO0EUtaQ2L8M50pY2Fh8XsdqvnCusB2
+   l5r7F+10c3lmUcaOYMTIREWGTUHfLnFzJNYRrK2nrkDHSLJVPyINaqpAqnnKbc45bgp/i9i/fgZt
+   e6LbkVQfSVONn55OABE=
+Content-Type: multipart/alternative; boundary="===============1643664453532463783=="
+MIME-Version: 1.0
+subject: Paris, Sorbonne Encounter, 2021
+reply-to: office@movementis.co.il
+To:   <bruce@untroubled.org>
+From: Avraham F2 <sorbonne@conference-news.website>
+List-Unsubscribe: <http://track.conference-mail.digital/campaigns/unsubscribelink/MTkyNDc=/ODE3MjM2Nw==/Mjc1>
+X-Int-ID: 0
+X-Mailer-SID: 19247
+X-Mailer-LID: 44365
+X-Mailer-RecptId: 8172367
+X-U-ID: 275
+X-APP: SMTPAPP
+Message-ID: <0.0.0.86.1D72D1AB7FB426C.0@start-movement-30.movementis.pw>
+Date: Fri, 9 Apr 2021 10:31:20 +0200
+Content-Length: 3526
+
+
+								Your mail reader does not support the report format.
+--===============1643664453532463783==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGJyIC8+wqBJZiB5b3UgcmVjZWl2ZWQgdGhpcyBpbnZpdGF0aW9uIGFnYWluc3QgeW91ciB3aWxs
+PGJyIC8+d2UgYXBvbG9naXplLMKgIGFuZCBwbGVhc2UgJ3t7dW5zdWJzY3JpYmVsaW5rfX0nIG1l
+IGZyb20gdGhpcyBsaXN0PGJyIC8+PGJyIC8+wqA8YnIgLz7CoMKgPGJyIC8+PGJyIC8+VGhlIElu
+dGVybmF0aW9uYWwgRW5jb3VudGVyPGJyIC8+PGJyIC8+b248YnIgLz48YnIgLz5Nb3ZlbWVudCBh
+bmQgQ29nbml0aW9uPGJyIC8+PGJyIC8+KHdvcmxkIGNvbmZlcmVuY2UpPGJyIC8+PGJyIC8+UGFy
+aXMsIFNvcmJvbm5lLCAyMDIxPGJyIC8+PGJyIC8+wqA8YnIgLz48YnIgLz5SZXNlcnZlIHlvdXIg
+cGxhY2Ugbm93PGJyIC8+PGJyIC8+b3Igc2VuZCB5b3VyIGFic3RyYWN0wqA8YnIgLz48YnIgLz5N
+b3JlIGRldGFpbHM6wqB3d3cubW92ZW1lbnRpcy5jb208YnIgLz48YnIgLz48YnIgLz48YnIgLz48
+YnIgLz5hbmQgY2hlY2sgZm9yIHlvdXJzZWxmIHRoZSBuZXcgb3Bwb3J0dW5pdHkgdG8gam9pbjxi
+ciAvPjxiciAvPnRoZcKgwqBQb3N0IE0uQS4gLSBQcmUgRG9jdG9yYXRlIGNvdXJzZTxiciAvPjxi
+ciAvPg==
+
+--===============1643664453532463783==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body><img alt="" src="http://track.conference-mail.digital/campaigns/mailopen/MTkyNDc=/ODE3MjM2Nw==/Mjc1" style="display:none"/>
+<p>If you received this invitation against your will</p>
+<p>we apologize,&#160; and please&#160;<a href="http://track.conference-mail.digital/campaigns/unsubscribelink/MTkyNDc=/ODE3MjM2Nw==/Mjc1">Unsubscribe me from this list</a></p>
+<p>&#160;</p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #800080;">The International Encounter</span></p>
+<p style="text-align: center;"><span style="color: #800080;">on</span></p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt; color: #0000ff;">Movement and Cognition</span></strong></p>
+<p style="text-align: center;"><span style="color: #0000ff;">(world conference)</span></p>
+<p style="text-align: center;"><span style="color: #0000ff; font-size: 14pt;">Paris, Sorbonne, 2021</span></p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: center;"><span style="color: #800080;">Reserve your place now</span></p>
+<p style="text-align: center;"><span style="color: #800080;">or send your abstract&#160;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #800080;">More details:</span> <span style="color: #0000ff;"><a href="http://track.conference-mail.digital/campaigns/mailclick/MTkyNDc=/ODE3MjM2Nw==/Mjc1/aHR0cDovL3d3dy5tb3ZlbWVudGlzLmNvbQ==">www.movementis.com</a></span></span></p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: center;">and check for yourself the new opportunity to join</p>
+<p style="text-align: center;">the&#160;&#160;<span style="font-size: 12pt;"><strong><a href="http://track.conference-mail.digital/campaigns/mailclick/MTkyNDc=/ODE3MjM2Nw==/Mjc1/aHR0cHM6Ly93d3cubW92ZW1lbnRpcy5jb20vY291cnNlLw==">Post M.A. - Pre Doctorate course</a></strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff; font-size: 12pt;">&#160;</span></p>
+<p>&#160;</p><p align="center" style="text-align: center; color: rgb(51, 51, 51);" width="100%">Click here if you consider this email as <a href="http://track.conference-mail.digital/campaigns/spamlink/MTkyNDc=/ODE3MjM2Nw==/Mjc1" style="text-decoration: none; color: rgb(200, 157, 67);" target="_blank">Spam</a></p>
+</body>
+</html>
+--===============1643664453532463783==--

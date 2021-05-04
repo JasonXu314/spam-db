@@ -1,0 +1,106 @@
+Return-Path: <31839-44520-39280-8317-bruce=untroubled.org@mail.budspro.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2927333 invoked from network); 18 Apr 2021 08:24:23 -0000
+Received: (qmail 9357 invoked by uid 222); 18 Apr 2021 08:24:23 -0000
+Return-Path: <31839-44520-39280-8317-bruce=untroubled.org@mail.budspro.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 9354 invoked from network); 18 Apr 2021 08:24:23 -0000
+Received: from nan.budspro.us ([134.73.142.212])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Apr 2021 08:24:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=budspro.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ConcealedCarryShirt@budspro.us;
+ bh=Ato4BKtDQXV1rPHaDJpUaNxRbYw=;
+ b=fZrQ4BDiQFiVg3D14nSXBQ0W7pH6w50rThNzMb9cYzq9+hsTPbERIj5ePi5PRWvZgedjNd6Qs8tn
+   HpGn5ZtFqWqcjcH8poAd2zTX+Cie1NNEgTL3oyZKV5dJN6zFI1zePsFBUwfjc8sxrSDdtNOnuclW
+   7QHPhE5hvhsIuHv0Rpw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=budspro.us;
+ b=oTjuDVGORCO6EKaQ7heAI4Rd73pfBjkTCbRzs6B+oQ5WX3P0zMjxUmodShpN1rn9ueZPQLiTUCCm
+   BRfXZ8+tqxB5YYNF9alNcXdbLu3D4KHLOZdvkvf1QRtDjv/Q2ZaKb/kNabuJKilCRf2rU1Ao61eM
+   e+TzS7zRzZ5XPR72QVA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e4079949620439188a60a494d4a5abf6_ade8_9970"
+Date: Sun, 18 Apr 2021 01:24:22 -0700
+From: "Concealed Carry Shirt" <ConcealedCarryShirt@budspro.us>
+Reply-To: "Concealed Carry Shirt" <ConcealedCarryShirt@budspro.us>
+Subject: Sending you a free t-shirt (it’s also a gun holster)
+To: <bruce@untroubled.org>
+Message-ID: <4u23d9ay4ip4bkiu-xxsn4tiptmu6onsn-ade8-9970@budspro.us>
+Content-Length: 6098
+
+--e4079949620439188a60a494d4a5abf6_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Sending you a free t-shirt (it’s also a gun holster)
+
+http://budspro.us/G4dtV9K6ba09u4B41HeHWIzagcBEqUtNJA6Rdxglqzy7aoet
+
+http://budspro.us/tgpQEiYtYRleJ5050zWvIaw8JD_dA-v8GhU0j4Nbf_VkiLos
+
+fter the Republic of Dubrovnik acquired the Pelješac in 1334, it required the protection of Ston. First, in thirty years, one of the longest defense walls in Europe was erected on one side of the peninsula, and according to a unique project, two new towns were planned: southern Ston and northern Little Ston with the aim of encompassing people to preserve the boundaries and work in solanas the state had acquired. Between 1461 and 1464, the Florentine architect Michelozzo commissioned the building of the wall by the order of the Dubrovnik Republic. The Great Wall is 1200 m long, and was built to ensure protection from neighbours. The chronicles state that the construction of the wall lasted for 18 months and cost 12,000 ducats.
+
+The fortress of Ston was one of the largest construction projects of the time, with an original length of 7000 m, consisting of the walls of Ston and Little Ston. The Great Wall consists of three fortresses, and the walls and fortresses are flanked by 10 rounds of 31 squares and 6 semi-circular bastions. The complex defense corps has been shaped over the course of four centuries, due to the development of weapons.
+
+The walls were of great importance because they were defending the saltworks that gave 15,900 ducats every year to the Dubrovnik Republic, the shellfish farm and the city itself.
+
+In 1667, about 0.5 km of walls were destroyed in a catastrophic earthquake, and the walls were significantly damaged in the earthqua
+
+--e4079949620439188a60a494d4a5abf6_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://budspro.us/nkvpw0amjc8CP9zVld42jbibFDybE3lU1IzzpjtMfJzejXzg"><img src="http://budspro.us/2695baeca341457e22.jpg" /><img height="1" src="http://www.budspro.us/hh8fn_czaO0apF4Bezy7PJExUrZZAJRlCTBGMvbvBpNLyfUU" width="1" /></a>
+<center><br />
+<a href="https://bit.ly/3slWmS6"><img src="http://budspro.us/4e1aa0f71139de10b7.jpg" /></a><br />
+&nbsp;
+<div style="width:600px;font-family:Arial;padding:20px; text-align:left; border:1px solid #48A7F5; border-radius:50px 20px;">The worst part about <b>concealed carrying</b> is all the extra stuff you have to carry around...<br />
+<br />
+<i>You need a holster for your gun... A strong belt to keep your pants up... Extra pouches for your clips...</i><br />
+<br />
+Plus you gotta bring a lockbox or more comfortable holster for bringing your gun on the road...<br />
+<br />
+But what if you didn&rsquo;t need any of that?<br />
+<br />
+What if your undershirt DOUBLED as a CC holster?<br />
+<br />
+Well, that&rsquo;s exactly what the free gift I&rsquo;m sending you does... It&rsquo;s a t-shirt AND a double-sided CC holster... It works for almost any handgun... <a href="http://budspro.us/G4dtV9K6ba09u4B41HeHWIzagcBEqUtNJA6Rdxglqzy7aoet" target="blank"><b>There&rsquo;s a holster on both sides of the t-shirt...</b></a><br />
+<br />
+Meaning it works for right-handed and left-handed shooters&hellip;or you can carry two guns at once&hellip;or you can carry your spare mags, cell phone or other accessories.<br />
+<br />
+<b>Like I said...</b> <a href="http://budspro.us/G4dtV9K6ba09u4B41HeHWIzagcBEqUtNJA6Rdxglqzy7aoet" style="font-weight:bold; color:red;" target="blank">I&rsquo;m giving you a CC T-Shirt Holster for FREE...</a><br />
+<br />
+But we&rsquo;re only giving away 500, so don&rsquo;t wait to grab yours if you want one.<br />
+<br />
+There&rsquo;s no trials and no strings attached.<br />
+<br />
+Just a free gift from us to you...<br />
+<br />
+So if you want a FREE T-Shirt Holster, click the link below to see more details, and confirm your free gift on the next page:<br />
+<br />
+<a href="http://budspro.us/G4dtV9K6ba09u4B41HeHWIzagcBEqUtNJA6Rdxglqzy7aoet" style="font-weight:bold; color:red;" target="blank">=&gt; Review &amp; Confirm Your Free T-Shirt Holster</a><br />
+<br />
+Your friends,<br />
+<br />
+<b>Zachary</b></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</center>
+<br />
+<span style="color:#FFFFFF;">fter the Republic of Dubrovnik acquired the Pelje&scaron;ac in 1334, it required the protection of Ston. First, in thirty years, one of the longest defense walls in Europe was erected on one side of the peninsula, and according to a unique project, two new towns were planned: southern Ston and northern Little Ston with the aim of encompassing people to preserve the boundaries and work in solanas the state had acquired. Between 1461 and 1464, the Florentine architect Michelozzo commissioned the building of the wall by the order of the Dubrovnik Republic. The Great Wall is 1200 m long, and was built to ensure protection from neighbours. The chronicles state that the construction of the wall lasted for 18 months and cost 12,000 ducats. The fortress of Ston was one of the largest construction projects of the time, with an original length of 7000 m, consisting of the walls of Ston and Little Ston. The Great Wall consists of three fortresses, and the walls and fortresses are flanked by 10 rounds of 31 squares and 6 semi-circular bastions. The complex defense corps has been shaped over the course of four centuries, due to the development of weapons. The walls were of great importance because they were defending the saltworks that gave 15,900 ducats every year to the Dubrovnik Republic, the shellfish farm and the city itself. In 1667, about 0.5 km of walls were destroyed in a catastrophic earthquake, and the walls were significantly damaged in the earthqua</span>
+
+<center><br />
+<a href="http://budspro.us/7NxhO_4quji7lMUr1vwgACxbtKJmljuGO3v8ZsX5PL08krHy" target="blank"><img src="http://budspro.us/36cfecc9401f6b888a.jpg" /><br />
+<img src="http://budspro.us/b253c4113e05713a9e.jpg" /></a></center>
+</body>
+</html>
+
+--e4079949620439188a60a494d4a5abf6_ade8_9970--

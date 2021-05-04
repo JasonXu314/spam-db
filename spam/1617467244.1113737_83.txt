@@ -1,0 +1,158 @@
+Return-Path: <national_family_insurance-bruce=untroubled.org@nowscores.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1068162 invoked from network); 2 Apr 2021 18:02:24 -0000
+Received: (qmail 141565 invoked by uid 222); 2 Apr 2021 18:02:23 -0000
+Return-Path: <national_family_insurance-bruce=untroubled.org@nowscores.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 141562 invoked from network); 2 Apr 2021 18:02:23 -0000
+Received: from mail.nowscores.xyz ([70.102.103.121])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Apr 2021 18:02:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=nowscores.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=national_family_insurance@nowscores.xyz;
+ bh=ZpNL9H0jR6dAU7QHrVKwJJEwh8U=;
+ b=vXzxrbBTOfPHzPMr+bUikVupR2Sya3M5ciUtT8JBagdU3nPUftxzG0trxj9NjfNHN9BlpPu1fwXl
+   eK9dJ5BRX3IxiTz60WyLcuor2cmZwoF8j3Gfy+GuPp3AegDa6evLYgydG917BT8URvzUdKAP0kB9
+   /22Osnk/58Q+0rI0sHw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=nowscores.xyz;
+ b=G9ALJ/9HIlfeHJwLYChFQl1uyF0DnHBnGeYTG353M1SB8Yt6sS6Sup2zWkC+Oe3AgdT9ILZV9jG+
+   /2iiQW7HPXxFWGN6hEs59uz1ODZLl+7LLecYJ7EyZAAbN8JDZn4edPzyHJ9PL9/QpIjhtu+X+dSC
+   iFeAxFu1QgtH5csbAJI=;
+Received: by mail.nowscores.xyz id hcte2q0001g7 for <bruce@untroubled.org>; Fri, 2 Apr 2021 13:50:57 -0400 (envelope-from <national_family_insurance-bruce=untroubled.org@nowscores.xyz>)
+Date: Fri, 2 Apr 2021 13:50:57 -0400
+From: "National Family Insurance" <national_family_insurance@nowscores.xyz>
+To:   <bruce@untroubled.org>
+Subject: questions about life insurance?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_667_19723887.1617385839770"
+List-Unsubscribe: <http://www.nowscores.xyz/abb5Dj2395BoB8913t1_1tTzZ4a21C21fFv4GIf4rxvs4FhIHEsvZ8oROnKK9n7SsRV1j05D@cyY/administer-sensed>
+Message-ID: <0.0.0.4A.1D727E8BC726352.3F9DF5@mail.nowscores.xyz>
+Content-Length: 7096
+
+------=_Part_667_19723887.1617385839770
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>phaser</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.nowscores.xyz/bacteria-faithlessness/6844E2395mt8C617l159dybWWNlr4a21t21jFv4GIf4rxvs4FhIHEsvZ8eROnKK9n5L1I0w6s@McyY">Give your family piece of mind</a>
+   <br />=20
+   <br /> &nbsp;=20
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.nowscores.xyz/bacteria-faithlessness/6844E2395mt8C617l159dybWWNlr4a21t21jFv4GIf4rxvs4FhIHEsvZ8eROnKK9n5L1I0w6s@McyY" style=3D"text-decoration: none; "><img alt=3D"happy wife " src=3D"=
+http://www.nowscores.xyz/dipping-beech/a084O2395hN7pa12s159det4a21S21sFv4GIf4rxvs4FhIHEsvZ8BROnKK9n6DD1w0G6yl00cY" style=3D"width: 655px; max-width: 600px; background-color: rgb(25=
+5, 255, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; =
+color: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; bo=
+rder-style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; If you do not wish to receive future messages click here to <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.nowscores.xyz/d6d5f23j95lrg8612t159dcC4a21J21iFv4GIf4rxvs4FhIHEsvZ8oROnKK9n5a1F0i5MXWcY/readies-cull" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px; ">unsubscr=
+ibe</a></span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.nowscores.xyz/bacteria-faithlessness/6844E2395mt8C617l159dybWWNlr4a21t21jFv4GIf4rxvs4FhIHEsvZ8eROnKK9n5L1I0w6s@McyY" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; text-align: center; ">National Family Assuranc=
+e</a>&nbsp; |&nbsp; 113 Cherry Street #88030, Seattle, WA 98104-2205</span>=
+<br /> <br /> <a href=3D"http://www.nowscores.xyz/2ff6Ak23C95WQg8913b_159ddm4a21h21zFv4GIf4rxvs4FhIHEsvZ8XROnKK9n5mk1B05NAXcY/bacteria-faithlessness">Unsubscribe Here</a><br /> 654=
+7 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO<br /> &nbsp; </=
+td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div class=3D"teaser-content">=20
+   <section>=20
+    <div>=20
+     <p class=3D"font--body font-copy gray-darkest ma-0 pb-md " data-el=3D"=
+text" style=3D"margin: 0px; color: var(--color-ui-gray-darkest); padding-bo=
+ttom: var(--md); font-family: georgia, &quot; Times New Roman&quot; , serif=
+; line-height: 1.75; font-size: var(--font-size-small); "><span style=3D"co=
+lor:#FFFFFF; ">A train crash in Taiwan killed at least 51 people and injure=
+d dozens Friday, authorities said, in the deadliest railway accident&nbsp; =
+on the island.</span></p>=20
+    </div>=20
+    <div>=20
+     <p class=3D"font--body font-copy gray-darkest ma-0 pb-md " data-el=3D"=
+text" style=3D"margin: 0px; color: var(--color-ui-gray-darkest); padding-bo=
+ttom: var(--md); font-family: georgia, &quot; Times New Roman&quot; , serif=
+; line-height: 1.75; font-size: var(--font-size-small); "><span style=3D"co=
+lor:#FFFFFF; ">A construction truck that was improperly parked on a slope r=
+olled down and collided with a passenger train on Friday morning, leaving i=
+t derailed in a tunnel on Taiwan's east coast, according to Taiwan's offici=
+al Central News Agency (CNA).</span></p>=20
+    </div>=20
+   </section>=20
+  </div>=20
+  <div class=3D"remainder-content">=20
+   <section>=20
+    <div>=20
+     <div>=20
+      <p class=3D"font--body font-copy gray-darkest ma-0 pb-md " data-el=3D=
+"text" style=3D"margin: 0px; color: var(--color-ui-gray-darkest); padding-b=
+ottom: var(--md); font-family: georgia, &quot; Times New Roman&quot; , seri=
+f; line-height: 1.75; font-size: var(--font-size-small); "><span style=3D"c=
+olor:#FFFFFF; ">Photos from the scene showed the train tilted inside the tu=
+nnel, with pieces of crushed metal surrounding it. Survivors climbed out of=
+ the train's windows to escape.</span></p>=20
+     </div>=20
+     <div>=20
+      <p class=3D"font--body font-copy gray-darkest ma-0 pb-md " data-el=3D=
+"text" style=3D"margin: 0px; color: var(--color-ui-gray-darkest); padding-b=
+ottom: var(--md); font-family: georgia, &quot; Times New Roman&quot; , seri=
+f; line-height: 1.75; font-size: var(--font-size-small); "><span style=3D"c=
+olor:#FFFFFF; ">The tragedy was heightened as Friday was the first day of t=
+he Tomb Sweeping Festival, an annual commemoration in Taiwan and some other=
+ parts of Asia of family members who have died. Many of Taiwan's 24 million=
+ people were set to travel domestically over the long weekend.</span></p>=
+=20
+     </div>=20
+    </div>=20
+   </section>=20
+  </div> <font color="punishing"><span><span title="quint"><big><font></font></font></big></span><small></small><span lang="Kamikaze"></span></span><style></style> =20
+ <img src=3D"http://www.nowscores.xyz/a074w2395VD85L13G159dqfg4a21C21eFv4GIf4rxvs4FhIHEsvZ8PROnKK9n7i10Hkut5k3AcY/ecliptic-hardboiled" alt=3D""/></body>
+</html>
+
+------=_Part_667_19723887.1617385839770--
+

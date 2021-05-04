@@ -1,0 +1,207 @@
+Return-Path: <brain-blueprint-news-bruce=untroubled.org@smartcred2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1230902 invoked from network); 5 Apr 2021 21:07:33 -0000
+Received: (qmail 179128 invoked by uid 222); 5 Apr 2021 21:07:32 -0000
+Return-Path: <brain-blueprint-news-bruce=untroubled.org@smartcred2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 179125 invoked from network); 5 Apr 2021 21:07:32 -0000
+Received: from mail.smartcred2.com ([69.94.155.129])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 21:07:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=smartcred2.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=brain-blueprint-news@smartcred2.com;
+ bh=6DsMMum/riazirm3cGDEGnidDrI=;
+ b=fiCMThhb5e1mGxZ6+J7Okb/45MejdMvEEyOOefLfqLVuDpAMcAcdJ/hM4wspNIH+2ZnJXCrrQJ1X
+   lndU+59zN0e1x+vX3NpX7EMyI5DTbpZmL7vzIwGzc2zA7E1NYDQAyPPqZXFKrqMvyuFiT+bQBk2N
+   t4dFb71x7ai2Lgo6Urg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=smartcred2.com;
+ b=Py1BPCPIo3pbBgaPPJAM8KHGNyv6ja7qZWH0XvJsK3fHg2yOqFwPfL/fi+1vKjBIvalP5um+Fplf
+   NcsZB/yC21cr/hHvtUAR7TkoLIexJvReTKd20ygRisMDRIpCS7x9OMwNTxT3FmddhPaPObyT8MeG
+   dDtnZlIy8rP8cV6sJlU=;
+Received: by mail.smartcred2.com id hddu0o0001g6 for <bruce@untroubled.org>; Mon, 5 Apr 2021 17:02:19 -0400 (envelope-from <brain-blueprint-news-bruce=untroubled.org@smartcred2.com>)
+Date: Mon, 5 Apr 2021 17:02:19 -0400
+From: "Brain Blueprint News" <brain-blueprint-news@smartcred2.com>
+To:   <bruce@untroubled.org>
+Subject: Doctors are left in shock!  Ancient "brain food" helps patients remember!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_97_1164511362.1617656523057"
+List-Unsubscribe: <http://www.smartcred2.com/cb96z2yS395SK8w912Y1hOM1p4a59H21FFv4GIf4rxvs4FhIHEsvZ11lRXnKKKooU95hR1Q05FTNcY/cluster-minimum>
+Message-ID: <0.0.0.A.1D72A5EF74FB97A.3BCD94@mail.smartcred2.com>
+Content-Length: 11837
+
+------=_Part_97_1164511362.1617656523057
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>dabbler</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan class=3D"unstyle-auto-detected-links" style=3D"text-decoration: none !i=
+mportant; font-family: sans-serif; font-size: 18px; line-height: 20px; text=
+-align: center; color: rgb(153, 153, 153); ">Get into</span><a class=3D"uns=
+tyle-auto-detected-links" href=3D"http://www.smartcred2.com/c234p2395b8T6B13X1g5afbx4a59W21WFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU97hnl1H0z6VW@BcY/powdery-answering" style=3D"text-decoration: non=
+e !important; font-family: sans-serif; font-size: 18px; line-height: 20px; =
+text-align: center; color: rgb(153, 153, 153); "> your Brains Blueprint</a>=
+</td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "> <p style=3D"care=
+t-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, =
+sans-serif; font-style: normal; font-variant-caps: normal; font-weight: nor=
+mal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text=
+-stroke-width: 0px; text-decoration: none; text-align: center; "><span styl=
+e=3D"font-family:lucida sans unicode,lucida grande,sans-serif; ">Though biz=
+arre, Harvard researchers have discovered a<br /> shocking link between you=
+r sleep and the onset of Alzheimer' s.</span></p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:lucida sans unicode,lucida grande,sans-se=
+rif; "><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-=
+size: medium; font-style: normal; font-variant-caps: normal; font-weight: n=
+ormal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: in=
+line !important; float: none; ">The big question is - do you sleep on your =
+side or on your back? </span></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; ">&nbsp; </p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:lucida sans unicode,lucida grande,sans-se=
+rif; "><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-=
+size: medium; font-style: normal; font-variant-caps: normal; font-weight: n=
+ormal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: in=
+line !important; float: none; ">Because further research shows, </span><a h=
+ref=3D"http://www.smartcred2.com/c234p2395b8T6B13X1g5afbx4a59W21WFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU97hnl1H0z6VW@BcY/powdery-answering" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; orphans: auto; text-align: start; text-indent: 0px; text-trans=
+form: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; " target=3D"_blank">=
+ONE of these positions</a><span style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -=
+moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; display: inline !important; float: none; "> </span><br style=3D"car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica,=
+ sans-serif; font-style: normal; font-variant-caps: normal; font-weight: no=
+rmal; letter-spacing: normal; orphans: auto; text-align: start; text-indent=
+: 0px; text-transform: none; white-space: normal; widows: auto; word-spacin=
+g: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; tex=
+t-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: r=
+gb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; text-align: start; text-in=
+dent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -m=
+oz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; display: inline !important; float: none; ">is linked to the first si=
+gns of dementia.</span></span>
+       <br />=20
+       <br /> &nbsp;=20
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text=
+-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-ali=
+gn: center; ">
+       <a href=3D"http://www.smartcred2.com/c234p2395b8T6B13X1g5afbx4a59W21WFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU97hnl1H0z6VW@BcY/powdery-answering" target=3D"_blank"><img alt=3D"alzheimers and =
+sleep" src=3D"http://www.smartcred2.com/a434f2395S7aVQ12W15affu4a59j21mFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU96nlO10G5cNcBY/reverently-modes" style=3D"max-width: 40%; height: 398px; width: 6=
+51px; " title=3D"alzheimers and sleep" /></a>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; "><span style=3D"font-family:arial,helvetica,sans-serif; "=
+><strong><a href=3D"http://www.smartcred2.com/c234p2395b8T6B13X1g5afbx4a59W21WFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU97hnl1H0z6VW@BcY/powdery-answering" target=3D"_blank">Sleeping In THIS Position=
+ Is Linked To Alzheimer</a></strong></span></p> <p style=3D"caret-color: rg=
+b(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; text-indent: 0px; text-transform: none; white-space: norm=
+al; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wid=
+th: 0px; text-decoration: none; text-align: center; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">To your health,</span></p> <p style=3D"=
+caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helveti=
+ca, sans-serif; font-style: normal; font-variant-caps: normal; font-weight:=
+ normal; letter-spacing: normal; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; text-align: center; "><span =
+style=3D"font-family:arial,helvetica,sans-serif; ">Dr. Will Mitchell, DOM, =
+MS Nutrition</span></p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not wish to receive=
+ future messages click here to <span class=3D"unstyle-auto-detected-links">=
+<a href=3D"http://www.smartcred2.com/a7f6v2ux395L86yM13J15afGcY4a59K21VFv4GIf4rxvs4FhIHEsvZ11zRXnKKKooU96n1Io0W6uj3@cY/cluster-minimum" style=3D"text-decoration: underline !important; bord=
+er-bottom-width: 0px !important; cursor: default !important; color: rgb(153=
+, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit=
+ !important; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span=
+ class=3D"unstyle-auto-detected-links"><a href=3D"http://www.smartcred2.com/5934C2395bs8_617kCr1X5afdrCx4a59O21lFv4GIf4rxvs4FhIHEsvZ11tRXnKKKooU97jIr10NV6s0PcYP/powdery-answering" style=3D"text=
+-decoration: underline !important; border-bottom-width: 0px !important; cur=
+sor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-f=
+amily: sans-serif; font-weight: inherit !important; line-height: 14px; text=
+-align: center; ">New Brain Blueprint</a>&nbsp; |&nbsp; 321 N Central Expre=
+ssway Suite 351 - McKinney, TX 75070</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"=
+font-size:12px; "><a href=3D"http://www.smartcred2.com/cart-possibility/3b44o2395m8w9V17dw15uaNfveSu4a59z21yFv4GIf4rxvs4FhIHEsvZ11cRXnKKKooU97lp1W0Yx5H@cYp">Leave Here</a><br /> 6547 =
+N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <span size="thoroughness"></span><span style="foaming"><font title="canyon"></span></font><font></font><big><small><font></font></big></small><span id="lights"></span><span class="economical"></span> =20
+ <img src=3D"http://www.smartcred2.com/8bd6i23g9_5k8Pr517g1s5kRb0qp0k4a59i21wFv4GIf4rxvs4FhIHEsvZ11ARXnKKKooU96Ls1o0_6EzjqcY/suburbs-homeomorphism" alt=3D""/></body>
+</html>
+
+------=_Part_97_1164511362.1617656523057--
+

@@ -1,0 +1,225 @@
+Return-Path: <sofiakaif98@yahoo.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3026653 invoked from network); 19 Apr 2021 12:16:06 -0000
+Received: (qmail 24857 invoked by uid 222); 19 Apr 2021 12:16:06 -0000
+Return-Path: <sofiakaif98@yahoo.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 24854 invoked from network); 19 Apr 2021 12:16:06 -0000
+Received: from sonic311-20.consmr.mail.sg3.yahoo.com (sonic311-20.consmr.mail.sg3.yahoo.com [106.10.244.37])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 12:16:05 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1618834562; bh=RkF8z6//d74S96/q6fVWFl6s7DS3fwRdyPibMrrSXRY=; h=Date:From:Subject:References:From:Subject:Reply-To; b=SRTRbqgaOQ+asK7SGAePdS/OiFAgDKfNUB3P7/Qqbt+Z35Cq3d9b6nJoTAx7qkFHHRByD//WSxxAzmIbMYxCQhzOla6LT/tHGIq7FiwxGQv/wCND7zLmuOpp02kRE00Pvc5a8QYw+PIbWzNI0+oaLoJ9L5sBS2tp2+cyT/ep+byNBUls5IREO4wPA2lVgwdjDE8AVG2dJMP6F97comrBeCEkHRIA7PvhRIGJHv35YBblHcspyl0/sPNRp7+jRoTP1RnGiE3Lkq0MxxXKHQ5BnXC8k2zBGwZGt3f9+5qGNKdlVEj2L/+sDl0O+DV0GpRBIEFJrjJ5OO9I74MFgOwH8Q==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1618834562; bh=iwhBEKV2lXOdQ4om+XDOhqCSHh0F6Or4uCQGz2s3wIK=; h=X-Sonic-MF:Date:From:Subject:From:Subject; b=Oih/Yl4erJ/j9KZIIvMoLbDEsIn/3ZWPQqVEJkFY4JPE/rs5ji+tQ1wu+2H8kJ5znfrKGHB/wpTT7rNFyspgJmx6Z21DbGNEzOixTFcGGwpPh559NeCnGwrkzH0m+2g9A7WZN55ugOuswvxsTpT7OuHCZQP/Nmt5KWJD5s9ABbAEgOxXOvrQ/nBJrVthqPRINJfXYVdH9S+h9XscAy6UVO9XzIvSAgbVYTJOTXJgCEwbXq5DG4Gn2KfYYna1usGzlLqN9nTbZJbLvJK6B3VRjh68YZObFTTYuRoBj1u+6ch3Zu1GBvVSBWElynyHQrm+JpXwPB+NnCQTciCm0ozLuw==
+X-YMail-OSG: THst7FIVM1lPx_aUhaUcErFxjgivBBF7MRfN07cTkA8bTBU6SxW6sSA6hf6qpXX
+ t3AgTilr3DQCG_4Jh3BhHCAa5D2DinxUmDed0AETr2Gt2pCe4m9A8HmNFlri7lfCcuXFBuMunklZ
+ UPM9VTeexiHZaNWnKnqMwn2xOTyK0uwEOOgifakkAMrloLMPjhkwT_YHJid9gdyC1ukiIHfIT12D
+ 7dExKRcb0d_ReE5ugDIILDoPjazBJzBWmncbmo.VQEKl2o6JodDnaUBklgMjO7AEdatgft9hA1hq
+ IFlzl9vvmn96bPq9FlmEjFOWSR1u.IBCpuaBEvt.nK0ONC.k7JZM4QOLd3F4QnLMwXiU4BDjXPe9
+ WMXIx1e8AEoFTDV.eKrOl1o482LIcYlPOQlM1BQQ9H.49XbUWOvirvWz8lq2dzVkv.3MJb.TLbNJ
+ IiAXnqqIUZsAlmZrD0FfCx8D2OWfKaSzWKN5pWwAFyc.TsqZlDYGLYd94_.j7RnBgjOItMYBrCEf
+ tbZuDihYbxIQ56_E4SxYIAP0FUtxUEYYFGAvPZIZ4z2bF62e9P6xoof7JGm_ikWIKA4lrP1XQQTu
+ sGsaC5ZadVRrAXzWeGWN97ImKbp05RdAno1kPsngLqOrFKT5jjPnFvknyCvNRkSALr1F_EGq_pT7
+ mtkh.jKmpNSan.cZfv2tGDQ7O6dNtETqx8zSbgqUjR4DMUiCAnKERz9kIR5v3ozh_glNrX2eqyuy
+ 2UahkT8ZuHUzwoIrdSEx9ZmEo5vQW2CQo.UuWNgPoF4L_QgddFyLAtnXU1w8CEbhUo3Ez7f6BSc.
+ r3Tg5548V9WD5RQ_t8_TxcCuq..fquMPxjzuwlaqfhy9v1IGsatpSEfnTBrSKh3dkTdyCb19EPfi
+ YvcXYahRUz14n4ujAMLHmBrjre4.3HLrHXpTcFgnh_mOB7cryXofgQaukw0OV6wH.6V0dsMVjne8
+ IuoX2UOH1ZR0QJ3r63DHrvQoIhNlTpfcHsPQyL.Gi9SGgiBowN38L_jQHAEty7aXOqzv06ue4mzW
+ 7aFQLhn8dB0.7.uqQ5mNFsTwKV2ufaGZaPQVSqTeHUwdgIO6tSCb_PTuNC1ZE2wtTFg4B0F_XAy3
+ 1PMx4Q7Q1mh1CNdmLIEOkKZPEaZDcHO4Rh78B1Rz6_mrx.oEWWrJ9si4Jmqxi.doKyqF35Y2EvSu
+ O9_m922vqdqpq_wf8X3JjFqQlhBXqM.AVMWe482X_EGkCkDAUbsR1b_.tkRj.xEz06SvhAbsH4J0
+ QbDoDLXw2P61Acy3Q6QzCWLuz3.HT9J5dcO0X0KNf7hfCNH._oRh9t7HBoWVfDLzR.INL9eqFALs
+ VEVRfEyAMMKzjJ_5MfAhl2oDPMuXX9TO0kY5MXp8ARMefrXl.9JGy59OxLDvdTFYlX2ZtXM_tSgi
+ MhefwcL0MIzD7Z5skv8dzI6ltweT.01Clfc5zW9qPAU6EJGiwHp91J2Mia5yuL319hQ1hDBQg8E4
+ os3Hd9P8m6AaJaHrh3BytZlDv4B3T34xi0IFKZcuRQdoi2nR4RsymzM4OFlJqWRqjlaI8pv2ThQW
+ Y8m2RWr4Ll9P8HLMA7PMddgYW408rq..QhQFnpqKbXOQ9OanJZyXkmmsdMg6crw8oF5c5q1S5jwD
+ 5yVLk9jkIuHNvKJnN3rLxhTHKETEy6YyFF3YzQlt6gK80c1nkwRnfE1AcpehMBZu29pMw_V8yeb7
+ RfFqJH8frae4bTbqbtYG2FGk7ddPK7X1nPy6hQ.wDyGJXJGHtxGvkMvqJoA.WsG1xDq1wXpMCLZf
+ PbSm4HskApuD.utJ9Qj9.iL3Gf96DE2KfxpQiKNdFT_EVvPI7ZfHJVoZ4D.XVGfGzWe9HFAQLsEi
+ vs.V9yqxFmJTxytJPkddva4_WKPKpbSoX.MRgn9zkSqgc8_H3Osle1BgLPH.ngzOlih_Oc4aP5E0
+ AibKbBZ1O_khlz7EbiVhZxpGgIptzzQ8oNXcaEtcFpj4d_rETK1arlFRwyXgpveF.e1AVjKgJjRX
+ ZOM0tKxsjXa3_NK8vcjjeS40a0gkAoiEmrudBkau5QT9Xehe.PkfDJF1FTVhGdQvWYsM0RfkbojJ
+ FcPK0fn3t2L0_8odQLBDk_ZamPRjmMWRdCftSEC.jm0Dwh1MmGJkfQleWj2ZLO.HwXzANzYQKVSb
+ 86PCyJcm0oVXd6BFkopLlo4lzFW7esW_EhV1CE1iTl4Ul7i1HSf7tNx6V48HA9C7_qkQ0IfWmMd8
+ VP1K2HAt7OrUoZYIOVIefrIT_s29DnzhOvKeIH65wXQEDlhdUeqA4GN1umCPX6NcC2u7qQm9hdQ_
+ EaapQWvzYH976idAqNLt37N6fB7yTdYA_o.9zOG2yAft.SdZJUo.VBzGTx.2NfI6Akze24ZWh1zJ
+ HETzT8afZkaYhIXWciHbVVOrR37PB.sD3kbXYk.AtFyYC2RViGM6ICvy17XiGSdqJLkIimSanSlY
+ Eel8rAtEB0seeQzpxMffxYidW5xUqg4ndSisaa.5gbR3rbw.ApbsJfbB4ytt2g.wfSIQIvELuqFz
+ YdBjJ58wSgS3atYLCFpugt34PIQYwDXSo_sYgCINbNsUlt0Q1wGbJrlbH6VPpm1S8rVNvd98GXG5
+ afI4w1B9RVpCt4p9IqWFNCpg9TpygsZsKKuDFkvEenI5xQiZF_clkBFObk8CVCCBiysPYvdfgeXW
+ u3CcBX4Wq65oDtA2Bp5jfXatAKB2lXZadxis7ICqSjtcE0OPf33YQ_aDVv85jIEhgJVQ4OAFvVXC
+ OiYwYwwTnAiiLVviaVY9mkF2MtrlzfgCXb.1vu9Iqyn7G42YgwgKaJjdMHGDiTm1o8R0b9mBJmpu
+ gVb3.IG8zvRlKZwbCLevmlkklheV138ACy4NCEnxh.k2oB50_AWkTK1Xd2Q_mfpB7bMk37efK2_q
+ HBpMtXeCMRx0NRzwdiNAZoX9z208SxIVTWX.e2ypFwf5Oe4S5tNZmZSF6jGPhCMIFuSrkKRyq5.j
+ nCemAb2e53qN.7vyzoOqp64dj_axkYPJ5ZU9MQvof_Ja225b6KbXsh5kimKx39YBi486O9XLvzhD
+ xkFXRG0amYm92I_TL4fkQOtPYZSZkkwnn6.324KUdCCB4NTHaTCBUrss7derQ8nQllURDcobNbP3
+ QxV3qua28n_t0Q2fGjQO1NbZPrRGgf.WQ8l.9HBTEVBv_pwVi660HRbDT8vLkEpYSjPttaMwHUxl
+ AHypkF8rlJMkHTrbUyXzV_IYcnQAtnB8Ijwqdge6_mZvvXAgeyYKPbx8hdVrBohoYWmRiT8Mmv0e
+ KaBrgGd0TzmHy4yKy7Z4m_xoBVetorRBotM95QwfsVlBlJTNpE_WhJyFoe2X625H7z62VUa_Cmb2
+ PfMnYEe5LYddRe_WKppNHHH_V.jSwRCLkeD.H.jU17es2ga0sYvfXVtDyK3dA6xQsWe4sbxkkxVu
+ NPd_9CkBOyMtcQY3lRsabpX7cMB6h3Bechbp1vZZt4uOri2mPN850YYyFpXEcKIWivjwmSlKsn1f
+ cx8qXhZYS87XKF66koS1ngBHL_f7hncsf_JVX4vmBoI3m8ugcINf_6j7_op3YVonujfOF_W67kRo
+ ka7wK.esFgn9uRxxV5yrNMVYZHYO_ym5fjBXtEzSjPYxYdQBkabVKYn.C38ZNVZaW2_iUWp3rnNV
+ 7DllOD2K_1l3D3m7ts59MKpa9e3zvFmiZhz64bj8esDRhheKh.8S00dR8ZcBjHnRoRdL7YDjDYFe
+ 60rZfWxH4HsXaFqfTqTfaz67o9oAZJEi.IryrLGMjKimVCkVG1OnNzW9T2Kmr16mWlhQpuDCpRgk
+ w0Eq.c8eoxRuDjfsbwsxUZ1p7fiiayrVSKv21X6jZUI63qAd.7zNDSJnqxi2ThdVyU.ackjuO7BC
+ PwfPK.tHnY3aSUv56LMXhzX4F0yjTTpTUsZtoQsLlAU3zQwt9nL1KoOVdTMqIwF88DmuOdWQhq2v
+ uyh0Ph6q1Obn_Fg7kmI4O9QOqmm84mLdzMkpbWyakmLtsmoDDuy9Cd5bmTFHG0EKG_s5L1hC4G8E
+ Vkdd_AP4_NBlW2shwexV4i38q04CJovp_LFz7bkwYx9ztanoD1k2Tm16OqTtxfp.2_FMjfp3c7M2
+ _PxGeIYn05MOmrVJ6xtt_Ez8aeGOz5ZZBSGvrR3ecpSdoshbRSSXReQInt6QnYnyFrLKc4KdHcLI
+ BEC4YHVm0WZUV8ZffKR5amLG0l5JCT65IjlOBPcpN3VIySkua4HCRa5i4j_73wE_b8ZfP0QYW978
+ WlaHUnES3BnudGPOhVovT4iP.HSa.97wWRsiW7hHZHPLMBaM.7Gz615OPcnLuJ1zBatcfT3lPOmf
+ alCm.tvDzHBfvHeEZmvZ5neOAVCAq9zVbqeOGceoSkNpK4FXeKlDjLgGPmNu.7LAX0_sQME32sCO
+ RJYPYFcZCqbKxRSs3XTeQnPfmop1FsySvtV6kDWbPx7NtxRXesCcmZFJYqrEHhdFTFV2sDI.Ifif
+ fk4zZBMfphNhPHzMFkzqGjuKq0PdaFnuKApOZ8_1YfLDMo1MAPzar2MoNDWXjaCU_PQOtW9PWQoH
+ bEBD3d2C_NflYrxhlLT2Cd0pRyx3prEZqjDU6NrKiCEudyWaLceOFad9v8qEO0s_ZAlw2w3.fA3V
+ yKUsXux6Txh4mzGChdnDWNfGatwQRkXltsw0i2ZLBXilhtRNpGSuKbnZ2I_HsA9oow_eBCNLD.dO
+ w3NSIP9bilSafcvWyDFLwPCvkn.Vo0PXfxwRcaAmjrPOphWf2fNBVmkrgQQ7AJHQoRosucZKOj3q
+ w8anfq_UxDNlLEDnyFdmYfgf1ye_1mtJ2d15qp2nYgiuau7NE2Ye4P7mYtslRFu8XW9XI.W3g32g
+ l8bvDb2QHAWQezkGFxTOTSaMft3XWSgNrZaPXv4AEaukhbVfakqdzBdZt5EgU1Dn9ge11l.4kRp3
+ xSGrJLwg5y9NxLOqPj0Erdn22thFcGfGgycFc99Nlnt2eApSTiEY8tLAk22hoNYDnkzSOtIkWbbZ
+ QeexGFXhBxegX30WNTE9MO_yVAW0Yk1kJD3ChinXPctWbkWigI.sgjf3EYD3MeL..U8GpbXGp_X5
+ H_7JSA9DMbn45uSY..hTJFxuCs0Vlp5qicpUykFDp4_ySeInSBrTQhzO3_q7lLG3LR.t.tpvnRMz
+ oRalpfqRke_CPRyxVtzuvpK6il8Wbw3Rh4eU6gF9BNeU8iiS_5QJnk5zXvV9uqMDF6YB2yAvec.M
+ 6cUby6GoLDypqSuavBIzwfTuGH2Xr7EEswQQzRQyzY3tVigSq9OYw0rfRVfS8ZFXlZs0Z_v5bcfo
+ pEp2zknKlCZvBagmF45usZ3pBVfs_57yGw_ys00iXfC4zKP8mmPGe9oJOGS0dxC.DArt18GoLO4q
+ oBicZB7cRUBPHinV3i34ICMuZrvC.ht0Uon_GR1W5lKjvDKeYKPhep.IeROT8f2INHXBFvtWI.vu
+ vCih0BsCa.zR_ug9tsj.qKPGzdQoMuYqiomHXzpIxj0ULbZMzBNt69e5edwBcArmwBhqMeNP2U7b
+ 1CrpcyVfaJ5ecfzs1kcckl1NWHm2EKbW2VPiFyi3eUi67cckzkQZXCUZPbnrXkDmocykG7q1t2tF
+ XG7ljRnQOn5X0UZIdX7Ow6k7sEEnOhHTRpoSrRYBL35DDr7nSIOF1dw0USdHM1E587c17p6cSBWa
+ lSx7.XtPqQ72Wb_KkXBv1vUv0BHWV63ouZAPz7ARRbrs9QuxlUvnK2cfQe.p4PaNrG.5HMKweErm
+ 5gJ7638bsPYFS5J8ZtMKGLBB1HKn6eUfcNKu0K8yrhajv.WSjbA5R2_sN4lH4yebBwS_iQosQHjC
+ vgJTmVJPTDpVBibHNOAyr4g7ij3AdIsr7R8pvMPNTwWyATfLihNe4iZS4r2rPGJstDBWzrvJU6MJ
+ 0KKVHfA37SgBv6D8tRkDu3NAsukLo1WkPyTjwhnzwR_bIukRo4vG1Tv8DDHdr45bK29..PDwlhhZ
+ GipNxnmomPUW6WdrGFm2t4.yxrUQ3ZuvlzSNQvsNhxjTAINfsAJRqRa3VMqxVYUSO9MTVlesX2m_
+ voGN1VaVbCai3d8KmUsrbGpcjNX1xMWT.0nQJq6tap7lkJmO5uzCTkqNZV0_D1MXzvLIaUQxa4B0
+ SH0otVRuoUadzeZB9HyVIYIiKxFjEThQ18XgRmT66e8nDTB57eUuLnsY.JOPpGP6FcnDfVAT1EjS
+ w6SkEpez5Coz1A031b8mjm9tCD4BuWNyfOymJgFRh3JLn3Du6bMQnTYfMCrPwFK7jbTobsjQ0WeW
+ fRGKfp7U4Gv0YWxxf9TJ2YuZcpcPePYJ5eZ0DbVScuJ89n0g_GWVrNzcFSfz.9BVw.9n4koD4VNJ
+ 9R4LBvHBmYLzThV9jR7p6sUT4yCrQFkJoYcH5V1rdIgqkuY9SSRLkZFROpKaBguuMvkpvWQ6VCg1
+ bz1a0Tpzb4SDUUeFR4Rkf8riRLiBc6WKDA8DIwk0xFnSp.jRwKDFCmXjN.vTdpSIA5oJyDqU-
+X-Sonic-MF: <sofiakaif98@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic311.consmr.mail.sg3.yahoo.com with HTTP; Mon, 19 Apr 2021 12:16:02 +0000
+Date: Mon, 19 Apr 2021 12:15:59 +0000 (UTC)
+From: sofia kaif <sofiakaif98@yahoo.com>
+Message-ID: <1222820222.2673706.1618834559268@mail.yahoo.com>
+Subject: Google first page -----
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2673705_1067557474.1618834559267"
+References: <1222820222.2673706.1618834559268.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.18121 YMailNorrin Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+Content-Length: 4898
+
+------=_Part_2673705_1067557474.1618834559267
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hi,
+
+Get your site on Google=E2=80=99s Front Page search:
+
+=C2=A0
+
+I am Marketing Manager. I am belong an India Based IT company Wehave helped=
+ many clients in Developed white hat SEO Strategy and May moreworks=C2=A0 W=
+e Specialize in:-
+
+1. Cleaning Service websites=20
+2. Yoga classes website
+3. Technical SEO=20
+4. Web design
+5. Word press website SEO
+7- web development
+8-Amazone seller central setup
+9-facebook shop setup and ads setup
+
+If you want to know the price/cost and examples of service pleaseReply my e=
+mail with your Scope of work=C2=A0=20
+
+You can give me your WhatsApp Number or Skype id to discuss muchmore. Conta=
+ct me if any of your work needs "help" and I will get backto you shortly.
+
+=C2=A0
+
+Best Regards,
+Marketing Manager
+
+=C2=A0
+
+
+------=_Part_2673705_1067557474.1618834559267
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div class=3D"yahoo-style-wrap" style=3D"font-fami=
+ly:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;"><div dir=
+=3D"ltr" data-setdir=3D"false"><div><p class=3D"ydp48b757eMsoNormal" style=
+=3D"margin-left: 0.5in; background-image: initial; background-position: ini=
+tial; background-size: initial; background-repeat: initial; background-atta=
+chment: initial; background-origin: initial; background-clip: initial; vert=
+ical-align: baseline;"><span style=3D"font-size:10.0pt;font-family:&quot;Ca=
+mbria&quot;,&quot;serif&quot;;color:#0070C0;border:none windowtext 1.0pt;ms=
+o-border-alt:none windowtext 0in;padding:0in">Hi,<br>
+<br>
+Get your site on Google=E2=80=99s Front Page search:</span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"margin-left: 0.5in; background-im=
+age: initial; background-position: initial; background-size: initial; backg=
+round-repeat: initial; background-attachment: initial; background-origin: i=
+nitial; background-clip: initial; vertical-align: baseline;"><span style=3D=
+"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;;color:#=
+0070C0;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;padd=
+ing:0in">&nbsp;</span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto;margin-left:.5in"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">I am Marketing M=
+anager. I am belong an India Based IT company We
+have helped many clients in Developed white hat SEO Strategy and May more
+works&nbsp; We Specialize in:-</span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto;margin-left:.5in"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">1. Cleaning Serv=
+ice websites <br>
+2. Yoga classes website<br>
+3. Technical SEO <br>
+4. Web design<br>
+5. Word press website SEO<br>
+7- web development<br>
+8-Amazone seller central setup<br>
+9-facebook shop setup and ads setup</span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto;margin-left:.5in"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">If you want to k=
+now the price/cost and examples of service please
+Reply my email with your Scope of work&nbsp; </span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto;margin-left:.5in"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">You can give me =
+your WhatsApp Number or Skype id to discuss much
+more. Contact me if any of your work needs "help" and I will get back
+to you shortly.</span></p>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto;margin-left:.5in"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">&nbsp;</span></p=
+>
+
+<p class=3D"ydp48b757eMsoNormal" style=3D"mso-margin-top-alt:auto;margin-bo=
+ttom:12.0pt;margin-left:.5in"><span style=3D"font-size:10.0pt;font-family:&=
+quot;Cambria&quot;,&quot;serif&quot;;color:#0070C0;border:none windowtext 1=
+.0pt;mso-border-alt:none windowtext 0in;padding:0in">Best Regards,<br>
+Marketing Manager</span></p>
+
+<p class=3D"ydp48b757eMsoNormal">&nbsp;</p></div><br></div></div></body></h=
+tml>
+------=_Part_2673705_1067557474.1618834559267--

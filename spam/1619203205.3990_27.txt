@@ -1,0 +1,127 @@
+Return-Path: <aryathomas3033@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3526501 invoked from network); 23 Apr 2021 18:32:14 -0000
+Received: (qmail 21905 invoked by uid 222); 23 Apr 2021 18:32:13 -0000
+Return-Path: <aryathomas3033@gmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 21902 invoked from network); 23 Apr 2021 18:32:13 -0000
+Received: from mail-pg1-x536.google.com (mail-pg1-x536.google.com [IPv6:2607:f8b0:4864:20::536])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 23 Apr 2021 18:32:13 -0000
+Received: by mail-pg1-x536.google.com with SMTP id b17so35769245pgh.7
+        for <bruce@untroubled.org>; Fri, 23 Apr 2021 11:32:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=BvTvO5I22gB7kUeUcqhDETu0hiB2aya2dbTN+OWGDsQ=;
+        b=WUPeYAboixi5T9pFPHSrxvckACU2f/Mw3BskRw6uOHc25I2GO4VnLAN/qcSHt99mq9
+         6SjSMHF1KzWTNWfWh/9iSYc0B2PZMMhv9ORRjFsyCFM/ipdVc7sotdaWkd50aq/VxSr2
+         1k5I0YUcWPJNuxWysH2lA7XYzYhs0YfxJ9kOHva/FaQ8Biz4KsUcKWtFoEXlm28fy1iU
+         2/eEB/SrOMD0//KPtx3GZh6QuFSDGmFWhGwaE05PDwgqKznHK8fJZFV7RexHbrt+znnm
+         tpUyHoQNxNE/9WkEGasZ4+EX6MO3DfTIBH/HsbEzYvszm9BeAXWOyhYkWxfKC34PvmVu
+         xIOQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=BvTvO5I22gB7kUeUcqhDETu0hiB2aya2dbTN+OWGDsQ=;
+        b=Kn5Bi4Uco8SMmxXEDjDyuJQXUNC7OtfHpWVUagfOhmwxLBL/g3XQJFhxg7egW6NHWk
+         5VhokRr8ABzCY7ElKCOc6RKqD2AMJ7PU1rMDCBJZ4C5M7DvMXpVENuYDdREVgUXKyoOz
+         qgvy4KPwL+HeQUmcyfuTYpRotSvfOZHCkujHV76gIK4s/zlsWAGG1GfGIEet9M/kkSUp
+         bdLbmKREa9sAtEEfRr/PMxjB+E5aQa5y7RV2bHJ8HPzvVa6m3i8lAnEKjuWsAWNK3a8B
+         eUFZuEYEkRLDG9TZhwFMIwqq3CXgFeGQy7H590ngFsATu/DTC+SmartRk0ialS0FNUbT
+         AJhg==
+X-Gm-Message-State: AOAM532st680oEoQrgn8TwIgPz8B871Lk6L9S7jbrjcmrx7/RdSCP+n2
+	58l10QTwzHwz3kTuBDoYDvMbt6gW5l5zZuyZ
+X-Google-Smtp-Source: ABdhPJxwiWgryOhwYk9NV9pnh4uGf0mfmhpY4pvOhcCAjJHkXKoIh8C2RCE72p0t2RrXkf9yN7lt2w==
+X-Received: by 2002:a63:205d:: with SMTP id r29mr5083242pgm.340.1619202732021;
+        Fri, 23 Apr 2021 11:32:12 -0700 (PDT)
+Return-Path: <aryathomas3033@gmail.com>
+Received: from WIN-2PA69561OGD (ec2-54-249-33-74.ap-northeast-1.compute.amazonaws.com. [54.249.33.74])
+        by smtp.gmail.com with ESMTPSA id fy1sm5669536pjb.14.2021.04.23.11.32.10
+        for <bruce@untroubled.org>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Fri, 23 Apr 2021 11:32:11 -0700 (PDT)
+Message-ID: <608312ab.1c69fb81.2640.0e6c@mx.google.com>
+Date: Fri, 23 Apr 2021 11:32:11 -0700 (PDT)
+X-Google-Original-Date: 23 Apr 2021 18:32:12 +0000
+MIME-Version: 1.0
+From: "Ben" <aryathomas3033@gmail.com>
+To: bruce@untroubled.org
+Subject: #In_Voice  #Number:GHTP4543-6655..........
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 4651
+
+<P>Dear bruce@untroubled.org, </P>=0D=0A<P>We recognize you for u=
+tilizing <STRONG>#N0RT0N#</STRONG> Advanced Threat Protection. </=
+P>=0D=0A<P>This is an assertion for your new buy. We compliment y=
+ou on the culmination of your 1-year membership. </P>=0D=0A<P>Our=
+ client care attempted to connect with you on your enlisted numbe=
+r for request yet couldn't connect. </P>=0D=0A<P><STRONG>Sum Due:=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 399=
+.99 USD </STRONG></P>=0D=0A<P><STRONG>Paid By:&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 04/23=
+/2021 </STRONG></P>=0D=0A<P><STRONG>Portrayal&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A=
+mount </STRONG></P>=0D=0A<P><STRONG>#N0RT0N# Advanced Threat Prot=
+ection </STRONG></P>=0D=0A<P><STRONG>Fire Wall and Network Protec=
+tion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $ 399.99 </STRONG></P=
+>=0D=0A<P><STRONG>Absolute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $ 399.9=
+9</STRONG> </P>=0D=0A<P>For any inquiries with respect to this re=
+ceipt, generously reach us through our Support Team <FONT color=3D=
+#0000ff><STRONG>+1 (844) 520-0845</STRONG><FONT color=3D#000000> =
+</FONT></FONT>(Toll-Free) for help. </P>=0D=0A<P>You make some ab=
+solute memories of 4 hrs to discount this charge from the exchang=
+e date without being charged. </P>=0D=0A<P>You can see the situat=
+ion with this request, get back to Order Summary. </P>=0D=0A<P>No=
+te: This isn't a TAX receipt. </P>=0D=0A<P><SPAN lang=3DEN style=3D=
+'FONT-SIZE: 12pt; FONT-FAMILY: "Calibri",sans-serif; LINE-HEIGHT:=
+ 115%; mso-fareast-font-family: Calibri; mso-ansi-language: EN; m=
+so-fareast-language: EN-IN; mso-bidi-language: AR-SA'><STRONG><FO=
+NT color=3D#0000ff></FONT></STRONG></SPAN>&nbsp;</P>=0D=0A<P><SPA=
+N lang=3DEN style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Calibri",sans=
+-serif; LINE-HEIGHT: 115%; mso-fareast-font-family: Calibri; mso-=
+ansi-language: EN; mso-fareast-language: EN-IN; mso-bidi-language=
+: AR-SA'><STRONG><FONT color=3D#0000ff>Thanks &amp; Regards</FONT=
+></STRONG></SPAN></P>=0D=0A<P><SPAN lang=3DEN style=3D'FONT-SIZE:=
+ 12pt; FONT-FAMILY: "Calibri",sans-serif; LINE-HEIGHT: 115%; mso-=
+fareast-font-family: Calibri; mso-ansi-language: EN; mso-fareast-=
+language: EN-IN; mso-bidi-language: AR-SA'><STRONG><FONT color=3D=
+#0000ff>#N0RT0N# SERVICES.</FONT></STRONG></SPAN></P>=0D=0A<P><SP=
+AN lang=3DEN style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Calibri",san=
+s-serif; LINE-HEIGHT: 115%; mso-fareast-font-family: Calibri; mso=
+-ansi-language: EN; mso-fareast-language: EN-IN; mso-bidi-languag=
+e: AR-SA'><FONT color=3D#0000ff><STRONG><FONT face=3D"Times New R=
+oman">@+1 (844) 520-0845</FONT></STRONG><FONT color=3D#000000> </=
+FONT></FONT></SPAN></P>
+

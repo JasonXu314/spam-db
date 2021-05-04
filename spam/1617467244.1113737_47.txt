@@ -1,0 +1,135 @@
+Return-Path: <selectquote.insurance-bruce=untroubled.org@nowscorez.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 543442 invoked from network); 1 Apr 2021 15:16:15 -0000
+Received: (qmail 119544 invoked by uid 222); 1 Apr 2021 15:16:14 -0000
+Return-Path: <selectquote.insurance-bruce=untroubled.org@nowscorez.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 119541 invoked from network); 1 Apr 2021 15:16:14 -0000
+Received: from mail.nowscorez.xyz ([70.102.103.88])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 15:16:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=nowscorez.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote.insurance@nowscorez.xyz;
+ bh=s0jw0m1m/dvWdPorM/j14dGxA10=;
+ b=J8OPjc6dkYy2LscYWXGA/XPNnY6m9Ts8S9JXdZJjnb9DSzLO98xZVFnFq3Wah+j24ciyGjUuBKmx
+   ovGbUw58iuuLQbbeRGTTq4ZSplvIkMNKZAUWHKluK0O3XQZwlF9zDwMOMloKUyaR/zTeWsIXBsFR
+   mAzeaEkKl5oJpUuuT6I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=nowscorez.xyz;
+ b=TfRAmgZsRv8+uHUIh7RahCuLnlzHhaEILgQAvva1iwrLiDpPizG5mL/cW7rEwrM3avzgyyb+kQ7y
+   o0Qa3QRosLPPkkfZJS+ov3hA+tMz3tzIg+TEEx0wTM29a/ihm25Paum70/futGPKVIJd5Gbmyk3C
+   TfrjSD8MdDNIXDaTrMc=;
+Received: by mail.nowscorez.xyz id hcnhrg0001g1 for <bruce@untroubled.org>; Thu, 1 Apr 2021 11:07:23 -0400 (envelope-from <selectquote.insurance-bruce=untroubled.org@nowscorez.xyz>)
+Date: Thu, 1 Apr 2021 11:07:23 -0400
+From: "SelectQuote Insurance" <selectquote.insurance@nowscorez.xyz>
+To:   <bruce@untroubled.org>
+Subject: Get your free life insurance quote.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_880_24664674.1617289632327"
+List-Unsubscribe: <http://www.nowscorez.xyz/4674w2395X8hU911n11xpZ4a0eW21gFv4GIf4rxvs4FhIHEsvZ11QRcnKKnnox96Pt1C0t5RpkcY/cataract-leathered>
+Message-ID: <0.0.0.61.1D72708B80CD56C.2EA5C2@mail.nowscorez.xyz>
+Content-Length: 6817
+
+------=_Part_880_24664674.1617289632327
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>reopens</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.nowscorez.xyz/c235RN2395yl86T13j_15970D4a0eD21mFv4GIf4rxvs4FhIHEsvZ11fRcnKKnnox97F10mRAF5sqjcY/paddy-heinously">Protect your familys future </a><br /> &nbsp;=
+=20
+      <center>
+       <a href=3D"http://www.nowscorez.xyz/c235RN2395yl86T13j_15970D4a0eD21mFv4GIf4rxvs4FhIHEsvZ11fRcnKKnnox97F10mRAF5sqjcY/paddy-heinously"><img alt=3D"happyr" src=3D"http://www.nowscorez.xyz/abrogating-backbend/7565y239O5trp7a17vs1nPQ59_74G4a0eK21FFv4GIf4rxvs4FhIHEsvZ11zRcnKKnnox97Ms1M0K_5HWcYJ" style=
+=3D"border-width: 0px; border-style: solid; width: 64%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance pro=
+ducts and services through its licensed insurance agency, SelectQuote Insur=
+ance Services, LLC. SelectQuote Insurance Services is not an insurance comp=
+any. We represent trusted insurance companies, and receive commissions ? an=
+d possibly other performance-based compensation ? for our services. Product=
+s and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10=
+-year policy for under a $1 a day. Example policy is for $23 a month. Polic=
+y is a United of Omaha : Term Life Answers 10 is a non-participating term l=
+ife insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underw=
+ritten by United of Omaha Life Insurance Company, Omaha, NE 68175. The prem=
+ium is guaranteed to stay the same for the 10 year period. Minimum issue am=
+ount is $100,000. Premiums include a $62.50 annual policy fee. Forms and pl=
+an provisions may vary by state. Plan is available in all states except New=
+ York. Suicide and other limits may apply. The most favorable rate classes =
+(and lowest rates) are generally intended for those who can meet strict hea=
+lth/lifestyle criteria. All rates subject to underwriting qualifications. R=
+ates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous revi=
+ew and subject to change and/or affirmation. For the latest Best' s Credit =
+Ratings? and Best' s Credit Reports (which include Best' s Credit Ratings? =
+), visit the A.M. Best website at ambest.com. See Guide to Best' s Credit R=
+atings? for explanation of use and charges.? ? Best' s Credit Ratings? repr=
+oduced herein appear under license from A.M. Best and do not constitute, ei=
+ther expressly or impliedly, an endorsement of SelectQuote or its recommend=
+ations, formulas, criteria or comparisons to any other ratings, rating scal=
+es or rating organizations which are published or referenced herein. A.M. B=
+est is not responsible for transcription errors made in presenting Best' s =
+Credit Ratings? . Best' s Credit Ratings? are proprietary and may not be re=
+produced or distributed without the express written permission of A.M. Best=
+ Company.? A Best' s Financial Strength Rating opinion addresses the relati=
+ve ability of an insurer to meet its ongoing insurance obligations. It is n=
+ot a warranty of a company' s financial strength and ability to meet its ob=
+ligations to policyholders. View our Important Notice: Best' s Credit Ratin=
+gs for a disclaimer notice and complete details at <a href=3D"http://www.nowscorez.xyz/2876IDA2395t8MW612m15971Y4a0eZ21NFv4GIf4rxvs4FhIHEsvZ11qRcnKKnnox96cy1n0A5UUqcY/undirected-paradoxically">=
+http://www.nowscorez.xyz/2876IDA2395t8MW612m15971Y4a0eZ21NFv4GIf4rxvs4FhIHEsvZ11qRcnKKnnox96cy1n0A5UUqcY/undirected-paradoxically</a></span></span></p>=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 68=
+00 W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=
+=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote=
+ by a third-party marketing company. You are receiving email from this thir=
+d-party marketing company because you have expressed your interest in recei=
+ving commercial email through a site or sites associated with them.</span><=
+/span></p>=20
+       <p><span style=3D"font-size:9px; "><font face=3D"Verdana, Arial, Hel=
+vetica, sans-serif"><span style=3D"font-family:arial,helvetica,sans-serif; =
+"><span style=3D"font-size:8px; ">This email contains information regarding=
+ products and services offered by SelectQuote. If you do not wish to receiv=
+e email messages from SelectQuote that are advertising or promotional in na=
+ture, pleas</span></span>e<a href=3D"http://www.nowscorez.xyz/9e94p2395WX8V613hl15972Q4a0ep21cFv4GIf4rxvs4FhIHEsvZ11VRcnKKnnox97rQ1T0xp5R2WcY/propagation-impactors"> unsubscribe here.</a></fo=
+nt></span></p>=20
+      </div> &nbsp; Leave <a href=3D"http://www.nowscorez.xyz/Q114U2395s8uH917q1lgF59U7J3k4a0eK21mFv4GIf4rxvs4FhIHEsvZ11BRcnKKnnox97jy10WUJ5DNcpY/paddy-heinously">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font lang="hemostat"></font><style><span></span><span id="hardworking"></span><font face="Iranian"></font><span id="essentials"></style><font class="Halley"><font face="minus"></font></span></font><span lang="sweetly"></span><span title="hitherto"></span><style></style> =20
+ <img src=3D"http://www.nowscorez.xyz/eavesdroppers-complementing/6665r239i5a85Gm12c15975t4a0eT21SFv4GIf4rxvs4FhIHEsvZ11hRcnKKnnox96co10DJ6SlcBY@" alt=3D""/></body>
+</html>
+
+------=_Part_880_24664674.1617289632327--
+

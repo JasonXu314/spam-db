@@ -1,0 +1,132 @@
+Return-Path: <vivint.home.security.provider-bruce=untroubled.org@speed66.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3208976 invoked from network); 21 Apr 2021 16:46:07 -0000
+Received: (qmail 71591 invoked by uid 222); 21 Apr 2021 16:46:07 -0000
+Return-Path: <vivint.home.security.provider-bruce=untroubled.org@speed66.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71588 invoked from network); 21 Apr 2021 16:46:07 -0000
+Received: from mail.speed66.cloud ([208.187.244.253])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 16:45:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed66.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint.home.security.provider@speed66.cloud;
+ bh=PBkd572jK5yAZ3U5lMEcRxH4FKk=;
+ b=FFzTbonRdzrlK3pGF3QmZ8AjZ90RVZE7D7DSXGZxdhGpgz5oONlKHiQvpPzGNa3cGykq6Y9LWCeH
+   mXv3mtE4w+WPSbJuWzxBD8Q346qxOrr/pFOXe0o4ProNml8SOuakhogo2dB5QJsKAGEwV7NsJDEk
+   BO3o3/mg9MNGuswEPwA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed66.cloud;
+ b=udWVuVBrhUMlvxOAEz+tCSEWk+iLOsu/QGZGmM+WUK/3HH61n2LJZfHT8rWrQ39qmJazQLSNwQ8w
+   jdHCfZxoT5DusVb10syHX9H8vzGW3o5ZTCGd29oulRHxWhaJXsHXkF/HKQjo42nXoDupCXAiKBKq
+   VoqjBKBfB+rNe30yVQw=;
+Received: by mail.speed66.cloud id hg1bc40001gi for <bruce@untroubled.org>; Wed, 21 Apr 2021 12:35:52 -0400 (envelope-from <vivint.home.security.provider-bruce=untroubled.org@speed66.cloud>)
+Date: Wed, 21 Apr 2021 12:35:52 -0400
+From: "Vivint Home Security Provider" <vivint.home.security.provider@speed66.cloud>
+To:   <bruce@untroubled.org>
+Subject: Welcome to your best option for home security
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_277_977609876.1619022932291"
+List-Unsubscribe: <http://www.speed66.cloud/Danbury-deviates/ada5NL2395JLI8912Mv1y1hi4b41v21PFv4GIf4rxvs4FhIHEsvZ8YRDomo9d5M1P0s5RlcYU>
+Message-ID: <0.0.0.1E.1D736CC64C8EF7A.180944@mail.speed66.cloud>
+Content-Length: 6819
+
+------=_Part_277_977609876.1619022932291
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <titlegrasp< title=3D"">=20
+  </titleapplications<>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255);"><a href=3D"=
+http://www.speed66.cloud/southern-spitfire/6c06c23N9t5S8sh612B15fccW4b41A21VFv4GIf4rxvs4FhIHEsvZ8QRDomo9d6F1pj_06dzW3cY" style=3D"text-decoration: none;"><img alt=3D"viv" src=3D"http://www.speed66.cloud/1976t23Q9B5V7ULa12e15fd2o4b41w21jFv4GIf4rxvs4FhIHEsvZ8IRDomo9d6gZ10lR6w0cYqP/uphold-sputtered" =
+style=3D"width: 601px; max-width: 600px; background-color: rgb(255, 255, 25=
+5); font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb=
+(85, 85, 85); margin: auto; display: block; border-width: 0px; border-style=
+: solid;" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153);"> <p>=
+<strong>Offer Details</strong></p> <p>Qualifying system purchase requires m=
+inimum $599.99 equipment purchase, professional installation and applicable=
+ services agreement. DIY system purchases and reactivations of previously-i=
+nstalled systems not eligible for offer. Click <a href=3D"http://www.speed66.cloud/Danbury-deviates/7b04P2395s8g6g12j15fcdm4b41n21EFv4GIf4rxvs4FhIHEsvZ8QRDomo9d7zioS1K06O1OcYU" style=
+=3D"text-decoration: none;">here</a> for monthly service plan prices. Equip=
+ment purchase may be financed subject to an agreement with one of Vivint's =
+financing partners. Offer not available in all states or provinces. Monthly=
+ $1.48 cellular network maintenance fee applies. Taxes and local permit fee=
+s may apply. New Vivint Customers only.</p> &nbsp; <p><strong>Financing Opt=
+ions Available</strong></p> <p>Financing eligibility and terms subject to c=
+redit approval. Financing options require a service agreement coterminous w=
+ith applicable financing agreement. Month-to-month service agreement availa=
+ble when equipment is purchased upfront. Additional equipment may be purcha=
+sed and financed.</p> &nbsp; <p><strong>Vivint Systems &amp; Services</stro=
+ng></p> <p>System supports up to six cameras subject to sufficient WiFi spe=
+eds. Without a Vivint services plan, product and system functionality is li=
+mited (including loss of remote connectivity). Speak to a Vivint representa=
+tive at the phone number in this offer for complete equipment, services, an=
+d package details, including pricing and financing details. Products and se=
+rvices in Louisiana provided by Vivint Louisiana Commercial Certificate #58=
+280. See Vivint license numbers <a href=3D"http://www.speed66.cloud/7735X239Z5skA8612w15fceW4b41L21kFv4GIf4rxvs4FhIHEsvZ8SRDomo9d7SDvW10R5llcYk/legislates-bundling" style=3D"text-decora=
+tion: none;">here</a>.</p> <br /> &nbsp;If you do not wish to receive futur=
+e messages click here to <span class=3D"unstyle-auto-detected-links"><a hre=
+f=3D"http://www.speed66.cloud/7af6Q239sT5d8zK612P15fcfz4b41Q21zFv4GIf4rxvs4FhIHEsvZ8hRDomo9d6mL1IZ06SM@ycY/regulators-distempered" style=3D"text-decoration: underline !important; border-bot=
+tom-width: 0px !important; cursor: default !important; color: rgb(153, 153,=
+ 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !impo=
+rtant; line-height: 14px;">unsubscribe</a></span><br /> <br /> We respect y=
+our right to privacy -<span class=3D"unstyle-auto-detected-links"><a href=
+=3D"http://www.speed66.cloud/c236r239tw5q8mj612N15fd0N4b41C21MFv4GIf4rxvs4FhIHEsvZ8qRDomo9d6I10gLJ5PXcYk/legislates-bundling" style=3D"text-decoration: underline !important; border-bott=
+om-width: 0px !important; cursor: default !important; color: rgb(153, 153, =
+153); font-size: 10px; font-family: sans-serif; font-weight: inherit !impor=
+tant; line-height: 14px; text-align: center;"> View our policy</a><br /> <s=
+pan class=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed66.cloud/southern-spitfire/6c06c23N9t5S8sh612B15fccW4b41A21VFv4GIf4rxvs4FhIHEsvZ8QRDomo9d6F1pj_06dzW3cY" style=3D"t=
+ext-decoration: underline !important; border-bottom-width: 0px !important; =
+cursor: default !important; color: rgb(153, 153, 153); font-size: 10px; fon=
+t-family: sans-serif; font-weight: inherit !important; line-height: 14px; t=
+ext-align: center;">Vivint.SmartHome</a>&nbsp;|&nbsp; 4931 N 300 W, Provo, =
+UT 84604 </span></span><br /> <br /> <br /> <a href=3D"http://www.speed66.cloud/legislates-bundling/bac6A2R39Z5UL8Q912I15fd1D4b41I21bFv4GIf4rxvs4FhIHEsvZ8kRDomo9d5zp1j06r1cYO0">=
+Unsubscribe Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Color=
+ado Springs CO<br /> &nbsp;</td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style dir="Tammany"></style><style></style><font></font><style id="Shakespearian"></style><style dir="knolls"></style><big></big><span color="sidewise"><span lang="supposedly"><font face="Channing"></font></span></span><font class="Drexel"></font> =20
+ <img src=3D"http://www.speed66.cloud/Lindstrom-plantations/b8e6SD23K95W8N5x12j15fd3V4b41i21bFv4GIf4rxvs4FhIHEsvZ8sRDomo9d7lJ1AG_06R3zkcY" alt=3D""/></body>
+</html>
+
+------=_Part_277_977609876.1619022932291--
+

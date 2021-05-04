@@ -1,0 +1,210 @@
+Return-Path: <super.portable.aircooler-bruce=untroubled.org@yucsonweekly.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3212636 invoked from network); 21 Apr 2021 18:57:10 -0000
+Received: (qmail 73220 invoked by uid 222); 21 Apr 2021 18:57:10 -0000
+Return-Path: <super.portable.aircooler-bruce=untroubled.org@yucsonweekly.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 73217 invoked from network); 21 Apr 2021 18:57:10 -0000
+Received: from mail.yucsonweekly.com (205-236-248-157.serversto.com [205.236.248.157])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 18:57:09 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=yucsonweekly.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=super.portable.aircooler@yucsonweekly.com;
+ bh=HwbHSvdP+dfBSNkrNnrFTX/Ng94=;
+ b=L+I9uUfLTJ7cse6x/y40mnxc9Ba7jopkNinPPS1ElD1FYIr+xdbUIgSqMiG9uGSPj7iRtMwZS7bI
+   HdlXIi+BQIfpUSmSBrS8vwGdTgOzonmglkKk522AEQ2aYjB82D+d4hLKF1XIq9mK+3VbeYBrwijT
+   OqSkriIpoVsuaoaFbSs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=yucsonweekly.com;
+ b=iMC/hbLlMfi1QWwezw8pkNbskDkMBfxO6FPNMVshYFAMRXlMfsnwQ7O+HSRudiqdluLqKWw8pfLY
+   kN2FfWwCi+P/Tmx9ruVSrAcv9jyhIU+g3pdpOaQg2umazigd0cZ/6TCPL8gjCGcdqjYzihVjUiZ2
+   J269YdDDWDwt2J3y7sw=;
+Received: by mail.yucsonweekly.com id hg1r1a0001g1 for <bruce@untroubled.org>; Wed, 21 Apr 2021 14:53:40 -0400 (envelope-from <super.portable.aircooler-bruce=untroubled.org@yucsonweekly.com>)
+Date: Wed, 21 Apr 2021 14:53:40 -0400
+From: "Super Portable AirCooler" <super.portable.aircooler@yucsonweekly.com>
+To:   <bruce@untroubled.org>
+Subject: Let this tiny, ultraportable, cooler make any space more comfortable!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_541_492283118.1619030950455"
+List-Unsubscribe: <http://www.yucsonweekly.com/13d5rT2395Dh89n12tYIBq11Q4f7i21QFv4GIf4rxvs4FhIHEsvZ7hQXnoeS6fv10NM6iBsvLP/gutsy-manipulating>
+Message-ID: <0.0.0.97.1D736DFA538DE4A.A8A63A@mail.yucsonweekly.com>
+Content-Length: 10794
+
+------=_Part_541_492283118.1619030950455
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 3-in-1 Portable Air Cooler **
+----------------------------------
+
+Create your own personal microclimate!
+
+This 3-in-1 evaporative air cooler cools, humidifies, and purifies the air around you.  Ideal for nightstands, desktops, camping tents, or dorm rooms.   In the summer months, the inside temperature of your home can be too much to bear.  With the sun beaming in and no respite in sight, it's all too easy to decide to front up a ton of money to install air conditioning.  However, who can afford the sky high electric bills that go with it? Instead of shelling out a fortune for an appliance you can neither afford nor need at every time of the year, it might be time to look for something a little less invasive.  This CoolAir device could be the answer!
+
+
+GET 50% OFF and FREE SHIPPING -> http://www.yucsonweekly.com/diversified-ellipsoidal/40e6AhU2395ax8t611B21j79w4f7h21HFv4GIf4rxvs4FhIHEsvZ7SQXnoeS5dp1A05zqs@v
+
+
+Click or mail Anderson Vault Data Transfer http://www.yucsonweekly.com/universality-network/9724M2395Wl86J11R217N3M4f7D21aFv4GIf4rxvs4FhIHEsvZ7BQXnoeS6LMg10X6j@Jpsv to set preferences. 
+1444 N 91st Street.  Scottsdale, AZ.  85260-7036. 
+
+------=_Part_541_492283118.1619030950455
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <p></p> 
+  <table width="100%" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#ffffff" width="100%"> 
+      <div style="line-height: 5px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width88 hauto" width="166"><img class="width88 hauto" style="display: block; border: 0;" src="http://www.yucsonweekly.com/diversified-ellipsoidal/9ae5j23D95Fqk7a11DW2175B4f7Z21zFv4GIf4rxvs4FhIHEsvZ7FQXnoeS5d1mu06o1js1v" alt="" width="127" height="auto" /></td> 
+         <td class="width232 hauto" align="right" valign="bottom" width="434">&nbsp;</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix line8" style="line-height: 15px;">
+       &nbsp;
+      </div> 
+      <table class="width320 hauto" border="0" width="600" cellspacing="0" cellpadding="0" bgcolor="#eeeeee"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 2px;" align="center" valign="middle"> 
+          <div style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decoration: none; padding-top: 10px;">
+           <img src="http://www.yucsonweekly.com/9174A2395iu7ap12aW21m76Y4f7y21EFv4GIf4rxvs4FhIHEsvZ7dQXnoeS7J1rwP0j6tOWsjv/Lawrenceville-distortions" width="350" />
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" width="600"> 
+          <table cellspacing="0" cellpadding="0"> 
+           <tbody> 
+            <tr> 
+             <td class="width320" style="padding: 20px;" align="center" valign="top" bgcolor="#eeeeee" width="600"><a href="http://www.yucsonweekly.com/6656g23y9x5R8y6B10W2171Q4f7z21FFv4GIf4rxvs4FhIHEsvZ7wQXnoeS5I1xP05np@sv/universality-network"><img style="display: block; font-family: arial, sans serif; font-size: 20px; color: #ffffff;" src="http://www.yucsonweekly.com/4df4S2395O7jaR10s2177Q4f7s21BFv4GIf4rxvs4FhIHEsvZ7qQXnoeS5CRK105Vl2sv/universality-network" width="100%" height="auto" border="0" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" align="center" width="600"> 
+          <div class="lhfix line12" style="line-height: 14px;">
+           &nbsp;
+          </div> 
+          <table class="width280" border="0" width="540" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 12px;" align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text-decoration: none;">
+               <a style="color: #832d98; text-decoration: none; font-weight: bold;" href="http://www.yucsonweekly.com/3ef4S2395t86VO12l2yp172z4f7r21sFv4GIf4rxvs4FhIHEsvZ7jQXnoeS5k1C0P5cOJsv/coconut-canonically">CoolAir</a> is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp; &nbsp;
+              </div> </td> 
+            </tr> 
+            <tr align="center"> 
+             <td style="padding-top: 16px;"><a href="http://www.yucsonweekly.com/6656g23y9x5R8y6B10W2171Q4f7z21FFv4GIf4rxvs4FhIHEsvZ7wQXnoeS5I1xP05np@sv/universality-network"><img src="http://www.yucsonweekly.com/9176P23N9C5Q7saC10n2178V4f7G21pFv4GIf4rxvs4FhIHEsvZ7kQXnoeS7d1Nx0DL6Q@OsvT/universality-network" alt="main image" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table cellspacing="0" cellpadding="0" bgcolor="#fff"> 
+           <tbody> 
+            <tr> 
+             <td class="width20" width="31">&nbsp;</td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix" style="line-height: 30px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 19px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="border-top: 1px solid #B7B7B7; line-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="center" width="560"> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fargo, ND 58103/2931 
+           <a href="http://www.yucsonweekly.com/2e14D2395g86WU11d217y3I4f7l21pFv4GIf4rxvs4FhIHEsvZ7lQXnoeS7P1CXQ0p5FLsv@/gutsy-manipulating">Want to stop future messages?</a>
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           &nbsp;
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <p class="css-19dnnol"><span style="color: #ffffff;">The&nbsp;<a style="color: #ffffff;" href="http://www.yucsonweekly.com/b155Y2B395t8T6H12wM217s4T4f7s21iFv4GIf4rxvs4FhIHEsvZ7zQXnoeS6s1u0Ut6nBsqpv/misplace-Hegelian" data-component="auto-linked-tag" data-link-name="in body link">European Super League</a>&nbsp;founder and Juventus chairman, Andrea Agnelli, has said that the breakaway can no longer go ahead after nine clubs withdrew.</span></p> 
+           <p class="css-19dnnol"><span style="color: #ffffff;">Asked whether the project could still happen after the exits, Agnelli told Reuters: ?To be frank and honest no, evidently that is not the case.?</span></p> 
+           <p id="sign-in-gate">&nbsp;</p> 
+           <p class="css-19dnnol"><span style="color: #ffffff;">Agnelli insisted he remained convinced that European football needed to change and had no regrets about the way the breakaway attempt was made. ?I remain convinced of the beauty of that project,? he said, stating it would have created the best competition in the world. ?But admittedly ? I mean, I don't think that that project is now still up and running.?</span></p> 
+           <figure id="9651bffe-f354-4fec-8cc9-92956b4e5972" class="css-1mfia18"> 
+            <div class="css-mozjxl" data-print-layout="hide" data-link-name="rich-link-0 | 0" data-component="rich-link" data-name=""> 
+             <div class="css-s7oxzu"> 
+              <div class="css-1m5f2q7">
+               &nbsp;
+              </div> 
+              <div>
+               &nbsp;
+              </div> 
+              <div class="css-upffb1"> 
+               <div class="css-m4qltb"> 
+                <div class="css-1gqsble">
+                 <span style="color: #ffffff;">England's big six pull out of European Super League: what they said</span>
+                </div> 
+               </div> 
+               <div class="css-10wr03c"> 
+                <div class="css-dobi02">
+                 <span style="color: #ffffff;">Read more</span>
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </figure> 
+           <p class="css-19dnnol"><span style="color: #ffffff;">The Italian claimed other clubs were ready to join the new European league before the English sides left. ?I'm not going to say how many clubs contacted me in just 24 hours asking if they could join,? he said, declining to name them. ?Maybe they lied, but I was contacted by a number of teams asking what they could do to join.?</span></p> 
+           <p class="css-19dnnol"><span style="color: #ffffff;">Agnelli said he felt the British government's intervention, with prime minister Boris Johnson threatening legislation to stop the breakaway, had pushed the English clubs to withdraw. ?I have had speculation to that extent that if six teams would have broken away and would have threatened the EPL, politics would have seen that as an attack to Brexit and their political scheme,? he said.</span></p> 
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           &nbsp;
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.yucsonweekly.com/gutsy-manipulating/d145k23v95C8Gi512c2Mv17aM4f7T21JFv4GIf4rxvs4FhIHEsvZ7mQXnoeS6pA1Cj06YW@sAv" alt=""/></body>
+</html>
+
+------=_Part_541_492283118.1619030950455--
+

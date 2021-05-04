@@ -1,0 +1,83 @@
+Return-Path: <RenewalbyAndersenReplacements-bruce=untroubled.org@buymagahat.co.uk>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1168036 invoked from network); 4 Apr 2021 13:36:01 -0000
+Received: (qmail 158805 invoked by uid 222); 4 Apr 2021 13:36:00 -0000
+Return-Path: <RenewalbyAndersenReplacements-bruce=untroubled.org@buymagahat.co.uk>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 158802 invoked from network); 4 Apr 2021 13:36:00 -0000
+Received: from buchanan-kirby.buymagahat.co.uk (buchanan-kirby.buymagahat.co.uk [194.146.36.56])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 13:35:59 -0000
+Received: by buchanan-kirby.buymagahat.co.uk id hd70c00001g6 for <bruce@untroubled.org>; Sun, 4 Apr 2021 13:35:53 +0000 (envelope-from <RenewalbyAndersenReplacements-bruce=untroubled.org@buymagahat.co.uk>)
+Date: Sun, 4 Apr 2021 13:35:53 +0000
+From: Renewal by Andersen Replacements <RenewalbyAndersenReplacements@buymagahat.co.uk>
+Reply-To: RenewalbyAndersenReplacements@buymagahat.co.uk
+To: bruce@untroubled.org
+Message-Id: <1e89fb27-dbf5-4b06-a176-7c600cdffcd7@buymagahat.co.uk>
+Subject: =?utf-8?B?SGVscCBDdXQgeW91ciBlbmVyZ3kgYmlsbCB0aGlzIHNwcmluZw==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-ab5a4e14b47cf8ff8d77__da194f2c09c8446e69c6b041_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 3637
+
+---_-_-ab5a4e14b47cf8ff8d77__da194f2c09c8446e69c6b041_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-ab5a4e14b47cf8ff8d77__da194f2c09c8446e69c6b041_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHRhYmxlIGJnY29sb3I9IiNmMGYyZWEiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxz
+cGFjaW5nPSIwIiB3aWR0aD0iMTAwJSI+Cjx0Ym9keT4KPHRyPgo8dGQ+PCEtLSBiZWdpbiBtYWlu
+IGJsb2NrIC0tPgo8dGFibGUgYWxpZ249ImNlbnRlciIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0i
+MCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSI2MDAiPgo8dGJvZHk+Cjx0ciBzdHlsZT0iLW1zLXRl
+eHQtc2l6ZS1hZGp1c3Q6IDEwMCU7IC13ZWJraXQtdGV4dC1zaXplLWFkanVzdDogMTAwJTsiPgo8
+dGQgY2xhc3M9ImNlbnRlci1vbi1uYXJyb3ciIHN0eWxlPSItbXMtdGV4dC1zaXplLWFkanVzdDog
+MTAwJTsgLXdlYmtpdC10ZXh0LXNpemUtYWRqdXN0OiAxMDAlOyBtc28tdGFibGUtbHNwYWNlOiAw
+cHQgIWltcG9ydGFudDsgbXNvLXRhYmxlLXJzcGFjZTogMHB0ICFpbXBvcnRhbnQ7IGZvbnQtc2l6
+ZTogMjBweDsgcGFkZGluZzogM3B4IDBweCAzcHggMHB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7Ij4m
+bmJzcDs8L3RkPgo8L3RyPgo8dHI+Cjx0ZCB3aWR0aD0iNjAwIj48YSBocmVmPSJodHRwOi8vYnV5
+bWFnYWhhdC5jby51ay8yVFdRWnM1SllhTXgiPjxpbWcgYWx0PSJSZW5ld2FsIEJ5IEFuZGVyc2Vu
+IFdpbmRvdyBSZXBsYWNlbWVudCIgc3JjPSJodHRwOi8vY2xpY2sud2hvc3dob2xpc3QuY29tL2Zy
+b250ZW5kL2Fzc2V0cy9maWxlcy9jdXN0b21lci9vbzEwOXNtZ3phZDk1L3RyYWNzaW9uLzIwcC0x
+LTEuanBnIiBzdHlsZT0iZGlzcGxheTogYmxvY2s7IGJvcmRlcjogMHB4OyBtYXJnaW46IDBweDsg
+d2lkdGg6IDYwMHB4OyIgdGl0bGU9IlJlbmV3YWwgQnkgQW5kZXJzZW4gV2luZG93IFJlcGxhY2Vt
+ZW50IiAvPiA8L2E+IDwhLS0gYmVnaW4gd3JhcHBlciAtLT4gPCEtLSBlbmQgd3JhcHBlci0tPiA8
+IS0tIGRpc2NsYWltZXItLT4KPHRhYmxlIGFsaWduPSJjZW50ZXIiIGJvcmRlcj0iMCIgY2VsbHBh
+ZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2
+ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTBweDsgdGV4dC1hbGlnbjogY2VudGVyOyBw
+YWRkaW5nLXRvcDogMjBweDsiIHdpZHRoPSI2MDAiPgo8dGJvZHk+Cjx0cj4KPHRkIHdpZHRoPSI2
+MDAiPiZuYnNwOzwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiPlRoaXMgaXMgYW4g
+YWR2ZXJ0aXNlbWVudC4gVGhpcyBtZXNzYWdlIGhhcyBiZWVuIHNlbnQgdG8geW91IHRocm91Z2gg
+YW4gYWZmaWxpYXRlIG9mIFJlbmV3YWwgYnkgQW5kZXJzZW4uPGJyIC8+IDxiciAvPiA8c3BhbiBz
+dHlsZT0iZm9udC1zaXplOiAxMnB4OyBmb250LWZhbWlseTogYXJpYWwsIGhlbHZldGljYSwgc2Fu
+cy1zZXJpZjsiPjxiPlRvIGJlIHJlbW92ZWQgZnJvbSByZWNlaXZpbmcgZnV0dXJlIGVtYWlscywg
+PGEgaHJlZj0iaHR0cDovL2J1eW1hZ2FoYXQuY28udWsvcTU4Ml9TZnYtX1d6Ij5VbnN1YnNjcmli
+ZSBoZXJlLjwvYT48L2I+PC9zcGFuPgo8cD4mbmJzcDs8L3A+CjxzcGFuIHN0eWxlPSJmb250LXNp
+emU6IDEycHg7IGZvbnQtZmFtaWx5OiBhcmlhbCwgaGVsdmV0aWNhLCBzYW5zLXNlcmlmOyI+IDwv
+c3Bhbj4KPHAgc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6
+IDEycHg7IGZvbnQtZmFtaWx5OiBhcmlhbCwgaGVsdmV0aWNhLCBzYW5zLXNlcmlmOyI+PGI+SWYg
+eW91IGhhdmUgcXVlc3Rpb25zIG9yIGNvbmNlcm5zLCBjb250YWN0IG91ciBjdXN0b21lciBzdXBw
+b3J0IHRlYW0sIDxhIGhyZWY9Imh0dHA6Ly9idXltYWdhaGF0LmNvLnVrL1ViZVloMEJSZ2lVOSI+
+IGhlcmUuPC9hPjwvYj48L3NwYW4+PC9wPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBm
+b250LWZhbWlseTogYXJpYWwsIGhlbHZldGljYSwgc2Fucy1zZXJpZjsiPiAxOTEgTWFpbiBTdCAj
+NTA1IHwgUG9ydCBXYXNoaW5ndG9uLCBOWSAxMTA1MCA8L3NwYW4+PGJyIC8+ICZuYnNwOzwvdGQ+
+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+Cjwh
+LS0gZW5kIG1haW4gYmxvY2sgLS0+PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPGRpdiBz
+dHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmOyBwYWRkaW5n
+LXRvcDogMTBweDsgcGFkZGluZy1ib3R0b206IDEwcHg7IGZvbnQtc2l6ZTogOHB0OyBmb250LWZh
+bWlseTogc2Fucy1zZXJpZjsiPlsxMzIxIFVwbGFuZCBEciA0Mzk5IEhvdXN0b24sIFRYIDc3MDQz
+XTxiciAvPiA8YSBocmVmPSJodHRwOi8vYnV5bWFnYWhhdC5jby51ay9GcXRud0RRZ3Z4alEiIHN0
+eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICM2
+NjY7Ij5VTlNVQlNDUklCRTwvYT48L2Rpdj4=
+
+---_-_-ab5a4e14b47cf8ff8d77__da194f2c09c8446e69c6b041_-_---

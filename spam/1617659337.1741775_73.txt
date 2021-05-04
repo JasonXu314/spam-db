@@ -1,0 +1,64 @@
+Return-Path: <easycanvasprintsdeals.offer-bruce=untroubled.org@smartcred1.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1228995 invoked from network); 5 Apr 2021 19:48:29 -0000
+Received: (qmail 178283 invoked by uid 222); 5 Apr 2021 19:48:29 -0000
+Return-Path: <easycanvasprintsdeals.offer-bruce=untroubled.org@smartcred1.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 178280 invoked from network); 5 Apr 2021 19:48:29 -0000
+Received: from mail.smartcred1.com ([69.94.155.153])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 19:48:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=smartcred1.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=easycanvasprintsdeals.offer@smartcred1.com;
+ bh=+12tEthaaFqlcKCIQTV2TEZEjmY=;
+ b=H4B69tixaAWiPT7BSd7yorrp2XfkQOuqH4KlCETV0yCCmeOISZFgMQH9sAJRlq/BiYYIh5zPjuSK
+   xzWmmGjH2nhKAXnzSy73hUtHOxK1wCZ0uIXgMct45WBg7A8mjmKE9OvbQi0vTo+FRHOoz5BTOAdT
+   9E02rrlss+Xi05sAZzk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=smartcred1.com;
+ b=VW5xW3beNrF7hMlC5zEZrMDjO17N2XC30XOyi/n9FVJQpqF3Sy6W0co3YQvCmU2IVfA5pxTnzBI0
+   kikayG634pB8FBvO6AlFTDOwE3DTVzG4EuTi+TTETtbRDNJvoKfBEVguVXIV9Ve07ITDBTAujMz1
+   10cXwEWX5++W7bBuMXY=;
+Received: by mail.smartcred1.com id hddkoo0001gk for <bruce@untroubled.org>; Mon, 5 Apr 2021 15:38:19 -0400 (envelope-from <easycanvasprintsdeals.offer-bruce=untroubled.org@smartcred1.com>)
+Date: Mon, 5 Apr 2021 15:38:19 -0400
+From: "EasyCanvasPrintsDeals Offer" <easycanvasprintsdeals.offer@smartcred1.com>
+To:   <bruce@untroubled.org>
+Subject: Show your loved ones you care
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_685_864373480.1617651494762"
+List-Unsubscribe: <http://www.smartcred1.com/motherland-Africanizations/cba4X2395A8Q9Z13N11UTBIS4a56W21rFv4GIf4rxvs4FhIHEsvZ11IRpnKKeKoB97S10BuMK5ATcYW>
+Message-ID: <0.0.0.4C.1D72A533AFCDE8E.7492FD@mail.smartcred1.com>
+Content-Length: 2688
+
+------=_Part_685_864373480.1617651494762
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>assistants</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.smartcred1.com/darkroom-conjectured/be86uJ23G95PvQ8613l1t5aecW4a56M21mFv4GIf4rxvs4FhIHEsvZ11iRpnKKeKoB97jupNY105sjczY"><span style="font-size:18px; ">Spring into savings with our Huge Sale</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.smartcred1.com/darkroom-conjectured/be86uJ23G95PvQ8613l1t5aecW4a56M21mFv4GIf4rxvs4FhIHEsvZ11iRpnKKeKoB97jupNY105sjczY"><img src="http://www.smartcred1.com/31d4f2395iDw7a13u15aefBX4a56U21UFv4GIf4rxvs4FhIHEsvZ11oRpnKKeKoB97C1RL0vD5FUcYJ/intonation-articulating" style="width: 643px; height: 725px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.smartcred1.com/6476Vv23j95o8G6X12y15aedA4a56l21lFv4GIf4rxvs4FhIHEsvZ11pRpnKKeKoB97Y1o0YQm5yjclY/amend-bottleneck"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Halt&nbsp; <a href="http://www.smartcred1.com/intonation-articulating/3784K2395Op8J912p15aeeU4a56J21bFv4GIf4rxvs4FhIHEsvZ11sRpnKKeKoB97t1FVBw05z@cyY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <style><style></style></style><span></span>
+  </center>   
+ <img src="http://www.smartcred1.com/difference-chimpanzee/dc85X239Z5QPY8517IAK1o5aSfG0s4a56u21CFv4GIf4rxvs4FhIHEsvZ11HRpnKKeKoB95D1GM05lU1cY" alt=""/></body>
+</html>
+
+------=_Part_685_864373480.1617651494762--
+

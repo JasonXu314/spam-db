@@ -1,0 +1,102 @@
+Return-Path: <31289-44520-39280-8181-bruce=untroubled.org@mail.flyring.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1537054 invoked from network); 9 Apr 2021 11:45:25 -0000
+Received: (qmail 19595 invoked by uid 222); 9 Apr 2021 11:45:24 -0000
+Return-Path: <31289-44520-39280-8181-bruce=untroubled.org@mail.flyring.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 19592 invoked from network); 9 Apr 2021 11:45:24 -0000
+Received: from green.flyring.us ([134.73.142.249])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 11:45:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=flyring.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RepelsMosquitoes@flyring.us;
+ bh=vfQ1Pzj3BVOmOvW66cwr8yJO7sc=;
+ b=LnkGh8mLuXRhT8/r+c2xlkWDW3DZSKGaAqbLxfM20zAz3CZFvt+OnlApmsxHqeCzxZlovVmzUjVv
+   AVRu2aGgZRA0nr8QxvZYYxsLNFmv9P+VSLi0e3cwjRS89WsqWANUeSzxqpUzqbBilX9gT3bqM4TN
+   lT5HfZkPPiwF1YpEJF8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=flyring.us;
+ b=ERfOfCSWp30qu1wV1Z51dys1qozWE6cCTrt/gP1zfHv55fyNlZLY67nmdQxSrkKt4llqivH7ToW8
+   sxU9bd/pXOkUqihtxbJeHcde2sYHvY7cHS+NfV/yZG+nd+PP8m8R5py0RYuCv76FHYAzS1UPNNoE
+   0DjbMLKxrwSrGgIH8n4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="326adb255a2d3b66db0864b846c51a0b_ade8_9970"
+Date: Fri, 9 Apr 2021 04:45:23 -0700
+From: "Fly Blocker" <RepelsMosquitoes@flyring.us>
+Reply-To: "Fly Blocker" <RepelsMosquitoes@flyring.us>
+Subject: This summer's solution: repel mosquitoes with a Smart Watch.
+To: <bruce@untroubled.org>
+Message-ID: <l3pvi6puoa81bhna-f02ib9zyikc8je6v-ade8-9970@flyring.us>
+Content-Length: 6756
+
+--326adb255a2d3b66db0864b846c51a0b_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This summer's solution: repel mosquitoes with a Smart Watch.
+
+http://flyring.us/3EhIlVQD5vkVWDi8jNCHqhB7pEd-Gb6T_Uy2c2g7ZumO3IyD
+
+http://flyring.us/S-Jv2Hx6Ctkj2-9aOupY47LqXVXdH3Ef9pOcMFiX0ZcZjCX8
+
+mediately after Ben Silverman was named co-chairman of NBC's entertainment division in 2007, he asked Greg Daniels to create a spin-off of The Office. Daniels co-created Parks and Recreation with Michael Schur, who had been a writer on The Office. The two spent months considering ideas for the new series and debating whether to make it a stand-alone rather than a spin-off. According to Daniels, they eventually abandoned the original spin-off plan because they "couldn't find the right fit". They considered a series about a local government official trying to rebuild a political career following a humiliating public spectacle. They eventually abandoned the idea, though it did end up being incorporated into the backstory for Ben Wyatt late in the second season. After Amy Poehler agreed to play the lead, they decided the series would revolve around an optimistic bureaucrat in small-town government. Production was delayed to accommodate Poehler's pregnancy.
+
+The idea was partly inspired by the portrayal of local politics on the HBO drama series The Wire, as well as the renewed interest in and optimism about politics stemming from the 2008 United States presidential election. The staff was also drawn to the idea of building a show around a female relationship, namely Leslie Knope and Ann Perkins. Reports that Daniels and Schur were developing a show together led to press speculation it would, in fact, be a spin-off of The Office. The producers insisted their new series would be entirely independent. Nevertheless, their concept for it shared several elements with The Office, particularly the mockumentary approach and the encouragement of improvisation among the cast, even though the episodes were scripted. The series was scheduled as a mid-season replacement, and was rushed to meet the premiere date of April 9, 2009. Before the title Parks and Recreation was chosen, the name Public Service was considered, but ultimately rejected because network officials did not want to be accused of mocki
+
+--326adb255a2d3b66db0864b846c51a0b_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://flyring.us/MiGhfvkoU-S84HzJZkRd5VeVP3Hx1yK1jn3muJUEIA0dtogm"><img src="http://flyring.us/0c69614f7a3d4440d0.jpg" /><img height="1" src="http://www.flyring.us/XseLxkgyOcL_zp8qyJqVnOyAFGfnVKUf-olX8cStqamHKv83" width="1" /></a>
+<center>
+<div style="font-family:arial;font-size:17px;border:1px solid black;padding:15px;width:600px;text-align:left;"><br />
+It&rsquo;s comfortable and discreet. Like wearing a watch! It&#39;s the ultimate solution against mosquitoes to wear anywhere!<br />
+<br />
+<a href="http://flyring.us/3EhIlVQD5vkVWDi8jNCHqhB7pEd-Gb6T_Uy2c2g7ZumO3IyD" target="blank"><b>Don&#39;t wait any longer to enjoy all the features that the Fly Blocker has to offer.</b></a><br />
+<br />
+<i>Put an end to the summer nightmare with a simple wristband.</i><br />
+<br />
+<b>Fly Blocker is an ultrasonic Smart Watch that repels mosquitoes. </b><br />
+<br />
+It&rsquo;s for everyone! It can be worn by children, the elderly, <b>pregnant women and even your pets.</b><br />
+<br />
+<a href="http://flyring.us/3EhIlVQD5vkVWDi8jNCHqhB7pEd-Gb6T_Uy2c2g7ZumO3IyD" target="blank"><img src="http://flyring.us/ca87be90a470fb3f87.jpg" /></a><br />
+<br />
+A simple device that you put on your wrist! Put an end to your mosquito nightmare in the most comfortable way possible.<br />
+<br />
+It works anywhere! Typical sprays are usually only used at home, but the <a href="http://flyring.us/3EhIlVQD5vkVWDi8jNCHqhB7pEd-Gb6T_Uy2c2g7ZumO3IyD" target="blank"><b style="color:#0373C9;">Fly Blocker Smart Watch</b></a> is effective no matter where you go.<br />
+&nbsp;
+<center><a href="http://flyring.us/3EhIlVQD5vkVWDi8jNCHqhB7pEd-Gb6T_Uy2c2g7ZumO3IyD" target="blank"><img src="http://flyring.us/272d4cd4694d00f758.png" /></a></center>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:5px;">mediately after Ben Silverman was named co-chairman of NBC&#39;s entertainment division in 2007, he asked Greg Daniels to create a spin-off of The Office. Daniels co-created Parks and Recreation with Michael Schur, who had been a writer on The Office. The two spent months considering ideas for the new series and debating whether to make it a stand-alone rather than a spin-off. According to Daniels, they eventually abandoned the original spin-off plan because they &quot;couldn&#39;t find the right fit&quot;. They considered a series about a local government official trying to rebuild a political career following a humiliating public spectacle. They eventually abandoned the idea, though it did end up being incorporated into the backstory for Ben Wyatt late in the second season. After Amy Poehler agreed to play the lead, they decided the series would revolve around an optimistic bureaucrat in small-town government. Production was delayed to accommodate Poehler&#39;s pregnancy. The idea was partly inspired by the portrayal of local politics on the HBO drama series The Wire, as well as the renewed interest in and optimism about politics stemming from the 2008 United States presidential election. The staff was also drawn to the idea of building a show around a female relationship, namely Leslie Knope and Ann Perkins. Reports that Daniels and Schur were developing a show together led to press speculation it would, in fact, be a spin-off of The Office. The producers insisted their new series would be entirely independent. Nevertheless, their concept for it shared several elements with The Office, particularly the mockumentary approach and the encouragement of improvisation among the cast, even though the episodes were scripted. The series was scheduled as a mid-season replacement, and was rushed to meet the premiere date of April 9, 2009. Before the title Parks and Recreation was chosen, the name Public Service was considered, but ultimately rejected because network officials did not want to be accused of mocki</span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://flyring.us/RLLDwhdECGmm0QN4X981hN8b4epT8E9Ot13XyeR68FX0WDgc" target="blank"><img src="http://flyring.us/ab051d10fe6c95c265.jpg" /><br />
+<img src="http://flyring.us/15d19585be68981266.jpg" /></a></center>
+</body>
+</html>
+
+--326adb255a2d3b66db0864b846c51a0b_ade8_9970--

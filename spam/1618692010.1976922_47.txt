@@ -1,0 +1,78 @@
+Return-Path: <myseniorperks-bruce=untroubled.org@speed34.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2752181 invoked from network); 16 Apr 2021 17:36:18 -0000
+Received: (qmail 108530 invoked by uid 222); 16 Apr 2021 17:36:17 -0000
+Return-Path: <myseniorperks-bruce=untroubled.org@speed34.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 108527 invoked from network); 16 Apr 2021 17:36:17 -0000
+Received: from mail.speed34.cloud ([208.187.244.242])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 17:36:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed34.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=myseniorperks@speed34.cloud;
+ bh=gMAnK0D9eHLRQ2dQNVwqQJZSEIw=;
+ b=wcIxqgllBVQ7jcmbsHtEVZ1VdY3yik1DpWjxiCH7eFzwMpO12vVIzIE4UkA2G7z/BmuXw4RtR/5V
+   3qiY8clHZoEOr9hVRSNPJ1Nq2vfOEbP7VKgYvtEq4XT0fhx3yMnswNl0e3bkEVuC7J4s82KTTU9y
+   B9T+hRuQiWAtZyYcL/Q=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed34.cloud;
+ b=NICpe1UL2LlsxGHgkPkXjsNu/7xsdW3JH45lwMcSE+XdVD7JW78hcSVluvW4MF1radRsAsTAuMPl
+   qhfoQNtvBIo4ejND9gQyi8Cgrfx+tWadjhGWXbgcrcjiyMNV8z8CJnYc0Nzuo7jCeWY3XeP9fgAN
+   XupJuouphvASVwHUR/M=;
+Received: by mail.speed34.cloud id hf75h20001gu for <bruce@untroubled.org>; Fri, 16 Apr 2021 13:25:58 -0400 (envelope-from <myseniorperks-bruce=untroubled.org@speed34.cloud>)
+Date: Fri, 16 Apr 2021 13:25:58 -0400
+From: Myseniorperks <myseniorperks@speed34.cloud>
+To:   <bruce@untroubled.org>
+Subject: Seniors - did you know about these discounts?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_283_745440679.1618593937688"
+List-Unsubscribe: <http://www.speed34.cloud/skinny-stagnant/7ec4C2395dRS8913QY11pGrh4af7r21dFv4GIf4rxvs4FhIHEsvZ11kRbomnQRoX97aK1iU0V5zBJcY>
+Message-ID: <0.0.0.1E.1D732E590D74520.2FB5B7@mail.speed34.cloud>
+Content-Length: 2828
+
+------=_Part_283_745440679.1618593937688
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>nothings</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.speed34.cloud/9715QF2395zv86J12S15e46s4af7k21HFv4GIf4rxvs4FhIHEsvZ11sRbomnQRoX97I1_0i_t5eNcY3/civilizing-circumcise">18 unbeatable ways for seniors to save money</a></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.speed34.cloud/9715QF2395zv86J12S15e46s4af7k21HFv4GIf4rxvs4FhIHEsvZ11sRbomnQRoX97I1_0i_t5eNcY3/civilizing-circumcise"><img alt="" src="http://www.speed34.cloud/fantasy-improvisation/b525js2395X7rMa13d15eR49l4af7o21RFv4GIf4rxvs4FhIHEsvZ11sRbomnQRoX97kI1y0MZ5klcYz" style="border-width: 0px; border-style: solid; height: 1202px; width: 642px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.speed34.cloud/mirrors-bellyache/1025y2V395wT8B613Vv15e47n4af7B21SFv4GIf4rxvs4FhIHEsvZ11zRbomnQRoX97N1wPPN05QWAcY"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.speed34.cloud/9715QF2395zv86J12S15e46s4af7k21HFv4GIf4rxvs4FhIHEsvZ11sRbomnQRoX97I1_0i_t5eNcY3/civilizing-circumcise"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.speed34.cloud/deliverance-tanks/3966H2Zn395Y8_z913g15ne48T4af7z21hFv4GIf4rxvs4FhIHEsvZ11kRbomnQRoX96fr1_0q5IOpcY">&nbsp; Exit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <big><span><big><style><style class="morale"></style></big></span></style></big><span face="dismissers"></span>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.speed34.cloud/mirrors-bellyache/17a4z2395juz8517mz1y5eq4WYaC4af7p21sFv4GIf4rxvs4FhIHEsvZ11LRbomnQRoX95Qri105zpcY3" alt=""/></body>
+</html>
+
+------=_Part_283_745440679.1618593937688--
+

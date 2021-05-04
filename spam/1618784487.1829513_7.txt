@@ -1,0 +1,77 @@
+Return-Path: <stjepan.pavlek@koios.hr>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2924262 invoked from network); 18 Apr 2021 05:11:40 -0000
+Received: (qmail 8049 invoked by uid 222); 18 Apr 2021 05:11:40 -0000
+Return-Path: <stjepan.pavlek@koios.hr>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 8046 invoked from network); 18 Apr 2021 05:11:40 -0000
+Received: from server182.wmd-webprostor.com (server182.wmd-webprostor.com [188.40.64.57])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Apr 2021 05:11:39 -0000
+Received: from 109.25.189.35.bc.googleusercontent.com ([35.189.25.109]:57177 helo=User)
+	by server182.wmd-webprostor.com with smtp (Exim 4.92)
+	(envelope-from <stjepan.pavlek@koios.hr>)
+	id 1lXzfC-0088wJ-Tp; Sun, 18 Apr 2021 07:08:07 +0200
+Reply-To: <reem2018@daum.net>
+From: "Ms. Reem"<stjepan.pavlek@koios.hr>
+Subject: Hello
+Date: Sun, 18 Apr 2021 05:11:24 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-cPanel-MailScanner-Information: Please contact the ISP for more information
+X-cPanel-MailScanner-ID: 1lXzfC-0088wJ-Tp
+X-cPanel-MailScanner: Found to be clean
+X-cPanel-MailScanner-SpamCheck: 
+X-cPanel-MailScanner-From: stjepan.pavlek@koios.hr
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server182.wmd-webprostor.com
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - koios.hr
+X-Get-Message-Sender-Via: server182.wmd-webprostor.com: mailgid no entry from get_recent_authed_mail_ips_entry
+X-Authenticated-Sender: server182.wmd-webprostor.com: 
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 1803
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Hello,</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+My name is Reem E. Al-Hashimi, the Emirates Minister of State and Managing Director of the United Arab Emirates (Dubai) World Expo 2020 Committee. I am writing to you to stand as my partner to receive my share of gratification from foreign companies whom I helped during the bidding exercise towards the Dubai World Expo 2020 Committee and also i want to use this funds to assist Coronavirus Symptoms and Causes.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Am a single Arab women and serving as a minister, there is a limit to my personal income and investment level and For this reason, I cannot receive such a huge sum back to my country or my personal account, so an agreement was reached with the foreign companies to direct the gratifications to an open beneficiary account with a financial institution where it will be possible for me to instruct further transfer of the fund to a third party account for investment purpose which is the reason i contacted you to receive the fund as my partner for investment in your country.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+The amount is valued at Euro 47,745,533.00 with a financial institution waiting my instruction for further transfer to a destination account as soon as I have your information indicating interest to receive and invest the fund, I will compensate you with 30% of the total amount and you will also get benefit from the investment.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+If you can handle the fund in a good investment. reply on this email only: reem.alhashimi@yandex.com</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+Regards,</DIV>
+<DIV>
+Ms. Reem</DIV>
+</FONT>
+</BODY></HTML>

@@ -1,0 +1,108 @@
+Return-Path: <splash-wines-premium-wine-bruce=untroubled.org@upcred6.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1216502 invoked from network); 5 Apr 2021 14:46:40 -0000
+Received: (qmail 174636 invoked by uid 222); 5 Apr 2021 14:46:40 -0000
+Return-Path: <splash-wines-premium-wine-bruce=untroubled.org@upcred6.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 174633 invoked from network); 5 Apr 2021 14:46:40 -0000
+Received: from mail.upcred6.com ([69.94.155.4])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 14:46:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=upcred6.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=splash-wines-premium-wine@upcred6.com;
+ bh=2WLBgX0tVbQesghfH1D6ZiWJkIU=;
+ b=ZN4e+yR0OL+AdZ2oJJL2QaW6i2TbWqPaiaqXdbjNTNbD1S3tvK3v69v9OQ8Wf1yTMMmfpRNHV+ws
+   VqWrsJCgXSqvEMQwEEoeOeCTB8fx/SSZ8Q5uV6Huy4HwwG1peSldEUgqUYBjpwOijua8JwFPcoe+
+   i8NeYhNmlg8/3foq+XY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=upcred6.com;
+ b=TtARsFuDwHuYdjxLRLBDLhdgLogJD9PzNw8XnI+gTWkYwhpYAkRnsfztucFg2OZMt5xLgjVreSx1
+   ZEW7SJ4LP66Oax5PebvrBugj3KQN+Z5sLoyszlGQK0O7sRLjmiZCaGiwqJliq2I8po+HJBCnKAcY
+   3jZquGi0jhBQqmW57Pk=;
+Received: by mail.upcred6.com id hdchcu0001g2 for <bruce@untroubled.org>; Mon, 5 Apr 2021 10:36:15 -0400 (envelope-from <splash-wines-premium-wine-bruce=untroubled.org@upcred6.com>)
+Date: Mon, 5 Apr 2021 10:36:15 -0400
+From: "Splash Wines Premium Wine" <splash-wines-premium-wine@upcred6.com>
+To:   <bruce@untroubled.org>
+Subject: No Need to Go to the Store, Premium Wine is a Few Clicks Aways!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_595_1345466245.1617633373265"
+List-Unsubscribe: <http://www.upcred6.com/retaining-bearings/24c4z2395ys8A912DPBs11_4a4fC21WFv4GIf4rxvs4FhIHEsvZ8XRGnKKen7klSA1U05S@AcY>
+Message-ID: <0.0.0.42.1D72A2908B016E6.B6CF5@mail.upcred6.com>
+Content-Length: 4629
+
+------=_Part_595_1345466245.1617633373265
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>migration</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.upcred6.com/a615J23t95G86YA13b15ac7iu4a4f_21LFv4GIf4rxvs4FhIHEsvZ8VRGnKKen5E1y0A6ILL@cY/enchants-Serpens">Splash into the best Wine ever</a>
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.upcred6.com/a615J23t95G86YA13b15ac7iu4a4f_21LFv4GIf4rxvs4FhIHEsvZ8VRGnKKen5E1y0A6ILL@cY/enchants-Serpens" style=3D"text-decoration: none; "><img alt=3D"bottle" src=3D"=
+http://www.upcred6.com/thereto-plans/d8c5GP2395Eq7ai17ar1J5aHcagZy4a4fx21AFv4GIf4rxvs4FhIHEsvZ8bRGnKKen5Gy1F05dAAcY" style=3D"width: 550px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not w=
+ish to receive future messages click here to <span class=3D"unstyle-auto-de=
+tected-links"><a href=3D"http://www.upcred6.com/chastising-separator/8a04D2395E86lz12w15ac8N4a4fF21bFv4GIf4rxvs4FhIHEsvZ8sRGnKKen7kh1Ll0S5CB0cY" style=3D"text-decoration: underline !i=
+mportant; border-bottom-width: 0px !important; cursor: default !important; =
+color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-w=
+eight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br /=
+> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.upcred6.com/a615J23t95G86YA13b15ac7iu4a4f_21LFv4GIf4rxvs4FhIHEsvZ8VRGnKKen5E1y0A6ILL@cY/enchants-Serpens"=
+ style=3D"text-decoration: underline !important; border-bottom-width: 0px !=
+important; cursor: default !important; color: rgb(153, 153, 153); font-size=
+: 10px; font-family: sans-serif; font-weight: inherit !important; line-heig=
+ht: 14px; text-align: center; ">Splash Wines</a>&nbsp; |&nbsp; 1191 E Iron =
+Eagle Dr., Suite #101 - Eagle, ID 83616</span><br /> <br /> <span style=3D"=
+color:#A9A9A9; ">Remove</span><a href=3D"http://www.upcred6.com/Garibaldi-orients/ada4m2395i8ZI913c15ac9PD4a4fh21SFv4GIf4rxvs4FhIHEsvZ8uRGnKKen5cO1s06Dpc2Y3"><span style=3D=
+"color:#A9A9A9; "> Here</span></a><br /> 6547 N Academy Boulevard #1170<br =
+/> 80918 Colorado Springs CO<br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <span id="gleaner"></span><span size="Laguna"></span><span lang="animateness"><style id="chewers"></span></style><style></style> =20
+ <img src=3D"http://www.upcred6.com/2e15R2v395l8Q5v17C15ragxctbro4a4fw21BFv4GIf4rxvs4FhIHEsvZ8fRGnKKen5U1X0p5M2qcY/crazily-registry" alt=3D""/></body>
+</html>
+
+------=_Part_595_1345466245.1617633373265--
+

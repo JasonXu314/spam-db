@@ -1,0 +1,89 @@
+Return-Path: <hattie_poole-bruce=untroubled.org@sunnybunbyswimia.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3427534 invoked from network); 22 Apr 2021 21:44:48 -0000
+Received: (qmail 5777 invoked by uid 222); 22 Apr 2021 21:44:48 -0000
+Return-Path: <hattie_poole-bruce=untroubled.org@sunnybunbyswimia.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 5774 invoked from network); 22 Apr 2021 21:44:48 -0000
+Received: from mail.sunnybunbyswimia.com (205-236-248-39.serversto.com [205.236.248.39])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 21:44:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sunnybunbyswimia.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=hattie_poole@sunnybunbyswimia.com;
+ bh=hq7e8CWHIzcJQcFrsIhrDz2hluo=;
+ b=V0xibLjlAeXZnc3FoF9Yr+trImssSdFHrx/ATjDxasIhML5Q+Z12yyywcT7Rf9FIc9w0tLYP6n0L
+   3f3DaUZ1bWzo96cI2qZSnbRcsIadcmfkcV7j3Z7aiflj8F/4TvYttc9iYsBW2JZwuoHhkDKnoWft
+   +x2tpd8pcvaVH9tazug=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sunnybunbyswimia.com;
+ b=NApWKm3rRyF/Vw/HI9EAMhVLTdfr8PYz7QdVZtN44T4IR+7Ctz9ClJ+kd1tmTy90eZR4uqUn3qqy
+   6GmppCr0Qwp2sT1W4OayIOFedKg12VK/ksDpjoORQbsvRDNS1CiTIVcVKYNPi7NjJN5iVbpmM+z5
+   ta3y1DwRhwas+5Vvs2U=;
+Received: by mail.sunnybunbyswimia.com id hg7nb60001gd for <bruce@untroubled.org>; Thu, 22 Apr 2021 17:44:28 -0400 (envelope-from <hattie_poole-bruce=untroubled.org@sunnybunbyswimia.com>)
+Date: Thu, 22 Apr 2021 17:44:28 -0400
+From: "Hattie Poole" <hattie_poole@sunnybunbyswimia.com>
+To:   <bruce@untroubled.org>
+Subject: Versatility you need to get the job donne
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_262_1114643543.1619127722080"
+List-Unsubscribe: <http://www.sunnybunbyswimia.com/foundations-collapsible/4c25X23O95Fz89Q11Q1LOK1R4ffW21qFv4GIf4rxvs4FhIHEsvZ7GQ.noKQ7Iu1v0CZ5jz0sv>
+Message-ID: <0.0.0.2B.1D737C0ABB53854.664A5D@mail.sunnybunbyswimia.com>
+Content-Length: 4437
+
+------=_Part_262_1114643543.1619127722080
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Instantly Upgrade Your Toolbox with the Golden Multitool & Universal Tiger Wrench ** 
+------------------------------------------------------------------------------------------
+
+Upgrade your toolbox and get more done with the QualityTech tool set.  The Tiger Wrench and Multitool feature a compact design and are made of high-quality stainless steel so you can work with comfort and confidence.  We are offering up to 42% off on the Golden Multitool and the Universal Tiger Wrench when you buy them as a set!  Our innovative, universal 48-in-1 socket wrench is designed to get more done with less visits to the workbench.  This stainless steel wrench is great for working with spline bolts, 6-point, 12-point, long studs, drain plugs, square and even damaged bolts.  This adjustable wrench comes with both metric and standard sizes to assure you always have the right tool for the job. 
+
+
+Shop Now Up To 42% Off! -> http://www.sunnybunbyswimia.com/foundations-collapsible/1986kG239h5PWA8612C2D1b7pn4ffT21WFv4GIf4rxvs4FhIHEsvZ7FQ.noKQ5G1R0p6z2OWsv
+
+
+
+
+LADV Technical Resources
+33 Church Street
+Saint Johnsville, NY 13452-1026
+Manage Email Preferences http://www.sunnybunbyswimia.com/abb6Xn2u395cB8s610G21b5s4ffl21mFv4GIf4rxvs4FhIHEsvZ7oQ.noKQ5kmQ106wNBs1v/birefringent-capacitor
+
+
+------=_Part_262_1114643543.1619127722080
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="UTF-8" /> 
+  <meta name="viewport" content="width=device-width" <="" ead="" /> 
+ </head>
+ <body> 
+  <table cellpadding="0" cellspacing="0" style="width: 100%; max-width: 640px; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'" align="center"> 
+   <tbody>
+    <tr> 
+     <td align="center"> 
+      <table cellpadding="0" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <a href="http://www.sunnybunbyswimia.com/foundations-collapsible/d324Q2395X8pm612tm21gb4x4ffP21NFv4GIf4rxvs4FhIHEsvZ7GQ.noKQ5YT10S6NMsv3O"> <img alt="	
+QualityTech Logo" style="width:100%; max-width: 160px; padding: 15px" src="http://www.sunnybunbyswimia.com/Nicodemus-superstition/f306UU2h395s7oaT12K2x1b6or4ffZ21tFv4GIf4rxvs4FhIHEsvZ7lQ.noKQ7SrMG10Q6el2svP" /> </a> <a href="http://www.sunnybunbyswimia.com/foundations-collapsible/d324Q2395X8pm612tm21gb4x4ffP21NFv4GIf4rxvs4FhIHEsvZ7GQ.noKQ5YT10S6NMsv3O"> <img src="	
+https://imagizer.imageshack.com/v2/xq90/922/gOgWaE.png" alt="tool illustrations" style="width: 100%; max-width: 640px" /> </a> <h1 style="width: 100%; max-width: 550px; color: #414042">Instantly Upgrade Your Toolbox with the <span style="color: #ff4800">Golden Multitool</span> &amp; <span style="color: #ff4800">Universal Tiger Wrench</span></h1> <p style="color: #414042; width: 100%; max-width: 600px">Upgrade your toolbox and get more done with the QualityTech tool set. The Tiger Wrench and Multitool feature a compact design and are made of high-quality stainless steel so you can work with comfort and confidence.</p> 
+          <div style="padding: 8px"></div> <a href="http://www.sunnybunbyswimia.com/foundations-collapsible/d324Q2395X8pm612tm21gb4x4ffP21NFv4GIf4rxvs4FhIHEsvZ7GQ.noKQ5YT10S6NMsv3O" style="text-decoration:none; padding: 6px 15px; color: white; background-color: #ff4800"><strong>Shop Now</strong></a> 
+          <div style="padding: 16px"></div> <a href="http://www.sunnybunbyswimia.com/foundations-collapsible/d324Q2395X8pm612tm21gb4x4ffP21NFv4GIf4rxvs4FhIHEsvZ7GQ.noKQ5YT10S6NMsv3O"> <img alt="tool photo" style="width: 100%; max-width: 640px" src="	
+https://imagizer.imageshack.com/v2/xq90/922/iV8m2w.jpg" /> </a> 
+          <div style="padding: 35px"></div> <p style="color: darkgray">LADV Technical Resources</p> <p style="color: darkgray">33 Church Street</p> <p style="color: darkgray">Saint Johnsville, NY 13452-1026</p> <a href="http://www.sunnybunbyswimia.com/adjudicated-travesty/31e6VM23r95l8G6P12QI2I1b5j4ffC21DFv4GIf4rxvs4FhIHEsvZ7pQ.noKQ7YJ1NW0n6Skzksv">Manage Email Preferences</a> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table>  
+ <img src="http://www.sunnybunbyswimia.com/narratives-resourcefulness/22e5B23r95P85QW12G2D1bG8G4ffU21UFv4GIf4rxvs4FhIHEsvZ7MQ.noKQ7SmY1s0G5QNOsv" alt=""/></body>
+</html>
+
+------=_Part_262_1114643543.1619127722080--
+

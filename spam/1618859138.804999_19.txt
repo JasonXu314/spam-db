@@ -1,0 +1,64 @@
+Return-Path: <cpavlides200@filpiebeckerswealth.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3042252 invoked from network); 19 Apr 2021 14:29:37 -0000
+Received: (qmail 30016 invoked by uid 222); 19 Apr 2021 14:29:36 -0000
+Return-Path: <cpavlides200@filpiebeckerswealth.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 30013 invoked from network); 19 Apr 2021 14:29:36 -0000
+Received: from host.filpiebeckerswealth.com (filpiebeckerswealth.com [62.173.149.116])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 14:29:36 -0000
+Received: from filpiebeckerswealth.com (ec2-3-21-170-185.us-east-2.compute.amazonaws.com [3.21.170.185])
+	by host.filpiebeckerswealth.com (Postfix) with ESMTPA id 1A409318F812
+	for <bruce@untroubled.org>; Mon, 19 Apr 2021 16:27:50 +0300 (MSK)
+DKIM-Filter: OpenDKIM Filter v2.11.0 host.filpiebeckerswealth.com 1A409318F812
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=filpiebeckerswealth.com; s=default; t=1618838872;
+	bh=Lxx5rGQCX/MQzrwE9epz1Mb5yPYRqDyEupWj6GReobo=;
+	h=Reply-To:From:To:Subject:Date:From;
+	b=Y4/AIUbiG4om40JUkcBqOLt8HtP2ISmoZIeMkWweg/UuHd4QpoeJagKqWobo8waz9
+	 xB1VzGHXDjgjNQ7dnP6HPEYmIo4l5TmfMU4bGzYSIMyDTkmWH7/3dNeI1cwgMBkTR5
+	 TCKI7x96eZSm7bO+RfYIyVmLj/28ESdJUvF7Plc8=
+DKIM-Filter: OpenDKIM Filter v2.11.0 host.filpiebeckerswealth.com 1A409318F812
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=filpiebeckerswealth.com; s=default; t=1618838872;
+	bh=Lxx5rGQCX/MQzrwE9epz1Mb5yPYRqDyEupWj6GReobo=;
+	h=Reply-To:From:To:Subject:Date:From;
+	b=Y4/AIUbiG4om40JUkcBqOLt8HtP2ISmoZIeMkWweg/UuHd4QpoeJagKqWobo8waz9
+	 xB1VzGHXDjgjNQ7dnP6HPEYmIo4l5TmfMU4bGzYSIMyDTkmWH7/3dNeI1cwgMBkTR5
+	 TCKI7x96eZSm7bO+RfYIyVmLj/28ESdJUvF7Plc8=
+Reply-To: cpavlides200@flippiebeckerwealth.com
+From: C Pavlides <cpavlides200@filpiebeckerswealth.com>
+To: bruce@untroubled.org
+Subject: Projects
+Date: 19 Apr 2021 13:27:50 +0000
+Message-ID: <20210419132750.14D977607E96198A@filpiebeckerswealth.com>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 995
+
+Hello there,
+
+I hope this message finds you in good spirits especially during=20
+this challenging time of coronavirus pandemic. I hope you and=20
+your family are well and keeping safe. Anyway, I am Chris=20
+Pavlides, a broker working with Flippiebecker Wealth. I got your=20
+contact (along with few other contacts) through an online=20
+business directory and I thought I should contact you to see if=20
+you are interested in this opportunity. I am contacting you=20
+because one of my high profile clients is interested in investing=20
+abroad and has asked me to look for individuals and companies=20
+with interesting business ideas and projects that he can invest=20
+in. He wants to invest a substantial amount of asset abroad.
+
+Please kindly respond back to this email if you are interested in=20
+this opportunity. Once I receive your response, I will give you=20
+more details and we can plan a strategy that will be beneficial=20
+to all parties.
+
+Best regards
+
+C Pavlides
+Flippiebecker Wealth

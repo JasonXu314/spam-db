@@ -1,0 +1,111 @@
+Return-Path: <home.loans.at.mutual.of.omaha.mortgage-bruce=untroubled.org@speed19.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2914293 invoked from network); 17 Apr 2021 18:43:42 -0000
+Received: (qmail 3887 invoked by uid 222); 17 Apr 2021 18:43:41 -0000
+Return-Path: <home.loans.at.mutual.of.omaha.mortgage-bruce=untroubled.org@speed19.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 3884 invoked from network); 17 Apr 2021 18:43:41 -0000
+Received: from mail.speed19.cloud ([70.102.102.4])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Apr 2021 18:43:38 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed19.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=home.loans.at.mutual.of.omaha.mortgage@speed19.cloud;
+ bh=Sq+NPUjaNPqXOJmKVr0E+u0tESM=;
+ b=XxZ31drlM5phpE/0xp+3U7NIra+jPje4V/IQ+Ic12GTj1dLmhrh7zicr0V9FEyQYnULxjGckGIrw
+   GNoi323GRGx7uVIgh4hSEE9xfA85BRlNCWz5Msq+ASd7C2QLdxK80G31WOwyAntk+pcpirvltGy+
+   RNrBQC2D8G8v0jheFSQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed19.cloud;
+ b=lYgt/W7sef1d7GJa1Hw1G7jkmV9DiNgRT2DSZNcgXrlKpKfPjXrkwFvp2qxD7gN5lE41jjNBwfOi
+   bsX4wlBqwBiPAopVCsTqw7irvtEWf4mojVIiRNZ5N6iTzw8l1lvVJUOACaTC+yAKAf2RQhmWeJH7
+   dyn0q4mC5oAqHek8pjE=;
+Received: by mail.speed19.cloud id hfcm5k0001g4 for <bruce@untroubled.org>; Sat, 17 Apr 2021 14:31:14 -0400 (envelope-from <home.loans.at.mutual.of.omaha.mortgage-bruce=untroubled.org@speed19.cloud>)
+Date: Sat, 17 Apr 2021 14:31:14 -0400
+From: "Home Loans At Mutual Of Omaha Mortgage" <home.loans.at.mutual.of.omaha.mortgage@speed19.cloud>
+To:   <bruce@untroubled.org>
+Subject: Don't Waste Time & Money - Take Advantage of Low Mortgage Rates
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_463_1398147383.1618684248684"
+List-Unsubscribe: <http://www.speed19.cloud/4a36KG23W95B89gA12y1UTp1S4b06y21XFv4GIf4rxvs4FhIHEsvZ8WRpomnSn6yLi1Y06SjBcYy/landlords-unalterably>
+Message-ID: <0.0.0.33.1D733B7D8F905BE.B6215@mail.speed19.cloud>
+Content-Length: 4758
+
+------=_Part_463_1398147383.1618684248684
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>penetrated</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-family:verdana,geneva,sans-serif; "><span style=3D"f=
+ont-size:18px; "><a href=3D"http://www.speed19.cloud/landlords-unalterably/35a5n239C5f86zU17Q15hjmepq93G4b06O21OFv4GIf4rxvs4FhIHEsvZ8sRpomnSn6kY1zU05P1XcY">All time low rates make now the tim=
+e to refi</a></span></span>
+   <br /> &nbsp;=20
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed19.cloud/landlords-unalterably/35a5n239C5f86zU17Q15hjmepq93G4b06O21OFv4GIf4rxvs4FhIHEsvZ8sRpomnSn6kY1zU05P1XcY" style=3D"text-decoration: none; "><img alt=3D"" src=3D"http://www.speed19.cloud/Fitzroy-nowadays/2c44B2395IW7aq17u15r_TZe96Jl4b06P21lFv4GIf4rxvs4FhIHEsvZ8qRpomnSn5jQ10j6OkWcyY" s=
+tyle=3D"width: 607px; max-width: 600px; background-color: rgb(255, 255, 255=
+); font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(=
+85, 85, 85); margin: auto; display: block; border-width: 0px; border-style:=
+ solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; <span style=3D=
+"font-family:verdana,geneva,sans-serif; "> If you do not wish to receive fu=
+ture messages click here to <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.speed19.cloud/historian-barge/c246YV239F5Kg8k612B15e94Z4b06W21tFv4GIf4rxvs4FhIHEsvZ8LRpomnSn5Syj106OJc2XY" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span cl=
+ass=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed19.cloud/landlords-unalterably/35a5n239C5f86zU17Q15hjmepq93G4b06O21OFv4GIf4rxvs4FhIHEsvZ8sRpomnSn6kY1zU05P1XcY" style=3D"text-de=
+coration: underline !important; border-bottom-width: 0px !important; cursor=
+: default !important; color: rgb(153, 153, 153); font-size: 10px; font-fami=
+ly: sans-serif; font-weight: inherit !important; line-height: 14px; text-al=
+ign: center; ">Mutual of Omaha</a>&nbsp; |&nbsp; 3131 Camino Del Rio N., St=
+e 1100 - San Diego, CA 92108</span><br /> <br /> Exit <a href=3D"=
+http://www.speed19.cloud/Genoa-Europeanizations/bac4S2395A8L_912E15e95F4b06D21GFv4GIf4rxvs4FhIHEsvZ8HRpomnSn6rw1O0L5VMcYq">Here</a><br /> <br /> 6547 N Academy Boulevard #1170<br /> 80918 =
+Colorado Springs CO</span></span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <span></span><big></big><big></big><style><font lang="rhapsody"></style></font> =20
+ <img src=3D"http://www.speed19.cloud/eK36o2X3F95PP8T517S15Ze9InSX7A4b06W21kFv4GIf4rxvs4FhIHEsvZ8KRpomnSn6r1hr0q6DWjkcY/dawn-solitary" alt=3D""/></body>
+</html>
+
+------=_Part_463_1398147383.1618684248684--
+

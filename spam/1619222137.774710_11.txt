@@ -1,0 +1,206 @@
+Return-Path: <howard-phelps-bruce=untroubled.org@samscoalpizza.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3533675 invoked from network); 23 Apr 2021 20:46:31 -0000
+Received: (qmail 23145 invoked by uid 222); 23 Apr 2021 20:46:31 -0000
+Return-Path: <howard-phelps-bruce=untroubled.org@samscoalpizza.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 23142 invoked from network); 23 Apr 2021 20:46:31 -0000
+Received: from mail.samscoalpizza.com (205-236-248-55.serversto.com [205.236.248.55])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 20:46:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=samscoalpizza.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=howard-phelps@samscoalpizza.com;
+ bh=w6fm2IeQ/agMN7u5Z68LvJRBq1w=;
+ b=XFsnysSJ+ikiiEssAPv09n+UFTSyNe8NkMwInORooznFBrVHyNozlo2bFDBLKJxry05QEnBAi3Uy
+   O34kl5c+sZx2nCH5DotIJMk/omWJnmRIfjwTOk5ZloSIv6Bo2x9NpezqoM1UnxBw58Z3e8DgihZ6
+   OqAWSYUf3DwmKGmBsAU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=samscoalpizza.com;
+ b=GRldnHgr1RJBuqXP6bwOPfD1DGdH6ejONLF1QeXCPjcDtclsTQFNitipqituKNB9XuOWKYH9I7Iz
+   lQq3r6Gt4kbQ8eOlNs8GI6aRPR57bLCOkLF4U+4Ym+835IXkOYx6PrxrDDIPz7sAbBRdwe/EX+k8
+   WMPWKQ/Lq1qZX9cvjNY=;
+Received: by mail.samscoalpizza.com id hgcp9e0001g2 for <bruce@untroubled.org>; Fri, 23 Apr 2021 16:40:45 -0400 (envelope-from <howard-phelps-bruce=untroubled.org@samscoalpizza.com>)
+Date: Fri, 23 Apr 2021 16:40:45 -0400
+From: "Howard Phelps" <howard-phelps@samscoalpizza.com>
+To:   <bruce@untroubled.org>
+Subject:  Exact measurements each and every single time
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_370_1942009269.1619210302504"
+List-Unsubscribe: <http://www.samscoalpizza.com/3595v239X5zR8y912w1FnIo1n503r21zFv4GIf4rxvs4FhIHEsvZ7bQVnoKK5A10Bv5uzMsv/stupefying-Norristown>
+Message-ID: <0.0.0.3C.1D73880EFAA5EAC.8035FA@mail.samscoalpizza.com>
+Content-Length: 9799
+
+------=_Part_370_1942009269.1619210302504
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** A REGULAR TAPE MEASURE COULDN'T MEASURE THAT.  BUT OURS CAN **
+----------------------------------------------------------------
+Our Measure King tape measure is equipped with a precise, easy-to-read digital LED display and includes three different measuring tools.  Perfect for measuring rooms, furniture, work projects, and more.   We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+
+Visit our site -> http://www.samscoalpizza.com/stupefying-Norristown/b8e5jo2395q8u6U10X21d6A503V21qFv4GIf4rxvs4FhIHEsvZ7uQVnoKK5P10Qi5X1sv@ in the next 24 hours to take advantage of the event with 48% Off!  We've got a Measure King with your name on it. 
+
+
+
+
+Phillips-Murphy Computing Engineers
+890 W End Ave Apt 2a
+New York, NY 10025-3520
+Update Subscription Preferences http://www.samscoalpizza.com/eb75q23y95k8X6R12zu2m1d7F503H21UFv4GIf4rxvs4FhIHEsvZ7KQVnoKK6QG1m0v6tUlsvl/skilled-countless 
+
+
+------=_Part_370_1942009269.1619210302504
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.samscoalpizza.com/caiman-ringingly/af84h2395G8D6C10K21d1C503X21tFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7A10IqGJ5X2sv2"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.samscoalpizza.com/8275e239Q5A7aol11w2z1d3n503P21MFv4GIf4rxvs4FhIHEsvZ7sQVnoKK7p1PUlH05WAsv0/Catskill-Prussian" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.samscoalpizza.com/caiman-ringingly/af84h2395G8D6C10K21d1C503X21tFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7A10IqGJ5X2sv2"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.samscoalpizza.com/caiman-ringingly/7ce6LR23_95yz7an12bw21dJ4w503H21eFv4GIf4rxvs4FhIHEsvZ7HQVnoKK5CK10L6p@Tsvl" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.samscoalpizza.com/caiman-ringingly/af84h2395G8D6C10K21d1C503X21tFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7A10IqGJ5X2sv2"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.samscoalpizza.com/caiman-ringingly/af84h2395G8D6C10K21d1C503X21tFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7A10IqGJ5X2sv2"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.samscoalpizza.com/retentiveness-stayed/cba4S2395h7aB_11S21Td5W503G21iFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7mH10Ftl5pUUsv" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.samscoalpizza.com/caiman-ringingly/af84h2395G8D6C10K21d1C503X21tFv4GIf4rxvs4FhIHEsvZ7BQVnoKK7A10IqGJ5X2sv2"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.samscoalpizza.com/3776r23m9R5U8T6z12K21QdS2g503S21MFv4GIf4rxvs4FhIHEsvZ7YQVnoKK5s1M0x5OXslv/panther-retracted">Update Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p class=3D"css-127xirx"><span style=
+=3D"color: #ffffff;">. we have a small favour to ask. Across the US and aro=
+und the world, millions rely on the Guardian for independent journalism tha=
+t stands for truth and integrity. The Guardian has no shareholders or billi=
+onaire owner to please, and we invest every penny we earn back into our jou=
+rnalism. Readers chose to support us financially more than 1.5 million time=
+s in 2020, joining existing supporters in 180 countries.</span></p> <p clas=
+s=3D"css-127xirx"><span style=3D"color: #ffffff;">&nbsp;</span></p> <p clas=
+s=3D"css-127xirx"><span style=3D"color: #ffffff;">With your help, we will c=
+ontinue to provide high-impact reporting that can counter misinformation an=
+d offer an authoritative, trustworthy source of news for everyone. With no =
+shareholders or billionaire owner, we set our own agenda and provide truth-=
+seeking journalism that's free from commercial and political influence. Whe=
+n it's never mattered more, we can investigate and challenge without fear o=
+r favour.</span></p> <p class=3D"css-127xirx"><span style=3D"color: #ffffff=
+;">&nbsp;</span></p> <p class=3D"css-127xirx"><span style=3D"color: #ffffff=
+;">Unlike many others, we have maintained our choice: to keep Guardian jour=
+nalism open for all readers, regardless of where they live or what they can=
+ afford to pay. We do this because we believe in information equality, wher=
+e everyone deserves to read accurate news and thoughtful analysis. Greater =
+numbers of people are staying well-informed on world events, and being insp=
+ired to take meaningful action.</span></p> <p class=3D"css-127xirx"><span s=
+tyle=3D"color: #ffffff;">&nbsp;</span></p> <p class=3D"css-127xirx"><span s=
+tyle=3D"color: #ffffff;">We aim to offer readers a comprehensive, internati=
+onal perspective on critical events shaping our world ? from the Black Live=
+s Matter movement, to the new American administration, Brexit, and the worl=
+d's slow emergence from a global pandemic. We are committed to upholding ou=
+r reputation for urgent, powerful reporting on the climate emergency, and m=
+ade the decision to reject advertising from fossil fuel companies, divest f=
+rom the oil and gas industries, and set a course to achieve net zero emissi=
+ons by 2030.</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+    <!--Floyd calls for his mother. He tells the officers who pin his body =
+to the pavement for nine minutes and 29 seconds that he cannot breathe. And=
+ still Chauvin presses his knee into Floyd?s neck, his hands in his pockets=
+ and sunglasses perched on his head, a use of fatal force that continued fo=
+r minutes after officers could no longer feel his pulse.       As prosecuto=
+r Jerry Blackwell told jurors on Monday, after they had heard from the defe=
+nse that George Floyd had died as a result of his enlarged heart.       ?? =
+you know the truth. And the truth of the matter is, that the reason George =
+Floyd is dead is because Mr Chauvin?s heart was too small.?
+      Securing a conviction in the rare instances that officer-involved fat=
+alities make it to criminal trial has always been an uphill battle for pros=
+ecutors. Law enforcement officials in the US are endowed by a swath of prot=
+ections; from ambiguous legal definitions over the proportionate use of for=
+ce, to powerful police union agreements, and the many biases that stem from=
+ fundamental conflicts of interest in the system.       But from the moment=
+ the trial of Derek Chauvin trial began, it was clear that these proceeding=
+s were different from many that had come before.--->=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.samscoalpizza.com/2e16zC23X95OGt8512X2SH1d8j503y21aFv4GIf4rxvs4FhIHEsvZ7JQVnoKK5E10xS6vBBjsv/retentiveness-stayed" alt=3D""/></body>
+</html>
+
+------=_Part_370_1942009269.1619210302504--
+

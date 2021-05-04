@@ -1,0 +1,194 @@
+Return-Path: <homer_garrett-bruce=untroubled.org@silversmp.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3209056 invoked from network); 21 Apr 2021 16:47:11 -0000
+Received: (qmail 71643 invoked by uid 222); 21 Apr 2021 16:47:11 -0000
+Return-Path: <homer_garrett-bruce=untroubled.org@silversmp.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71640 invoked from network); 21 Apr 2021 16:47:11 -0000
+Received: from mail.silversmp.com (205-236-248-199.serversto.com [205.236.248.199])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 16:47:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=silversmp.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=homer_garrett@silversmp.com;
+ bh=18FBdY8g/Mz2sLI3PXyY4DOC2bY=;
+ b=a/tBqPYOfTiJvKsgyeBrNRJon4vt4M/eXuORXIadiNVx+8EGk15DoHmBc19khObrI/sOcQW8vkpL
+   zIgpirE77tP+LZQY9e7DdAOKWxxYq4cow1Q6rheMQYX5JQJ0yZxa94jOitSZ/oreGcEkUeuTbtDj
+   wEhasspoc2L0pNpIOjw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=silversmp.com;
+ b=0M23JtoLiTjQ9j3XcooEGJcj4sijijt7wl7JwkE8iwUJN07Q4Ct6FJy7NTmVC63QbofANk2sRDa/
+   RVpocPwME8RL2IeWZsu2QIgd1vsJfjcDlEqQmRShiZIivnsKnR4G2FI6pPg6jLT2M0D1JdzHqnkP
+   R15XSab/abz/WSbEdb0=;
+Received: by mail.silversmp.com id hg1bns0001gh for <bruce@untroubled.org>; Wed, 21 Apr 2021 12:46:45 -0400 (envelope-from <homer_garrett-bruce=untroubled.org@silversmp.com>)
+Date: Wed, 21 Apr 2021 12:46:45 -0400
+From: "Homer Garrett" <homer_garrett@silversmp.com>
+To:   <bruce@untroubled.org>
+Subject: Got A Flat Tire?  Instantly Pump Air With The All New Portable Flat Tire Air Pump
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_232_1411169363.1619023475319"
+List-Unsubscribe: <http://www.silversmp.com/unintelligible-stagnant/a264c2395m8l9Z10z1y1Nv4f2O21bFv4GIf4rxvs4FhIHEsvZ7QQ5noen7rsu1Sy05uPsTv>
+Message-ID: <0.0.0.26.1D736CDEA578416.20A8B3@mail.silversmp.com>
+Content-Length: 7336
+
+------=_Part_232_1411169363.1619023475319
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** Get a portable air pump and ditch the headache of a flat tire.  **
+--------------------------------------------------------------------
+
+You walk out to your car in the morning, open the door and spot it=E2=80=94=
+your tire sagging on the ground.  It could be worse, you could be driving a=
+nd notice the flapping sound of an airless tire on the highway.  Either way=
+, you want to have the right tool on hand to pump up your tire quickly.=20
+
+Our Wireless Air Pump can fill up a completely flat tire in minutes and is =
+easy to use.  Concerned about overfilling? Our pump has an automatic shutof=
+f to stop that from happening.  Trying to fill a flat in the dark? It comes=
+ with a built-in flashlight for easy operation.  We=E2=80=99re even offerin=
+g bundle discounts so that you can buy in bulk and put one in each of your =
+vehicles.=20
+
+
+
+
+Take An Additional 55% Off ->  http://www.silversmp.com/capacity-tremors/9545v23Z95fo86s11bM2153U4f2S21CFv4GIf4rxvs4FhIHEsvZ7IQ5noen7J1ZnR0G5lqysv
+
+
+
+
+
+
+
+Bridgeson Software Design,
+160 52nd Street South, Saint Petersburg, FL 33707
+Click here to end further messaging.  http://www.silversmp.com/Telemann-timidity/a625mv2395y8VD611j215I0_4f2p21GFv4GIf4rxvs4FhIHEsvZ7aQ5noen5N1F0_6lNsvJ3
+
+
+------=_Part_232_1411169363.1619023475319
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width" />=20
+  <style type=3D"text/css">
+=09=09* { margin: 0; padding: 0; font-size: 100%; font-family: 'Arial', "He=
+lvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; line-height: 1.65=
+; }
+
+=09=09img { max-width: 100%; margin: 0 auto; }
+
+=09=09body, .body-wrap { width: 100% !important; height: 100%; background: =
+#fff; }
+
+=09=09a { color: #2A2A2A; text-decoration: none; }
+=09=09
+=09=09h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; line-height: 1.25; }
+
+=09=09h1 { font-size: 32px; }
+
+=09=09h2 { font-size: 28px; }
+
+=09=09h3 { font-size: 24px; }
+
+=09=09h4 { font-size: 20px; }
+
+=09=09h5 { font-size: 16px; }
+
+=09=09p, ul, ol { font-size: 16px; font-weight: normal; margin-bottom: 20px=
+; }
+
+    </style>=20
+ </head>=20
+ <body>=20
+  <table width=3D"100%" style=3D"padding: 20px;">=20
+   <tbody>
+    <tr>=20
+     <td>=20
+      <table style=3D"margin: auto;" width=3D"600">=20
+       <tbody>
+        <tr>=20
+         <td style=3D"padding: 20px 0px;"> <a target=3D"_blank" href=3D"=
+http://www.silversmp.com/Telemann-timidity/22e6D239nD5Q8N6q10X214fs4f2J21OFv4GIf4rxvs4FhIHEsvZ7cQ5noen6t1O0Vy5W@3sv"><img src=3D"http://www.silversmp.com/13d4L2395sH7Va10R2151m4f2V21sFv4GIf4rxvs4FhIHEsvZ7bQ5noen7v1u0zCv5vPsJv/referentiality-Joplin" "=3D"" style=3D"width: 200px;padding-top:=
+ 5px;" alt=3D"logo" /></a> <a target=3D"_blank" href=3D"http://www.silversmp.com/Telemann-timidity/22e6D239nD5Q8N6q10X214fs4f2J21OFv4GIf4rxvs4FhIHEsvZ7cQ5noen6t1O0Vy5W@3sv" style=
+=3D"padding: 10px 13px; background-color: #ff0000; color:#fff;float: right;=
+">Take 55% Off Instantly!</a> </td>=20
+        </tr>=20
+        <tr>
+         <td> <h2>Get a portable air pump and ditch the headache of a flat =
+tire.</h2> </td>
+        </tr>=20
+        <tr>=20
+         <td> <a target=3D"_blank" href=3D"http://www.silversmp.com/Telemann-timidity/22e6D239nD5Q8N6q10X214fs4f2J21OFv4GIf4rxvs4FhIHEsvZ7cQ5noen6t1O0Vy5W@3sv"><img src=3D"=
+http://www.silversmp.com/impact-buckboard/80a6Y2oT395APU7a11M2D152m4f2r21uFv4GIf4rxvs4FhIHEsvZ7yQ5noen6Q_z10x5Bqysv" alt=3D"main" /></a> </td>=20
+        </tr>=20
+        <tr>
+         <td> <p>If you've ever woken up to a flat tire, you know how much =
+of an inconvenience it can be. <em>Fulltire</em>'s 150psi Wireless Air Pump=
+ was designed so that you can refill a leaky tire anytime; fill it up in th=
+e garage, at home, or even on the road when you need it most.</p>=20
+          <div>=20
+           <a target=3D"_blank" href=3D"http://www.silversmp.com/Telemann-timidity/22e6D239nD5Q8N6q10X214fs4f2J21OFv4GIf4rxvs4FhIHEsvZ7cQ5noen6t1O0Vy5W@3sv" style=3D"padding: 10px =
+13px; background-color: #ff0000; color:#fff;">Free Shipping Today Only!</a>=
+=20
+          </div> </td>
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td>=20
+      <table style=3D"margin: auto;margin-top: 95px;" width=3D"400">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center" style=3D"font-size: 14px;"> Bridgeson Softwar=
+e Design,<br />160 52nd Street South, Saint Petersburg, FL 33707<br /> <a h=
+ref=3D"http://www.silversmp.com/datagrams-Foxhall/8465vF2395o8Mj610q2150v4f2I21rFv4GIf4rxvs4FhIHEsvZ7VQ5noen7BNl1jN06tOyWsv">Click here to end further messaging.</a> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table>=20
+  <!--The conviction of Derek Chauvin has added to the momentum in calls fo=
+r policing and justice reform that were re-energized last summer.=20
+Given that George Floyd?s fatal encounter with police was spurred by an all=
+egation that he used a counterfeit $20 bill at a store, advocates have call=
+ed for police and prosecutors to re-evaluate their policies on low-level of=
+fenses and crimes. They say the pursuit of these cases disproportionately i=
+mpacts persons of color.=20
+In some cities across the US, officials are taking steps to address critici=
+sm of policies on low-level offenses and crimes. The Manhattan, New York Di=
+strict Attorney, Cyrus Vance Jr., has announced a new policy ?to decline-to=
+-prosecute prostitution and unlicensed massage.?
+
+Vance appeared virtually in Manhattan Criminal Court this morning and moved=
+ to dismiss 914 prostitution and unlicensed massage cases, in keeping with =
+the office?s recent policy to prevent ?unnecessary future contacts with the=
+ criminal justice system, eliminating the collateral consequences associate=
+d with having a prostitution case or conviction, and empowering New Yorkers=
+ to interact with law enforcement without fear of arrest or deportation.?
+
+Vance has also moved to dismiss 5,080 ?loitering for the purpose of prostit=
+ution cases,? in the wake of New York state?s repealing a law known as ?Wal=
+king While Trans? earlier in 2021.=20
+?Over the last decade we?ve learned from those with lived experience, and f=
+rom our own experience on the ground: criminally prosecuting prostitution d=
+oes not make us safer, and too often, achieves the opposite result by furth=
+er marginalizing vulnerable New Yorkers,? Vance has commented.=20
+
+Vance?s announcement also comes in the wake of a deadly shooting spree at s=
+everal=A0Atlanta-area massage spas. The spree, which left eight dead, six o=
+f whom were Asian women, highlighted the vulnerability of massage spa worke=
+rs?who are routinely targeted by law enforcement, USA Today=A0notes.---> =
+=20
+ <img src=3D"http://www.silversmp.com/impact-buckboard/7ec6r2Uk395p8D5C11ys2154X4f2m21oFv4GIf4rxvs4FhIHEsvZ7DQ5noen7W1BOJJ05EUzsv" alt=3D""/></body>
+</html>
+
+------=_Part_232_1411169363.1619023475319--
+

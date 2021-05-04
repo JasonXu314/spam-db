@@ -1,0 +1,149 @@
+Return-Path: <vivint_security_provider-bruce=untroubled.org@ile-15.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 104179 invoked from network); 26 Apr 2021 21:24:04 -0000
+Received: (qmail 61513 invoked by uid 222); 26 Apr 2021 21:24:03 -0000
+Return-Path: <vivint_security_provider-bruce=untroubled.org@ile-15.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 61510 invoked from network); 26 Apr 2021 21:24:03 -0000
+Received: from mail.ile-15.cyou ([70.102.102.31])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 21:23:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ile-15.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint_security_provider@ile-15.cyou;
+ bh=9v6TiRmGNkRCjBJ0yOuIbr6DGlo=;
+ b=Nnept0tcMCdB90dwkOESThIkOX7tW+vZISdVXC/JcNNoVqgNyWqZKnnvk395NudCpBT0AtiNfx1a
+   gCGdcRAZCHMpIIJpWDuoffyy0JawZ59ykcng1bdLtuxF7inLpOx8cCPOw2ETeGI05GvJGNojjiAy
+   Iihvh3I92YCzvbE1ZgQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ile-15.cyou;
+ b=Pow4+G4HLaus6zzRyqlr0jbKSGtyAoIgt9jWvH+1vwjg4EqR9igL+oZdhMcojQLQwbaO4REfuryk
+   axQc4qJ/ZoafkhnwhAR4mp43JBIAKZKnVfZ8Ytyugg46fpyWtc/PPgsWdKjHcd/XMigXbYPpX69J
+   bfLOlOAlqZWVMFi8W3k=;
+Received: by mail.ile-15.cyou id hgsnmu0001gj for <bruce@untroubled.org>; Mon, 26 Apr 2021 17:08:55 -0400 (envelope-from <vivint_security_provider-bruce=untroubled.org@ile-15.cyou>)
+Date: Mon, 26 Apr 2021 17:08:55 -0400
+From: "Vivint Security Provider" <vivint_security_provider@ile-15.cyou>
+To:   <bruce@untroubled.org>
+Subject: Welcome to your best option for home security
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_445_783676167.1619471325430"
+List-Unsubscribe: <http://www.ile-15.cyou/philosophy-traversals/15c6L23C9W5li89g13BU11wSxP4b8ck21DFv4GIf4rxvs4FhIHEsvZ8BR1om9n95ST10h5pOczY>
+Message-ID: <0.0.0.32.1D73AE05E276A4E.6AA6F6@mail.ile-15.cyou>
+Content-Length: 7979
+
+------=_Part_445_783676167.1619471325430
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>endangered</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-size:18px; "><span style=3D"font-family:arial,helvet=
+ica,sans-serif; "><a href=3D"http://www.ile-15.cyou/5b14V2395vZ86n12m1616aB4b8cH21aFv4GIf4rxvs4FhIHEsvZ8gR1om9n96ftIh106lpBcYO/painters-sailorly">&nbsp; Home break ins are at an al=
+l time high protect your home 24/7</a></span></span>
+  </div>=20
+  <br />=20
+  <titleterming< title=3D"">=20
+  </titlecelerity<>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.ile-15.cyou/5b14V2395vZ86n12m1616aB4b8cH21aFv4GIf4rxvs4FhIHEsvZ8gR1om9n96ftIh106lpBcYO/painters-sailorly" style=3D"text-decoration: none; "><img alt=3D"viv" src=3D"http://www.ile-15.cyou/philosophy-traversals/cf66eN2V395OM7ap12w16170Z4b8cn21qFv4GIf4rxvs4FhIHEsvZ8GR1om9n95G1R0q5KO1cY=
+" style=3D"width: 615px; max-width: 600px; background-color: rgb(255, 255, =
+255); font-family: sans-serif; font-size: 15px; line-height: 15px; color: r=
+gb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-sty=
+le: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "> <p=
+><span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"fo=
+nt-size:10px; "><strong>Offer Details</strong></span></span></p> <p><span s=
+tyle=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"font-size:=
+10px; ">Qualifying system purchase requires minimum $599.99 equipment purch=
+ase, professional installation and applicable services agreement. DIY syste=
+m purchases and reactivations of previously-installed systems not eligible =
+for offer. Click <a href=3D"http://www.ile-15.cyou/3955D2z395D86kN12y1616bB4b8cD21RFv4GIf4rxvs4FhIHEsvZ8JR1om9n96S1mRA05U@cYl/noontime-Peggy" style=3D"text-decoration: none; ">h=
+ere</a> for monthly service plan prices. Equipment purchase may be financed=
+ subject to an agreement with one of Vivint' s financing partners. Offer no=
+t available in all states or provinces. Monthly $1.48 cellular network main=
+tenance fee applies. Taxes and local permit fees may apply. New Vivint Cust=
+omers only.</span></span></p> &nbsp; <p><span style=3D"font-family:arial,he=
+lvetica,sans-serif; "><span style=3D"font-size:10px; "><strong>Financing Op=
+tions Available</strong></span></span></p> <p><span style=3D"font-family:ar=
+ial,helvetica,sans-serif; "><span style=3D"font-size:10px; ">Financing elig=
+ibility and terms subject to credit approval. Financing options require a s=
+ervice agreement coterminous with applicable financing agreement. Month-to-=
+month service agreement available when equipment is purchased upfront. Addi=
+tional equipment may be purchased and financed.</span></span></p> <span sty=
+le=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"font-size:10=
+px; ">&nbsp; </span></span> <p><span style=3D"font-family:arial,helvetica,s=
+ans-serif; "><span style=3D"font-size:10px; "><strong>Vivint Systems &amp; =
+Services</strong></span></span></p> <p><span style=3D"font-family:arial,hel=
+vetica,sans-serif; "><span style=3D"font-size:10px; ">System supports up to=
+ six cameras subject to sufficient WiFi speeds. Without a Vivint services p=
+lan, product and system functionality is limited (including loss of remote =
+connectivity). Speak to a Vivint representative at the phone number in this=
+ offer for complete equipment, services, and package details, including pri=
+cing and financing details. Products and services in Louisiana provided by =
+Vivint Louisiana Commercial Certificate #58280. See Vivint license numbers =
+<a href=3D"http://www.ile-15.cyou/4df5e_2395uw86W17v1R61B6vJqcj4b8cF21uFv4GIf4rxvs4FhIHEsvZ8vR1om9n95Lx1C06MNJJcY/painters-sailorly" style=3D"text-decoration: none; ">here</a>.</span></=
+span></p> <br /> <span style=3D"font-family:arial,helvetica,sans-serif; "><=
+span style=3D"font-size:10px; ">&nbsp; If you do not wish to receive future=
+ messages click here to <span class=3D"unstyle-auto-detected-links"><a href=
+=3D"http://www.ile-15.cyou/painters-sailorly/2106S2Y39l5N8F6H12A1616dg4b8cT21SFv4GIf4rxvs4FhIHEsvZ8aR1om9n96S1q0uG5hP@cY" style=3D"text-decoration: underline !important; border-bott=
+om-width: 0px !important; cursor: default !important; color: rgb(153, 153, =
+153); font-size: 10px; font-family: sans-serif; font-weight: inherit !impor=
+tant; line-height: 14px; ">unsubscribe</a></span><br /> <br /> We respect y=
+our right to privacy -<span class=3D"unstyle-auto-detected-links"><a href=
+=3D"http://www.ile-15.cyou/8f96oVn2395QAx8612h1616eR4b8cq21rFv4GIf4rxvs4FhIHEsvZ8DR1om9n97H1mJDR05fOcPY/halve-Balkanizations" style=3D"text-decoration: underline !important; border-bott=
+om-width: 0px !important; cursor: default !important; color: rgb(153, 153, =
+153); font-size: 10px; font-family: sans-serif; font-weight: inherit !impor=
+tant; line-height: 14px; text-align: center; "> View our policy</a><br /> <=
+span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.ile-15.cyou/5b14V2395vZ86n12m1616aB4b8cH21aFv4GIf4rxvs4FhIHEsvZ8gR1om9n96ftIh106lpBcYO/painters-sailorly" style=3D"=
+text-decoration: underline !important; border-bottom-width: 0px !important;=
+ cursor: default !important; color: rgb(153, 153, 153); font-size: 10px; fo=
+nt-family: sans-serif; font-weight: inherit !important; line-height: 14px; =
+text-align: center; ">Vivint.SmartHome</a>&nbsp; |&nbsp; 4931 N 300 W, Prov=
+o, UT 84604 </span></span></span><br /> <br /> <br /> Remove <a href=3D"=
+http://www.ile-15.cyou/pornographic-impulsion/4c24z2395u8u9t13D16N16fQ4b8cU21vFv4GIf4rxvs4FhIHEsvZ8NR1om9n96av10kP6Bl0cYz">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 =
+Colorado Springs CO</span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <small><style title="Saxonizations"><font></style></small><font></font><font size="impetuously"></font><span></font></span><span style="Isaiah"></span><span id="subscribers"></span> =20
+ <img src=3D"http://www.ile-15.cyou/5ed5d23R95U8AT513W16S171z4b8cA21IFv4GIf4rxvs4FhIHEsvZ8hR1om9n95I10tj6YplcYX/stretches-kludge" alt=3D""/></body>
+</html>
+
+------=_Part_445_783676167.1619471325430--
+

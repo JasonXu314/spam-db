@@ -1,0 +1,150 @@
+Return-Path: <31295-44520-39280-8183-bruce=untroubled.org@mail.flyring.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1538652 invoked from network); 9 Apr 2021 12:38:04 -0000
+Received: (qmail 20363 invoked by uid 222); 9 Apr 2021 12:38:03 -0000
+Return-Path: <31295-44520-39280-8183-bruce=untroubled.org@mail.flyring.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 20360 invoked from network); 9 Apr 2021 12:38:03 -0000
+Received: from hydra.flyring.us ([134.73.142.248])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 12:38:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=flyring.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=DyingBrain@flyring.us;
+ bh=Tu8fjbwdgh5gEOsgUHhLZt1fe0M=;
+ b=cNB1p398h/4xQOAw+o/xSAqDCnJvOOUTpF0b2coVTkYh6Od7Q0wLLp7iiJh9lFdwXdp0+Aj2sDAn
+   azcfLy/ro13oMCaCifa+SWcbMBBy8sKeEUwccSTHKPPq7vBuHxSLXNZyvPej7mtrJtznyf7D/Az4
+   9LwL9RJuy3UYqpa+afg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=flyring.us;
+ b=kSLMALST84AYM0tYLiDEOLjq4CJd89MNan8DVobuaZL4ws9UXqPnMTxC727pAisF7l8r3prH3j2q
+   KUL1u3XlwHOf8z4bgWZ/UhIwRpsLqRI0FIUtyqSWB17xjCQOH03NAcCEcKgmmhsZkmY/I0V+l88/
+   o31BeR41y1lMIUgRBHM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="31d67f82b3caec09f7be88cf442625c9_ade8_9970"
+Date: Fri, 9 Apr 2021 05:37:59 -0700
+From: "Ringing A Sign" <DyingBrain@flyring.us>
+Reply-To: "Ringing A Sign" <RingingASign@flyring.us>
+Subject: Husband Memories Almost Erased Because Of Tinnitus
+To: <bruce@untroubled.org>
+Message-ID: <i9dvq5ct6jcv4qfg-j58f8wbr1yw2etac-ade8-9970@flyring.us>
+Content-Length: 9367
+
+--31d67f82b3caec09f7be88cf442625c9_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Husband Memories Almost Erased Because Of Tinnitus
+
+http://flyring.us/88T7ycQkqTDHK5om4U0OdqTK7cj5LgQKfMVR0lXW0sJDlEwj
+
+http://flyring.us/JZ-4nFFijVDl9tsGIu1rut0jCfOq5oBhkP9w8i7jvQ0Tg1fg
+
+ry the Portuguese Jesuit priest Bartolomeu de Gusmão envisioned an aerial apparatus called Passarola, which was the predecessor of the hot-air balloon. The purpose of Passarola was to serve as air vessel in order to facilitate communication and as a strategical device. In 1709 John V of Portugal decided to fund Bartolomeu de Gusmão's project following a petition made by the Jesuit priest, and an unmanned demonstration was performed at Casa da India in presence of John V, the queen Maria Anna of Austria, having as witnesses the Italian cardinal Michelangelo Conti, two members of the Portuguese Royal Academy of History, one Portuguese diplomat and one chronicler. This event would bring some European attention to this event and this project. A later article dated on October 20, 1786 by the London Daily Universal Register would state that the inventor was able to raise himself by the use of his prototype. Also in 1709, the Portuguese Jesuit wrote Manifesto summário para os que ignoram poderse navegar pelo elemento do ar (Short Manifesto for those who are unaware that is possible to sail through the element air); he also left designs for a manned air vessel.
+
+First manned flight
+
+A model of the Montgolfier brothers' balloon at the London Science Museum
+The French brothers Joseph-Michel and Jacques-Étienne Montgolfier developed a hot-air balloon in Annonay, Ardeche, France, and demonstrated it publicly on September 19, 1783, making an unmanned flight lasting 10 minutes. After experimenting with unmanned balloons and flights with animals, the first balloon flight with humans aboard, a tethered flight, performed on or around October 15, 1783, by Jean-Francois Pilatre de Rozier, who made at least one tethered flight from the yard of the Reveillon workshop in the Faubourg Saint-Antoine. Later that same day, Pilatre de Rozier became the second human to ascend into the air, reaching an altitude of 26 m (85 ft), the length of the tether. The first free flight with human passengers was made a few weeks later, on November 21, 1783. King Louis XVI had originally decreed that condemned criminals would be the first pilots, but de Rozier, along with Marquis François d'Arlandes, petitioned successfully for the honor. The first military use of a hot-air balloon happened in 1794 during the battle of Fleurus, when the French used the balloon l'Entreprenant for observation.
+
+Jean-Pierre Blanchard became the first person to ever fly a hot-air balloon in various countries, including the United States, the Netherlands, and Germany. His most notable flight crossed the English Channel heading to the Dover Castle accompanied by Dr. John Jeffries, which occurred on 7 January 1785. In 1808, Blanchard fell from his balloon above The Hague and died. His wife continued his profession, but also died a decade later on a balloon, due to a firework festival causing the hydroge
+
+--31d67f82b3caec09f7be88cf442625c9_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!doctype html>
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1005.0"><a href="http://flyring.us/xc36BNH52jUStjGH0f77PeZJv2uvBgV14u9UQn5qW7nP7QqJ"><img src="http://flyring.us/34637d8ad937a2b1f1.jpg" /><img height="1" src="http://www.flyring.us/9yqbJx7qc8B1YxJwsq1f-xGklGV5QFxxjAvqezXXpsExx074" width="1" /></a>
+<div style="padding:10px;width:600px;font-size:17px;font-family:calibri;">
+<div style="border:1px solid #000000;padding:20px;width:600px;">This is not something you should ignore...<br />
+<br />
+When nobody expected, this 52 year old peaceful guy lost his mind and threatened to kill his wife, because he couldn&rsquo;t remember her.<br />
+<br />
+<a href="http://flyring.us/88T7ycQkqTDHK5om4U0OdqTK7cj5LgQKfMVR0lXW0sJDlEwj" style="color:#FF0000;"><b>But what happened next is crazier than in your wildest dreams.</b></a><br />
+<br />
+As they brought him to the hospital, they realized he had suffered a sudden memory lapse and it was all due to his tinnitus.<br />
+<br />
+<a href="http://flyring.us/88T7ycQkqTDHK5om4U0OdqTK7cj5LgQKfMVR0lXW0sJDlEwj"><img alt="RingHush" src="http://flyring.us/421e9bb1e1f21f8b91.png" /></a><br />
+<br />
+Apparently loss of memory, dementia and other brain diseases are linked to this debilitating disease such as ear ringing.<br />
+<br />
+There was little time to act before this guy&rsquo;s brain was almost erased, doctors couldn&rsquo;t figure out how to fix it, but what his brother did, you can&rsquo;t even imagine it.<br />
+<br />
+See how his brother saved this guy&rsquo;s life and helped him fix his tinnitus.<br />
+<br />
+<a href="http://flyring.us/88T7ycQkqTDHK5om4U0OdqTK7cj5LgQKfMVR0lXW0sJDlEwj" style="color:#FF0000;"><b>And it was all with this dirty trick...</b></a><br />
+<br />
+Americans and people all over the world should absolutely know about this trick if they want to stop ear ringing, restore their hearing and protect themselves from brain and memory disease.<br />
+<br />
+So please do not ignore this if you find yourself in this position.</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp; <a href="http://flyring.us/xjgHPSbRfdTnbRH4p2XstB8KK0VlmHaDhAOucTLUXKvjMe91" target="blank"><img src="http://flyring.us/343d50a213bba0c769.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:5px;"><b>ry the Portuguese Jesuit priest Bartolomeu de Gusm&atilde;o envisioned an aerial apparatus called Passarola, which was the predecessor of the hot-air balloon. The purpose of Passarola was to serve as air vessel in order to facilitate communication and as a strategical device. In 1709 John V of Portugal decided to fund Bartolomeu de Gusm&atilde;o&#39;s project following a petition made by the Jesuit priest, and an unmanned demonstration was performed at Casa da India in presence of John V, the queen Maria Anna of Austria, having as witnesses the Italian cardinal Michelangelo Conti, two members of the Portuguese Royal Academy of History, one Portuguese diplomat and one chronicler. This event would bring some European attention to this event and this project. A later article dated on October 20, 1786 by the London Daily Universal Register would state that the inventor was able to raise himself by the use of his prototype. Also in 1709, the Portuguese Jesuit wrote Manifesto summ&aacute;rio para os que ignoram poderse navegar pelo elemento do ar (Short Manifesto for those who are unaware that is possible to sail through the element air); he also left designs for a manned air vessel. First manned flight A model of the Montgolfier brothers&#39; balloon at the London Science Museum The French brothers Joseph-Michel and Jacques-&Eacute;tienne Montgolfier developed a hot-air balloon in Annonay, Ardeche, France, and demonstrated it publicly on September 19, 1783, making an unmanned flight lasting 10 minutes. After experimenting with unmanned balloons and flights with animals, the first balloon flight with humans aboard, a tethered flight, performed on or around October 15, 1783, by Jean-Francois Pilatre de Rozier, who made at least one tethered flight from the yard of the Reveillon workshop in the Faubourg Saint-Antoine. Later that same day, Pilatre de Rozier became the second human to ascend into the air, reaching an altitude of 26 m (85 ft), the length of the tether. The first free flight with human passengers was made a few weeks later, on November 21, 1783. King Louis XVI had originally decreed that condemned criminals would be the first pilots, but de Rozier, along with Marquis Fran&ccedil;ois d&#39;Arlandes, petitioned successfully for the honor. The first military use of a hot-air balloon happened in 1794 during the battle of Fleurus, when the French used the balloon l&#39;Entreprenant for observation. Jean-Pierre Blanchard became the first person to ever fly a hot-air balloon in various countries, including the United States, the Netherlands, and Germany. His most notable flight crossed the English Channel heading to the Dover Castle accompanied by Dr. John Jeffries, which occurred on 7 January 1785. In 1808, Blanchard fell from his balloon above The Hague and died. His wife continued his profession, but also died a decade later on a balloon, due to a firework festival causing the hydroge </b> </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp; <span style="color:#FFFFFF;font-size:5px;"><a href="http://flyring.us/JZ-4nFFijVDl9tsGIu1rut0jCfOq5oBhkP9w8i7jvQ0Tg1fg" target="blank"><img src="http://flyring.us/ab9f5f326bab5cc6a5.jpg" /><br />
+<img src="http://flyring.us/7db9ffd28e14590b52.jpg" /></a></span> <span style="color:#FFFFFF;font-size:5px;"> </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+</body>
+</html>
+
+--31d67f82b3caec09f7be88cf442625c9_ade8_9970--

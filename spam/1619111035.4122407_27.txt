@@ -1,0 +1,57 @@
+Return-Path: <anwar.afbl@akij.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3225907 invoked from network); 22 Apr 2021 05:34:48 -0000
+Received: (qmail 78783 invoked by uid 222); 22 Apr 2021 05:34:47 -0000
+Return-Path: <anwar.afbl@akij.net>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 78780 invoked from network); 22 Apr 2021 05:34:47 -0000
+Received: from hp0.814.plxo.gq (hp0.814.plxo.gq [138.68.232.50])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 05:34:47 -0000
+Content-Type: multipart/mixed; boundary="===============1571581570=="
+MIME-Version: 1.0
+Subject: STATEMENT_108
+To: me <anwar.afbl@akij.net>
+From: anwar.afbl@akij.net
+Date: Wed, 21 Apr 2021 17:34:02 -0700
+Content-Length: 866
+
+You will not see this in a MIME-aware mail reader.
+--===============1571581570==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Good Day.
+
+
+
+Please find the attached amount reduced from the amount in the invioce #22.
+
+
+Best Regard
+
+
+Aleksandar Ilic
+V.D.DIREKTORA /
+ACTING DIRECTOR
+
+Knez Mihailova 6/I
+11 000 Beograd / Belgrade
+Srbija / Serbia
+tel:     + 381 (0)11 2621 469
+fax:    + 381 (0)11 2623 853
+mob:  +381 (0)63 7144 201
+aleksandar.ilic@kcb.org.rs
+www.kcb.org.rs
+--===============1571581570==
+Content-Type: message/external-body; access-type=x-deleted; length=402665
+
+
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="IMG_08_1741_330.R01"
+
+--===============1571581570==--

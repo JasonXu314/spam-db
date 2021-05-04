@@ -1,0 +1,116 @@
+Return-Path: <31000-44520-39280-8115-bruce=untroubled.org@mail.dronedepot.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1212033 invoked from network); 5 Apr 2021 11:21:24 -0000
+Received: (qmail 172192 invoked by uid 222); 5 Apr 2021 11:21:23 -0000
+Return-Path: <31000-44520-39280-8115-bruce=untroubled.org@mail.dronedepot.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 172189 invoked from network); 5 Apr 2021 11:21:23 -0000
+Received: from cdn.dronedepot.us ([134.73.142.220])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 11:21:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=dronedepot.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=DronePro4KSuperior@dronedepot.us;
+ bh=72KsVi/4V1l1BeVdLcimcMFbvls=;
+ b=Hs6i5QjYYSuZxnXZHDssQZZ3lqhB3bBBpHNQuzfA7sG9e2beJlPgJzYyHBKsgkmIl4warPmIvosD
+   edt8kGsdaPQ+nVtCrgcakeaC0CvzmB6vcoUwMzj7i1wM5inQSwhSMWeQjn7M7+qeO+gxfAcdRvmG
+   CVeW2ri3vasMWOP1Nfc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=dronedepot.us;
+ b=MKkjTsyoVEdXg0/egBnunz/KZPP0gANHB24gYHlfGX6xGlTCdg/8IuE2L6RbYGzAHPr3M7EB4kaf
+   b5ZDgf8qx8513GRQU3WI4vdHDdFTIdOysuPPlKN3cdxvKyim4Yb3yNVYdDNEVCuTie8zG1wLN4O0
+   2JGrc5jQJnQrjxXSQoA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="92cbc55f7222ca493cff55385c1a417b_ade8_9970"
+Date: Mon, 5 Apr 2021 04:19:51 -0700
+From: "DronePro 4K Superior" <DronePro4KSuperior@dronedepot.us>
+Reply-To: "DronePro 4K" <DronePro4K@dronedepot.us>
+Subject: DronePro 4K’s unparalleled Ultra Wide-Angle 4K definition Zoom
+To: <bruce@untroubled.org>
+Message-ID: <sch13zczttzdkdzz-u3ihlvq3ubb67407-ade8-9970@dronedepot.us>
+Content-Length: 7276
+
+--92cbc55f7222ca493cff55385c1a417b_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+DronePro 4K’s unparalleled Ultra Wide-Angle 4K definition Zoom
+
+http://dronedepot.us/5vuqhnksEBRDq2B_MPVDVGpO8UkY0bP7eWdhPn8LdrefCwD9
+
+http://dronedepot.us/6DiZ26IF-SVjeNoqo1fHcSMFiLh_nf7X43wT81w-vrIlK7sd
+
+putational costs (storage size, number of required synapses, errors, time) needed to encode new observations before and after learning. This difference depends on the encoder's present subjective knowledge, which changes over time, but the theory formally takes this into account. The cost difference measures the strength of the present "wow-effect" due to sudden improvements in data compression or computational speed. It becomes an intrinsic reward signal for the action selector. The objective function thus motivates the action optimizer to create action sequences causing more wow-effects. Irregular, random data (or noise) do not permit any wow-effects or learning progress, and thus are "boring" by nature (providing no reward). Already known and predictable regularities also are boring. Temporarily interesting are only the initially unknown, novel, regular patterns in both actions and observations. This motivates the agent to perform continual, open-ended, active, creative exploration. Schmidhuber's work is highly influential in intrinsic motivation which has emerged as a research topic in its own right as part of the study of artificial intelligence and robotics.
+
+According to Schmidhuber, his objective function explains the activities of scientists, artists, and comedians. For example, physicists are motivated to create experiments leading to observations obeying previously unpublished physical laws permitting better data compression. Likewise, composers receive intrinsic reward for creating non-arbitrary melodies with unexpected but regular harmonies that permit wow-effects through data compression improvements. Similarly, a comedian gets intrinsic reward for "inventing a novel joke with an unexpected punch line, related to the beginning of the story in an initially unexpected but quickly learnable way that also allows for better compression of the perceived data." Schmidhuber argues that ongoing computer hardware advances will greatly scale up rudimentary artificial scientists and artists[clarification needed] based on simple implementations of the basic principle since 1990. He used the theory to creat
+
+--92cbc55f7222ca493cff55385c1a417b_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://dronedepot.us/jY-ixiLkD5VMeWU85KnYMUY6CrUKUUas3Sc-7KZvphybIoeA"><img src="http://dronedepot.us/73e458d467800e2b8f.jpg" /><img height="1" src="http://www.dronedepot.us/paNfu-y0Eaom7IZSej8wAyJRZZztNj3M9ngOb8JKEJ27n1MB" width="1" /></a>
+<center>
+<div style="width:90%;font-family:trebuchet ms,helvetica,sans-serif;padding:20px;text-align:left;">
+<center>
+<div style="font-family:trebuchet ms,helvetica,sans-serif;font-size:32px;font-weight:bold;text-align:center;max-width:55%;">DronePro 4K: The 4K Drone Taking the World by Storm</div>
+</center>
+ 
+
+<center>
+<div style="max-width:55%;text-align:left;">Equipped with a crystal clear 4K camera, automatic gesture recognition, trajectory control, a wide-angle lens, and altitude holding, the DronePro 4K delivers professional performance for a <a href="http://dronedepot.us/5vuqhnksEBRDq2B_MPVDVGpO8UkY0bP7eWdhPn8LdrefCwD9" style="font-weight:bold;" target="_blank">not-so-professional price.</a></div>
+</center>
+ 
+
+<center><a href="http://dronedepot.us/5vuqhnksEBRDq2B_MPVDVGpO8UkY0bP7eWdhPn8LdrefCwD9" target="_blank"><img src="http://dronedepot.us/37c75545c1f0cd8468.png" style="max-width:70%;" /></a>
+
+<center>
+<ul style="max-width:55%;text-align:left;">
+	<li>Captures Stunning 4K Video.</li>
+	<li>Light, Compact, and Easy-to-Use.</li>
+	<li>Performs Better Than Brand-Name Drones but Costs Far Less.</li>
+	<li>Mobile Control.</li>
+	<li>One-Touch Takeoff and Return.</li>
+	<li>Altitude Hold.</li>
+	<li>Anti-Collision Protection.</li>
+	<li>Trajectory Fly.</li>
+	<li>Follow Me Mode.</li>
+	<li>Gesture Photography and Videograph.</li>
+</ul>
+</center>
+<a href="http://dronedepot.us/5vuqhnksEBRDq2B_MPVDVGpO8UkY0bP7eWdhPn8LdrefCwD9" target="_blank"><img src="http://dronedepot.us/6466ba110796426476.jpg" style="max-width:70%;" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 
+<center><a href="http://dronedepot.us/OihV3DSpRWs6P-vgXZO7Sw1upnShote7qSgqHKbgdWujhuRr" target="_blank"><img src="http://dronedepot.us/20fca48e1dd10c8401.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF; font-size:3px;">putational costs (storage size, number of required synapses, errors, time) needed to encode new observations before and after learning. This difference depends on the encoder's present subjective knowledge, which changes over time, but the theory formally takes this into account. The cost difference measures the strength of the present "wow-effect" due to sudden improvements in data compression or computational speed. It becomes an intrinsic reward signal for the action selector. The objective function thus motivates the action optimizer to create action sequences causing more wow-effects. Irregular, random data (or noise) do not permit any wow-effects or learning progress, and thus are "boring" by nature (providing no reward). Already known and predictable regularities also are boring. Temporarily interesting are only the initially unknown, novel, regular patterns in both actions and observations. This motivates the agent to perform continual, open-ended, active, creative exploration. Schmidhuber's work is highly influential in intrinsic motivation which has emerged as a research topic in its own right as part of the study of artificial intelligence and robotics. According to Schmidhuber, his objective function explains the activities of scientists, artists, and comedians. For example, physicists are motivated to create experiments leading to observations obeying previously unpublished physical laws permitting better data compression. Likewise, composers receive intrinsic reward for creating non-arbitrary melodies with unexpected but regular harmonies that permit wow-effects through data compression improvements. Similarly, a comedian gets intrinsic reward for "inventing a novel joke with an unexpected punch line, related to the beginning of the story in an initially unexpected but quickly learnable way that also allows for better compression of the perceived data." Schmidhuber argues that ongoing computer hardware advances will greatly scale up rudimentary artificial scientists and artists[clarification needed] based on simple implementations of the basic principle since 1990. He used the theory to creat</span><br />
+<br />
+ 
+<center><a href="http://dronedepot.us/6DiZ26IF-SVjeNoqo1fHcSMFiLh_nf7X43wT81w-vrIlK7sd" target="_blank"><img src="http://dronedepot.us/06aaef790fab4851ec.jpg" /><br />
+<img src="http://dronedepot.us/1341dec4fd14f412d7.jpg" /></a></center>
+</div>
+</center>
+</body>
+</html>
+
+--92cbc55f7222ca493cff55385c1a417b_ade8_9970--

@@ -1,0 +1,99 @@
+Return-Path: <30988-44520-39280-8111-bruce=untroubled.org@mail.qgripmiracle.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1207890 invoked from network); 5 Apr 2021 09:15:25 -0000
+Received: (qmail 169997 invoked by uid 222); 5 Apr 2021 09:15:24 -0000
+Return-Path: <30988-44520-39280-8111-bruce=untroubled.org@mail.qgripmiracle.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 169994 invoked from network); 5 Apr 2021 09:15:24 -0000
+Received: from emma.qgripmiracle.us ([134.73.142.218])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 09:15:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=qgripmiracle.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BallerinaSecret@qgripmiracle.us;
+ bh=JcmK+3fVpKBwgJKrZvJp85dhA3Q=;
+ b=A2VKqrJ+HyTmn096j5nXxKNF0J3NpD8YuJAKSXvKipek7RK+2lCOFGcVnV/RAObhgxtevBzUICUx
+   yfTfCYaPwjC4slGBwv0YZryMAnZlh5OXKkDhx+LmA0GX53vUvUtX0ZJ+3JEft/y6dqaF+uQDcRYy
+   PdaClq25dOblGuujryE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=qgripmiracle.us;
+ b=Bnuf7M1ro7Q2n1PSSdPNHcSzdtIk2UY/fFC7D82K6KhsqHGYgxuP2N1wJHL9njt17ES1RcG9vN7m
+   +tg8e11oLK2CSAbZBKHmj/SoiMCEp2D7R6cEfzpuhW3kOcdXeVX2mPIh70AbtN0V9QvLgLyj+l0s
+   HtPBedSdFzt3awTJJnM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="350714c7e232c239ea3b01e7ae2925d5_ade8_9970"
+Date: Mon, 5 Apr 2021 02:15:23 -0700
+From: "Foam Roller" <BallerinaSecret@qgripmiracle.us>
+Reply-To: "Frozen In Pain" <FrozenInPain@qgripmiracle.us>
+Subject: RE: Giving You a Free Foam Roller (for back pain)
+To: <bruce@untroubled.org>
+Message-ID: <6oaj5w75f2r054r9-118w04sx4i6zh3ub-ade8-9970@qgripmiracle.us>
+Content-Length: 5652
+
+--350714c7e232c239ea3b01e7ae2925d5_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+RE: Giving You a Free Foam Roller (for back pain)
+
+http://qgripmiracle.us/XAiV0YTkV9EDjRfnhDcpFFg-nSHn90crMbfxKkuDHtuh0885
+
+http://qgripmiracle.us/qqeGFnMbKcBIh6Aqfg4rQjwcot9ePkUZg5HKajgnWFT7dI7M
+
+mary of scientific research into creativity, Michael Mumford suggested: "Over the course of the last decade, however, we seem to have reached a general agreement that creativity involves the production of novel, useful products" (Mumford, 2003, p. 110), or, in Robert Sternberg's words, the production of "something original and worthwhile". Authors have diverged dramatically in their precise definitions beyond these general commonalities: Peter Meusburger reckons that over a hundred different analyses can be found in the literature. As an illustration, one definition given by Dr. E. Paul Torrance described it as "a process of becoming sensitive to problems, deficiencies, gaps in knowledge, missing elements, disharmonies, and so on; identifying the difficulty; searching for solutions, making guesses, or formulating hypotheses about the deficiencies: testing and retesting these hypotheses and possibly modifying and retesting them; and finally communicating the results."
+
+Creativity in general is usually distinguished from innovation in particular, where the stress is on implementation. For example, Teresa Amabile and Pratt (2016) defines creativity as production of novel and useful ideas and innovation as implementation of creative ideas, while the OECD and Eurostat state that "Innovation is more than a new idea or an invention. An innovation requires implementation, either by being put into active use or by being made available for use by other parties, firms, individuals or organisations."There is also an emotional creativity which is described as a pattern of cognitive abilities and perso.
+
+--350714c7e232c239ea3b01e7ae2925d5_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://qgripmiracle.us/RPngRnmpI1QabGyx317mmUv7V2OyvRbMEvSCRP0heJxhHce3"><img src="http://qgripmiracle.us/0533d45358c264c2b1.jpg" /><img height="1" src="http://www.qgripmiracle.us/vtVITMCSZQSUXfuHQfRt18e214pXzBSiyvKHUbcHNvz-Yx-K" width="1" /></a>
+<div style="font-family:arial;font-size:17px;padding:20px;width:600px;">When you follow the links on this page...<br />
+<br />
+You can get a Free <strong>FOAM&nbsp;ROLLER</strong>&nbsp;that will help you feel better in the following ways.<br />
+&nbsp;
+<ul>
+	<li>Combat &amp; Prevent Lower Back Pain, Sciatica, Upper Back, Neck Pain &amp; Shoulder Pain</li>
+	<li><strong><em>Dramatically Improve Flexibility</em></strong> &amp; Range Of Motion</li>
+	<li>Target Knots &amp; Muscle Tension</li>
+	<li>Releases Myofascial Tension ANYWHERE In Your Body</li>
+	<li>Improves Circulation &amp; Blood Flow</li>
+	<li><em><strong>Relax Your Entire Body</strong></em> So You Get Deep, Undisturbed Sleep &amp; Wake Up Feeling Brand New</li>
+	<li>Strengthen &amp; Improve Stability In All Your Joints</li>
+	<li>Recover Faster After Exercising</li>
+	<li>Prevent Delayed Onset Muscle Soreness (DOMS)</li>
+</ul>
+<br />
+<br />
+<a href="http://qgripmiracle.us/XAiV0YTkV9EDjRfnhDcpFFg-nSHn90crMbfxKkuDHtuh0885" target="blank"><b>These are Free for a limited time, to claim yours simply click here and enter your shipping details.</b></a><br />
+<br />
+<em>That&#39;s it.</em><br />
+<br />
+<b>Kennon</b><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://qgripmiracle.us/wg8uHYG9pGIuiv9kLPnWfIAVB47yoYj6rfulMMyLZFto3L_n" target="blank"><img src="http://qgripmiracle.us/487097baac3e6fd781.jpg" /><br />
+<img src="http://qgripmiracle.us/f283111639c593cb6b.jpg" /></a></div>
+<span style="color:#FFFFFF; font-size:3px;">mary of scientific research into creativity, Michael Mumford suggested: &quot;Over the course of the last decade, however, we seem to have reached a general agreement that creativity involves the production of novel, useful products&quot; (Mumford, 2003, p. 110), or, in Robert Sternberg&#39;s words, the production of &quot;something original and worthwhile&quot;. Authors have diverged dramatically in their precise definitions beyond these general commonalities: Peter Meusburger reckons that over a hundred different analyses can be found in the literature. As an illustration, one definition given by Dr. E. Paul Torrance described it as &quot;a process of becoming sensitive to problems, deficiencies, gaps in knowledge, missing elements, disharmonies, and so on; identifying the difficulty; searching for solutions, making guesses, or formulating hypotheses about the deficiencies: testing and retesting these hypotheses and possibly modifying and retesting them; and finally communicating the results.&quot; Creativity in general is usually distinguished from innovation in particular, where the stress is on implementation. For example, Teresa Amabile and Pratt (2016) defines creativity as production of novel and useful ideas and innovation as implementation of creative ideas, while the OECD and Eurostat state that &quot;Innovation is more than a new idea or an invention. An innovation requires implementation, either by being put into active use or by being made available for use by other parties, firms, individuals or organisations.&quot;There is also an emotional creativity which is described as a pattern of cognitive abilities and perso.</span></body>
+</html>
+
+--350714c7e232c239ea3b01e7ae2925d5_ade8_9970--

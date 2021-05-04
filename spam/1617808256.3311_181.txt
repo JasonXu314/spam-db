@@ -1,0 +1,51 @@
+Return-Path: <tsandoval@tradeias.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1292992 invoked from network); 7 Apr 2021 07:36:56 -0000
+Received: (qmail 203661 invoked by uid 222); 7 Apr 2021 07:36:56 -0000
+Return-Path: <tsandoval@tradeias.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 203658 invoked from network); 7 Apr 2021 07:36:56 -0000
+Received: from mail.tradeias.com (mail.tradeias.com [212.237.11.189])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 07:36:55 -0000
+Received: by mail.tradeias.com (Postfix, from userid 1001)
+	id 90397A2202; Wed,  7 Apr 2021 08:36:18 +0100 (BST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=tradeias.com; s=mail;
+	t=1617780999; bh=dwWVfmZ4zjWdaRE25sV76nD0Kez33HTYjFBSpxQlwJQ=;
+	h=Date:From:To:Subject:From;
+	b=L1A9NvYAXt11zVa2z4fEqc+lz5AVWOhkSJ/rft6jj6Qcdt/t9Dr6Y5QmTLeo61KSM
+	 6i1L3xi/JjwuRysLv8Sz5xksQt3QhDxCF2692w1PSSrJ0YlH1eI+SVklwth1Swf34B
+	 iyI3gkb2O9VfDA6PIHFT9K3pE8D6409YuuP5p6HZzhUWqpX1/fkgAbA/jLGTtz2PF+
+	 cXSr0PfLOXfQmdSnHjzPsrYBkHC98lNaBMvxPUc86lxBUJIGLW3Fn3A596CsRY3J0C
+	 eIjy3rfz/EUGd9ez1camUxYtPIkMCtFUM/KUbVjAL3itDwWL9FkV7uaCJshJ3fEIf2
+	 qtm78NomzEdBw==
+Received: by mail.tradeias.com for <bruce@untroubled.org>; Wed,  7 Apr 2021 07:36:06 GMT
+Message-ID: <20210407074500-0.1.1s.1edt.0.kib36q2pgd@tradeias.com>
+Date: Wed,  7 Apr 2021 07:36:06 GMT
+From: =?UTF-8?Q?"Tom=C3=A1s_Ortega_Sandoval"?= <tsandoval@tradeias.com>
+To: <bruce@untroubled.org>
+Subject: =?UTF-8?Q?Control_del_veh=C3=ADculo?=
+X-Mailer: mail.tradeias.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 646
+
+Buenos d=C3=ADas:
+=20
+Represento a una empresa que ofrece las mejores soluciones telem=C3=A1tic=
+as de su clase.
+
+Un sistema de seguimiento de veh=C3=ADculos sin igual con una funcionalid=
+ad ampliamente desarrollada que satisface pr=C3=A1cticamente todas las ne=
+cesidades existentes en el =C3=A1mbito de la gesti=C3=B3n de flotas.
+
+Por otra parte, el per=C3=ADodo de prueba gratuito de tres meses le permi=
+te explorar completamente las posibilidades sin ning=C3=BAn riesgo.
+
+=C2=BFEst=C3=A1 interesado en ser m=C3=A1s eficiente a la hora de gestion=
+ar autom=C3=B3viles u otros veh=C3=ADculos de empresa?
+
+
+Saludos,
+Tom=C3=A1s Ortega Sandoval

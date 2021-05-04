@@ -1,0 +1,516 @@
+Return-Path: <jackie.mendoza-bruce=untroubled.org@drdavidhyams.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1505726 invoked from network); 8 Apr 2021 19:07:54 -0000
+Received: (qmail 7510 invoked by uid 222); 8 Apr 2021 19:07:54 -0000
+Return-Path: <jackie.mendoza-bruce=untroubled.org@drdavidhyams.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 7507 invoked from network); 8 Apr 2021 19:07:54 -0000
+Received: from mail.drdavidhyams.com ([195.88.25.154])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 19:07:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=drdavidhyams.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=jackie.mendoza@drdavidhyams.com;
+ bh=cMGEUNv8uJn+CDPjHoY49Bb0pS4=;
+ b=X89Jh9LgMuN2gWTOFBMb2vsA6nFR38Yt0cewq/oPkcTXpUw1DVbmlGfCuu3keCaXgepJ1jG5xDdT
+   aJcSiakHdwz8wUhJBadJ9FuDWnKNvHL+sJjb8v78xYFylh9/GMZihXPfnjJmvW+y+kDDnkdvWvYK
+   E+chbOFaqr2Id+9vtHo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=drdavidhyams.com;
+ b=kpUjfgWFNm4WfpYbNP7MYHJpoY9xCYVVQHeY8pWfmQ5kdE4vuEMor2Bm6QztmdKrCSKPQ+UtLPIS
+   QzISlD0pyrqhlp5NhDZLUggcqQbtnQAPFawKvmu9VUAZygr1CE0pBYSUn0Zsx1YrJOR9/qqO3glG
+   MJ0azCmQ/T+DMUEaQf4=;
+Received: by mail.drdavidhyams.com id hdtaes0001g8 for <bruce@untroubled.org>; Thu, 8 Apr 2021 15:07:34 -0400 (envelope-from <jackie.mendoza-bruce=untroubled.org@drdavidhyams.com>)
+Date: Thu, 8 Apr 2021 15:07:34 -0400
+From: "Jackie Mendoza" <jackie.mendoza@drdavidhyams.com>
+To:   <bruce@untroubled.org>
+Subject: Magic Garden Flexible Hose: 60% Off Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_286_56859969.1617908712041"
+List-Unsubscribe: <http://www.drdavidhyams.com/applying-croppers/bac4w2395Q8nC910u1z1SF4b3U21RFv4GIf4rxvs4FhIHEsvZ7MQFnond6gm1n0U6ElqsvB>
+Message-ID: <0.0.0.2F.1D72CAA6EA85F98.8B3641@mail.drdavidhyams.com>
+Content-Length: 21948
+
+------=_Part_286_56859969.1617908712041
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** Anti-Kink.  Anti-Leak.  Anti-Frustration.  **
+-----------------------------------------------
+
+This hose's special FLEX technology makes it easy to store and impossible t=
+o kink.  The hose rotates, stretches, and adapts, but shrinks down to =E2=
+=85=93 its size when you're hanging it up.   Take the hassle out of lawn ca=
+re!
+
+
+Get up to 60% OFF now! -> http://www.drdavidhyams.com/priding-reconverted/8826mG2P395gK86w10t1f1eo4b3y21AFv4GIf4rxvs4FhIHEsvZ7wQFnond6VQYG105iOsvJ
+
+
+
+
+
+
+
+
+K Street Digital Pioneering.  4402 Boxwood Drive, Montclair, VA, 22025. 162=
+4
+Want out? http://www.drdavidhyams.com/applying-croppers/80a4L2395n8Z6t10b1f1fS4b3U21cFv4GIf4rxvs4FhIHEsvZ7rQFnond6jyBC105gTsvl
+
+
+------=_Part_286_56859969.1617908712041
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D=
+1.0; maximum-scale=3D1.0;" />=20
+  <link href=3D"http://www.drdavidhyams.com/silencing-Katharine/7925b2A395K8sw610R1f18P4b3t21dFv4GIf4rxvs4FhIHEsvZ7WQFnond5kn1v05rksLv" rel=3D"stylesheet" type=3D"text/css" />=20
+  <style type=3D"text/css">
+         html {
+         width: 100%;
+         }
+         ::-moz-selection {
+         background: #fefac7;
+         color: #4a4a4a;
+         }
+         ::selection {
+         background: #fefac7;
+         color: #4a4a4a;
+         }
+         body {
+         margin: 0;
+         width: 100%;
+         padding: 0;
+         }
+         .ReadMsgBody {
+         width: 100%;
+         background-color: #f1f1f1;
+         }
+         .ExternalClass {
+         width: 100%;
+         background-color: #f1f1f1;
+         }
+         a {
+         color: #ffcccc;
+         text-decoration: none;
+         font-weight: normal;
+         font-style: normal;
+         }
+         p, div, span {
+         margin: 0 !important;
+         }
+         table {
+         border-collapse: collapse;
+         }
+         @media only screen and (max-width: 599px) {
+         body {
+         width: auto !important;
+         }
+         table table {
+         width: 100% !important;
+         }
+         td.paddingOuter {
+         width: 100% !important;
+         padding-right: 20px !important;
+         padding-left: 20px !important;
+         }
+         td.fullWidth {
+         width: 100% !important;
+         display: block !important;
+         float: left;
+         margin-bottom: 30px !important;
+         }
+         td.fullWidthNM {
+         width: 100% !important;
+         display: block !important;
+         float: left;
+         margin-bottom: 0px !important;
+         }
+         td.center {
+         text-align: center !important;
+         }
+         td.right {
+         text-align: right !important;
+         }
+         td.spacer {
+         display: none !important;
+         }
+         img.scaleImg {
+         width: 100% !important;
+         height: auto;
+         }
+         }
+      </style>=20
+ </head>=20
+ <body>=20
+  <table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" bgcolor=3D"#eee7e7" style=3D"padding: 0; margin: 0;">=20
+   <tbody>
+    <tr>=20
+     <td align=3D"center" width=3D"700" valign=3D"top">=20
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#f3f3f4" style=3D"padding: 0; margin: 0;">=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" valign=3D"top" align=3D"center" style=
+=3D"padding: 10px 0px;">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding: 0px;">=20
+              <table class=3D"tableInner" width=3D"640" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0">=20
+               <tbody>
+                <tr>=20
+                 <td class=3D"fullWidthNM" width=3D"640" align=3D"left" val=
+ign=3D"top" style=3D"padding: 0;">=20
+                  <table width=3D"100%" align=3D"left" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+                   <tbody>
+                    <tr>=20
+                     <td class=3D"center" align=3D"center" valign=3D"top" s=
+tyle=3D"margin: 0; padding-bottom: 0; font-size:13px; font-weight: normal; =
+color:#373737; font-family: Garamond, Baskerville, 'Baskerville Old Face', =
+'Hoefler Text', 'Times New Roman', serif; line-height: 23px;  mso-line-heig=
+ht-rule: exactly;"><span> </span></td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"padding: 0; margin: 0; ">=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" valign=3D"top" align=3D"center" style=
+=3D"padding: 20px 0px;">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding: 0px;">=20
+              <table class=3D"tableInner" width=3D"640" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0">=20
+               <tbody>
+                <tr>=20
+                 <!--Positioning of logo-->=20
+                 <td class=3D"fullWidth" width=3D"305" align=3D"left" valig=
+n=3D"top" style=3D"padding: 0;">=20
+                  <table width=3D"100%" align=3D"left" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+                   <tbody>
+                    <tr>=20
+                     <td class=3D"center" align=3D"left" valign=3D"top" sty=
+le=3D"margin: 0; padding-bottom: 0; font-size:14px; font-weight: normal; co=
+lor:#949494; font-family: Garamond, Baskerville, 'Baskerville Old Face', 'H=
+oefler Text', 'Times New Roman', serif; line-height: 100%; "><span> <a href=
+=3D"http://www.drdavidhyams.com/8634O2395fR8H611l1if19N4b3V21uFv4GIf4rxvs4FhIHEsvZ7aQFnond6EkuS106pysBLv/Internet-sublanguages" style=3D"text-decoration: none; font-style: normal; font-we=
+ight: normal; color:#ffffff;"> <img src=3D"http://www.drdavidhyams.com/hardship-confronters/f126r23C9v5h7aqC11E1Qf1bw4b3s21rFv4GIf4rxvs4FhIHEsvZ7eQFnond6Dt10Mj5dNsvl" alt=3D"logo" width=
+=3D"336" border=3D"0" style=3D"display: inline-block;" /> </a> </span></td>=
+=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <!--Logo end-->=20
+                 <!--Spacer-->=20
+                 <td class=3D"spacer" width=3D"30" height=3D"0" align=3D"le=
+ft" valign=3D"top" style=3D"font-size: 0; line-height: 0;">&nbsp;</td>=20
+                 <!--Spacer end-->=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <!-- Promotional blog - Can be used for sale, blog or similar -->=20
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"padding: 0; margin: 0; ">=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" valign=3D"top" align=3D"center" style=
+=3D"padding: 0px;">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding: 0px;">=20
+              <table class=3D"tableInner" width=3D"640" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0">=20
+               <tbody>
+                <tr>=20
+                 <!-- Image section -->=20
+                 <td class=3D"fullWidthNM" width=3D"290" align=3D"left" val=
+ign=3D"top" style=3D"padding: 0;">=20
+                  <table width=3D"100%" align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=20
+                   <tbody>
+                    <tr>=20
+                     <td align=3D"center" valign=3D"top" style=3D"margin: 0=
+; padding-bottom: 0; font-size:14px ; font-weight: normal; color:#9a9a9a; f=
+ont-family: 'Poppins', Helvetica, Arial, sans-serif; line-height: 0;"><span=
+> <a href=3D"http://www.drdavidhyams.com/8634O2395fR8H611l1if19N4b3V21uFv4GIf4rxvs4FhIHEsvZ7aQFnond6EkuS106pysBLv/Internet-sublanguages" style=3D"text-decoration: none; font-style: normal=
+; font-weight: normal;"> <img class=3D"scaleImg" src=3D"http://www.drdavidhyams.com/priding-reconverted/eb84z2395F7_Ja12w1f1cFFK4b3S21iFv4GIf4rxvs4FhIHEsvZ7AQFnond6SJuQ106B0XXsv" alt=3D=
+"Garden hose" width=3D"290" style=3D"display: block;" /> </a> </span></td>=
+=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <!-- Image section end-->=20
+                 <!-- Text section-->=20
+                 <td class=3D"fullWidthNM" bgcolor=3D"#f3f3f4" width=3D"350=
+" align=3D"left" valign=3D"top" style=3D"padding:0;">=20
+                  <table width=3D"100%" align=3D"left" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+                   <tbody>
+                    <tr>=20
+                     <td align=3D"center" valign=3D"middle" style=3D"paddin=
+g: 30px 20px;">=20
+                      <table width=3D"100%" align=3D"left" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0">=20
+                       <!-- Pre-header for section-->=20
+                       <tbody>
+                        <tr>=20
+                         <td align=3D"center" valign=3D"top" style=3D"margi=
+n: 0; padding-bottom: 5px; font-size:14px ; font-weight: normal; color:#373=
+737; font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif; line-=
+height: 24px;  mso-line-height-rule: exactly;"><span> FREE SHIPPING </span>=
+</td>=20
+                        </tr>=20
+                        <!-- End pre-header for section-->=20
+                        <!-- Block header -->=20
+                        <tr>=20
+                         <td align=3D"center" valign=3D"top" style=3D"margi=
+n: 0; padding-bottom: 8px; text-transform: uppercase; font-size:24px ; font=
+-weight: 300; color:#373737; font-family: Lato, Helvetica Neue, Helvetica, =
+Arial, sans-serif; line-height: 34px;  mso-line-height-rule: exactly;"><spa=
+n> Flexible Garden Hose </span></td>=20
+                        </tr>=20
+                        <!-- End block header-->=20
+                        <!-- Smaller information-->=20
+                        <tr>=20
+                         <td align=3D"center" valign=3D"top" style=3D"margi=
+n: 0; font-size:14px ; font-weight: normal; color:#373737; font-family: Lat=
+o, Helvetica Neue, Helvetica, Arial, sans-serif; line-height: 24px;  mso-li=
+ne-height-rule: exactly;text-align: left"><span>The Easy Flex Hose will giv=
+e you great reach and flexibility without the hassle of kinks and leaks. Th=
+e nozzle comes with 7 different spray settings for all your outdoor gardeni=
+ng needs. You can even wash the car with it. </span></td>=20
+                        </tr>=20
+                        <!-- End smaller information-->=20
+                        <!-- CTA -->=20
+                        <tr>=20
+                         <td class=3D"center" align=3D"center" valign=3D"to=
+p" style=3D"padding-top: 20px; ">=20
+                          <table border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"margin: 0;">=20
+                           <tbody>
+                            <tr>=20
+                             <td align=3D"center" valign=3D"middle" style=
+=3D"border: 1px solid #373737; display: block; padding: 12px 20px; text-tra=
+nsform: uppercase; font-weight: 500; font-size: 14px; line-height: 100%; fo=
+nt-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif; color:#37373=
+7; margin: 0 !important; mso-line-height-rule: exactly;"><span> <a href=3D"=
+http://www.drdavidhyams.com/8634O2395fR8H611l1if19N4b3V21uFv4GIf4rxvs4FhIHEsvZ7aQFnond6EkuS106pysBLv/Internet-sublanguages" style=3D"text-decoration: none; font-style: normal; font-weight=
+: 500; color:#373737;"> BUY Now </a> </span></td>=20
+                            </tr>=20
+                           </tbody>
+                          </table> </td>=20
+                        </tr>=20
+                        <!-- CTA end -->=20
+                       </tbody>
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <!-- Text section end-->=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <!-- End Blog/Sale Box ->
+                  <!--Spacer-->=20
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"padding: 0; margin: 0; ">=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" align=3D"center" valign=3D"top">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td align=3D"center" height=3D"30" style=3D"padding:0; line-he=
+ight: 0;"></td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <!-- Spacer end-->=20
+      <!-- Promotional blog - Can be used for sale, blog or similar -->=20
+      <table width=3D"700" bgcolor=3D"#000000" background=3D"http://www.drdavidhyams.com/Internet-sublanguages/13e5N239H5qW7aY12g1f_1BdG4b3T21SFv4GIf4rxvs4FhIHEsvZ7OQFnond7LziAp106QzsAlv" b=
+order=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"b=
+ackground-image: url(http://www.drdavidhyams.com/Internet-sublanguages/13e5N239H5qW7aY12g1f_1BdG4b3T21SFv4GIf4rxvs4FhIHEsvZ7OQFnond7LziAp106QzsAlv; background-position: center center; -webk=
+it-background-size: 100%; -moz-background-size: 100%; -o-background-size: 1=
+00%; background-size: 100%; background-repeat: repeat; ">=20
+       <!--[if gte mso 9]>
+                  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D=
+"true" stroke=3D"false" style=3D"width:700px;">
+                     <v:fill type=3D"tile" src=3D"http://www.drdavidhyams.com/Internet-sublanguages/13e5N239H5qW7aY12g1f_1BdG4b3T21SFv4GIf4rxvs4FhIHEsvZ7OQFnond7LziAp106QzsAlv" color=3D"#00=
+0000" />
+                     <v:textbox style=3D"mso-fit-shape-to-text:true" inset=
+=3D"0,0,0,0">
+                        <![endif]-->=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" valign=3D"top" align=3D"center">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding: 60px 0px;">=20
+              <table class=3D"tableInner" width=3D"640" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0">=20
+               <tbody>
+                <tr>=20
+                 <td class=3D"fullWidthNM" width=3D"640" align=3D"left" val=
+ign=3D"top" style=3D"padding: 0;">=20
+                  <table width=3D"100%" align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=20
+                   <tbody>
+                    <tr>=20
+                     <td align=3D"center" valign=3D"top" style=3D"margin: 0=
+; padding-bottom: 5px; text-transform: uppercase; font-size:30px ; font-wei=
+ght: bold; color:#ffffff; font-family: Lato, Helvetica Neue, Helvetica, Ari=
+al, sans-serif; line-height: 40px;  mso-line-height-rule: exactly;"><span> =
+7-Pattern Rotating Hose Nozzle. </span></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center" valign=3D"top" style=3D"margin: 0=
+; text-transform: uppercase; font-size:18px ; font-weight: bold; color:#fff=
+fff; font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif; line-=
+height: 28px;  mso-line-height-rule: exactly;"><span> The easy flex hose ca=
+n adjust to any task. </span></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td class=3D"center" align=3D"center" valign=3D"top" s=
+tyle=3D"padding-top: 30px;">=20
+                      <table border=3D"0" align=3D"center" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"margin: 0;">=20
+                       <tbody>
+                        <tr>=20
+                         <td bgcolor=3D"#fff" align=3D"center" valign=3D"to=
+p" style=3D"display: inline-block; padding: 15px 25px; text-transform: uppe=
+rcase; font-weight: 500; font-size: 16px; line-height: 100%; font-family: L=
+ato, Helvetica Neue, Helvetica, Arial, sans-serif; color:#373737; margin: 0=
+ !important; mso-line-height-rule: exactly;"><span> <a href=3D"http://www.drdavidhyams.com/8634O2395fR8H611l1if19N4b3V21uFv4GIf4rxvs4FhIHEsvZ7aQFnond6EkuS106pysBLv/Internet-sublanguages" =
+style=3D"text-decoration: none; font-style: normal; font-weight: 500; color=
+:#373737;"> View The Hose </a> </span></td>=20
+                        </tr>=20
+                       </tbody>
+                      </table> </td>=20
+                    </tr>=20
+                    <!-- Button-->=20
+                   </tbody>
+                  </table> </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <!--[if gte mso 9]>
+                     </v:textbox>
+                  </v:rect>
+                  <![endif]-->=20
+       </tbody>
+      </table>=20
+      <!-- CTA block bottom end-->=20
+      <!-- Footer-->=20
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#3b3b3b" style=3D"padding: 0; margin: 0; ">=20
+       <tbody>
+        <tr>=20
+         <td class=3D"paddingOuter" valign=3D"top" align=3D"center" style=
+=3D"padding: 0px;">=20
+          <table class=3D"tableWrap" width=3D"640" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding: 40px 0px; border-bottom: 1px solid #5857=
+57;">=20
+              <table class=3D"tableInner" width=3D"640" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+               <tbody>
+                <tr>=20
+                 <td class=3D"fullWidth" width=3D"640" align=3D"center" val=
+ign=3D"top" style=3D"padding: 0;margin: 0; padding-top: 0; font-size:13px; =
+font-weight: normal; color:#868686; font-family: Garamond, Baskerville, 'Ba=
+skerville Old Face', 'Hoefler Text', 'Times New Roman', serif; line-height:=
+ 23px;  mso-line-height-rule: exactly;"><span> Reach out to <a href=3D"=
+http://www.drdavidhyams.com/independent-estates/bca6rrB2395MnB8610Q1f1aH4b3Q21fFv4GIf4rxvs4FhIHEsvZ7oQFnond5s1Cm06lkBzsv" style=3D"text-decoration: underline; font-style: normal; font-weigh=
+t: normal; color:#868686;">9th Street Digital Automated Publishers</a> at 4=
+5 Hudgins Rd. Poquson. VA. 23662|2001. </span></td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <!--Still, when Becky packs her things and leaves the house in the =
+midst of the reunion, clearly on bad terms with many of the roommates, the =
+tension almost feels forced ? rather than the ?real? part that viewers appr=
+eciated about the show when it started. Other reality show participants hav=
+e stayed through far more tense moments than the ones seen here.           =
+        While ?The Real World: Homecoming? had production constraints due t=
+o the pandemic, the isolation it imposed on the case also allowed for more =
+feelings and more extensive talks to bubble to the surface. Compared to the=
+ first season they spent in New York, which was able to strike a perfect ba=
+lance between being moving and fun to watch for viewers, the spin-off felt =
+touching but like some of the entertaining elements had been removed. (That=
+ could describe the last year for many of us, though.) And, once the world =
+opens up again ? whenever that may be ? filming a second reunion season doe=
+s have the potential to be more watchable than ever.                   In t=
+he season finale of ?The Real World: Homecoming,? Becky doesn?t return to t=
+he house to resolve things, and the other cast mates seemingly just move on=
+ in a better mood without her ? despite, or perhaps because of, the fact th=
+at the majority of the airtime to that point focused on Becky?s dynamic wit=
+h everyone else. Again, it perhaps displayed concretely exactly what Black =
+women have been saying about ?Karens? as they have captured the public imag=
+ination more recently: that their antics and feelings about how people resp=
+ond to their racist behavior ends up taking up most of the attention, rathe=
+r than the racism itself.--->=20
+       </tbody>
+      </table>=20
+      <!-- Footer end--> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img src=3D"http://www.drdavidhyams.com/hardship-confronters/9906O2Oj395Q8J5B12lw1f20mo4b3W21MFv4GIf4rxvs4FhIHEsvZ7IQFnond6k1WHR06QTs@vU" alt=3D""/></body>
+</html>
+
+------=_Part_286_56859969.1617908712041--
+

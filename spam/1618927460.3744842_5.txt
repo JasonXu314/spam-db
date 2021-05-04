@@ -1,0 +1,204 @@
+Return-Path: <hayley.williams@stsmarketing-us.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3075322 invoked from network); 20 Apr 2021 13:12:04 -0000
+Received: (qmail 52998 invoked by uid 222); 20 Apr 2021 13:12:04 -0000
+Return-Path: <hayley.williams@stsmarketing-us.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 52995 invoked from network); 20 Apr 2021 13:12:04 -0000
+Received: from mail-lf1-x142.google.com (mail-lf1-x142.google.com [IPv6:2a00:1450:4864:20::142])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 20 Apr 2021 13:12:04 -0000
+Received: by mail-lf1-x142.google.com with SMTP id x19so30993865lfa.2
+        for <bruce@untroubled.org>; Tue, 20 Apr 2021 06:12:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=stsmarketing-us-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zCel4gZn056HfLsGycXhKq9qlHUwPek/3Z2B5CLPnko=;
+        b=VLLLgr8svZBka7TAZdLeOv5zJgaJwEXACyp+pEPZPkHCoyk8RqrPZ4jB2B0qXwik6W
+         VXOaWZULxRBFUhWXjSWWikRxLNIxHPFBDY2/VV2Kurkpqt/u7eYt0+AsAlii0AQ8Amlt
+         OFf6VK8WuEX8jmLok/HEr+ZUB9gp+rMfSu/1XMmwMQXh2xe5/b3Le7qzij9z5JG69rc2
+         0boeXCmeATRMNRjSsLLB43U5i7pNd1v6Dt9aSvThYI6h6yrjiRni82QzG7BDyuFb5eIp
+         NWUsZQkGl0NOuzD3eHwaUWoVdRCiS0Q5TqRb/cCkvzj6tKelHHLXFVxjLsy8rLigHDLi
+         KBJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zCel4gZn056HfLsGycXhKq9qlHUwPek/3Z2B5CLPnko=;
+        b=p76nYOzwZHf90qpXcwV3BNwWYQnA66wvSNpp82Ob50vUqKhSU/3m3vI15RcTioZGqM
+         Zrplx99CKsOTJUEk2y2QVYVc1VlZ8VP/kg1ODFJLq8FnFkTnNYxZNpdRWPmVwCTj0A20
+         D/IP78xjaRNQlw05YVAl7GrHT97UYjFt+YxJawqp0XdYA83YdsspH8FnRqDcBjEJf3F4
+         g2CuVJBNO3MdanzdL9N26tCVpOyGr3F2xa0eVkpus9c4N4FaOrsKh1whQWUZDNxx4jPL
+         SxYBSEQt0AuOz+V5sMXK6k6A2JtQS4wyAZUz6XJCEAgvqvmoSHXyQfymyCHPAEX74MhK
+         E71A==
+X-Gm-Message-State: AOAM532cLifvjUrdz2mpYlG97qLMvo13EP7CTGaoabsV1Rulvd3Dw1OY
+	V4kbt1E9gf+SFxj64SV2M/0L/KBlHVa73EKL20zk+g==
+X-Google-Smtp-Source: ABdhPJyCAsYP6Xa9Nc4HObPbiwsMak72zM1No0UOj+t37YSWJjFGIgf1lmoXeXOtrvTPWTJ3ZZeLnWqIxXgXR0QHu/s=
+X-Received: by 2002:ac2:5335:: with SMTP id f21mr8145736lfh.288.1618924322391;
+ Tue, 20 Apr 2021 06:12:02 -0700 (PDT)
+MIME-Version: 1.0
+From: Hayley Williams <hayley.williams@stsmarketing-us.com>
+Date: Tue, 20 Apr 2021 18:41:41 +0530
+Message-ID: <CALhT6ov2bOi2jT8a5MSYfBogeQUxd__jN=SQ_19V1t2ZUgvGGg@mail.gmail.com>
+Subject: Chicago Motorcycle Show, Elgin, USA, Updated b2b contact database-2021
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000279e7605c067316b"
+Bcc: bruce@untroubled.org
+Content-Length: 6554
+
+--000000000000279e7605c067316b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey there,
+
+
+Hope you doing well!
+
+I came to know that you are interested in acquiring the contact list of the
+show.
+
+
+
+Show:
+*Chicago Motorcycle Show, Elgin, USA *Counts: *34,874*
+
+
+Definitely this might bring some changes in your business growth, we will
+be happy to send additional information of this show.
+
+Please let us know your target audience and geography, so that I can send
+samples and pricing details.
+
+Target Industry:  _____________?
+
+Target Geography:  ______________?
+
+Target Job Title:  _____________?
+
+
+
+
+
+Thanks, and Regards,
+
+*Hayley Williams*
+
+Business Manager
+
+
+
+If you do not wish to hear from us again, please respond back with =E2=80=
+=9CLeave
+Out=E2=80=9D and we will honor your request.
+
+--000000000000279e7605c067316b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0cm;line-height:nor=
+mal;font-size:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" sty=
+le=3D"font-size:10pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(=
+31,56,100)">Hey there,</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)"><br>
+Hope you doing well!<br>
+<br>
+</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">I cam=
+e to know that you are interested in acquiring the contact
+list of the show.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">=C2=
+=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-=
+size:10pt;line-height:107%;font-family:&quot;Segoe UI&quot;,sans-serif;colo=
+r:rgb(31,56,100)">Show:</span><span lang=3D"EN-US"> </span><b><span lang=3D=
+"EN-US" style=3D"font-size:10pt;line-height:107%;font-family:&quot;Segoe UI=
+&quot;,sans-serif;color:rgb(31,56,100)">Chicago Motorcycle Show, Elgin, USA=
+<br>
+</span></b><span lang=3D"EN-US" style=3D"font-size:10pt;line-height:107%;fo=
+nt-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Counts: <b>=
+34,874</b></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)"><br>
+Definitely this might bring some changes in your business growth, we will b=
+e
+happy to send additional information of this show.<br>
+<br>
+Please let us know your target audience and geography, so that I can send s=
+amples
+and pricing details.<b></b></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Targe=
+t Industry:=C2=A0
+_____________?=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Targe=
+t Geography:=C2=A0 ______________?=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Targe=
+t Job Title:=C2=A0 _____________?</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">=C2=
+=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">=C2=
+=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Thank=
+s, and Regards,</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:16.5pt;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-size:=
+11pt;font-family:Calibri,sans-serif"><b><span lang=3D"EN-US" style=3D"font-=
+size:10pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)"=
+>Hayley Williams</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:16.5pt;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-size:=
+11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-siz=
+e:10pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:rgb(31,56,100)">Bu=
+siness Manager</span><span style=3D"font-size:12pt;font-family:Helvetica,sa=
+ns-serif;color:rgb(32,33,36);letter-spacing:0.2pt"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm;line-height:normal;font-size:11p=
+t;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:1=
+2pt;font-family:&quot;Times New Roman&quot;,serif;color:rgb(31,56,100)">=C2=
+=A0</span></p>
+
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin:0cm;text-align:cent=
+er;line-height:normal;font-size:11pt;font-family:Calibri,sans-serif"><span =
+lang=3D"EN-US" style=3D"font-size:10pt;font-family:&quot;Segoe UI&quot;,san=
+s-serif;color:rgb(142,170,219)">If you do not wish to hear from us again, p=
+lease respond
+back with =E2=80=9CLeave Out=E2=80=9D and we will honor your request.</span=
+></p></div>
+
+--000000000000279e7605c067316b--

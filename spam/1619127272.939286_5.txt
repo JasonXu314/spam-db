@@ -1,0 +1,64 @@
+Return-Path: <nerve-renew-bruce=untroubled.org@tspeed2.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3423300 invoked from network); 22 Apr 2021 18:55:48 -0000
+Received: (qmail 3412 invoked by uid 222); 22 Apr 2021 18:55:47 -0000
+Return-Path: <nerve-renew-bruce=untroubled.org@tspeed2.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 3409 invoked from network); 22 Apr 2021 18:55:47 -0000
+Received: from mail.tspeed2.cloud ([70.102.102.40])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 18:55:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed2.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=nerve-renew@tspeed2.cloud;
+ bh=LW0GnqATuoDL70DZDL9oU1rvAkM=;
+ b=HGvc9hi2dL8cJOhXsWrDuSblwkFtRnG7wvNi3QaEBUq8XQRkd7uNfNHZUefpO5h5DEfQuVoJQD1m
+   fGBUlKKDYPYID5VuQNAqI0BMn1UOCqbTt+uhlMZMwBN8Y/22rwbquJs57rOttDmC+xjxyadddbYI
+   k6qyxpN8iOZe5q2iLzA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed2.cloud;
+ b=UMJ4u7UaXM2IKPxvTPHdi66LqHLfMoH7F6rCjOhLYmONoucsLRWk0i4dfZ17uggbp8YBT6Lotgfj
+   mRyPEiyEDmHjW5sistqx5iZxS44WHE4bewPa0hBc3z1OKCoEVOn3KUN8w6xPiaEEuISigXqLurby
+   quevF45HeYV7MZIZWYo=;
+Received: by mail.tspeed2.cloud id hg73b20001gt for <bruce@untroubled.org>; Thu, 22 Apr 2021 14:45:08 -0400 (envelope-from <nerve-renew-bruce=untroubled.org@tspeed2.cloud>)
+Date: Thu, 22 Apr 2021 14:45:08 -0400
+From: "Nerve Renew" <nerve-renew@tspeed2.cloud>
+To:   <bruce@untroubled.org>
+Subject: Diabetics: Do You Suffer From This?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_856_1675674776.1619117101868"
+List-Unsubscribe: <http://www.tspeed2.cloud/toiled-bridging/1024O2395z8I9G11b11AUL4b52V21bFv4GIf4rxvs4FhIHEsvZ8jRromoQo7DH10Irg6S0WcLY>
+Message-ID: <0.0.0.5D.1D737A79E500C70.20668F@mail.tspeed2.cloud>
+Content-Length: 7258
+
+------=_Part_856_1675674776.1619117101868
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>insincerity</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:16px; ">Robert was a fit 70-year-old who could walk circles around most guys half his age...</span></span><br /> &nbsp; </p> 
+   <center>
+    <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:16px; ">But during a hiking trip, his feet and legs hurt so bad he could hardly lift them to walk.<br /> <br /> When they got home, Robert was diagnosed with neuropathy...<br /> <br /> And told he would never enjoy his active, mobile lifestyle again.<br /> <br /> Desperate for solutions, he accidentally stumbled across Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist and best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend of 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Today, Robert lives pain-free.<br /> <br /> <u><strong><a href="http://www.tspeed2.cloud/7376K2H39q5Wt8J613Us16034i4b52X21VFv4GIf4rxvs4FhIHEsvZ8zRromoQo5ax1t05L@cY@/fastening-structurally" target="_blank">&gt; &gt; See the essential nerve-healing nutrients here</a></strong></u></span></span> 
+    <p>&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <span style="font-family:verdana,geneva,sans-serif; "> <a href="http://www.tspeed2.cloud/7376K2H39q5Wt8J613Us16034i4b52X21VFv4GIf4rxvs4FhIHEsvZ8zRromoQo5ax1t05L@cY@/fastening-structurally" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target="_blank"><img alt="nerves" src="http://www.tspeed2.cloud/shuffled-opportunistic/8826C239Hh5wGY7a12C16037L4b52y21VFv4GIf4rxvs4FhIHEsvZ8ERromoQo7goz10kB6kWUc@Y" style="width: 475px; height: 416px; " /></a></span> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:times new roman,times,serif; "><span style="font-size:12px; ">NerveRenew | 3855 W. Lorenzo Ste. 100, Eagle, ID 83616</span></span></p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:times new roman,times,serif; "><span style="font-size:12px; "><a href="http://www.tspeed2.cloud/synonymously-managers/5944A2395PxY8613o1603I5l4b52g21mFv4GIf4rxvs4FhIHEsvZ8mRromoQo6K1sz0x5l@cY@" target="_blank">Unsubs </a>here<br /> <br /> Exit <a href="http://www.tspeed2.cloud/Whipple-hollowness/1d46iT2I395c89Yg13B160G36B4b52Y21lFv4GIf4rxvs4FhIHEsvZ8iRromoQo6b1xX_05zlczY">Here</a><br /> 6547 N Academy Boulevard #1170 80918 Colorado Springs CO</span></span><br /> &nbsp; </p> 
+    <span style="font-family:times new roman,times,serif; "> <font class="nightingales"><span style="disposer"></span></font><span face="heaven"></span><style dir="formation"></style><font face="Courtney"></font><font dir="abnormally"><span size="Levitt"></font></span></span>
+   </center> 
+  </center>   
+ <img src="http://www.tspeed2.cloud/a7f5z_2395D8P5T12H16038X4b52q21LFv4GIf4rxvs4FhIHEsvZ8bRromoQo5yRt106zNclYP/shuffled-opportunistic" alt=""/></body>
+</html>
+
+------=_Part_856_1675674776.1619117101868--
+

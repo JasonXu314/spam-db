@@ -1,0 +1,642 @@
+Return-Path: <info@jexson.pp.ua>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3237160 invoked from network); 22 Apr 2021 12:20:12 -0000
+Received: (qmail 83252 invoked by uid 222); 22 Apr 2021 12:20:12 -0000
+Return-Path: <info@jexson.pp.ua>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 83249 invoked from network); 22 Apr 2021 12:20:12 -0000
+Received: from jexson.pp.ua (jexson.pp.ua [62.76.189.223])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 12:20:11 -0000
+Message-ID: <2f4d4ee51c0e5f54091caafe0a54eee41e41cb89@jexson.pp.ua>
+Reply-To: Aurora <reply@jexson.pp.ua>
+From: Aurora <info@jexson.pp.ua>
+To: bruce@untroubled.org
+Subject: =?utf-8?B?0KHQv9C10YbQuNCw0LvRjNC90L7QtSDQv9GA0LXQtNC70L7QttC10L0=?=
+	=?utf-8?B?0LjQtQ==?=
+Date: Thu, 22 Apr 2021 15:20:07 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="aa276ec8ea557f0a96c375deb0e4cf1d78593c"
+List-Unsubscribe: <http://treysi.in.ua/Server-Side/amsweb.php?sP6CF77%2BHvcHEX67%2F2k5pWykX5cH1gcaTrNnPavuBhyLS%2FwctsAd52xKi%2F1UL9%2B6OoySYVyRswpqcOU%2FbgDKqLuufu8uaF0R9HGQYYqW3pgfF2Qcsb0Ir4apaT0DOxRcqbk3sgu2aMiLhwhwDTe6SQ%3D%3D>
+DKIM-Signature: v=1; a=rsa-sha256; d=jexson.pp.ua; s=mail;
+	c=relaxed/relaxed; t=1619094007;
+	h=message-id:from:to:subject:date:mime-version:list-unsubscribe;
+	bh=YcCPAc4sCOTj9IasDWAPNaRz2oJlSq3C6g+k+efgTEU=;
+	b=PwNw8wplaAhBnWQfIY8X5JlX/a51VcQIVqnZrSmUL381TGIm5h3qD+7zoS4BQB
+	e/k4MwPCEODDw0m3Wk37CpheHkAiqtCYYRadURJ4KpUTXtmk4V995nzs2PtakJm8
+	fDJh0DOjCPnNm4jUyGyzh8LXxvziSCqWRi/dWCEcJcKKg=
+Content-Length: 32182
+
+--aa276ec8ea557f0a96c375deb0e4cf1d78593c
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=D0=9B=D0=A3=D0=A7=D0=A8=D0=98=D0=95 =D0=9F=D0=A0=D0=95=D0=94=D0=9B=D0=9E=
+=D0=96=D0=95=D0=9D=D0=98=D0=AF
+
+=D0=94=D0=9B=D0=AF =D0=92=D0=90=D0=A1
+
+Moneyveo ua
+
+=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81, =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=
+=D1=8F=D1=8E=D1=89=D0=B8=D0=B9 =D0=BE=D1=87=D0=B5=D0=BD=D1=8C =D0=BF=D1=80=
+=D0=BE=D1=81=D1=82=D0=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C=
+ =D0=B7=D0=B0=D0=B5=D0=BC =D0=BD=D0=B0 =D0=B1=D0=B0=D0=BD=D0=BA=D0=BE=D0=B2=
+=D1=81=D0=BA=D1=83=D1=8E =D0=BA=D0=B0=D1=80=D1=82=D1=83 =D0=B2 =D0=BB=D1=8E=
+=D0=B1=D0=BE=D0=BC =D0=BC=D0=B5=D1=81=D1=82=D0=B5 =D0=B8 =D0=B2 =D0=BB=D1=
+=8E=D0=B1=D0=BE=D0=B5 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F, =D0=B4=D0=B0=D0=B6=D0=
+=B5 =D0=B2 =D0=B2=D1=8B=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B5 =D0=B8 =D0=BF=
+=D1=80=D0=B0=D0=B7=D0=B4=D0=BD=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=B4=D0=BD=
+=D0=B8, =D0=B2=D1=81=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0 =D0=BD=D0=B5=D1=81=D0=
+=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BC=D0=B8=D0=BD=D1=83=D1=82
+
+=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D1=82=D0=B8 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=
+=D1=82 ->
+
+=D0=A8=D0=B2=D0=B8=D0=B4=D0=BA=D0=BE=D0=93=D1=80=D0=BE=D1=88=D1=96
+
+=D0=BB=D0=B8=D0=B4=D0=B5=D1=80 =D1=83=D0=BA=D1=80=D0=B0=D0=B8=D0=BD=D1=81=
+=D0=BA=D0=BE=D0=B3=D0=BE =D1=80=D1=8B=D0=BD=D0=BA=D0=B0 =D0=BC=D0=BE=D0=BC=
+=D0=B5=D0=BD=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D1=80=
+=D0=B5=D0=B4=D0=B8=D1=82=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F. =D0=9A=D0=BE=
+=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=
+=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=
+=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D0=BA=D1=80=D0=B5=D0=B4=D0=B8=
+=D1=82=D1=8B =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=BC=D0=B8 =D0=B4=
+=D0=BE 3000 =D0=B3=D1=80=D0=BD.
+
+=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D1=82=D0=B8 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=
+=D1=82 ->
+
+=D0=9C=D1=8B =D1=80=D0=B0=D0=B4=D1=8B, =D1=87=D1=82=D0=BE =D0=B2=D1=8B =D1=
+=81 =D0=BD=D0=B0=D0=BC=D0=B8!
+
+=D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=
+=D1=8C=D1=81=D1=8F =D0=BE=D1=82 =D1=8D=D1=82=D0=BE=D0=B9 =D1=80=D0=B0=D1=81=
+=D1=81=D1=8B=D0=BB=D0=BA=D0=B8, =D0=BF=D0=B5=D1=80=D0=B5=D0=B9=D0=B4=D0=B8=
+=D1=82=D0=B5 =D0=BF=D0=BE =D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=
+=D1=81=D1=8F =D0=BE=D1=82 =D0=BF=D0=BE=D1=87=D1=82=D1=8B
+
+--aa276ec8ea557f0a96c375deb0e4cf1d78593c
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY class=3Dclean-body=20
+style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN=
+: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); -webkit-te=
+xt-size-adjust: 100%">
+<DIV class=3Die-browser>
+<TABLE role=3Dpresentation class=3Dnl-container=20
+style=3D"WIDTH: 100%; VERTICAL-ALIGN: top; BORDER-COLLAPSE: collapse; MIN=
+-WIDTH: 320px; TABLE-LAYOUT: fixed; BORDER-SPACING: 0; BACKGROUND-COLOR: =
+rgb(255,255,255); mso-table-lspace: 0pt; mso-table-rspace: 0pt"=20
+cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#ffffff valign=3D=
+"top">
+  <TBODY>
+  <TR style=3D"VERTICAL-ALIGN: top" vAlign=3Dtop>
+    <TD style=3D"VERTICAL-ALIGN: top" vAlign=3Dtop>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter b=
+order=3D0>
+        <TBODY>
+        <TR>
+          <TD style=3D"BACKGROUND-COLOR: rgb(255,255,255)" align=3Dcenter=
+>
+            <DIV style=3D"OVERFLOW: hidden; BACKGROUND-COLOR: transparent=
+">
+            <DIV class=3D"block-grid "=20
+            style=3D"MAX-WIDTH: 500px; WIDTH: 100%; MIN-WIDTH: 320px; MAR=
+GIN: 0px auto; BACKGROUND-COLOR: transparent; overflow-wrap: break-word; =
+-ms-word-wrap: break-word">
+            <DIV=20
+            style=3D"WIDTH: 100%; BORDER-COLLAPSE: collapse; DISPLAY: tab=
+le; BACKGROUND-COLOR: transparent">
+            <TABLE style=3D"BACKGROUND-COLOR: transparent" cellSpacing=3D=
+0=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD align=3Dcenter>
+                  <TABLE style=3D"WIDTH: 500px" cellSpacing=3D0 cellPaddi=
+ng=3D0=20
+                  border=3D0>
+                    <TBODY>
+                    <TR class=3Dlayout-full-width=20
+                    style=3D"BACKGROUND-COLOR: transparent">
+                      <TD=20
+                      style=3D"BORDER-TOP: transparent 0px solid; BORDER-=
+RIGHT: transparent 0px solid; WIDTH: 500px; BORDER-BOTTOM: transparent 0p=
+x solid; BORDER-LEFT: transparent 0px solid; BACKGROUND-COLOR: transparen=
+t; border-image: none"=20
+                      vAlign=3Dtop width=3D500 align=3Dcenter>
+                        <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"1=
+00%"=20
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD=20
+                            style=3D"PADDING-BOTTOM: 5px; PADDING-TOP: 5p=
+x; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">
+                              <DIV class=3D"col num12"=20
+                              style=3D"MAX-WIDTH: 500px; WIDTH: 500px; VE=
+RTICAL-ALIGN: top; MIN-WIDTH: 320px; DISPLAY: table-cell">
+                              <DIV class=3Dcol_cont=20
+style=3D"WIDTH: 100% !important">
+                              <DIV=20
+                              style=3D"BORDER-TOP: transparent 0px solid;=
+ BORDER-RIGHT: transparent 0px solid; BORDER-BOTTOM: transparent 0px soli=
+d; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; BORDER-LEFT:=
+ transparent 0px solid; PADDING-RIGHT: 0px; border-image: none">
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Tahoma, Verdana, sa=
+ns-serif; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PA=
+DDING-RIGHT: 10px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Tahoma, Verdana, Se=
+goe, sans-serif; COLOR: rgb(85,85,85); PADDING-BOTTOM: 10px; PADDING-TOP:=
+ 10px; PADDING-LEFT: 10px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 10px">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ta=
+homa, Verdana, Segoe, sans-serif; COLOR: rgb(85,85,85); LINE-HEIGHT: 1.2;=
+ mso-line-height-alt: 14px">
+                                <P=20
+                                style=3D"FONT-SIZE: 34px; FONT-FAMILY: Ta=
+homa, Verdana, Segoe, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-H=
+EIGHT: 1.2; mso-line-height-alt: 41px"><SPAN=20
+                                style=3D"FONT-SIZE: 34px; COLOR: rgb(51,1=
+02,255)"><STRONG>=D0=9B=D0=A3=D0=A7=D0=A8=D0=98=D0=95=20
+                                =D0=9F=D0=A0=D0=95=D0=94=D0=9B=D0=9E=D0=96=
+=D0=95=D0=9D=D0=98=D0=AF </STRONG></SPAN></P>
+                                <P=20
+                                style=3D"FONT-SIZE: 38px; FONT-FAMILY: Ta=
+homa, Verdana, Segoe, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-H=
+EIGHT: 1.2; mso-line-height-alt: 46px"><SPAN=20
+                                style=3D"FONT-SIZE: 38px"><STRONG><SPAN=20
+                                style=3D"FONT-SIZE: 34px; COLOR: rgb(51,1=
+02,255)">=D0=94=D0=9B=D0=AF=20
+                                =D0=92=D0=90=D0=A1</SPAN><BR></STRONG></S=
+PAN></P></DIV></DIV></TD></TR></TBODY></TABLE></DIV></DIV></DIV></TD></TR=
+></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DI=
+V></DIV></DIV>
+            <DIV style=3D"OVERFLOW: hidden; BACKGROUND-COLOR: transparent=
+">
+            <DIV class=3D"block-grid two-up"=20
+            style=3D"MAX-WIDTH: 500px; WIDTH: 100%; MIN-WIDTH: 320px; MAR=
+GIN: 0px auto; BACKGROUND-COLOR: transparent; overflow-wrap: break-word; =
+-ms-word-wrap: break-word">
+            <DIV=20
+            style=3D"WIDTH: 100%; BORDER-COLLAPSE: collapse; DISPLAY: tab=
+le; BACKGROUND-COLOR: transparent"><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;</SPAN><=
+/DIV></DIV></DIV>
+            <DIV style=3D"OVERFLOW: hidden; BACKGROUND-COLOR: transparent=
+">
+            <DIV class=3D"block-grid two-up"=20
+            style=3D"MAX-WIDTH: 500px; WIDTH: 100%; MIN-WIDTH: 320px; MAR=
+GIN: 0px auto; BACKGROUND-COLOR: transparent; overflow-wrap: break-word; =
+-ms-word-wrap: break-word">
+            <DIV=20
+            style=3D"WIDTH: 100%; BORDER-COLLAPSE: collapse; DISPLAY: tab=
+le; BACKGROUND-COLOR: transparent">
+            <TABLE style=3D"BACKGROUND-COLOR: transparent" cellSpacing=3D=
+0=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD align=3Dcenter>
+                  <DIV>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D500 bord=
+er=3D0>
+                    <TBODY>
+                    <TR class=3Dlayout-full-width=20
+                    style=3D"BACKGROUND-COLOR: transparent">
+                      <TD=20
+                      style=3D"BORDER-TOP: transparent 0px solid; BORDER-=
+RIGHT: transparent 0px solid; WIDTH: 250px; BORDER-BOTTOM: transparent 0p=
+x solid; BORDER-LEFT: transparent 0px solid; BACKGROUND-COLOR: transparen=
+t; border-image: none"=20
+                      vAlign=3Dtop width=3D250 align=3Dcenter>
+                        <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"1=
+00%"=20
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD=20
+                            style=3D"PADDING-BOTTOM: 20px; PADDING-TOP: 2=
+0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><!--[endif]---->
+                              <DIV class=3D"col num6"=20
+                              style=3D"MAX-WIDTH: 320px; WIDTH: 250px; VE=
+RTICAL-ALIGN: top; MIN-WIDTH: 246px; DISPLAY: table-cell">
+                              <DIV class=3Dcol_cont=20
+                              style=3D"HEIGHT: 530px; WIDTH: 100% !import=
+ant">
+                              <DIV=20
+                              style=3D"BORDER-TOP: transparent 0px solid;=
+ BORDER-RIGHT: transparent 0px solid; BORDER-BOTTOM: transparent 0px soli=
+d; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 0px; BORDER-LEF=
+T: transparent 0px solid; PADDING-RIGHT: 0px; border-image: none">
+                              <DIV class=3D"img-container center" align=3D=
+center>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR style=3D"LINE-HEIGHT: 0px">
+                                <TD align=3Dcenter><A tabIndex=3D-1=20
+                                href=3D"http://treysi.in.ua/Server-Side/a=
+msweb.php?rtcfY3OIC8v3mDXbKPvQIzUSp9h591%2BPGHEp1qhAE7IfaLNSK4qfxWajsM7PG=
+sPRcHORWcNXdJkQK5JU6hSgUhETwOPTNRpSh0k32eQMloyeKLYDCgFQw2cwA7EUajIg7%2F%2=
+F3QUCjVfeIcUgDkDuCJuMDD%2FUi8HUxQDNfcnfdCcg%3D"=20
+                                target=3D_blank><IMG title=3DImage class=3D=
+center=20
+                                style=3D"BORDER-LEFT-WIDTH: 0px; TEXT-DEC=
+ORATION: none; MAX-WIDTH: 180px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-W=
+IDTH: 0px; DISPLAY: block; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WI=
+DTH: 0px; border-image: none"=20
+                                border=3D0 hspace=3D0 alt=3Dmoneyveo=20
+                                src=3D"http://sdm.com.ua/bank/moneveo.jpg=
+"=20
+                                width=3D162=20
+                              height=3D150></A></TD></TR></TBODY></TABLE>=
+</DIV>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 0px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT:=
+ 0px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(85,85,85); PADDING-BOTTOM: 0px; PAD=
+DING-TOP: 15px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(85,85,85); LINE-HE=
+IGHT: 1.2; mso-line-height-alt: 14px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px">
+                                <P=20
+                                style=3D"FONT-SIZE: 20px; FONT-FAMILY: ar=
+ial, helvetica, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-HEIGHT:=
+ 1.2; mso-line-height-alt: 24px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px"><STRONG><SPAN=20
+                                style=3D"FONT-SIZE: 20px">Moneyveo=20
+                                ua</SPAN></STRONG></SPAN></P></SPAN></SPA=
+N></DIV></DIV></TD></TR></TBODY></TABLE><!--[endif]---->
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(170,170,170); PADDING-BOTTOM: 5px; =
+PADDING-TOP: 5px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px=
+">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(170,170,170); LINE=
+-HEIGHT: 1.2; mso-line-height-alt: 14px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(170,170,170); PADDING-BOTTOM: 5px; =
+PADDING-TOP: 5px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px=
+">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(170,170,170); LINE=
+-HEIGHT: 1.2; mso-line-height-alt: 14px">
+                                <P=20
+                                style=3D"FONT-SIZE: 14px; TEXT-ALIGN: cen=
+ter; MARGIN: 0px; LINE-HEIGHT: 1.2; mso-line-height-alt: 17px">=D0=A1=D0=B5=
+=D1=80=D0=B2=D0=B8=D1=81,=20
+                                =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=
+=D1=8E=D1=89=D0=B8=D0=B9 =D0=BE=D1=87=D0=B5=D0=BD=D1=8C =D0=BF=D1=80=D0=BE=
+=D1=81=D1=82=D0=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B7=
+=D0=B0=D0=B5=D0=BC =D0=BD=D0=B0=20
+                                =D0=B1=D0=B0=D0=BD=D0=BA=D0=BE=D0=B2=D1=81=
+=D0=BA=D1=83=D1=8E =D0=BA=D0=B0=D1=80=D1=82=D1=83 =D0=B2 =D0=BB=D1=8E=D0=B1=
+=D0=BE=D0=BC =D0=BC=D0=B5=D1=81=D1=82=D0=B5 =D0=B8 =D0=B2 =D0=BB=D1=8E=D0=
+=B1=D0=BE=D0=B5 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F,=20
+                                =D0=B4=D0=B0=D0=B6=D0=B5 =D0=B2 =D0=B2=D1=
+=8B=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B5 =D0=B8 =D0=BF=D1=80=D0=B0=D0=B7=D0=
+=B4=D0=BD=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=B4=D0=BD=D0=B8, =D0=B2=D1=81=D0=
+=B5=D0=B3=D0=BE =D0=B7=D0=B0=20
+                                =D0=BD=D0=B5=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=
+=D0=BA=D0=BE=20
+                                =D0=BC=D0=B8=D0=BD=D1=83=D1=82</P></DIV><=
+/DIV></DIV></DIV></TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT=
+: 0px"><!--[endif]---->
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(199,112,46); PADDING-BOTTOM: 10px; =
+PADDING-TOP: 10px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0p=
+x">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(199,112,46); LINE-=
+HEIGHT: 1.2; mso-line-height-alt: 14px">
+                                <P=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: ar=
+ial, helvetica, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-HEIGHT:=
+ 1.2; mso-line-height-alt: 14px"><A=20
+                                style=3D"TEXT-DECORATION: underline; COLO=
+R: rgb(199,112,46)"=20
+                                href=3D"http://treysi.in.ua/Server-Side/a=
+msweb.php?y0WviPtvkz7cgL908H%2FwwrndSvJ6T8YeYvk%2F%2BUnry6lIzdqTi0z5vN%2B=
+k7WDJBjHiVTcT3amnlGZtAsxh8zCTWJSxejHEOo%2BMruGTDbfJsax5gyRkCzbgRPN%2B6cuC=
+%2F7t5EZK%2FXX6XTjEZTKX0Vd9qrzNY4Hdcx5yksR3W2jcl%2Bks%3D"=20
+                                rel=3Dnoopener target=3D_blank><STRONG><S=
+PAN=20
+                                style=3D"FONT-SIZE: 14px"><SPAN=20
+                                style=3D"FONT-SIZE: 14px; TEXT-DECORATION=
+: underline">=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D1=82=D0=B8=20
+                                =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82</SP=
+AN>=20
+                                -&gt;</SPAN></STRONG></A></P></DIV></DIV>=
+</TD></TR></TBODY></TABLE>
+                              <TABLE role=3Dpresentation class=3Ddivider=20
+                              style=3D"VERTICAL-ALIGN: top; BORDER-COLLAP=
+SE: collapse; MIN-WIDTH: 100%; TABLE-LAYOUT: fixed; -MS-TEXT-SIZE-ADJUST:=
+ 100%; BORDER-SPACING: 0; -webkit-text-size-adjust: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt"=20
+                              cellSpacing=3D0 cellPadding=3D0 width=3D"10=
+0%" border=3D0=20
+                              valign=3D"top">
+                                <TBODY>
+                                <TR style=3D"VERTICAL-ALIGN: top" vAlign=3D=
+top>
+                                <TD class=3Ddivider_inner=20
+                                style=3D"VERTICAL-ALIGN: top; MIN-WIDTH: =
+100%; PADDING-BOTTOM: 10px; -MS-TEXT-SIZE-ADJUST: 100%; PADDING-TOP: 10px=
+; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; -webkit-text-size-adjust: 100%=
+"=20
+                                vAlign=3Dtop>
+                                <TABLE role=3Dpresentation class=3Ddivide=
+r_content=20
+                                style=3D"BORDER-TOP: rgb(187,187,187) 1px=
+ solid; WIDTH: 100%; VERTICAL-ALIGN: top; BORDER-COLLAPSE: collapse; TABL=
+E-LAYOUT: fixed; BORDER-SPACING: 0; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt"=20
+                                cellSpacing=3D0 cellPadding=3D0 width=3D"=
+100%"=20
+                                align=3Dcenter border=3D0 valign=3D"top">
+                                <TBODY>
+                                <TR style=3D"VERTICAL-ALIGN: top" vAlign=3D=
+top>
+                                <TD=20
+                                style=3D"VERTICAL-ALIGN: top; -MS-TEXT-SI=
+ZE-ADJUST: 100%; -webkit-text-size-adjust: 100%"=20
+                                vAlign=3Dtop><SPAN><SPAN>&nbsp;&nbsp;&nbs=
+p;&nbsp;</SPAN></SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE=
+></DIV></DIV></DIV></TD></TR></TBODY></TABLE><SPAN>&nbsp;&nbsp;&nbsp;&nbs=
+p;</SPAN></TD>
+                      <TD=20
+                      style=3D"BORDER-TOP: transparent 0px solid; BORDER-=
+RIGHT: transparent 0px solid; WIDTH: 250px; BORDER-BOTTOM: transparent 0p=
+x solid; BORDER-LEFT: transparent 0px solid; BACKGROUND-COLOR: transparen=
+t; border-image: none"=20
+                      vAlign=3Dtop width=3D250 align=3Dcenter>
+                        <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"1=
+00%"=20
+border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD=20
+                            style=3D"PADDING-BOTTOM: 30px; PADDING-TOP: 2=
+0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px"><!--[endif]---->
+                              <DIV class=3D"col num6"=20
+                              style=3D"MAX-WIDTH: 320px; WIDTH: 250px; VE=
+RTICAL-ALIGN: top; MIN-WIDTH: 246px; DISPLAY: table-cell">
+                              <DIV class=3Dcol_cont=20
+style=3D"WIDTH: 100% !important">
+                              <DIV=20
+                              style=3D"BORDER-TOP: transparent 0px solid;=
+ BORDER-RIGHT: transparent 0px solid; BORDER-BOTTOM: transparent 0px soli=
+d; PADDING-BOTTOM: 30px; PADDING-TOP: 20px; PADDING-LEFT: 10px; BORDER-LE=
+FT: transparent 0px solid; PADDING-RIGHT: 0px; border-image: none">
+                              <DIV class=3D"img-container center" align=3D=
+center>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR style=3D"LINE-HEIGHT: 0px">
+                                <TD align=3Dcenter><A tabIndex=3D-1=20
+                                href=3D"http://treysi.in.ua/Server-Side/a=
+msweb.php?lCRk6AjgNHkkfma4UdSsqD%2Fcb3a6Alo97Ofd6ecFzEPnfek9vkhFMJ1konVP2=
+D8PxR1AfFbL4Z%2FGtikX6Nit2Soev8Ia%2FztTdj5Zlh%2FXRnDUlcQ4TcYc2arbQnmHnexE=
+ogC4Co1xcdArF399yiYjeg%3D%3D" target=3D_blank><IMG=20
+                                title=3DImage class=3Dcenter=20
+                                style=3D"BORDER-LEFT-WIDTH: 0px; TEXT-DEC=
+ORATION: none; MAX-WIDTH: 180px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-W=
+IDTH: 0px; DISPLAY: block; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WI=
+DTH: 0px; border-image: none"=20
+                                border=3D0 hspace=3D0 alt=3Dsvidkomoney=20
+                                src=3D"https://img.hiteml.com/en/v5/user-=
+files?userId=3D3581897&amp;resource=3Dhimg&amp;disposition=3Dinline&amp;n=
+ame=3D6nysanhzozqmr1zeo48gfjysf8yrqtoe19pgjjbqgqb5t3magd5nqwseyhq4nj584rq=
+yxif7ad9qsn"=20
+                                width=3D181=20
+                              height=3D164></A></TD></TR></TBODY></TABLE>=
+</DIV>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 0px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT:=
+ 0px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(85,85,85); PADDING-BOTTOM: 0px; PAD=
+DING-TOP: 15px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(85,85,85); LINE-HE=
+IGHT: 1.2; mso-line-height-alt: 14px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px">
+                                <P=20
+                                style=3D"FONT-SIZE: 20px; FONT-FAMILY: ar=
+ial, helvetica, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-HEIGHT:=
+ 1.2; mso-line-height-alt: 24px"><SPAN=20
+                                style=3D"FONT-SIZE: 20px"><STRONG><SPAN=20
+                                style=3D"FONT-SIZE: 20px">=D0=A8=D0=B2=D0=
+=B8=D0=B4=D0=BA=D0=BE=D0=93=D1=80=D0=BE=D1=88=D1=96</SPAN></STRONG></SPAN=
+></P></SPAN></SPAN></DIV></DIV></TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(170,170,170); PADDING-BOTTOM: 5px; =
+PADDING-TOP: 5px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px=
+">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(170,170,170); LINE=
+-HEIGHT: 1.2; mso-line-height-alt: 14px">
+                                <P=20
+                                style=3D"FONT-SIZE: 14px; TEXT-ALIGN: cen=
+ter; MARGIN: 0px; LINE-HEIGHT: 1.2; mso-line-height-alt: 17px">&nbsp;</P>=
+</DIV>
+                                <P=20
+                                style=3D"FONT-SIZE: 14px; TEXT-ALIGN: cen=
+ter; MARGIN: 0px; LINE-HEIGHT: 1.2; mso-line-height-alt: 17px">=D0=BB=D0=B8=
+=D0=B4=D0=B5=D1=80=20
+                                =D1=83=D0=BA=D1=80=D0=B0=D0=B8=D0=BD=D1=81=
+=D0=BA=D0=BE=D0=B3=D0=BE =D1=80=D1=8B=D0=BD=D0=BA=D0=B0 =D0=BC=D0=BE=D0=BC=
+=D0=B5=D0=BD=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D1=80=
+=D0=B5=D0=B4=D0=B8=D1=82=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F.=20
+                                =D0=9A=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=
+=D1=8F =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=
+=D0=B5=D1=82 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B5 =D0=BA=D1=80=D0=B5=D0=B4=D0=B8=D1=82=D1=8B=20
+                                =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=
+=D0=BC=D0=B8 =D0=B4=D0=BE 3000 =D0=B3=D1=80=D0=BD. </P></DIV>
+                                <DIV></DIV></TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=3D0 cellPadding=3D0 widt=
+h=3D"100%"=20
+                              border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD=20
+                                style=3D"FONT-FAMILY: Arial, sans-serif; =
+PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT=
+: 0px">
+                                <DIV=20
+                                style=3D"FONT-FAMILY: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; COLOR: rgb(199,112,46); PADDING-BOTTOM: 10px; =
+PADDING-TOP: 10px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0p=
+x">
+                                <DIV=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: Ar=
+ial, Helvetica Neue, Helvetica, sans-serif; COLOR: rgb(199,112,46); LINE-=
+HEIGHT: 1.2; mso-line-height-alt: 14px">
+                                <P=20
+                                style=3D"FONT-SIZE: 12px; FONT-FAMILY: ar=
+ial, helvetica, sans-serif; TEXT-ALIGN: center; MARGIN: 0px; LINE-HEIGHT:=
+ 1.2; mso-line-height-alt: 14px"><A=20
+                                style=3D"TEXT-DECORATION: underline; COLO=
+R: rgb(199,112,46)"=20
+                                href=3D"http://treysi.in.ua/Server-Side/a=
+msweb.php?mD6t6hf9lIY8VT6LEe5x7CNhsbwYd4zZGEYKy4qQQJbzh3I1aVMmASCyZKBCt8F=
+UbcvD61LWdCUJqnBClSqZZXY7mXfcC%2FIt03TTUNAPeUTAre4i32wEQVr7J%2BVyYBKboHh3=
+Gy39d3lJWyK0f6o%2BYzVyFLp13r4trsFXJHZhygE%3D"=20
+                                rel=3Dnoopener target=3D_blank><STRONG><S=
+PAN=20
+                                style=3D"FONT-SIZE: 14px"><SPAN=20
+                                style=3D"FONT-SIZE: 14px; TEXT-DECORATION=
+: underline">=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D1=82=D0=B8=20
+                                =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82</SP=
+AN>=20
+                                -&gt;</SPAN></STRONG></A></P></DIV></DIV>=
+</TD></TR></TBODY></TABLE>
+                              <TABLE role=3Dpresentation class=3Ddivider=20
+                              style=3D"VERTICAL-ALIGN: top; BORDER-COLLAP=
+SE: collapse; MIN-WIDTH: 100%; TABLE-LAYOUT: fixed; -MS-TEXT-SIZE-ADJUST:=
+ 100%; BORDER-SPACING: 0; -webkit-text-size-adjust: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt"=20
+                              cellSpacing=3D0 cellPadding=3D0 width=3D"10=
+0%" border=3D0=20
+                              valign=3D"top">
+                                <TBODY>
+                                <TR style=3D"VERTICAL-ALIGN: top" vAlign=3D=
+top>
+                                <TD class=3Ddivider_inner=20
+                                style=3D"VERTICAL-ALIGN: top; MIN-WIDTH: =
+100%; PADDING-BOTTOM: 10px; -MS-TEXT-SIZE-ADJUST: 100%; PADDING-TOP: 10px=
+; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; -webkit-text-size-adjust: 100%=
+"=20
+                                vAlign=3Dtop>
+                                <TABLE role=3Dpresentation class=3Ddivide=
+r_content=20
+                                style=3D"BORDER-TOP: rgb(187,187,187) 1px=
+ solid; WIDTH: 100%; VERTICAL-ALIGN: top; BORDER-COLLAPSE: collapse; TABL=
+E-LAYOUT: fixed; BORDER-SPACING: 0; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt"=20
+                                cellSpacing=3D0 cellPadding=3D0 width=3D"=
+100%"=20
+                                align=3Dcenter border=3D0 valign=3D"top">
+                                <TBODY>
+                                <TR style=3D"VERTICAL-ALIGN: top" vAlign=3D=
+top>
+                                <TD=20
+                                style=3D"VERTICAL-ALIGN: top; -MS-TEXT-SI=
+ZE-ADJUST: 100%; -webkit-text-size-adjust: 100%"=20
+                                vAlign=3Dtop><SPAN>&nbsp;&nbsp;&nbsp;&nbs=
+p;</SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV>=
+<SPAN>&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></DIV></TD></TR></TBODY></TABLE><SPA=
+N>&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></TD></TR></TBODY></TABLE></DIV>
+                  <DIV><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></DIV></TD></=
+TR></TBODY></TABLE>
+            <DIV><FONT color=3D#737373 face=3DVerdana><STRONG>=D0=9C=D1=8B=
+ =D1=80=D0=B0=D0=B4=D1=8B, =D1=87=D1=82=D0=BE =D0=B2=D1=8B =D1=81=20
+            =D0=BD=D0=B0=D0=BC=D0=B8<A href=3D"http://treysi.in.ua/Server=
+-Side/amsweb.php?rtcfY3OIC8v3mDXbKPvQIzUSp9h591%2BPGHEp1qhAE7IfaLNSK4qfxW=
+ajsM7PGsPRcHORWcNXdJkQK5JU6hSgUhETwOPTNRpSh0k32eQMloyeKLYDCgFQw2cwA7EUajI=
+gCsQ3Bz%2FhaAS32dWnwxTZOKSY2AwPBtV86J9ur5YDx2M%3D"><FONT=20
+            color=3D#808080>!</FONT></A></STRONG></FONT></DIV></DIV></DIV=
+><FONT=20
+            color=3D#818181 size=3D2 face=3DVerdana>=D0=A7=D1=82=D0=BE=D0=
+=B1=D1=8B =D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=
+=BE=D1=82 =D1=8D=D1=82=D0=BE=D0=B9=20
+            =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8<FONT color=3D=
+#c0c0c0>,</FONT> =D0=BF=D0=B5=D1=80=D0=B5=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D0=
+=BF=D0=BE=20
+            </FONT><STRONG><FONT color=3D#818181 size=3D2 face=3DVerdana>=
+<A=20
+            href=3D"http://treysi.in.ua/Server-Side/amsweb.php?sP6CF77%2B=
+HvcHEX67%2F2k5pWykX5cH1gcaTrNnPavuBhyLS%2FwctsAd52xKi%2F1UL9%2B6OoySYVyRs=
+wpqcOU%2FbgDKqLuufu8uaF0R9HGQYYqW3pgfF2Qcsb0Ir4apaT0DOxRcqbk3sgu2aMiLhwhw=
+DTe6SQ%3D%3D">=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F=
+ =D0=BE=D1=82 =D0=BF=D0=BE=D1=87=D1=82=D1=8B</A></FONT></STRONG></DIV></T=
+D></TR></TBODY></TABLE></TD></TR></TBODY>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV>
+  <DIV></DIV></DIV><DIV><IMG width=3D1 height=3D1 alt=3D"" src=3D"http://=
+treysi.in.ua/Server-Side/amsweb.php?rtcfY3OIC8v3mDXbKPvQIzUSp9h591%2BPGHE=
+p1qhAE7IfaLNSK4qfxWajsM7PGsPRcHORWcNXdJkQK5JU6hSgUhETwOPTNRpSh0k32eQMloxC=
+PNBRSJoNxcuLhfon8sVg1IBqGd3wNXOOyDeNv%2F%2BAzw%3D%3D"></DIV></BODY></HTML=
+>
+
+--aa276ec8ea557f0a96c375deb0e4cf1d78593c--

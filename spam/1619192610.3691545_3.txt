@@ -1,0 +1,80 @@
+Return-Path: <network_renewal_by_andersen-bruce=untroubled.org@tspeed26.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3453348 invoked from network); 23 Apr 2021 14:03:46 -0000
+Received: (qmail 17733 invoked by uid 222); 23 Apr 2021 14:03:45 -0000
+Return-Path: <network_renewal_by_andersen-bruce=untroubled.org@tspeed26.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 17730 invoked from network); 23 Apr 2021 14:03:45 -0000
+Received: from mail.tspeed26.cloud ([69.94.138.212])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 14:03:43 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed26.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=network_renewal_by_andersen@tspeed26.cloud;
+ bh=+S11wzpcVXti4ObhuxJWj8GoKoY=;
+ b=Kl0oNMRJOxIK3J5UTW8QBJuq+1RiSMzaRBwNAPt0oE+1K0yEm6qRTYvkC0hiTpTXrGrftHOoU61L
+   UcR7gySqp4fOkwpWGtOXyPZ4POBK+U/gk3nsS6WqdFkOS4r8JcqEXVKiv7Jp69vIwkhxZ3s0xK2v
+   pkTs1h4MIFTBs1DWbw0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed26.cloud;
+ b=Ux+6xrxmvk9AxB78Z+IrlcK49YjdMiQ6Z6jY74x/sVJMHSrmRoLMg6H3wGZqnqjKLt+HwnQVhlDY
+   BTvJfkioWcFaWWEx+Xrjb5ZWjX5KjBXCZTd1R/6dXPYJbUwydbpAIDRK1Nd474Crcq4T1iVyz3IK
+   1nrXnK71ku4iN3/npYw=;
+Received: by mail.tspeed26.cloud id hgb9ru0001gn for <bruce@untroubled.org>; Fri, 23 Apr 2021 09:54:09 -0400 (envelope-from <network_renewal_by_andersen-bruce=untroubled.org@tspeed26.cloud>)
+Date: Fri, 23 Apr 2021 09:54:09 -0400
+From: "Network Renewal By Andersen" <network_renewal_by_andersen@tspeed26.cloud>
+To:   <bruce@untroubled.org>
+Subject: Buy One, Get One 40% off* *with minimum purchase
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_130_587216359.1619186032934"
+List-Unsubscribe: <http://www.tspeed26.cloud/bc94W2395h89Ws12L1iii1y4b58K21SFv4GIf4rxvs4FhIHEsvZ8VRComoQK7U10ntmu5MlUcY/questing-appropriateness>
+Message-ID: <0.0.0.E.1D738482203947E.46FD4E@mail.tspeed26.cloud>
+Content-Length: 3639
+
+------=_Part_130_587216359.1619186032934
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>outwit</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.tspeed26.cloud/shuddered-rustication/5765q239u5Wpo8613w16u056u4b58U21XFv4GIf4rxvs4FhIHEsvZ8pRComoQK6C1yS0o6MU0lcY">Get our best prices EVER on windows</a>
+   <br /> 
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.tspeed26.cloud/shuddered-rustication/5765q239u5Wpo8613w16u056u4b58U21XFv4GIf4rxvs4FhIHEsvZ8pRComoQK6C1yS0o6MU0lcY"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 700px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, Leave&nbsp; <a href="http://www.tspeed26.cloud/8456E239WL5Sn8N617w1I60p57ypBP4b58_21sFv4GIf4rxvs4FhIHEsvZ8cRComoQK6Qin10L5vOcWY/organizationally-Charlie"> here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.tspeed26.cloud/11f4y2395SR86I12u16058W4b58H21HFv4GIf4rxvs4FhIHEsvZ8sRComoQK7aJK10iz5RlycY/obfuscate-surpassed">here.</a></b></span></span></p> <span style="font-family:tahoma,geneva,sans-serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Exit <a href="http://www.tspeed26.cloud/questing-appropriateness/35a4b2395RH8T913j16o059r4b58s21eFv4GIf4rxvs4FhIHEsvZ8KRComoQK7z1Xtj0p5z0c3Y">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <big></big><span style="straws"></span><span face="Saturdays"><span lang="morphology"></span></span><small></small><span></span>  
+ <img src="http://www.tspeed26.cloud/nuclei-funnier/f125zo2395Ej85w17bXX1605aBOlA4b58x21QFv4GIf4rxvs4FhIHEsvZ8bRComoQK5zP1m05HzkcY" alt=""/></body>
+</html>
+
+------=_Part_130_587216359.1619186032934--
+

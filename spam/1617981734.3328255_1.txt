@@ -1,0 +1,55 @@
+Return-Path: <narita_pcr_info@meiyokai.or.jp>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1534659 invoked from network); 9 Apr 2021 10:39:28 -0000
+Received: (qmail 18463 invoked by uid 222); 9 Apr 2021 10:39:27 -0000
+Return-Path: <narita_pcr_info@meiyokai.or.jp>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 18460 invoked from network); 9 Apr 2021 10:39:27 -0000
+Received: from meiyokai.or.jp (ftm.meiyokai.or.jp [153.145.177.68])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 10:39:27 -0000
+Received: from host3.meiyokai.or.jp (host3.meiyokai.or.jp [153.145.177.67])
+	by ftm.meiyokai.or.jp  with ESMTP id 139Ad1dX004507-139Ad1dZ004507
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO);
+	Fri, 9 Apr 2021 19:39:01 +0900
+Message-Id: <202104091039.139Ad1dX004507-139Ad1dZ004507@ftm.meiyokai.or.jp>
+Received: from User [20.41.13.191] by host3.meiyokai.or.jp
+  (SMTPD-12.5.6.105) id 3d31000189f23df4; Fri, 9 Apr 2021 19:38:43 +0900
+Reply-To: <reem2018@daum.net>
+From: "Reem A.E"<narita_pcr_info@meiyokai.or.jp>
+Subject: Re: 
+Date: Fri, 9 Apr 2021 10:38:59 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-IMAIL-SPAM-SPF: (3d31000189f23df4) SPFFail
+Content-Length: 496
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Dear Sir/Madam,</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Good day. My name is Ms. Reem Ebrahim Al-Hashimi from UAE. I have a</DIV>
+<DIV>
+business proposal to share with you. Please kindly reply to my personal Email:</DIV>
+<DIV>
+reem.alhashimi@yandex.com</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Best Regards,</DIV>
+<DIV>
+Reem</DIV>
+</FONT>
+</BODY></HTML>
+

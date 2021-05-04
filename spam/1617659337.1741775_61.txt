@@ -1,0 +1,2357 @@
+Return-Path: <bounce-1707420-81-91709-bruce=untroubled.org@s1.csa1.acemsc2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1215182 invoked from network); 5 Apr 2021 13:45:50 -0000
+Received: (qmail 174088 invoked by uid 222); 5 Apr 2021 13:45:49 -0000
+Return-Path: <bounce-1707420-81-91709-bruce=untroubled.org@s1.csa1.acemsc2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 174085 invoked from network); 5 Apr 2021 13:45:49 -0000
+Received: from s1.csa1.acemsc2.com (s1.csa1.acemsc2.com [192.92.97.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 13:45:49 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=icnewscorp.org;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ List-Unsubscribe:Message-ID; i=team@icnewscorp.org;
+ bh=4asKxQMJpGDiRxCy9iLr+yrTlOLvXRCc6AZpi6Y/Uwg=;
+ b=zpwuyCrrusZ14VApkYVPt6UeqplFWXXDrFijff6q1jKPwCzzWy5u2SzVi0qHSlyFSI0IbMmAE/0x
+   Av2L1IyDrf4L9piMP3FLNsq212qHzwcL8yCK9ou5s/8jLu5rY/QQ1qgUaQQEF/dmRgGr1+uGfW8b
+   d9zXp77SKYkgp2vhvv8=
+Received: by s1.csa1.acemsc2.com id hdca8q2p4do2 for <bruce@untroubled.org>; Mon, 5 Apr 2021 13:45:49 +0000 (envelope-from <bounce-1707420-81-91709-bruce=untroubled.org@s1.csa1.acemsc2.com>)
+To: "Nonprofit Execs & Board Members" <bruce@untroubled.org>
+From: "Inside Charity" <team@icnewscorp.org>
+Subject: Jimmy LaRose Stumped By TV Broadcaster About NANOE
+Date: Mon, 05 Apr 2021 08:35:07 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-1323420069606b120ba995f4.39724699_=_"
+Content-Transfer-Encoding: 7bit
+X-mid: YnJ1Y2VAdW50cm91YmxlZC5vcmcgLCBjODEgLCBtMTk5ICwgczY1
+Feedback-ID: 1707420:activecampaign
+X-250ok-CID: 1707420-81
+List-Unsubscribe: <mailto:unsubscribe-62af7f3e0ac57cd47b9ac9c12d017d38-81-581d945e2f8f561c09da4f7c5f459700@s1.csa1.acemsc2.com>,
+ <http://jimmylarose.activehosted.com/box.php?nl=25&c=81&m=199&s=581d945e2f8f561c09da4f7c5f459700&funcml=unsub2&luha=1>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Message-ID: <20210405134549.24500.553146976.swift@jimmylarose.activehosted.com>
+Content-Length: 153825
+
+
+--_=_swift-1323420069606b120ba995f4.39724699_=_
+Content-Type: text/plain; charset=utf-8
+
+Jimmy LaRose Stumped By Philadelphia TV Broadcaster About NANOE
+
+VISIT HERE
+or
+Press Video Play Button Below To See What Happens
+
+https://jimmylarose.lt.acemlnc.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZpbnNpZGVjaGFyaXR5Lm9yZyUyRjIwMjElMkYwNCUyRjAzJTJGbmFub2VzLTIwMjEtY29udmVudGlvbi1leHBvJTJG&a=26605550&account=jimmylarose%2Eactivehosted%2Ecom&email=TQeyaTYxSWZWCRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=581d945e2f8f561c09da4f7c5f459700&i=81A199A25A445 
+
+NANOE Members, Your Governors' Pass Has Been Paid.
+
+556 Nonprofit Executives Have Already Made Their Reservations!
+
+SEE WHO'S REGISTERED IN THE POST SCRIPT
+
+"Thank you for giving your time and service to charitable organizations.
+I'm pleased to share that a group of long-time NANOE donors have
+underwritten 150 Scholarships for NANOE Members Only to attend this
+years Board of Governor's Convention & Expo." ~ Charlotte Berry
+
+VISIT HERE to make your COMPLIMENTARY RESERVATION 
+
+NANOE's CELEBRATION OF HEROES
+
+BOARD OF GOVERNOR'S CONVENTION & EXPO - April 20-21, 2021
+
+ 
+
+Dear Colleagues in Service,
+
+We have good news. NANOE Members (in good standing) will be provided
+Complimentary Governors' Passes to this years Board of Governors'
+Convention & Expo.
+
+Why you may ask? A group of generous NANOE Donors believe that this
+Biennial event is important now more than ever and want to ensure you
+and your entire team are able to attend.
+
+You are one of society's guardians who use their expertise to ensure
+others experience a life worth living. Your personal service is what our
+Nation needs most during these uncertain times. It's time to celebrate
+you and your important work.
+
+Only a year ago, life seemed normal and we were all conducting business
+as usual. Today, our lives are on hold and the things we took for
+granted seemingly have vanished. We can no longer go out to eat, attend
+events, or even participate in church. We can't plan travel or send
+our kids to school.
+
+As both a mother and grandmother, I'm concerned for my families safety
+and the new world in which they will live as a result of COVID-19. I'm
+anxious and I know you are too.
+
+Yet, a fundamental hallmark of human existence is that we do not let our
+fears dominate our ability to plan the future. Since the dawn of
+civilization, humans have organized themselves into tribes, villages,
+towns, cities and nations for the welfare of all. Long before humans
+knew about viruses, we built walls, stocked provisions and trained
+warriors in order to survive hardships and attacks. We made laws to
+protect the innocent and we embraced innovation. We created the
+marketplace out of a desire to flourish as individuals, families and
+communities. Everything we have done for thousands of years was based on
+face to face human interaction. Our prosperity has been built on
+trusting, serving and protecting our fellow human beings.
+
+Our fears are real, but so are the norms of human interaction and the
+laws of economics. The fundamentals on which our society is built have
+not changed. Our market is still based on supply and demand. Humans
+still have a need to interact personally with one another and in groups.
+We still organize ourselves for the welfare of all. Most importantly, we
+will continue to have empathy for one another and spread love and mercy
+to the world.
+
+Empathy, mercy and love are the fundamental ingredients of the nonprofit
+sector. We form nonprofit organizations to help others rather than to
+help shareholders. The return on investment in the charitable sector is
+changing and saving lives. This is what makes nonprofits so precious and
+beautiful
+
+Please know you are in our prayers and we are available for you. We are
+sharing resources that will make your organization healthier on the
+other side of the COVID-19 crisis. As uncomfortable as this is right
+now, we will all be stronger and wiser in the years to come. That's why
+I'm personally inviting you to join me for:
+
+NANOE's CELEBRATION OF HEROES 
+
+VIRTUAL CONVENTION & EXPO - April 20-21, 2021 
+
+Here's how NANOE will support you during the pandemic:
+
+* NANOE makes sure you receive the money you need to accomplish your
+mission.
+
+* NANOE transforms your nonprofit so you can benefit from the free
+market
+
+   enterprise principles we know work in the for-profit sector.
+
+* NANOE's New Guidelines for Nonprofits will challenge everything
+you believe
+
+   about charity and change the way you do business.
+
+So, join me ONLINE April 20-21, 2021 for NANOE's Board of Governors'
+Convention & Expo. And in the meantime, become a NANOE member today.
+
+Be of good cheer and carry on! Our work to deliver empathy, mercy and
+love to the people we serve is too important to do otherwise. YOU ARE
+OUR HEROES and there's a group of us that share your values. NANOE
+stands behind you every day . Thank you for your
+daily service to people in need! I look forward to being part of what
+you are doing. Until then I remain,
+
+Sincerely Yours,
+
+Bishop Redfern II
+
+NANOE Chair
+
+P.S. Here's the list of Nonprofit Organizations who have registered...SO
+FAR:
+
+A MUNOZ CONSULTING
+ABUNDANT LIFE
+ACE MENTOR PROGRAM
+AFFIRMATIVE CONSENT PROJECT
+AFFNETZ
+AGAMLONG NATIONAL DAILY NEWSPAPER
+AGENCY ON AGING, AREA FOURR
+AKA - DELTA KAPPA OMEGA
+ALDERSGATE RENEWAL MINISTRIES
+ALEDO ISD EDUCATION FOUNDATION
+ALL AGES READ TOGETHER
+ALLIANCE HOUSE COMMUNITY COALITION
+ALLIANCE OF NYS YMCAS
+ALLIES IN YOUTH DEVELOPMENT
+AMBASSADORS OF PEACE
+AMERICAN UNION CHARITY ORGANIZATION
+ANGIEBEE CONSULTANTS
+APEX LEADERSHIP CONSULTING GROUP
+ARC OF GREENSBORO
+ARIZONA HEART FOUNDATION
+ASSEMBLIES OF GOD WORLD MISSIONS
+ASSOCIATION FOR ADULTS WITH DEVELOPMENTAL DISABILITIES
+ATLAS CORPORATION
+ATOKA-COAL FOOD STOREHOUSE
+AVA'S HEART
+AVA'S HEART
+BABIES YOUTH CHILDREN EMPOWERMENT MINISTRIES
+BABY TALK
+BATAKA FARM SUPPLY
+BEACON HILL PREPARATORY INSTITUTE
+BEDROCK GARDENS
+BETTER FUTURE AGENCY
+BETTER YOUTH
+BEXAR COUNTY
+BIOMEDICAL ENGINEERING SOCIETY
+BIRMINGHAM JUMPSTART
+BLACK HOLLYWOOD EDUCATION AND RESOURCE CENTER
+BLESSMAN INTERNATIONAL
+BLUE RIDGE ENVIRONMENTAL DEFENSE LEAGUE
+BRIDGE CORP
+BRIDGE HOMELESS RECOVERY CENTER
+BRIGHT FUTURES PEA RIDGE
+BRIGHT MINDS CONSULTING
+BROAD RIVER GREENWAY
+BROOME COUNTY COUNCIL OF CHURCHES
+BUCKS COUNTY HORSE PARK
+BUILDERS INTERNATIONAL FOUNDATION
+BUILDING COMMUNITIES THROUGH ATHLETICS
+BUSHA BROTHERS COMMUNICATIONS
+BUTTE COLLEGE FOUNDATION
+C DIFF FOUNDATION
+CAMC FOUNDATION
+CAMPAIGN AGAINST HUNGER
+CARIDAD CENTER
+CARYING PLACE
+CASA OF SOUTHWEST MISSOURI
+CATNIP CASA CAT REFUGE
+CBCBC
+CELEBRATING TEACHERS
+CENTER FOR LEADERSHIP DEVELOPMENT
+CENTRAL FLORIDA DREAM CENTER - LIFE CENTERS GLOBAL
+CENTRAL OHIO DIABETES ASSOCIATION
+CHALLENGE AIR FOR KIDS & FRIENDS
+CHANGING COURSE FOUNDATION
+CHARITABLE ORGANIZATIONS
+CHARLESTON AREA MEDICAL CENTER FOUNDATION
+CHARLOTTE MECKLENBURG DREAM CENTER
+CHASE ADVANCEMENT
+CHILDREN'S INSTITUTE FOR LEARNING DIFFERENCES
+CHRISTIAN CENTER RESCUE MISSION
+CHRISTIAN HELP
+CHRISTIAN INITIATIVE FOR NIGERIA ORPHANS
+CHRISTIAN WOMEN'S AND MEN'S JOB CORPS OF NACOGDOCHES
+CHRISTIANS UNITED FOR HAITI
+CINCINNATI ASSOCIATION FOR THE BLIND AND VISUALLY IMPAIRED
+CINEVANTAGE
+CITIWIDE COMPUTER TRAINING CENTER
+CITYLIGHT VINE YARD
+CITYZEEN
+CIVIL WAR ROUND TABLES CONGRESS
+COACH FOR KIDS
+COASTAL PLAIN CASA
+COLLABORATIVE VENTURES NETWORK
+COLLEGE FOR SOCIAL INNOVATION
+COLQUITT COUNTY ARTS CENTER
+COLUMBIA HOLOCAUST EDUCATION COMMISSION
+COMMUNITIES IN SCHOOLS OF PALM BEACH
+COMMUNITIES UNLIMITED
+COMMUNITY HAND UP
+COMMUNITY SYSTEMS
+COMMUNITY YOUTH CARE SERVICES
+COMMUNITY YOUTH SERVICES
+CONGREGATION NEVEH SHALOM
+CONSULTANT
+CORIELL INSTITUTE FOR MEDICAL RESEARCH
+CORINTHIAN MISSIONARY BAPTIST CHURCH
+COWLITZ COUNTY HABITAT FOR HUMANITY
+CREATIVE STRATEGIST
+CYN COUNSELING CENTER
+D.I.V.A'S FOR CHRIST
+DAILY BREAD MINISTRIES
+DANA BRADLEY MINISTRIES
+DANIEL WEBSTER COUNCIL BOY SCOUTS OF AMERICA
+DAUGHTERS OF POWER
+DECATUR MEMORIAL HEALTH FOUNDATION
+DEFEATING EPILEPSY FOUNDATION
+DELTA HUMANE SOCIETY SPCA OF SAN JOAQUIN COUNTY
+DENVER JUSTICE HIGH SCHOOL
+DEPARTMENT OF GEORGIA AMERICAN LEGION
+DEVELOPMENT SYSTEMS INTERNATIONAL
+DEVELOPMENTAL AND DISABILITY SERVICES
+DIETERT CENTER
+DISABLED SAILORS ASSOCIATION
+DREAM DAY FOUNDATION
+DREAMSPRING
+DREEMS
+DRUG FREE MARION COUNTY
+EAST ARKANSAS CROSSROADS COALITION
+EAT MORE ART! VEGAS
+ECO ART PROJECT
+EDIFY TEENS MINISTRIES
+ED-TECH GROUP
+EDUCATORS STRATEGIES NETWORK
+EL CAMPO MEDICAL FOUNDATION
+ELDER CARE SOCIAL
+ENVIRONMENTAL JUSTICE COMMUNITY ACTION NETWORK
+ENVISION
+EPISCOPAL CHURCH IN HAWAII
+EPITOME OF SOUL
+EVOLUTION FOUNDATION
+EVOLUTIONARY PHILANTHROPY & NONPROFIT SERVICES
+FAIRFIELD COMMUNITY HEALTH CENTER
+FAIRFIELD COMMUNITY HEALTH CENTER
+FAIRFIELD FORWARD
+FAITH*HOPE*LOVE*CHARITY
+FEDERAL EMERGENCY MANAGEMENT AGENCY
+FIGGERS FOUNDATION
+FIRST PRESBYTERIAN COUNSELING CENTER
+FLORIDA RETIRED EDUCATORS FOUNDATION
+FONKOZE USA
+FOOD BANK OF CENTRAL CAROLINA
+FOSTER LOVE PROJECT
+FOSTERADOPT CONNECT
+FOUNDATION FOR LINCOLN PUBLIC SCHOOLS
+FOUNDATION OF ARTS FOR N.E. ARKANSAS
+FREEDOM
+FRIENDS IN NEED HEALTH CENTER
+FULLER CENTER FOR HOUSING OF LOUISVILLE
+FULTON THEATRE
+FUNDRAISER STRATGIES
+GELLER CONSULTING
+GENESIS 1990
+GEORGIA FIREFIGHTERS BURN FOUNDATION
+GET IT RIGHT WITH RAVEN
+GLOBAL ADVISORS ON SMOKEFREE POLICY
+GLOBAL PARENTING NETWORK
+GLOBAL PARTNERSHIP FOR TELEHEALTH
+GOD'S UNCHANGING HANDS FEEDING MINISTRY
+GOOD STUFF
+GRACE PLACE SCHOOL
+GRAND AVENUE ECONOMIC COMMUNITY DEVELOPMENT CORP.
+GRANTWRIITERS
+GRAY CENTER
+GREENVILLE TECHNICAL CHARTER HIGH SCHOOL
+GREENWOOD SHALOM OUTREACH
+GROW DAT YOUTH FARM
+GUADALUPE VALLEY TELECOMMUNICATIONS COOPERATIVE FOUNDATION
+GUADIANSHIP PROGRAM OF DADE COUNTY
+GUARDIAN ANGELS MEDICAL SERVICE DOGS
+GULF COADT JFCS HEART GALLERY
+GULF COAST JFCS HEART GALLERY
+HABITAT FOR HUMANITY CHOPTANK
+HABITAT FOR HUMANITY OF GALLATIN VALLEY
+HABITAT SALT LAKE VALLEY
+HAVEN FOR HEROS
+HAVENWOOD
+HAWK MIGRATION ASSOCIATION OF NORTH AMERICA
+HEARTSET
+HEATHER'S MISSION IBD SUPPORT AND AWARENESS
+HELPING STRAYS OF MONROE COUNTY
+HIGHPOINTE SERVICES
+HISPANIC LIAISON OF CHATHAM COUNTY
+HOLY COMFORTER
+HOPE AND HELP CENTER OF CENTRAL FLORIDA
+HOPE CANCER RESOURCES
+HOPE FOR HAITI'S CHILDREN
+HOPE2HEAL
+HOWARD ROYAL ACADEMY
+I HAVE A DREAM FOUNDATION - NEW JERSEY
+ICENTER
+IN OUR OWN VOICES
+INFORMED CONSENT ACTION NETWORK
+INGENUITYNE
+INGOMA MUSIC ACADEMY
+INTEGRIS MANAGEMENT SOLUTIONS
+INTERNATIONAL END OF LIFE DOULA ASSOCIATION
+INTERNATIONAL OUTREACH CENTERS
+ISABELLA COUNTY CHILD ADVOCACY CENTER
+JACK & JILL CHILDREN'S CENTER
+JAYADEVI ARTS
+JAYNE AGENCY
+JEHOVAHS HOUSE
+JUSTHOPE
+KAHN
+KEEP IT MOVING
+KEEP LOUISIANA BEAUTIFUL
+KINDNESS, INCORPORATED
+KOOTENAI HUMANE SOCIETY
+LABEAST SPORTS APPAREL FOUNDATION
+LASHONE GARTH
+LEADERSHIP CONSORTIUM
+LEEZA'S CARE CONNECTION
+LEG UP 4 LITERACY
+LGBT DETROIT
+LIBERATION INSTITUTE
+LIBERTY LEARNING FOUNDATION
+LIGHT OF TRUTH CENTER
+LITTLE FIVE POINTS CENTER FOR ARTS AND COMMUNITY
+LOKAHI PACIFIC
+LOOKING FOR LINCOLN HERITAGE COALITION
+LORD'S ANGEL MINISTRY CORP
+LOVE MORE JUDGE LESS
+LOVING OUR CHILDREN
+LUTHERAN CHURCH CHARITIES
+MADD FLORIDA
+MAGELLAN MANAGEMENT
+MAINE MASONIC CHARITABLE FOUNDATION
+MANATEE COUNTY MEDICAL SOCIETY
+MARTIN PEAR JEWISH COMMUNITY CAMPUS
+MARY SUNSHINE HOUSE
+MARYLAND CHAPTER, AMERICAN ACADEMY OF PEDIATRICS
+MASSCHALLENGE
+MCGREGOR CLINIC
+MERCY FOR ANIMALS
+MIDCOAST LYME DISEASE SUPPORT & EDUCATION (MLDSE)
+MIDLANDS FATHERHOOD COALITION
+MT ZION COMMUNITY REINVESTMENT CORPORATION
+NAMI SAN ANTONIO
+NANOE
+NATIONAL ACADEMY OF SOCIAL INSURANCE
+NATIONAL AGING IN PLACE COUNCIL
+NATIONAL DANCE EDUCATION ORGANIZATION
+NATIONAL SPEECH & DEBATE ASSOCIATION
+NATIVE AMERICAN INDIAN CENTER OF CENTRAL OHIO
+NEHEMIAH COMMUNITY DEVELOPMENT CORPORATION
+NEHEMIAH COMMUNITY EMPOWERMENT CENTER
+NEWBERRY COUNTY LITERACY COUNCIL
+NEXT GEN INNOVATORS
+NORTH FLORIDA LAND TRUST
+NORTH TEXAS DISTRICT ASSEMBLIES OF GOD
+NORTHBAY EDUCATION
+NORTHWEST CO CENTER FOR INDEPENDENCE
+NORTHWEST TRIBAL EMERGENCY MANAGEMENT COUNCIL
+NORWESCAP
+NOVOA BALLESTEROS CORPORATION
+NW WORKS
+OASIS HEALTH AND WELLNESS CENTERS INTERNATIONAL
+OCEAN DREAMS CANCER HEALING CENTER
+OLIVE HILL COMMUNITY ECONOMIC DEVELOPMENT CORPORATION
+ONE HEART PROJECT
+ONSLOW MEMORIAL HOSPITAL FOUNDATION
+OPEN ARMS FAMILY AND EDUCATIONAL SERVICES
+OPERATION LIFE SUPPORT
+OUTRIGGER DUKE KAHANAMOKU FOUNDATION
+PALMS TO PINES PARASPORTS
+PAPILLION CENTER
+PARADOX FOUNDATION
+PARTNERS FOR OUR COMMUNITIES
+PASSION AND COMPASSION
+PATHWAYS TO PROMISE
+PATRICK WEAVER MINISTRIES
+PENNSYLVANIA FARM LINK
+PEQ
+PETER KIEWIT FOUNDATION
+PILGRIM REST MISSIONARY BAPTIST CHURCH
+PINE RIDGE HOLISTIC LIVING CENTER
+PLUS CONSULTING CAREER CLUB
+POSITIVE WELLNESS ALLIANCE
+PRAIRIELAND SERVICE COORDINATION
+PRESBYTERY OF EAST IOWA
+PRODUCT OF ENVIRONMENT POE
+PROJECT AK-47
+PROJECT BRAVO
+PROVIDENCE PLACE
+RAINMAKER CONSULTING
+RALLY4RECOVERYRI
+RAMEY ENTERPRISES
+RATZLAFF CONSULTING
+REBUILDING TOGETHER MONTGOMERY COUNTY
+RESTORATION OUTREACH
+RESTORE TO EMPOWER
+RETRAINING THEVILLAGR
+RISE MY CHILD FOUNDATION
+RIVER BEND NATURE CENTER
+RIVERS EDGE RETREAT
+ROANENET
+RODGERS THEATRE
+ROGERS SLATER FOUNDATION
+ROLAND PARK CIVIC LEAGUE
+RONALD MCDONALD HOUSE CHARITIES OF CHARLESTON
+ROOSEVELT INSTITUTE
+ROPER MOUNTAIN SCIENCE CENTER
+SALUSCARE
+SALUTE FOR STYLE
+SALVATION ARMY OF COLLIER COUNTY
+SAN DIEGO AIR & SPACE MUSEUM
+SAN JOSE CLINIC
+SANCTUARY AT ABQ
+SARATOGA WARHORSE
+SCORE
+SECOND HELPINGS
+SHALOM RECOVERY SERVICES
+SHARON CAMPBELL SOLUTION GROUP
+SHIELD FOR HUMAN RIGHTS AND DEVELOPMENT
+SICKLE CELL ASSOCIATION OF HOUSTON
+SIERRA DELTA
+SKYROCKET COMMUNICATIONS
+SO WHAT ELSE
+SOCIAL JUSTICE CENTER- MADISON, WI
+SOCIETY OF SAINT VINCENT DE PAUL GEORGIA
+SOGO GLOBAL
+SOLEIL FOUNDATION
+SOLID FOUNDATION YOUTH OUTREACH
+SOMERVELL HISTORY FOUNDATION
+SOUTHERN ARIZ RESEARCH, SCIENCE & ENGINEERING FOUNDATION
+SPCA OF TEXAS
+SPECTRUM DESIGNS FOUNDATION
+ST. AUGUSTINE SOCIETY
+STARFISH FOUNDATION
+STONES RIVER MANOR
+SUCCESS CENTERS
+SUMMERVILLE BAPTIST CHURCH
+SWANNANOA VALLEY CHRISTIAN MINISTRY
+TANGO ALLIANCE
+TARIK BLACK FOUNDATION
+TEEN HYPE
+THE LEARNING CHANNEL COMMUNICATIONS
+TMH FOUNDATION
+TOMORROWS HOPE PREGNANCY MEDICAL CLINIC
+TRENDS OR TREASURES
+TRIANGLE REGIONAL FILM COMMISSION
+TRINITY LUTHERAN SCHOOL
+TRINITY VISION GLOBAL
+TURFGRASS WATER CONSERVATION ALLIANCE
+TUSKEGEE HISTORY CENTER
+U.S. CAVALRY & ARMOR ASSOCIATION
+UNITED WAY OF ANDERSON COUNTY
+UNITED WAY OF DECATUR & MID-ILLINOIS
+UNITED WAY OF FLORENCE COUNTY
+UNITED WAY OF GREATER ST. LOUIS
+UNITED WAY OF NORTHWEST ALABAMA
+UNITED WAY OF ULSTER COUNTY
+UNITED WAY OF WAPELLO COUNTY
+UNIVERSITY OF PGH BRADFORD
+UNIVERSITY OF WISCONSIN FOUNDATION
+UP VALLEY FAMILY CENTERS
+USO HOUSTON
+VALLE CRUCIS COMMUNITY PARK
+VALLEY INTERFAITH COMMUNITY RESOURCE CENTER
+VETERANS FOR DIVERSITY
+VICTIM CENTER
+VILLAGE OF MERICI
+VISION INTERNATIONAL EDUCATION SERVICES
+WACO SHEPHERDS HEART
+WEGNER CPAS
+WELTERASSOCICATES
+WEST CENTRAL GEORGIA CANCER COALITION
+WESTHOFF, CONE & HOLMSTEDT
+WHETSTONE BOYS RANCH
+WOMAN I AM
+WOMEN EMPOWERED
+WOMEN ROCK
+WOMEN'S SOUTH CAROLINA GOLF ASSOCIATION
+WOOD COUNTY SENIOR CITIZENS ASSOCIATION
+WYOMING HUMANITIES COUNCIL
+YES FM
+YES WE CARE
+YMCA OF ABILENE
+YMCA OF COLUMBIA SC
+YOUNG NONPROFIT FOUNDATION
+YWCA BINGHAMTON AND BROOME COUNTY
+YWCA QUAD CITIES
+ZIONIC SEAL
+ZOE COMMUNITY
+1 STEP AT A TIME SUPPORT SERVICES
+3B WELLNESS
+_________________
+
+Sent to bruce@untroubled.org
+
+Unsubscribe:
+http://jimmylarose.activehosted.com/proc.php?nl=25&amp;c=81&amp;m=199&amp;s=581d945e2f8f561c09da4f7c5f459700&amp;act=unsub
+
+National Association of Nonprofit Organizations & Executives, 712 H Street NE, Washington, DC 20002, United States
+--_=_swift-1323420069606b120ba995f4.39724699_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A<head><!--[if !mso]><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"><meta http-equiv=3D"Content-Langu=
+age" content=3D"en-us"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"><meta name=3D"format-detection" content=3D"date=3Dno"><meta name=3D"=
+format-detection" content=3D"address=3Dno"><meta name=3D"format-detection" =
+content=3D"email=3Dno"><style data-ac-keep=3D"true"> .ExternalClass { width=
+: 100%; background: inherit; background-color: inherit; } .ExternalClass p,=
+ .ExternalClass ul, .ExternalClass ol { Margin: 0; } .undoreset div p, .und=
+oreset p { margin-bottom: 20px; } div[class^=3D"aolmail_divbody"] { overflo=
+w: auto; } [owa] #ac-footer { padding: 20px 0px !important; background: inh=
+erit; background-color: inherit; } </style><style data-ac-keep=3D"true">=0A=
+@media only screen and (max-width: 600px) { /*-----------------------------=
+--------------------------------------------*\ Abandoned Cart widget \*----=
+--------------------------------------------------------------------*/ .td_=
+abandoned-cart img {display: block;padding-right: 0 !important;padding-bott=
+om: 0 !important;width: 100% !important;max-width: 100% !important;height: =
+auto !important;} body { padding: 0!important; font-size:1em!important; } *=
+ { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing:=
+ border-box; } *[class].divbody {-webkit-text-size-adjust:none !important; =
+width:auto !important;} *[class].td_picture img {width:auto !important;} *[=
+class].td_text { line-height: 110%; } *[class].td_button { width: auto; } /=
+* Collapse all block elements */ :not(.body) table { display: block!importa=
+nt; float:none!important; border-collapse:collapse !important; width:100% !=
+important; min-width:100% !important; clear:both!important; } :not(.body) t=
+head,=0A:not(.body) tbody, :not(.body) tr { display:block!important; float:=
+none!important; width:100% !important; } :not(.body) th, :not(.body) td, :n=
+ot(.body) p { display:block!important; float:none!important; width:100% !im=
+portant; clear:both!important; } /* Remove browser default styling for elem=
+ents */ ul, ol { margin-left: 20px; margin-bottom: 10px; margin-top: 10px; =
+-webkit-margin-before: 0; -webkit-margin-after: 0; -webkit-padding-start: 0=
+; } /* Set default height for spacer once collapse */ *[class].spacer { hei=
+ght: auto!important; } a[href^=3Ddate]{ color:inherit !important; text-deco=
+ration:none !important;} a[href^=3Dtelephone]{ color:inherit !important; te=
+xt-decoration:none !important;} a[href^=3Daddress]{ color:inherit !importan=
+t; text-decoration:none !important;} a[href^=3Demail]{ color:inherit !impor=
+tant; text-decoration:none !important;} /* Default table cell height */ td[=
+height=3D"12"]{height:12px!important;font-size:12px!important;line-height:1=
+2px!important;}=0A/*-------------------------------------------------------=
+------------------*\ Product Widget \*-------------------------------------=
+------------------------------------*/ .td_product > div { float: none !imp=
+ortant; width: 100% !important; margin-bottom: 20px !important; } .td_produ=
+ct > div img { width: 75% !important; } /* Default social icons */ *[class]=
+.ac-social-icon-16 {width:16px !important; height:16px !important;} *[class=
+].ac-social-icon-24 {width:24px !important; height:24px !important;} *[clas=
+s].ac-social-icon-28 {width:28px !important; height:28px !important;} *[cla=
+ss].__ac_social_icons { margin-right: 0px !important; } }=0A</style><style =
+data-ac-keep=3D"true"> @media only screen and (max-width: 320px) { #layout-=
+row387 img { width: 100% !important; height: auto !important; max-width: 32=
+0px !important; } #layout-row388 img { width: 100% !important; height: auto=
+ !important; max-width: 320px !important; } div.divbody { padding: 20px !im=
+portant; } .td_rss .rss-item img.iphone_large_image { width: auto !importan=
+t; } u + .body { display: table !important; width: 100vw !important; min-wi=
+dth: 100vw !important; } u + .body table { display: table !important; width=
+: 100% !important; min-width: 100% !important; } u + .body td { display: bl=
+ock !important; width: 100% !important; min-width: 100% !important; } u + .=
+body img { display: inline-block !important; margin: auto !important; width=
+: auto !important; vertical-align: bottom !important; } u + .body center { =
+display: block !important; margin: auto !important; width: 100% !important;=
+ min-width: 100% !important; text-align: center !important; } u +=0A.body t=
+able._ac_social_table, u + .body table._ac_social_table td, u + .body table=
+._ac_social_table div, u + .body table._ac_social_table a { display: inline=
+-block !important; margin: auto !important; width: auto !important; min-wid=
+th: auto !important; text-align: center !important; } u + .body table._ac_s=
+ocial_table img { display: inline-block !important; margin: auto !important=
+; width: 32px !important; min-width: 32px !important; max-width: 32px !impo=
+rtant; }=0A}=0A@media only screen and (max-width: 375px) { #layout-row387 i=
+mg { width: 100% !important; height: auto !important; max-width: 375px !imp=
+ortant; } #layout-row388 img { width: 100% !important; height: auto !import=
+ant; max-width: 375px !important; } div.divbody { padding: 20px !important;=
+ } .td_rss .rss-item img.iphone_large_image { width: auto !important; } u +=
+ .body { display: table !important; width: 100vw !important; min-width: 100=
+vw !important; } u + .body table { display: table !important; width: 100% !=
+important; min-width: 100% !important; } u + .body td { display: block !imp=
+ortant; width: 100% !important; min-width: 100% !important; } u + .body img=
+ { display: inline-block !important; margin: auto !important; width: auto !=
+important; vertical-align: bottom !important; } u + .body center { display:=
+ block !important; margin: auto !important; width: 100% !important; min-wid=
+th: 100% !important; text-align: center !important; } u + .body table._ac_s=
+ocial_table, u +=0A.body table._ac_social_table td, u + .body table._ac_soc=
+ial_table div, u + .body table._ac_social_table a { display: inline-block !=
+important; margin: auto !important; width: auto !important; min-width: auto=
+ !important; text-align: center !important; } u + .body table._ac_social_ta=
+ble img { display: inline-block !important; margin: auto !important; width:=
+ 32px !important; min-width: 32px !important; max-width: 32px !important; }=
+=0A}=0A@media only screen and (max-width: 414px) { #layout-row387 img { wid=
+th: 100% !important; height: auto !important; max-width: 414px !important; =
+} #layout-row388 img { width: 100% !important; height: auto !important; max=
+-width: 414px !important; } div.divbody { padding: 20px !important; } .td_r=
+ss .rss-item img.iphone_large_image { width: auto !important; } u + .body {=
+ display: table !important; width: 100vw !important; min-width: 100vw !impo=
+rtant; } u + .body table { display: table !important; width: 100% !importan=
+t; min-width: 100% !important; } u + .body td { display: block !important; =
+width: 100% !important; min-width: 100% !important; } u + .body img { displ=
+ay: inline-block !important; margin: auto !important; width: auto !importan=
+t; vertical-align: bottom !important; } u + .body center { display: block !=
+important; margin: auto !important; width: 100% !important; min-width: 100%=
+ !important; text-align: center !important; } u + .body table._ac_social_ta=
+ble, u +=0A.body table._ac_social_table td, u + .body table._ac_social_tabl=
+e div, u + .body table._ac_social_table a { display: inline-block !importan=
+t; margin: auto !important; width: auto !important; min-width: auto !import=
+ant; text-align: center !important; } u + .body table._ac_social_table img =
+{ display: inline-block !important; margin: auto !important; width: 32px !i=
+mportant; min-width: 32px !important; max-width: 32px !important; }=0A}=0A@=
+media only screen and (max-width: 667px) { #layout-row387 img { width: 100%=
+ !important; height: auto !important; max-width: 600px !important; } #layou=
+t-row388 img { width: 100% !important; height: auto !important; max-width: =
+600px !important; } div.divbody { padding: 20px !important; } .td_rss .rss-=
+item img.iphone_large_image { width: auto !important; } u + .body { display=
+: table !important; width: 100vw !important; min-width: 100vw !important; }=
+ u + .body table { display: table !important; width: 100% !important; min-w=
+idth: 100% !important; } u + .body td { display: block !important; width: 1=
+00% !important; min-width: 100% !important; } u + .body img { display: inli=
+ne-block !important; margin: auto !important; width: auto !important; verti=
+cal-align: bottom !important; } u + .body center { display: block !importan=
+t; margin: auto !important; width: 100% !important; min-width: 100% !import=
+ant; text-align: center !important; } u + .body table._ac_social_table, u +=
+=0A.body table._ac_social_table td, u + .body table._ac_social_table div, u=
+ + .body table._ac_social_table a { display: inline-block !important; margi=
+n: auto !important; width: auto !important; min-width: auto !important; tex=
+t-align: center !important; } u + .body table._ac_social_table img { displa=
+y: inline-block !important; margin: auto !important; width: 32px !important=
+; min-width: 32px !important; max-width: 32px !important; }=0A} </style><!-=
+-[if !mso]><!-- webfonts --><!--<![endif]--><!--[if lt mso 12]> <![endif]--=
+></head><body id=3D"ac-designer" class=3D"body" style=3D"font-family: Arial=
+; line-height: 1.1; margin: 0px; background-color: #FFFFFF; width: 100%; te=
+xt-align: center;">=09=09<div style=3D"display:none; padding:0; height:1px;=
+ font-size:1px; background-color:inherit !important; color:inherit !importa=
+nt; line-height:1px; mso-hide:all;">=0A=09=09=09(556 Executives From 386 Or=
+ganizations...SO FAR )=0A=09=09</div>=0A<img src=3D"https://jimmylarose.lt.=
+acemlnc.com/Prod/link-tracker?nl=3D25&c=3D81&m=3D199&s=3D581d945e2f8f561c09=
+da4f7c5f459700&l=3Dopen&account=3Djimmylarose.activehosted.com" border=3D"0=
+" width=3D"1" height=3D"1" style=3D"display:block;width:1px!important;min-w=
+idth:1px!important;max-width:1px!important;height:1px!important;border:0;ov=
+erflow:hidden;" /><div class=3D"divbody" style=3D"margin: 0px; outline: non=
+e; padding: 0px; color: #000000; font-family: arial; line-height: 1.1; widt=
+h: 100%; background-color: #FFFFFF; background: #FFFFFF; text-align: center=
+;"><table class=3D"template-table" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" align=3D"left" style=3D"font-size: 14px; min-width:=
+ auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFF=
+FFF; background: #FFFFFF;"><tr><td align=3D"center" valign=3D"top" width=3D=
+"100%"><table class=3D"template-table" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"650" bgcolor=3D"#FFFFFF" style=3D"font-size: 14px; mi=
+n-width: auto;=0Amso-table-lspace: 0pt; mso-table-rspace: 0pt; max-width: 6=
+50px;"><tr><td id=3D"layout_table_7ca8fdbd35304a7c1fc9dfdbfcc830c43eaa7431"=
+ valign=3D"top" align=3D"center" width=3D"650"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" class=3D"layout layout-table root-table" width=
+=3D"650" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt;"><tr><td id=3D"layout-row-margin389" valign=3D"top" =
+style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><tr=
+ id=3D"layout-row389" class=3D"layout layout-row widget _widget_text style3=
+89" style=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding389" valig=
+n=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div389"=0Ac=
+lass=3D"td_text td_block" valign=3D"top" align=3D"left" width=3D"630" style=
+=3D"margin: 0; outline: none; padding: 0; color: inherit; font-size: 12px; =
+font-weight: inherit; line-height: 1; text-decoration: inherit; font-family=
+: Arial;"> <div style=3D"margin: 0; outline: none; padding: 0; font-size: 1=
+8px;"> <div style=3D"margin: 0; outline: none; padding: 0;"> <div style=3D"=
+margin: 0; outline: none; padding: 0; --tw-shadow: 0 0 transparent; --tw-ri=
+ng-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ring-offset-=
+color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow=
+: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; color: #000000; font-=
+style: normal; font-weight: 400; text-align: center;" class=3D""><span styl=
+e=3D'color: inherit; font-size: inherit; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-style: italic; --tw-shadow: 0 0 tr=
+ansparent; --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px;=
+ --tw-ring-offset-color:=0A#fff; --tw-ring-color: rgba(59,130,246,0.5); --t=
+w-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; f=
+ont-family: "trebuchet ms", tahoma, arial, sans;' class=3D"">Jimmy LaRose S=
+tumped By Philadelphia TV Broadcaster About NANOE</span></div>=0A<div style=
+=3D"margin: 0; outline: none; padding: 0; --tw-shadow: 0 0 transparent; --t=
+w-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ring-off=
+set-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-sh=
+adow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; color: #000000; f=
+ont-style: normal; font-weight: 400; text-align: center;" class=3D""><br st=
+yle=3D'font-family: "trebuchet ms", tahoma, arial, sans;--tw-shadow:0 0 tra=
+nsparent; --tw-ring-inset:var(--tw-empty, ); --tw-ring-offset-width:0px; --=
+tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-=
+offset-shadow:0 0 transparent; --tw-ring-shadow:0 0 transparent; font-weigh=
+t: inherit; color: inherit;' class=3D""></div>=0A<div style=3D"margin: 0; o=
+utline: none; padding: 0; --tw-shadow: 0 0 transparent; --tw-ring-inset: va=
+r(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff;=
+ --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transp=
+arent; --tw-ring-shadow: 0 0 transparent; color: #000000; font-style: norma=
+l; text-align: center;" class=3D""><span style=3D'color: inherit; font-size=
+: inherit; font-weight: bold; line-height: inherit; text-decoration: inheri=
+t; --tw-shadow: 0 0 transparent; --tw-ring-inset: var(--tw-empty, ); --tw-r=
+ing-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(=
+59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow=
+: 0 0 transparent; font-family: "trebuchet ms", tahoma, arial, sans;' class=
+=3D""><a=0Ahref=3D"https://jimmylarose.lt.acemlnc.com/Prod/link-tracker?red=
+irectUrl=3DaHR0cHMlM0ElMkYlMkZpbnNpZGVjaGFyaXR5Lm9yZyUyRjIwMjElMkYwNCUyRjAz=
+JTJGbmFub2VzLTIwMjEtY29udmVudGlvbi1leHBvJTJG&a=3D26605550&account=3Djimmyla=
+rose%2Eactivehosted%2Ecom&email=3DTQeyaTYxSWZWCRmxr6iVT3b7ImIKGlCdLGgtNBedJ=
+m0%3D&s=3D581d945e2f8f561c09da4f7c5f459700&i=3D81A199A25A445" data-ac-defau=
+lt-color=3D"1" target=3D"_blank" style=3D"margin: 0; outline: none; padding=
+: 0; color: #045FB4; text-decoration: underline; --tw-shadow: 0 0 transpare=
+nt; --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-r=
+ing-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-of=
+fset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent;" class=3D"=
+"><span style=3D"color: inherit; font-size: inherit; font-weight: inherit; =
+line-height: inherit; text-decoration: inherit; --tw-shadow: 0 0 transparen=
+t; --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ri=
+ng-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-off=
+set-shadow: 0 0 transparent;=0A--tw-ring-shadow: 0 0 transparent;" class=3D=
+"">VISIT HERE</span></a> or Press Video Play Button Below To See What Happe=
+ns</span></div>=0A <br class=3D""></div>=0A </div>=0A</td>=0A</tr>=0A</tabl=
+e>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-ma=
+rgin388" valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layout-row388" class=3D"layout=
+ layout-row widget _widget_picture " align=3D"center"><td id=3D"layout-row-=
+padding388" valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D=
+"center" valign=3D"top" width=3D"650"><a href=3D"https://jimmylarose.lt.ace=
+mlnc.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZpbnNpZGVjaGFyaX=
+R5Lm9yZyUyRjIwMjElMkYwNCUyRjAzJTJGbmFub2VzLTIwMjEtY29udmVudGlvbi1leHBvJTJG&=
+a=3D26605550&account=3Djimmylarose%2Eactivehosted%2Ecom&email=3DTQeyaTYxSWZ=
+WCRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=3D581d945e2f8f561c09da4f7c5f459700&i=
+=3D81A199A25A445" style=3D"margin: 0; outline: none; padding: 0; color: #04=
+5FB4; display: block; min-width: 100%;"><img=0Asrc=3D"https://jimmylarose.i=
+mgus11.com/public//30cdd0e67646b6bac7dc767758986773.jpg?r=3D1084443355" alt=
+=3D"" width=3D"600" style=3D"border: none; display: block; outline: none; w=
+idth: 600px; opacity: 1; max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A<=
+/td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin38=
+6" valign=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: =
+100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initia=
+l !important;"><tr id=3D"layout-row386" class=3D"layout layout-row widget _=
+widget_text style386" style=3D"margin: 0; padding: 0;"><td id=3D"layout-row=
+-padding386" valign=3D"top" style=3D"padding: 5px;"><table width=3D"100%" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; m=
+in-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=
+=3D"text_div386" class=3D"td_text td_block" valign=3D"top" align=3D"left" w=
+idth=3D"630" style=3D"margin: 0; outline: none; padding: 0; color: inherit;=
+ font-size: 12px; font-weight: inherit; line-height: 1; text-decoration: in=
+herit; font-family: Arial;"> <div style=3D"margin: 0; outline: none; paddin=
+g: 0; font-size: 12px; color: #000000;"> <div style=3D"margin: 0; outline: =
+none; padding: 0; color:=0A#000000; font-size: 12px; text-align: center;"><=
+span style=3D'color: inherit; font-size: 18px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans;' class=3D""><span style=3D"color: inherit; font-size: inhe=
+rit; font-weight: bold; line-height: inherit; text-decoration: inherit;" cl=
+ass=3D"">NANOE Members, Your Governors' Pass Has Been Paid.</span><br><br><=
+span style=3D"color: inherit; font-size: inherit; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit; font-style: italic;">556 Nonpr=
+ofit Executives Have Already Made Their Reservations!</span><br><br><span s=
+tyle=3D"color: inherit; font-size: inherit; font-weight: bold; line-height:=
+ inherit; text-decoration: inherit;" class=3D"">SEE WHO'S REGISTERED IN THE=
+ POST SCRIPT</span><br><br><div style=3D"margin: 0; outline: none; padding:=
+ 0; font-weight: inherit; font-style: normal; text-align: left;"><span clas=
+s=3D"" style=3D'color: #000000; font-size: 16px;=0Afont-weight: 400; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans;'><span style=3D"color: inherit; font-size: inherit; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-style:=
+ italic;">"T</span><span style=3D"color: inherit; font-size: inherit; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-style=
+: italic;">hank you for giving your time and service to charitable organiza=
+tions.<span style=3D"color: #000000; font-size: inherit; font-weight: inher=
+it; line-height: inherit; text-decoration: inherit;"> I'm pleased to share =
+that a group of long-time NANOE donors have underwritten 150 Scholarships f=
+or <span style=3D"color: inherit; font-size: inherit; font-weight: bold; li=
+ne-height: inherit; text-decoration: inherit;">NANOE Members Only</span> to=
+ attend this years Board of Governor's Convention & Expo.</span>"</span><sp=
+an style=3D"color: inherit; font-size: inherit; font-weight:=0Ainherit; lin=
+e-height: inherit; text-decoration: inherit; font-style: italic;"> ~</span>=
+</span><span style=3D'color: #000000; font-size: 16px; font-weight: 400; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; text-align: left;'> Charlotte Berry</span></div>=0A</s=
+pan><span style=3D'color: inherit; font-size: 16px; font-weight: 400; line-=
+height: inherit; text-decoration: inherit; font-style: normal; font-family:=
+ "trebuchet ms", tahoma, arial, sans; text-align: left;'> <br></span><a hre=
+f=3D"https://jimmylarose.lt.acemlnc.com/Prod/link-tracker?redirectUrl=3DaHR=
+0cHMlM0ElMkYlMkZuYW5vZS5vcmclMkY=3D&a=3D26605550&account=3Djimmylarose%2Eac=
+tivehosted%2Ecom&email=3DTQeyaTYxSWZWCRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=
+=3D581d945e2f8f561c09da4f7c5f459700&i=3D81A199A25A446" data-ac-default-colo=
+r=3D"1" target=3D"_blank" style=3D'margin: 0; outline: none; padding: 0; co=
+lor: #045FB4; text-decoration: underline; font-weight: bolder; font-style: =
+normal; font-family: "trebuchet ms", tahoma, arial, sans; font-size: 18px;'=
+><span style=3D"color: ; font-size: inherit; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit;">VISIT HERE to make your COMPLIMENT=
+ARY RESERVATION</span></a></div>=0A<div style=3D"margin: 0; outline: none; =
+padding: 0; color: #000000; font-size: 12px; font-style: normal; text-align=
+: center;"><span style=3D"color: inherit; font-size: 18px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; text-align: inherit;"=
+> <br><span class=3D"" style=3D"color: inherit; font-size: inherit; font-we=
+ight: bold; line-height: inherit; text-decoration: inherit;">NANOE's CELEBR=
+ATION OF HEROES</span></span></div>=0A<div style=3D'margin: 0; outline: non=
+e; padding: 0; font-style: normal; font-size: 18px; color: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; text-align: center;'><span style=
+=3D"color: #000000; font-size: inherit; font-weight: bold; line-height: inh=
+erit; text-decoration: inherit; text-align: inherit;">BOARD OF GOVERNOR'S C=
+ONVENTION & EXPO - April 20-21, 2021</span></div>=0A</div>=0A</td>=0A</tr>=
+=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layo=
+ut-row-margin387" valign=3D"top"><table width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layout-row387" class=
+=3D"layout layout-row widget _widget_picture " align=3D"center"><td id=3D"l=
+ayout-row-padding387" valign=3D"top"><table width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" =
+align=3D"center" valign=3D"top" width=3D"650"><img src=3D"https://jimmylaro=
+se.imgus11.com/public//7f281ae96e13d700187bf656e30b073a.jpg?r=3D442277650" =
+alt=3D"" width=3D"600" style=3D"display: block; border: none; outline: none=
+; width: 600px; opacity: 1; max-width: 100%;"></td>=0A</tr>=0A</table>=0A</=
+td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin385=
+" valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;"><tr id=3D"layout-row385" class=3D"layout layout=
+-row widget _widget_spacer "><td id=3D"layout-row-padding385" valign=3D"top=
+"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-r=
+space: 0pt;"><tr><td valign=3D"top" height=3D"30"><div class=3D"spacer" sty=
+le=3D"margin: 0; outline: none; padding: 0; height: 30px;"><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-size: =
+14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><=
+td class=3D"spacer-body" valign=3D"top" height=3D"30" width=3D"650">=C2=
+=A0</td>=0A</tr>=0A</table>=0A</div>=0A</td>=0A</tr>=0A</table>=0A</td>=0A<=
+/tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin384" valig=
+n=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt;"><tr id=3D"layout-row384" class=3D"layout layout-row w=
+idget _widget_text " style=3D"margin: 0; padding: 0;"><td id=3D"layout-row-=
+padding384" valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div384" class=3D=
+"td_text td_block" valign=3D"top" align=3D"left" width=3D"650" style=3D"lin=
+e-height: 140%; margin: 0; outline: none; padding: 0; color: inherit; font-=
+size: 12px; font-weight: inherit; line-height: 1.4; text-decoration: inheri=
+t; font-family: Arial; mso-line-height-rule: exactly;"> <div style=3D"line-=
+height: 140%; margin: 0; outline: none; padding: 0; line-height: 1.4; mso-l=
+ine-height-rule: exactly;" data-line-height=3D"1.4"> <div style=3D"margin: =
+0; outline: none;=0Apadding: 0;"> <p style=3D"margin: 0; outline: none; pad=
+ding: 0; color: inherit; font-size: inherit; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit;"></p>=0A<div style=3D"margin: 0; ou=
+tline: none; padding: 0; text-align: left; font-size: 16px;"><span style=3D=
+"color: inherit; font-size: inherit; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; text-align: inherit;" class=3D"">Dear Colle=
+agues in Service,</span></div>=0A <div style=3D"margin: 0; outline: none; p=
+adding: 0; text-align: left;"><br style=3D'font-family: "trebuchet ms", tah=
+oma, arial, sans; font-size: 16px;'></div>=0A<div style=3D'margin: 0; outli=
+ne: none; padding: 0; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-size: 16px;'>We have good news. NANOE Members<span style=3D"color: inheri=
+t; font-size: inherit; font-weight: inherit; line-height: inherit; text-dec=
+oration: inherit; font-style: italic;"> (in good standing) </span>will be p=
+rovided Complimentary Governors' Passes to this years Board of Governors' C=
+onvention & Expo.</div>=0A<span style=3D"color: inherit; font-size: inherit=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; mar=
+gin: 0;" class=3D""><div style=3D"margin: 0; outline: none; padding: 0;"><b=
+r style=3D'font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16p=
+x;'></div>=0A<div style=3D'margin: 0; outline: none; padding: 0; color: #00=
+0000; font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16px; fo=
+nt-weight: inherit;'><span style=3D'color: inherit; font-size: inherit; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans;'>Why you may ask? A group of gene=
+rous NANOE Donors believe that this Biennial event is important now more th=
+an eve</span><span style=3D'color: #000000; font-size: inherit; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans;'>r and want to ensure you and your entire=
+ team are able to attend.</span></div>=0A<div style=3D"margin: 0; outline: =
+none; padding: 0;"><br style=3D'font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-size: 16px;'></div>=0A<div style=3D'margin: 0; outline: none; p=
+adding: 0; font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16p=
+x; font-weight: inherit;'><span style=3D'color: inherit; font-size: inherit=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans;'>You are one of society=
+=E2=80=99s guardians who use their expertise to ensure others experience a =
+life worth living. Your personal service is what our Nation needs most duri=
+ng these uncertain times. It's time to celebrate you and your important wor=
+k.</span></div>=0A<div style=3D"margin: 0; outline: none; padding: 0;"><br>=
+</div>=0A<div style=3D'margin: 0; outline: none; padding: 0; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-size: 16px; font-weight: inherit;'=
+><span style=3D'color: inherit; font-size: inherit; font-weight: inherit; l=
+ine-height: inherit; text-decoration: inherit; font-family: "trebuchet ms",=
+ tahoma, arial, sans;'>Only a year ago, life seemed normal and we were all =
+conducting business as usual. Today, our lives are on hold and the things w=
+e took for granted seemingly have vanished. We can no longer go out to eat,=
+ attend events, or even participate in church. We can=E2=80=99t plan travel=
+ or send our kids to school.</span></div>=0A<div style=3D"margin: 0; outlin=
+e: none; padding: 0;"><br></div>=0A<div style=3D'margin: 0; outline: none; =
+padding: 0; font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16=
+px; font-weight: inherit;'><span style=3D'color: inherit; font-size: inheri=
+t; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family: "trebuchet ms", tahoma, arial, sans;'>As both a mother and grand=
+mother, I'm concerned for my families safety and the new world in which the=
+y will live as a result of COVID-19. I=E2=80=99m anxious and I know you are=
+ too.</span></div>=0A<div style=3D"margin: 0; outline: none; padding: 0;"><=
+br></div>=0A<div style=3D'margin: 0; outline: none; padding: 0; color: inhe=
+rit; font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16px;'><s=
+pan style=3D'color: inherit; font-size: inherit; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans;'>Yet, a fundamental hallmark of human existence is that =
+we do not let our fears dominate our ability to plan the future.</span><spa=
+n style=3D'color: inherit; font-size: inherit; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans;'> Since the dawn of civilization, humans have organized th=
+emselves into tribes, villages, towns, cities and nations for the welfare o=
+f all. Long before humans knew about viruses, we built walls, stocked provi=
+sions and trained warriors in order to survive hardships and attacks. We ma=
+de laws to protect the innocent and we embraced innovation. We created the =
+marketplace out of a=0Adesire to flourish as individuals, families and comm=
+unities. Everything we have done for thousands of years was based on face t=
+o face human interaction. </span><span style=3D'color: inherit; font-size: =
+inherit; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans;'>Our prosperity has b=
+een built on trusting, serving and protecting our fellow human beings.</spa=
+n></div>=0A<div style=3D"margin: 0; outline: none; padding: 0;"><br style=
+=3D'font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16px; font=
+-style: italic; font-weight: 700;'></div>=0A<div style=3D'margin: 0; outlin=
+e: none; padding: 0; font-family: "trebuchet ms", tahoma, arial, sans; font=
+-size: 16px; font-weight: inherit;'><span style=3D'color: inherit; font-siz=
+e: inherit; font-weight: inherit; line-height: inherit; text-decoration: in=
+herit; font-family: "trebuchet ms", tahoma, arial, sans;'>Our fears are rea=
+l, but so are the norms of human interaction and the laws of economics. The=
+ fundamentals on which our society is built have not changed. Our market is=
+ still based on supply and demand. Humans still have a need to interact per=
+sonally with one another and in groups. We still organize ourselves for the=
+ welfare of all. </span><span style=3D'color: inherit; font-size: inherit; =
+font-weight: bold; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: italic;'>Most importa=
+ntly, we will continue to have empathy for one another and spread love and =
+mercy to the world.</span></div>=0A<div style=3D"margin: 0; outline: none; =
+padding: 0;"><br></div>=0A<div style=3D'margin: 0; outline: none; padding: =
+0; color: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-s=
+ize: 16px;'><span style=3D'color: inherit; font-size: inherit; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans;'>Empathy, mercy and love are the fundament=
+al ingredients of the nonprofit sector.</span><span style=3D'color: inherit=
+; font-size: inherit; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans;'> We for=
+m nonprofit organizations to help others rather than to help shareholders. =
+The return on investment in the charitable sector is changing and saving li=
+ves. This is what makes nonprofits so precious and beautiful</span></div>=
+=0A<div style=3D"margin: 0; outline: none; padding: 0;"><br></div>=0A<div s=
+tyle=3D'margin: 0; outline: none; padding: 0; color: #000000; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-size: 16px; font-style: normal; f=
+ont-weight: inherit;'><span style=3D'color: #000000; font-size: inherit; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans;'>Please know you are in our pray=
+ers and we are available for you. We are sharing resources that will make y=
+our organization healthier on the other side of the COVID-19 crisis. As </s=
+pan><span class=3D"" style=3D'color: #000000; font-size: inherit; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans;'>uncomfortable as this is right now, we=
+ will all be stronger and wiser in the years to come. That's why I'm person=
+ally inviting you to join me for:</span></div>=0A<div style=3D'margin: 0; o=
+utline: none; padding: 0; font-family: "trebuchet ms", tahoma, arial, sans;=
+ font-size: 16px;'><br></div>=0A</span><p style=3D"margin: 0; outline: none=
+; padding: 0; color: inherit; font-size: inherit; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit;"></p>=0A<div style=3D"margin: =
+0; outline: none; padding: 0; text-align: center; font-size: 16px;"><a href=
+=3D"https://jimmylarose.lt.acemlnc.com/Prod/link-tracker?redirectUrl=3DaHR0=
+cHMlM0ElMkYlMkZOQU5PRS5vcmc=3D&a=3D26605550&account=3Djimmylarose%2Eactiveh=
+osted%2Ecom&email=3DTQeyaTYxSWZWCRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=3D581d=
+945e2f8f561c09da4f7c5f459700&i=3D81A199A25A447" data-ac-default-color=3D"1"=
+ target=3D"_blank" class=3D"" style=3D'margin: 0; outline: none; padding: 0=
+; color: #045FB4; text-decoration: underline; background-color: #ffffff; fo=
+nt-weight: bold; font-family: "trebuchet ms", tahoma, arial, sans;'><span s=
+tyle=3D"color: ; font-size: inherit; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit;">NANOE's CELEBRATION OF HEROES</span></a></=
+div>=0A<p style=3D"margin: 0; outline: none; padding: 0; color: inherit; fo=
+nt-size: inherit; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit;"></p>=0A<div style=3D"margin: 0; outline: none; padding: 0; te=
+xt-align: center;"><div style=3D"margin: 0; outline: none; padding: 0; text=
+-align: center; font-size: 16px;"><a href=3D"https://jimmylarose.lt.acemlnc=
+.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZOQU5PRS5vcmc=3D&a=
+=3D26605550&account=3Djimmylarose%2Eactivehosted%2Ecom&email=3DTQeyaTYxSWZW=
+CRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=3D581d945e2f8f561c09da4f7c5f459700&i=
+=3D81A199A25A447" data-ac-default-color=3D"1" target=3D"_blank" style=3D"ma=
+rgin: 0; outline: none; padding: 0; color: #045FB4; text-decoration: underl=
+ine; font-size: inherit; background-color: #ffffff; font-weight: bold;" cla=
+ss=3D""><span style=3D"color: ; font-size: inherit; font-weight: inherit; l=
+ine-height: inherit; text-decoration: inherit;">VIRTUAL CONVENTION & EXPO -=
+ April 20-21, 2021</span></a></div>=0A<div style=3D"margin: 0; outline: non=
+e; padding: 0; text-align: left;"><br style=3D'font-family: "trebuchet ms",=
+ tahoma, arial, sans; font-size: 16px;'></div>=0A<span style=3D'color: inhe=
+rit; font-size: 16px; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; margin: =
+0;' class=3D""><div style=3D"margin: 0; outline: none; padding: 0; text-ali=
+gn: left; color: #000000; font-weight: inherit;">Here=E2=80=99s how NANOE w=
+ill support you during the pandemic:</div>=0A<div style=3D"margin: 0; outli=
+ne: none; padding: 0; text-align: left;"><br style=3D""></div>=0A<div style=
+=3D"margin: 0; outline: none; padding: 0; text-align: left; font-weight: in=
+herit;">=E2=80=A2 NANOE makes sure you receive the money you need to accomp=
+lish your mission.</div>=0A<div style=3D"margin: 0; outline: none; padding:=
+ 0; text-align: left; font-weight: inherit;">=E2=80=A2 NANOE transforms you=
+r nonprofit so you can benefit from the free market</div>=0A<div style=3D"m=
+argin: 0; outline: none; padding: 0; text-align: left; font-weight: inherit=
+;">=C2=A0 =C2=A0enterprise principles we know work in the for-profit sector=
+.</div>=0A<div style=3D"margin: 0; outline: none; padding: 0; text-align: l=
+eft; font-weight: inherit;">=E2=80=A2 NANOE=E2=80=99s New Guidelines for No=
+nprofits will challenge everything you believe</div>=0A<div style=3D"margin=
+: 0; outline: none; padding: 0; text-align: left; font-weight: inherit;">=
+=C2=A0 =C2=A0about charity and change the way you do business.</div>=0A<div=
+ style=3D"margin: 0; outline: none; padding: 0; text-align: left;"><br></di=
+v>=0A<div style=3D"margin: 0; outline: none; padding: 0; text-align: left; =
+font-weight: inherit;">So, join me ONLINE April 20-21, 2021 for NANOE=
+=E2=80=99s Board of Governors=E2=80=99 Convention & Expo. And in the meanti=
+me, become a NANOE member today.</div>=0A</span></div>=0A<div style=3D"marg=
+in: 0; outline: none; padding: 0; text-align: left;"><br style=3D'font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-size: 16px;'></div>=0A<div st=
+yle=3D'margin: 0; outline: none; padding: 0; font-family: "trebuchet ms", t=
+ahoma, arial, sans; font-size: 16px;'><span style=3D"color: #000000; font-s=
+ize: inherit; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit;">Be of good cheer and carry on! Our work to deliver empathy, mercy=
+ and love to the people we serve is too important to do otherwise. <span st=
+yle=3D"color: inherit; font-size: inherit; font-weight: bold; line-height: =
+inherit; text-decoration: inherit;">YOU ARE OUR HEROES</span> and there=
+=E2=80=99s a group of us that share your values.</span><span style=3D"color=
+: #000000; font-size: inherit; font-weight: 400; line-height: inherit; text=
+-decoration: inherit;"> </span><a href=3D"https://jimmylarose.lt.acemlnc.co=
+m/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZuYW5vZS5vcmclMkY=3D&a=
+=3D26605550&account=3Djimmylarose%2Eactivehosted%2Ecom&email=3DTQeyaTYxSWZW=
+CRmxr6iVT3b7ImIKGlCdLGgtNBedJm0%3D&s=3D581d945e2f8f561c09da4f7c5f459700&i=
+=3D81A199A25A446" data-ac-default-color=3D"1" target=3D"_blank" style=3D"ma=
+rgin: 0;=0Aoutline: none; padding: 0; color: #045FB4; text-decoration: unde=
+rline; background-color: #ffffff; font-weight: bold;" class=3D""><span styl=
+e=3D"color: ; font-size: inherit; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit;">NANOE stands behind you every day</span></a>.=
+<span style=3D"color: #000000; font-size: inherit; font-weight: 400; line-h=
+eight: inherit; text-decoration: inherit;"> </span><span style=3D"color: #0=
+00000; font-size: inherit; font-weight: 400; line-height: inherit; text-dec=
+oration: inherit;">Thank you for your daily service to people in need! I lo=
+ok forward to being part of what you are doing. Until then I remain,</span>=
+</div>=0A<div style=3D"margin: 0; outline: none; padding: 0;"><br style=3D'=
+font-family: "trebuchet ms", tahoma, arial, sans; font-size: 16px;'></div>=
+=0A<div style=3D"margin: 0; outline: none; padding: 0;"><div style=3D'margi=
+n: 0; outline: none; padding: 0; color: #000000; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-size: 16px; font-weight: inherit;'><span style=
+=3D'color: #000000; font-size: inherit; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ari=
+al, sans;'>Sincerely Yours,</span></div>=0A<div style=3D"margin: 0; outline=
+: none; padding: 0;"><br style=3D'font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-size: 16px;'></div>=0A<div style=3D'margin: 0; outline: none;=
+ padding: 0; color: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns; font-size: 20px; font-weight: bold; font-style: italic;'><span style=3D=
+'color: inherit; font-size: inherit; font-weight: bold; line-height: inheri=
+t; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns;' class=3D"">Bishop Redfern II</span></div>=0A<div style=3D"margin: 0; o=
+utline: none; padding: 0;"><br></div>=0A<div style=3D'margin: 0; outline: n=
+one; padding: 0; font-family: "trebuchet ms", tahoma, arial, sans; font-siz=
+e: 16px;'><span style=3D'color: inherit; font-size: inherit; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit; font-family: "trebu=
+chet ms", tahoma, arial, sans;'><span style=3D"color: inherit; font-size: i=
+nherit; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t;">NANOE Chair</span><br><span style=3D"color: inherit; font-size: inherit=
+; font-weight: bold; line-height: inherit; text-decoration: inherit;" class=
+=3D""><br><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>P.S. Here's the list of No=
+nprofit Organizations who have registered...SO FAR:</span><br style=3D""><b=
+r style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit;=0Afont-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>A MUNOZ CONSULTING</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>ABUNDANT LIFE</sp=
+an><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-style: normal;'>ACE MENTOR PROGRAM=
+</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>AFFIRMATIVE CO=
+NSENT PROJECT</span><br style=3D""><span style=3D'color: #000000; font-size=
+: 16px; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=0Anormal;'=
+>AFFNETZ</span><br style=3D""><span style=3D'color: #000000; font-size: 16p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>AGAMLO=
+NG NATIONAL DAILY NEWSPAPER</span><br style=3D""><span style=3D'color: #000=
+000; font-size: 16px; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>AGENCY ON AGING, AREA FOURR</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>AKA - DELTA KAPPA OMEGA</span><br style=3D""><s=
+pan style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-he=
+ight: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahom=
+a, arial, sans; font-style: normal;'>ALDERSGATE RENEWAL MINISTRIES</span><b=
+r=0Astyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>ALEDO ISD EDUCATION F=
+OUNDATION</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>ALL A=
+GES READ TOGETHER</span><br style=3D""><span style=3D'color: #000000; font-=
+size: 16px; font-weight: inherit; line-height: inherit; text-decoration: in=
+herit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal=
+;'>ALLIANCE HOUSE COMMUNITY COALITION</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>ALLIANCE OF NYS YMCAS</span><br style=3D""><span sty=
+le=3D'color: #000000;=0Afont-size: 16px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>ALLIES IN YOUTH DEVELOPMENT</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>AMBASSADORS OF PEACE</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>AMERICAN UNION CHARITY O=
+RGANIZATION</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>ANG=
+IEBEE CONSULTANTS</span><br style=3D""><span style=3D'color: #000000; font-=
+size: 16px; font-weight: inherit;=0Aline-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>APEX LEADERSHIP CONSULTING GROUP</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>ARC OF GREENSBORO</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>ARIZONA HEART FOUNDATION</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>ASSEMBLIES OF GOD WORLD MISSIONS</spa=
+n><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weigh=
+t: inherit; line-height: inherit; text-decoration: inherit;=0Afont-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>ASSOCIATION FOR A=
+DULTS WITH DEVELOPMENTAL DISABILITIES</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>ATLAS CORPORATION</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>ATOKA-COAL FOOD STOREHOUSE</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans; font-style: normal;'>AVA=E2=80=99S HEART</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma,=0Aarial, sans; font-style: normal;'>AVA'S HEART</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>BABIES YOUTH CHILDREN EMPOWERM=
+ENT MINISTRIES</span><br style=3D""><span style=3D'color: #000000; font-siz=
+e: 16px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>=
+BABY TALK</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>BATAK=
+A FARM SUPPLY</span><br style=3D""><span style=3D'color: #000000; font-size=
+: 16px; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>B=
+EACON HILL PREPARATORY=0AINSTITUTE</span><br style=3D""><span style=3D'colo=
+r: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; te=
+xt-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; f=
+ont-style: normal;'>BEDROCK GARDENS</span><br style=3D""><span style=3D'col=
+or: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; t=
+ext-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; =
+font-style: normal;'>BETTER FUTURE AGENCY</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>BETTER YOUTH</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>BEXAR COUNTY</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight:=0Ainherit; line-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>BIOMEDICAL ENGINEERING SOCIETY</span><br styl=
+e=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit=
+; line-height: inherit; text-decoration: inherit; font-family: "trebuchet m=
+s", tahoma, arial, sans; font-style: normal;'>BIRMINGHAM JUMPSTART</span><b=
+r style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit; font-family: "trebu=
+chet ms", tahoma, arial, sans; font-style: normal;'>BLACK HOLLYWOOD EDUCATI=
+ON AND RESOURCE CENTER</span><br style=3D""><span style=3D'color: #000000; =
+font-size: 16px; font-weight: inherit; line-height: inherit; text-decoratio=
+n: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: n=
+ormal;'>BLESSMAN INTERNATIONAL</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit;=0Atext=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>BLUE RIDGE ENVIRONMENTAL DEFENSE LEAGUE</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>BRIDGE CORP</span><br style=3D=
+""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; font-style: normal;'>BRIDGE HOMELESS RECOVERY CENTER</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>BRIGHT FUTURES P=
+EA RIDGE</span><br style=3D""><span style=3D'color: #000000; font-size: 16p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family:=0A"trebuchet ms", tahoma, arial, sans; font-style: normal;'>BRIG=
+HT MINDS CONSULTING</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>BROAD RIVER GREENWAY</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>BROOME COUNTY COUNCIL OF CHURCHES</span><br style=3D""><span sty=
+le=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>BUCKS COUNTY HORSE PARK</span><br style=3D"">=
+<span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style:=0Anormal;'>BUILDERS INTERNATIONAL FOUNDATION<=
+/span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-family=
+: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>BUILDING COMMUN=
+ITIES THROUGH ATHLETICS</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>BUSHA BROTHERS COMMUNICATIONS</span><br style=3D""><span style=3D'=
+color: #000000; font-size: 16px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, san=
+s; font-style: normal;'>BUTTE COLLEGE FOUNDATION</span><br style=3D""><span=
+ style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heigh=
+t: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, =
+arial, sans; font-style: normal;'>C DIFF=0AFOUNDATION</span><br style=3D"">=
+<span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style: normal;'>CAMC FOUNDATION</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans; font-style: normal;'>CAMPAIGN AGAINST HUNGER</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>CARIDAD CENTER</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>CARYING PLACE</span><br st=
+yle=3D""><span style=3D'color: #000000; font-size: 16px;=0Afont-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>CASA OF SOUTHWEST MISSOUR=
+I</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font=
+-weight: inherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CATNIP CASA C=
+AT REFUGE</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CBCBC=
+</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CELEBRATING TE=
+ACHERS</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=
+ font-weight: inherit; line-height: inherit; text-decoration: inherit;=0Afo=
+nt-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CENTER=
+ FOR LEADERSHIP DEVELOPMENT</span><br style=3D""><span style=3D'color: #000=
+000; font-size: 16px; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>CENTRAL FLORIDA DREAM CENTER - LIFE CENTERS GLOBAL</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>CENTRAL OHIO DIABETES ASSO=
+CIATION</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CHALLEN=
+GE AIR FOR KIDS & FRIENDS</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit;=0Afont-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>CHANGING COURSE FOUNDATION</span><br style=3D""><span style=3D=
+'color: #000000; font-size: 16px; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns; font-style: normal;'>CHARITABLE ORGANIZATIONS</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>CHARLESTON AREA MEDICAL CENTER FOUNDATIO=
+N</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font=
+-weight: inherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CHARLOTTE MEC=
+KLENBURG DREAM CENTER</span><br style=3D""><span style=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet=0Ams", tahoma, arial, sans; font-style: =
+normal;'>CHASE ADVANCEMENT</span><br style=3D""><span style=3D'color: #0000=
+00; font-size: 16px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-styl=
+e: normal;'>CHILDREN=E2=80=99S INSTITUTE FOR LEARNING DIFFERENCES</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>CHRISTIAN CENTER RESCUE =
+MISSION</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CHRISTI=
+AN HELP</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style:=0Anormal;'>CHRIS=
+TIAN INITIATIVE FOR NIGERIA ORPHANS</span><br style=3D""><span style=3D'col=
+or: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; t=
+ext-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; =
+font-style: normal;'>CHRISTIAN WOMEN'S AND MEN'S JOB CORPS OF NACOGDOCHES</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CHRISTIANS UNITE=
+D FOR HAITI</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CIN=
+CINNATI ASSOCIATION FOR THE BLIND AND VISUALLY IMPAIRED</span><br style=3D"=
+"><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", t=
+ahoma,=0Aarial, sans; font-style: normal;'>CINEVANTAGE</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans; font-style: normal;'>CITIWIDE COMPUTER TRAINING CENTER</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CITYLIGHT VINE Y=
+ARD</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CITYZEEN</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>CIVIL WAR ROUND T=
+ABLES CONGRESS</span><br=0Astyle=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>COACH FOR KIDS</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>COASTAL PLAIN CASA</span><br style=3D""><span style=3D'color: #000000; fo=
+nt-size: 16px; font-weight: inherit; line-height: inherit; text-decoration:=
+ inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: nor=
+mal;'>COLLABORATIVE VENTURES NETWORK</span><br style=3D""><span style=3D'co=
+lor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; =
+text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans;=
+ font-style: normal;'>COLLEGE FOR SOCIAL INNOVATION</span><br style=3D""><s=
+pan style=3D'color: #000000; font-size: 16px;=0Afont-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style: normal;'>COLQUITT COUNTY ARTS CENTER</span><b=
+r style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit; font-family: "trebu=
+chet ms", tahoma, arial, sans; font-style: normal;'>COLUMBIA HOLOCAUST EDUC=
+ATION COMMISSION</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>COMMUNITIES IN SCHOOLS OF PALM BEACH</span><br style=3D""><span style=3D'=
+color: #000000; font-size: 16px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, san=
+s; font-style: normal;'>COMMUNITIES UNLIMITED</span><br style=3D""><span st=
+yle=3D'color: #000000; font-size: 16px; font-weight: inherit;=0Aline-height=
+: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, a=
+rial, sans; font-style: normal;'>COMMUNITY HAND UP</span><br style=3D""><sp=
+an style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma=
+, arial, sans; font-style: normal;'>COMMUNITY SYSTEMS</span><br style=3D"">=
+<span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style: normal;'>COMMUNITY YOUTH CARE SERVICES</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>COMMUNITY YOUTH SERVI=
+CES</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily:=0A"trebuchet ms", tahoma, arial, sans; font-style: normal;'>CONGREGAT=
+ION NEVEH SHALOM</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>CONSULTANT</span><br style=3D""><span style=3D'color: #000000; font-size:=
+ 16px; font-weight: inherit; line-height: inherit; text-decoration: inherit=
+; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CO=
+RIELL INSTITUTE FOR MEDICAL RESEARCH</span><br style=3D""><span style=3D'co=
+lor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; =
+text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans;=
+ font-style: normal;'>CORINTHIAN MISSIONARY BAPTIST CHURCH</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans;=0Afont-style: normal;'>COWLITZ COUNTY HABITAT FOR H=
+UMANITY</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CREATIV=
+E STRATEGIST</span><br style=3D""><span style=3D'color: #000000; font-size:=
+ 16px; font-weight: inherit; line-height: inherit; text-decoration: inherit=
+; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>CY=
+N COUNSELING CENTER</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>D.I.V.A=E2=80=99S FOR CHRIST</span><br style=3D""><span style=3D'color=
+: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; tex=
+t-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fo=
+nt-style: normal;'>DAILY BREAD MINISTRIES</span><br=0Astyle=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial=
+, sans; font-style: normal;'>DANA BRADLEY MINISTRIES</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>DANIEL WEBSTER COUNCIL BOY SCOUTS OF =
+AMERICA</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>DAUGHTE=
+RS OF POWER</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>DEC=
+ATUR MEMORIAL HEALTH FOUNDATION</span><br style=3D""><span style=3D'color:=
+=0A#000000; font-size: 16px; font-weight: inherit; line-height: inherit; te=
+xt-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; f=
+ont-style: normal;'>DEFEATING EPILEPSY FOUNDATION</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>DELTA HUMANE SOCIETY SPCA OF SAN JOAQUIN=
+ COUNTY</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>DENVER =
+JUSTICE HIGH SCHOOL</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>DEPARTMENT OF GEORGIA AMERICAN LEGION</span><br style=3D""><span style=
+=3D'color: #000000;=0Afont-size: 16px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>DEVELOPMENT SYSTEMS INTERNATIONAL</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>DEVELOPMENTAL AND DISABILI=
+TY SERVICES</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>DIE=
+TERT CENTER</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>DIS=
+ABLED SAILORS ASSOCIATION</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit;=0Aline-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>DREAM DAY FOUNDATION</span><br style=3D""><span style=3D'color=
+: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; tex=
+t-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fo=
+nt-style: normal;'>DREAMSPRING</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>DREEMS</span><br style=3D""><span style=3D'color: #000000; =
+font-size: 16px; font-weight: inherit; line-height: inherit; text-decoratio=
+n: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: n=
+ormal;'>DRUG FREE MARION COUNTY</span><br style=3D""><span style=3D'color: =
+#000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=0Asans; fo=
+nt-style: normal;'>EAST ARKANSAS CROSSROADS COALITION</span><br style=3D"">=
+<span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style: normal;'>EAT MORE ART! VEGAS</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>ECO ART PROJECT</span><br styl=
+e=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit=
+; line-height: inherit; text-decoration: inherit; font-family: "trebuchet m=
+s", tahoma, arial, sans; font-style: normal;'>EDIFY TEENS MINISTRIES</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>ED-TECH GROUP</span><=
+br=0Astyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>EDUCATORS STRATEGIES=
+ NETWORK</span><br style=3D""><span style=3D'color: #000000; font-size: 16p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>EL CAM=
+PO MEDICAL FOUNDATION</span><br style=3D""><span style=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: no=
+rmal;'>ELDER CARE SOCIAL</span><br style=3D""><span style=3D'color: #000000=
+; font-size: 16px; font-weight: inherit; line-height: inherit; text-decorat=
+ion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=
+ normal;'>ENVIRONMENTAL JUSTICE COMMUNITY ACTION NETWORK</span><br style=3D=
+""><span style=3D'color:=0A#000000; font-size: 16px; font-weight: inherit; =
+line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms"=
+, tahoma, arial, sans; font-style: normal;'>ENVISION</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>EPISCOPAL CHURCH IN HAWAII</span><br =
+style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>EPITOME OF SOUL</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>EVOLUTION FOUNDATION</sp=
+an><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit;=0Atext-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>EVOLUTIONARY PHI=
+LANTHROPY & NONPROFIT SERVICES</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>FAIRFIELD COMMUNITY HEALTH CENTER</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>FAIRFIELD COMMUNITY HEALTH CENTER</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>FAIRFIELD FORWARD</sp=
+an><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit; text-decoration:=0Ainherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>FAITH*HOPE*LOVE*=
+CHARITY</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>FEDERAL=
+ EMERGENCY MANAGEMENT AGENCY</span><br style=3D""><span style=3D'color: #00=
+0000; font-size: 16px; font-weight: inherit; line-height: inherit; text-dec=
+oration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-st=
+yle: normal;'>FIGGERS FOUNDATION</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>FIRST PRESBYTERIAN COUNSELING CENTER</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms",=0A=
+tahoma, arial, sans; font-style: normal;'>FLORIDA RETIRED EDUCATORS FOUNDAT=
+ION</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>FONKOZE USA=
+</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>FOOD BANK OF C=
+ENTRAL CAROLINA</span><br style=3D""><span style=3D'color: #000000; font-si=
+ze: 16px; font-weight: inherit; line-height: inherit; text-decoration: inhe=
+rit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'=
+>FOSTER LOVE PROJECT</span><br style=3D""><span style=3D'color: #000000; fo=
+nt-size: 16px; font-weight: inherit; line-height: inherit; text-decoration:=
+ inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: nor=
+mal;'>FOSTERADOPT=0ACONNECT</span><br style=3D""><span style=3D'color: #000=
+000; font-size: 16px; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>FOUNDATION FOR LINCOLN PUBLIC SCHOOLS</span><br style=3D""><sp=
+an style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma=
+, arial, sans; font-style: normal;'>FOUNDATION OF ARTS FOR N.E. ARKANSAS</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>FREEDOM</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>FRIENDS IN NEED HEALTH C=
+ENTER</span><br style=3D""><span=0Astyle=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>FULLER =
+CENTER FOR HOUSING OF LOUISVILLE</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>FULTON THEATRE</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>FUNDRAISER STRATGIES</span><br style=3D""><span style=3D'=
+color: #000000; font-size: 16px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, san=
+s; font-style: normal;'>GELLER CONSULTING</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit;=0Aline-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>GENESIS 1990</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>GEORGIA FIREFIGHTERS BURN FOUNDATION</span><br =
+style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>GET IT RIGHT WITH RAVEN</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GLOBAL ADVISORS =
+ON SMOKEFREE POLICY</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration:=
+=0Ainherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: n=
+ormal;'>GLOBAL PARENTING NETWORK</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>GLOBAL PARTNERSHIP FOR TELEHEALTH</span><br style=3D""><s=
+pan style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-he=
+ight: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahom=
+a, arial, sans; font-style: normal;'>GOD=E2=80=99S UNCHANGING HANDS FEEDING=
+ MINISTRY</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GOOD =
+STUFF</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit; font-=
+family: "trebuchet ms",=0Atahoma, arial, sans; font-style: normal;'>GRACE P=
+LACE SCHOOL</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GRA=
+ND AVENUE ECONOMIC COMMUNITY DEVELOPMENT CORP.</span><br style=3D""><span s=
+tyle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>GRANTWRIITERS</span><br style=3D""><span st=
+yle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ari=
+al, sans; font-style: normal;'>GRAY CENTER</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>GREENVILLE=0ATECHNICAL CHARTER HIGH SCHOOL</spa=
+n><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weigh=
+t: inherit; line-height: inherit; text-decoration: inherit; font-family: "t=
+rebuchet ms", tahoma, arial, sans; font-style: normal;'>GREENWOOD SHALOM OU=
+TREACH</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=
+ font-weight: inherit; line-height: inherit; text-decoration: inherit; font=
+-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GROW DAT=
+ YOUTH FARM</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GUA=
+DALUPE VALLEY TELECOMMUNICATIONS COOPERATIVE FOUNDATION</span><br style=3D"=
+"><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", t=
+ahoma, arial, sans; font-style: normal;'>GUADIANSHIP PROGRAM=0AOF DADE COUN=
+TY</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>GUARDIAN ANG=
+ELS MEDICAL SERVICE DOGS</span><br style=3D""><span style=3D'color: #000000=
+; font-size: 16px; font-weight: inherit; line-height: inherit; text-decorat=
+ion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=
+ normal;'>GULF COADT JFCS HEART GALLERY</span><br style=3D""><span style=3D=
+'color: #000000; font-size: 16px; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns; font-style: normal;'>GULF COAST JFCS HEART GALLERY</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans; font-style: normal;'>HABITAT FOR HUMANITY CHOPTANK</span=
+><br=0Astyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-style: normal;'>HABITAT FOR HUMANI=
+TY OF GALLATIN VALLEY</span><br style=3D""><span style=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: no=
+rmal;'>HABITAT SALT LAKE VALLEY</span><br style=3D""><span style=3D'color: =
+#000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font=
+-style: normal;'>HAVEN FOR HEROS</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>HAVENWOOD</span><br style=3D""><span style=3D'color: #000=
+000; font-size: 16px;=0Afont-weight: inherit; line-height: inherit; text-de=
+coration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-s=
+tyle: normal;'>HAWK MIGRATION ASSOCIATION OF NORTH AMERICA</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>HEARTSET</span><br style=3D"">=
+<span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit; font-family: "trebuchet ms", tah=
+oma, arial, sans; font-style: normal;'>HEATHER=E2=80=99S MISSION IBD SUPPOR=
+T AND AWARENESS</span><br style=3D""><span style=3D'color: #000000; font-si=
+ze: 16px; font-weight: inherit; line-height: inherit; text-decoration: inhe=
+rit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'=
+>HELPING STRAYS OF MONROE COUNTY</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit;=0Aline-height: inherit; te=
+xt-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; f=
+ont-style: normal;'>HIGHPOINTE SERVICES</span><br style=3D""><span style=3D=
+'color: #000000; font-size: 16px; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns; font-style: normal;'>HISPANIC LIAISON OF CHATHAM COUNTY</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>HOLY COMFORTER</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>HOPE AND HELP CENTER OF CENTRA=
+L FLORIDA</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration:=0Ainherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>HOP=
+E CANCER RESOURCES</span><br style=3D""><span style=3D'color: #000000; font=
+-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: i=
+nherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norma=
+l;'>HOPE FOR HAITI'S CHILDREN</span><br style=3D""><span style=3D'color: #0=
+00000; font-size: 16px; font-weight: inherit; line-height: inherit; text-de=
+coration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-s=
+tyle: normal;'>HOPE2HEAL</span><br style=3D""><span style=3D'color: #000000=
+; font-size: 16px; font-weight: inherit; line-height: inherit; text-decorat=
+ion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=
+ normal;'>HOWARD ROYAL ACADEMY</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style:=0Anormal;'>I HAVE A DREAM FOUNDATION - NEW JERSEY</span><br style=3D=
+""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; font-style: normal;'>ICENTER</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>IN OUR OWN VOICES</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>INFORMED CONSENT ACTION NETWORK</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>INGENUITYNE</span><b=
+r style=3D""><span style=3D'color:=0A#000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>INGOMA MUSIC ACADEMY<=
+/span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-family=
+: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>INTEGRIS MANAGE=
+MENT SOLUTIONS</span><br style=3D""><span style=3D'color: #000000; font-siz=
+e: 16px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>=
+INTERNATIONAL END OF LIFE DOULA ASSOCIATION</span><br style=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial=
+, sans; font-style: normal;'>INTERNATIONAL OUTREACH CENTERS</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px;=0Afont-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>ISABELLA COUNTY CHILD ADVOCA=
+CY CENTER</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>JACK =
+& JILL CHILDREN'S CENTER</span><br style=3D""><span style=3D'color: #000000=
+; font-size: 16px; font-weight: inherit; line-height: inherit; text-decorat=
+ion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=
+ normal;'>JAYADEVI ARTS</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>JAYNE AGENCY</span><br style=3D""><span style=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+:=0Ainherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>JEHOVAHS HOUSE</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>JUSTHOPE</span><br style=3D""><span style=3D'color: #000000; font-=
+size: 16px; font-weight: inherit; line-height: inherit; text-decoration: in=
+herit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal=
+;'>KAHN</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>KEEP IT=
+ MOVING</span><br style=3D""><span style=3D'color: #000000; font-size: 16px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit; fon=
+t-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>KEEP LO=
+UISIANA=0ABEAUTIFUL</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>KINDNESS, INCORPORATED</span><br style=3D""><span style=3D'color: #000=
+000; font-size: 16px; font-weight: inherit; line-height: inherit; text-deco=
+ration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-sty=
+le: normal;'>KOOTENAI HUMANE SOCIETY</span><br style=3D""><span style=3D'co=
+lor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; =
+text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans;=
+ font-style: normal;'>LABEAST SPORTS APPAREL FOUNDATION</span><br style=3D"=
+"><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", t=
+ahoma, arial, sans; font-style: normal;'>LASHONE GARTH</span><br style=3D""=
+><span style=3D'color: #000000;=0Afont-size: 16px; font-weight: inherit; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; font-style: normal;'>LEADERSHIP CONSORTIUM</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>LEEZA'S CARE CONNECTION</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>LEG UP 4 LITERACY=
+</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>LGBT DETROIT</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration:=0Ainherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>LIBERATION INS=
+TITUTE</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=
+ font-weight: inherit; line-height: inherit; text-decoration: inherit; font=
+-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>LIBERTY =
+LEARNING FOUNDATION</span><br style=3D""><span style=3D'color: #000000; fon=
+t-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norm=
+al;'>LIGHT OF TRUTH CENTER</span><br style=3D""><span style=3D'color: #0000=
+00; font-size: 16px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-styl=
+e: normal;'>LITTLE FIVE POINTS CENTER FOR ARTS AND COMMUNITY</span><br styl=
+e=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit=
+; line-height: inherit; text-decoration: inherit; font-family: "trebuchet=
+=0Ams", tahoma, arial, sans; font-style: normal;'>LOKAHI PACIFIC</span><br =
+style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>LOOKING FOR LINCOLN HERIT=
+AGE COALITION</span><br style=3D""><span style=3D'color: #000000; font-size=
+: 16px; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>L=
+ORD'S ANGEL MINISTRY CORP</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>LOVE MORE JUDGE LESS</span><br style=3D""><span style=3D'color: =
+#000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font=
+-style: normal;'>LOVING=0AOUR CHILDREN</span><br style=3D""><span style=3D'=
+color: #000000; font-size: 16px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, san=
+s; font-style: normal;'>LUTHERAN CHURCH CHARITIES</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>MADD FLORIDA</span><br style=3D""><span =
+style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height=
+: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, a=
+rial, sans; font-style: normal;'>MAGELLAN MANAGEMENT</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>MAINE MASONIC CHARITABLE FOUNDATION</=
+span><br style=3D""><span style=3D'color: #000000;=0Afont-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>MANATEE COUNTY=
+ MEDICAL SOCIETY</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>MARTIN PEAR JEWISH COMMUNITY CAMPUS</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>MARY SUNSHINE HOUSE</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>MARYLAND CHAPTER, AMERICAN ACADEMY OF PEDIATRIC=
+S</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=0Afo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>MASSCHALLEN=
+GE</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>MCGREGOR CLI=
+NIC</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>MERCY FOR A=
+NIMALS</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=
+ font-weight: inherit; line-height: inherit; text-decoration: inherit; font=
+-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>MIDCOAST=
+ LYME DISEASE SUPPORT & EDUCATION (MLDSE)</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit;=0Atext-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>MIDLANDS FATHERHOOD COALITION</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>MT ZION COMMUNITY REINVESTMENT=
+ CORPORATION</span><br style=3D""><span style=3D'color: #000000; font-size:=
+ 16px; font-weight: inherit; line-height: inherit; text-decoration: inherit=
+; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>NA=
+MI SAN ANTONIO</span><br style=3D""><span style=3D'color: #000000; font-siz=
+e: 16px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>=
+NANOE</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit; font-=
+family: "trebuchet ms",=0Atahoma, arial, sans; font-style: normal;'>NATIONA=
+L ACADEMY OF SOCIAL INSURANCE</span><br style=3D""><span style=3D'color: #0=
+00000; font-size: 16px; font-weight: inherit; line-height: inherit; text-de=
+coration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-s=
+tyle: normal;'>NATIONAL AGING IN PLACE COUNCIL</span><br style=3D""><span s=
+tyle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>NATIONAL DANCE EDUCATION ORGANIZATION</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>NATIONAL SPEECH & DE=
+BATE ASSOCIATION</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma,=0Aarial, sans; font-style: norma=
+l;'>NATIVE AMERICAN INDIAN CENTER OF CENTRAL OHIO</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>NEHEMIAH COMMUNITY DEVELOPMENT CORPORATI=
+ON</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>NEHEMIAH COM=
+MUNITY EMPOWERMENT CENTER</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>NEWBERRY COUNTY LITERACY COUNCIL</span><br style=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms",=0Atahoma, ari=
+al, sans; font-style: normal;'>NEXT GEN INNOVATORS</span><br style=3D""><sp=
+an style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma=
+, arial, sans; font-style: normal;'>NORTH FLORIDA LAND TRUST</span><br styl=
+e=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit=
+; line-height: inherit; text-decoration: inherit; font-family: "trebuchet m=
+s", tahoma, arial, sans; font-style: normal;'>NORTH TEXAS DISTRICT ASSEMBLI=
+ES OF GOD</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>NORTH=
+BAY EDUCATION</span><br style=3D""><span style=3D'color: #000000; font-size=
+: 16px; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>N=
+ORTHWEST=0ACO CENTER FOR INDEPENDENCE</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>NORTHWEST TRIBAL EMERGENCY MANAGEMENT COUNCIL</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>NORWESCAP</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>NOVOA BALLESTEROS CORPORAT=
+ION</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>NW WORKS</s=
+pan><br style=3D""><span=0Astyle=3D'color: #000000; font-size: 16px; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-family=
+: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>OASIS HEALTH AN=
+D WELLNESS CENTERS INTERNATIONAL</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fon=
+t-style: normal;'>OCEAN DREAMS CANCER HEALING CENTER</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>OLIVE HILL COMMUNITY ECONOMIC DEVELOP=
+MENT CORPORATION</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>ONE HEART PROJECT</span><br style=3D""><span=0Astyle=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: no=
+rmal;'>ONSLOW MEMORIAL HOSPITAL FOUNDATION</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>OPEN ARMS FAMILY AND EDUCATIONAL SERVICES</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>OPERATION LIFE SUPPO=
+RT</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>OUTRIGGER DU=
+KE KAHANAMOKU FOUNDATION</span><br style=3D""><span style=3D'color:=0A#0000=
+00; font-size: 16px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-styl=
+e: normal;'>PALMS TO PINES PARASPORTS</span><br style=3D""><span style=3D'c=
+olor: #000000; font-size: 16px; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans=
+; font-style: normal;'>PAPILLION CENTER</span><br style=3D""><span style=3D=
+'color: #000000; font-size: 16px; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sa=
+ns; font-style: normal;'>PARADOX FOUNDATION</span><br style=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial=
+, sans; font-style: normal;'>PARTNERS FOR OUR COMMUNITIES</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height:=0Ainherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>PASSION AND COMPASSION</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>PATHWAYS TO PROMISE<=
+/span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-family=
+: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>PATRICK WEAVER =
+MINISTRIES</span><br style=3D""><span style=3D'color: #000000; font-size: 1=
+6px; font-weight: inherit; line-height: inherit; text-decoration: inherit; =
+font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>PENN=
+SYLVANIA FARM LINK</span><br style=3D""><span style=3D'color: #000000; font=
+-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: i=
+nherit; font-family: "trebuchet ms",=0Atahoma, arial, sans; font-style: nor=
+mal;'>PEQ</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>PETER=
+ KIEWIT FOUNDATION</span><br style=3D""><span style=3D'color: #000000; font=
+-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: i=
+nherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norma=
+l;'>PILGRIM REST MISSIONARY BAPTIST CHURCH</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>PINE RIDGE HOLISTIC LIVING CENTER</span><br sty=
+le=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>PLUS=0ACONSULTING CAREER CLU=
+B</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font=
+-weight: inherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>POSITIVE WELL=
+NESS ALLIANCE</span><br style=3D""><span style=3D'color: #000000; font-size=
+: 16px; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>P=
+RAIRIELAND SERVICE COORDINATION</span><br style=3D""><span style=3D'color: =
+#000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font=
+-style: normal;'>PRESBYTERY OF EAST IOWA</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>PRODUCT OF ENVIRONMENT POE</span><br=0Astyle=3D=
+""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; font-style: normal;'>PROJECT AK-47</span><br style=3D"=
+"><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; lin=
+e-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", t=
+ahoma, arial, sans; font-style: normal;'>PROJECT BRAVO</span><br style=3D""=
+><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line=
+-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", ta=
+homa, arial, sans; font-style: normal;'>PROVIDENCE PLACE</span><br style=3D=
+""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit; li=
+ne-height: inherit; text-decoration: inherit; font-family: "trebuchet ms", =
+tahoma, arial, sans; font-style: normal;'>RAINMAKER CONSULTING</span><br st=
+yle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inher=
+it; line-height:=0Ainherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>RALLY4RECOVERYRI</span><b=
+r style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit; font-family: "trebu=
+chet ms", tahoma, arial, sans; font-style: normal;'>RAMEY ENTERPRISES</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>RATZLAFF CONSULTING<=
+/span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-w=
+eight: inherit; line-height: inherit; text-decoration: inherit; font-family=
+: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>REBUILDING TOGE=
+THER MONTGOMERY COUNTY</span><br style=3D""><span style=3D'color: #000000; =
+font-size: 16px; font-weight: inherit; line-height: inherit; text-decoratio=
+n: inherit; font-family: "trebuchet ms",=0Atahoma, arial, sans; font-style:=
+ normal;'>RESTORATION OUTREACH</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>RESTORE TO EMPOWER</span><br style=3D""><span style=3D'colo=
+r: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; te=
+xt-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; f=
+ont-style: normal;'>RETRAINING THEVILLAGR</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>RISE MY CHILD FOUNDATION</span><br style=3D""><=
+span style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-h=
+eight: inherit; text-decoration: inherit; font-family: "trebuchet ms", taho=
+ma, arial, sans; font-style: normal;'>RIVER BEND NATURE=0ACENTER</span><br =
+style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>RIVERS EDGE RETREAT</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>ROANENET</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans; font-style: normal;'>RODGERS THEATRE</span><br =
+style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>ROGERS SLATER FOUNDATION<=
+/span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-w=
+eight:=0Ainherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>ROLAND PARK C=
+IVIC LEAGUE</span><br style=3D""><span style=3D'color: #000000; font-size: =
+16px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>RON=
+ALD MCDONALD HOUSE CHARITIES OF CHARLESTON</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>ROOSEVELT INSTITUTE</span><br style=3D""><span =
+style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height=
+: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, a=
+rial, sans; font-style: normal;'>ROPER MOUNTAIN SCIENCE CENTER</span><br st=
+yle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inher=
+it; line-height: inherit;=0Atext-decoration: inherit; font-family: "trebuch=
+et ms", tahoma, arial, sans; font-style: normal;'>SALUSCARE</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>SALUTE FOR STYLE</span><br sty=
+le=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>SALVATION ARMY OF COLLIER CO=
+UNTY</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; f=
+ont-weight: inherit; line-height: inherit; text-decoration: inherit; font-f=
+amily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>SAN DIEGO =
+AIR & SPACE MUSEUM</span><br style=3D""><span style=3D'color: #000000; font=
+-size: 16px; font-weight: inherit; line-height: inherit; text-decoration: i=
+nherit; font-family: "trebuchet ms", tahoma,=0Aarial, sans; font-style: nor=
+mal;'>SAN JOSE CLINIC</span><br style=3D""><span style=3D'color: #000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: no=
+rmal;'>SANCTUARY AT ABQ</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>SARATOGA WARHORSE</span><br style=3D""><span style=3D'color: #0000=
+00; font-size: 16px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-styl=
+e: normal;'>SCORE</span><br style=3D""><span style=3D'color: #000000; font-=
+size: 16px; font-weight: inherit; line-height: inherit; text-decoration: in=
+herit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal=
+;'>SECOND HELPINGS</span><br style=3D""><span style=3D'color: #000000;=0Afo=
+nt-size: 16px; font-weight: inherit; line-height: inherit; text-decoration:=
+ inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: nor=
+mal;'>SHALOM RECOVERY SERVICES</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>SHARON CAMPBELL SOLUTION GROUP</span><br style=3D""><span s=
+tyle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>SHIELD FOR HUMAN RIGHTS AND DEVELOPMENT</sp=
+an><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-style: normal;'>SICKLE CELL ASSOCI=
+ATION OF HOUSTON</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px;=0Afont-weight: inherit; line-height: inherit; text-decoration: i=
+nherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: norma=
+l;'>SIERRA DELTA</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>SKYROCKET COMMUNICATIONS</span><br style=3D""><span style=3D'color: #0000=
+00; font-size: 16px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-styl=
+e: normal;'>SO WHAT ELSE</span><br style=3D""><span style=3D'color: #000000=
+; font-size: 16px; font-weight: inherit; line-height: inherit; text-decorat=
+ion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style:=
+ normal;'>SOCIAL JUSTICE CENTER- MADISON, WI</span><br style=3D""><span sty=
+le=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit;=0Afont-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>SOCIETY OF SAINT VINCENT DE PAUL GEORGIA</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>SOGO GLOBAL</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>SOLEIL FOUNDATION</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>SOLID FOUNDATION =
+YOUTH OUTREACH</span><br style=3D""><span style=3D'color: #000000; font-siz=
+e: 16px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans;=0Afont-style: normal;=
+'>SOMERVELL HISTORY FOUNDATION</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>SOUTHERN ARIZ RESEARCH, SCIENCE & ENGINEERING FOUNDATION</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>SPCA OF TEXAS</sp=
+an><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-style: normal;'>SPECTRUM DESIGNS F=
+OUNDATION</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>ST.=
+=0AAUGUSTINE SOCIETY</span><br style=3D""><span style=3D'color: #000000; fo=
+nt-size: 16px; font-weight: inherit; line-height: inherit; text-decoration:=
+ inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: nor=
+mal;'>STARFISH FOUNDATION</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>STONES RIVER MANOR</span><br style=3D""><span style=3D'color: #0=
+00000; font-size: 16px; font-weight: inherit; line-height: inherit; text-de=
+coration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-s=
+tyle: normal;'>SUCCESS CENTERS</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>SUMMERVILLE BAPTIST CHURCH</span><br style=3D""><span style=
+=3D'color: #000000;=0Afont-size: 16px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>SWANNANOA VALLEY CHRISTIAN MINISTRY</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>TANGO ALLIANCE</span><br=
+ style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit; font-family: "trebuc=
+het ms", tahoma, arial, sans; font-style: normal;'>TARIK BLACK FOUNDATION</=
+span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+ "trebuchet ms", tahoma, arial, sans; font-style: normal;'>TEEN HYPE</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit;=0Atext-decoration: inherit; font-family: "t=
+rebuchet ms", tahoma, arial, sans; font-style: normal;'>THE LEARNING CHANNE=
+L COMMUNICATIONS</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>TMH FOUNDATION</span><br style=3D""><span style=3D'color: #000000; font-s=
+ize: 16px; font-weight: inherit; line-height: inherit; text-decoration: inh=
+erit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;=
+'>TOMORROWS HOPE PREGNANCY MEDICAL CLINIC</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>TRENDS OR TREASURES</span><br style=3D""><span =
+style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height=
+: inherit; text-decoration: inherit; font-family:=0A"trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>TRIANGLE REGIONAL FILM COMMISSION</span>=
+<br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit; font-family: "tre=
+buchet ms", tahoma, arial, sans; font-style: normal;'>TRINITY LUTHERAN SCHO=
+OL</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit; font-fam=
+ily: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>TRINITY VISI=
+ON GLOBAL</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>TURFG=
+RASS WATER CONSERVATION ALLIANCE</span><br style=3D""><span style=3D'color:=
+ #000000; font-size: 16px; font-weight: inherit; line-height: inherit; text=
+-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans;=0Af=
+ont-style: normal;'>TUSKEGEE HISTORY CENTER</span><br style=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial=
+, sans; font-style: normal;'>U.S. CAVALRY & ARMOR ASSOCIATION</span><br sty=
+le=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>UNITED WAY OF ANDERSON COUNT=
+Y</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font=
+-weight: inherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>UNITED WAY OF=
+ DECATUR & MID-ILLINOIS</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: =
+normal;'>UNITED WAY=0AOF FLORENCE COUNTY</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>UNITED WAY OF GREATER ST. LOUIS</span><br style=
+=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: "trebuchet ms=
+", tahoma, arial, sans; font-style: normal;'>UNITED WAY OF NORTHWEST ALABAM=
+A</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font=
+-weight: inherit; line-height: inherit; text-decoration: inherit; font-fami=
+ly: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>UNITED WAY OF=
+ ULSTER COUNTY</span><br style=3D""><span style=3D'color: #000000; font-siz=
+e: 16px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>=
+UNITED WAY OF WAPELLO COUNTY</span><br=0Astyle=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>UNIVERSITY OF PGH BRADFORD</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>UNIVERSITY OF WISCONSIN FOUNDATION</span><br st=
+yle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inher=
+it; line-height: inherit; text-decoration: inherit; font-family: "trebuchet=
+ ms", tahoma, arial, sans; font-style: normal;'>UP VALLEY FAMILY CENTERS</s=
+pan><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-wei=
+ght: inherit; line-height: inherit; text-decoration: inherit; font-family: =
+"trebuchet ms", tahoma, arial, sans; font-style: normal;'>USO HOUSTON</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px;=0Afont-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family: "=
+trebuchet ms", tahoma, arial, sans; font-style: normal;'>VALLE CRUCIS COMMU=
+NITY PARK</span><br style=3D""><span style=3D'color: #000000; font-size: 16=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>VALLE=
+Y INTERFAITH COMMUNITY RESOURCE CENTER</span><br style=3D""><span style=3D'=
+color: #000000; font-size: 16px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, san=
+s; font-style: normal;'>VETERANS FOR DIVERSITY</span><br style=3D""><span s=
+tyle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, ar=
+ial, sans; font-style: normal;'>VICTIM CENTER</span><br style=3D""><span st=
+yle=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: =
+inherit;=0Atext-decoration: inherit; font-family: "trebuchet ms", tahoma, a=
+rial, sans; font-style: normal;'>VILLAGE OF MERICI</span><br style=3D""><sp=
+an style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-hei=
+ght: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma=
+, arial, sans; font-style: normal;'>VISION INTERNATIONAL EDUCATION SERVICES=
+</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit; font-famil=
+y: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>WACO SHEPHERDS=
+ HEART</span><br style=3D""><span style=3D'color: #000000; font-size: 16px;=
+ font-weight: inherit; line-height: inherit; text-decoration: inherit; font=
+-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>WEGNER C=
+PAS</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit; font-fa=
+mily: "trebuchet ms", tahoma,=0Aarial, sans; font-style: normal;'>WELTERASS=
+OCICATES</span><br style=3D""><span style=3D'color: #000000; font-size: 16p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>WEST C=
+ENTRAL GEORGIA CANCER COALITION</span><br style=3D""><span style=3D'color: =
+#000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font=
+-style: normal;'>WESTHOFF, CONE & HOLMSTEDT</span><br style=3D""><span styl=
+e=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: in=
+herit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial=
+, sans; font-style: normal;'>WHETSTONE BOYS RANCH</span><br style=3D""><spa=
+n style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heig=
+ht: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma,=
+ arial, sans; font-style: normal;'>WOMAN I=0AAM</span><br style=3D""><span =
+style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height=
+: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, a=
+rial, sans; font-style: normal;'>WOMEN EMPOWERED</span><br style=3D""><span=
+ style=3D'color: #000000; font-size: 16px; font-weight: inherit; line-heigh=
+t: inherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, =
+arial, sans; font-style: normal;'>WOMEN ROCK</span><br style=3D""><span sty=
+le=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, aria=
+l, sans; font-style: normal;'>WOMEN'S SOUTH CAROLINA GOLF ASSOCIATION</span=
+><br style=3D""><span style=3D'color: #000000; font-size: 16px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit; font-family: "tr=
+ebuchet ms", tahoma, arial, sans; font-style: normal;'>WOOD COUNTY SENIOR C=
+ITIZENS ASSOCIATION</span><br style=3D""><span style=3D'color:=0A#000000; f=
+ont-size: 16px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: no=
+rmal;'>WYOMING HUMANITIES COUNCIL</span><br style=3D""><span style=3D'color=
+: #000000; font-size: 16px; font-weight: inherit; line-height: inherit; tex=
+t-decoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; fo=
+nt-style: normal;'>YES FM</span><br style=3D""><span style=3D'color: #00000=
+0; font-size: 16px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>YES WE CARE</span><br style=3D""><span style=3D'color: #000000; =
+font-size: 16px; font-weight: inherit; line-height: inherit; text-decoratio=
+n: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style: n=
+ormal;'>YMCA OF ABILENE</span><br style=3D""><span style=3D'color: #000000;=
+ font-size: 16px; font-weight: inherit; line-height: inherit; text-decorati=
+on:=0Ainherit; font-family: "trebuchet ms", tahoma, arial, sans; font-style=
+: normal;'>YMCA OF COLUMBIA SC</span><br style=3D""><span style=3D'color: #=
+000000; font-size: 16px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit; font-family: "trebuchet ms", tahoma, arial, sans; font-=
+style: normal;'>YOUNG NONPROFIT FOUNDATION</span><br style=3D""><span style=
+=3D'color: #000000; font-size: 16px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit; font-family: "trebuchet ms", tahoma, arial,=
+ sans; font-style: normal;'>YWCA BINGHAMTON AND BROOME COUNTY</span><br sty=
+le=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>YWCA QUAD CITIES</span><br s=
+tyle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit; font-family: "trebuche=
+t ms", tahoma, arial, sans;=0Afont-style: normal;'>ZIONIC SEAL</span><br st=
+yle=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inher=
+it; line-height: inherit; text-decoration: inherit; font-family: "trebuchet=
+ ms", tahoma, arial, sans; font-style: normal;'>ZOE COMMUNITY</span><br sty=
+le=3D""><span style=3D'color: #000000; font-size: 16px; font-weight: inheri=
+t; line-height: inherit; text-decoration: inherit; font-family: "trebuchet =
+ms", tahoma, arial, sans; font-style: normal;'>1 STEP AT A TIME SUPPORT SER=
+VICES</span><br style=3D""><span style=3D'color: #000000; font-size: 16px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit; font-=
+family: "trebuchet ms", tahoma, arial, sans; font-style: normal;'>3B WELLNE=
+SS</span></span><br></span></div>=0A</div>=0A<p style=3D"margin: 0; outline=
+: none; padding: 0; color: inherit; font-size: 12px; font-weight: inherit; =
+line-height: inherit; text-decoration: inherit;"></p>=0A </div>=0A </div>=
+=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=3D"true" data=
+-ac-inline=3D"false"> #text_div384, #text_div384 div { line-height: 140% !i=
+mportant; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</table>=0A</td>=0A</=
+tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td=
+>=0A</tr>=0A</table>=0A</div>=0A<div id=3D"ac-footer" style=3D"clear:both;b=
+ackground-color:inherit;background:inherit;min-width:100%;mso-table-lspace:=
+0pt;mso-table-rspace:0pt;padding:20px;color:#000000;font-size:11px;font-fam=
+ily:arial,helvetica,sans-serif;line-height:140%;line-height:1.4;text-align:=
+center;box-sizing:border-box;">=0A=09<center>=0A=09=09Sent to: <span style=
+=3D"font-size:11px;font-family:arial,helvetica,sans-serif;font-weight:norma=
+l;text-decoration:none;outline:none;">bruce@untroubled.org</span>=0A=09=09<=
+br>=0A=09=09<br>=0A=09=09<a href=3D"http://jimmylarose.activehosted.com/pro=
+c.php?nl=3D25&c=3D81&m=3D199&s=3D581d945e2f8f561c09da4f7c5f459700&act=3Duns=
+ub" style=3D"font-size:11px;font-family:arial,helvetica,sans-serif;font-wei=
+ght:bold;text-decoration:underline;"><span style=3D"font-weight:bold;text-d=
+ecoration:underline;">Unsubscribe</span></a>=0A=09=09<br>=0A=09=09<br> Nati=
+onal Association of Nonprofit Organizations & Executives, 712 H Street NE, =
+Washington, DC 20002, United States=0A=09</center>=0A</div>=0A<br clear=3D"=
+all" /></body>=0A</html>
+--_=_swift-1323420069606b120ba995f4.39724699_=_--
+

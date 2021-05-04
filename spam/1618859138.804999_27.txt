@@ -1,0 +1,315 @@
+Return-Path: <betterbutterspreader.compromo-bruce=untroubled.org@speed54.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3046695 invoked from network); 19 Apr 2021 17:26:56 -0000
+Received: (qmail 34583 invoked by uid 222); 19 Apr 2021 17:26:56 -0000
+Return-Path: <betterbutterspreader.compromo-bruce=untroubled.org@speed54.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 34580 invoked from network); 19 Apr 2021 17:26:56 -0000
+Received: from mail.speed54.cloud ([70.102.102.98])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 17:26:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed54.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=betterbutterspreader.compromo@speed54.cloud;
+ bh=ttAWH77ufSs0yJVJrrxiNkHG5jU=;
+ b=bUG1JmNcMULsd82w/QgdW3FvgMvQr8t1ebSfQIragnOMlt1I4Odin2nwZlTcevXdGOk5msRA4OYi
+   ijOKBlbbmAHEyp1OJ2MuXfj6gyTwPO0WD2qtTKjQDjNW0YSa7lKRlbTmsO+ccIALsE0jB3R7xUuI
+   d65ZEBedFaTWGpHFRgQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed54.cloud;
+ b=HG+ZpLpyLQDk9jJLjJQHH5U2sR9WhqUgtucjpgqLC/fROz6jdZ4OjvR/shgKk3taXF2HkFDj2v/T
+   ETOfY6gyqH9hbm+XMsV4N2y4umDoFeSO9h4ySKRgn3/r1C1Es7UhY+WBNOVgar4sb+/ql4K1OT5z
+   amL2hYVfmeP0mtLfq8M=;
+Received: by mail.speed54.cloud id hfmujg0001g4 for <bruce@untroubled.org>; Mon, 19 Apr 2021 12:58:05 -0400 (envelope-from <betterbutterspreader.compromo-bruce=untroubled.org@speed54.cloud>)
+Date: Mon, 19 Apr 2021 12:58:05 -0400
+From: Betterbutterspreader.comPromo <betterbutterspreader.compromo@speed54.cloud>
+To:   <bruce@untroubled.org>
+Subject: Special Internet Offer Only: 50% Off Better-Butter Spreader
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_229_737630832.1618851478356"
+List-Unsubscribe: <http://www.speed54.cloud/question-memorableness/4fe4F2395eqv8913jg1S1rWD4b24T21zFv4GIf4rxvs4FhIHEsvZ8qRaomomo6q1PY0o6CX0WcY>
+Message-ID: <0.0.0.19.1D7353D2AC15208.73CC81@mail.speed54.cloud>
+Content-Length: 20384
+
+------=_Part_229_737630832.1618851478356
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>undecomposable</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:arial,helvetica,sans-serif; "><span class=3D"unsty=
+le-auto-detected-links" style=3D"text-decoration: none !important; font-fam=
+ily: sans-serif; font-size: 18px; line-height: 20px; text-align: center; co=
+lor: rgb(153, 153, 153); "><span style=3D"color:#696969; ">Amazing</span></=
+span><a class=3D"unstyle-auto-detected-links" href=3D"http://www.speed54.cloud/9e94B2395n8h6H17QCg1W5f33ORu4b24z21SFv4GIf4rxvs4FhIHEsvZ8jRaomomo7zyoWT106pMckLY/inversely-poling" style=3D"=
+text-decoration: none !important; font-family: sans-serif; font-size: 18px;=
+ line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><span =
+style=3D"color:#696969; "> Butter Spreader at thr Lowest price Ever</span><=
+/a></span></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed54.cloud/9e94B2395n8h6H17QCg1W5f33ORu4b24z21SFv4GIf4rxvs4FhIHEsvZ8jRaomomo7zyoWT106pMckLY/inversely-poling" style=3D"text-decoration: none; "><img alt=3D"butter" src=3D"=
+http://www.speed54.cloud/ed54v2395jQu7a17oB1Z5nf37NLD4b24Q21zFv4GIf4rxvs4FhIHEsvZ8RRaomomo5P1J0I6Q@pc@Y/Mattson-signet" style=3D"width: 589px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; t=
+ext-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size=
+-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-=
+align: center; "><span style=3D"font-family:georgia,serif; ">There are 3 th=
+ings in the world that I can' t stand...</span></p> <p style=3D"caret-color=
+: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-st=
+yle: normal; font-variant-caps: normal; font-weight: normal; letter-spacing=
+: normal; text-indent: 0px; text-transform: none; white-space: normal; word=
+-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; text-align: center; ">&nbsp; </p> <p style=3D"caret=
+-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; f=
+ont-style: normal; font-variant-caps: normal; font-weight: normal; letter-s=
+pacing: normal; text-indent: 0px; text-transform: none; white-space: normal=
+; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; text-decoration: none; text-align: center; "><span style=3D"font-fam=
+ily:georgia,serif; ">1.) mean people.</span></p> <p style=3D"caret-color: r=
+gb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style=
+: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: n=
+ormal; text-indent: 0px; text-transform: none; white-space: normal; word-sp=
+acing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; text-align: center; ">&nbsp; </p> <p style=3D"caret-co=
+lor: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-indent: 0px; text-transform: none; white-space: normal; w=
+ord-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; text-align: center; "><span style=3D"font-family=
+:georgia,serif; ">2.) being sick in bed.</span></p> <p style=3D"caret-color=
+: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-st=
+yle: normal; font-variant-caps: normal; font-weight: normal; letter-spacing=
+: normal; text-indent: 0px; text-transform: none; white-space: normal; word=
+-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; text-align: center; ">&nbsp; </p> <p style=3D"caret=
+-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; f=
+ont-style: normal; font-variant-caps: normal; font-weight: normal; letter-s=
+pacing: normal; text-indent: 0px; text-transform: none; white-space: normal=
+; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; text-decoration: none; text-align: center; "><span style=3D"font-fam=
+ily:georgia,serif; ">3.) trying to spread cold butter on toast...</span></p=
+> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; =
+white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webki=
+t-text-stroke-width: 0px; text-decoration: none; text-align: center; ">&nbs=
+p; </p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: -webkit-standard; font-style: normal; font-variant-caps: normal; font=
+-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: =
+none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; =
+"><span style=3D"font-family:georgia,serif; ">I know I know...</span></p> <=
+p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -we=
+bkit-standard; font-style: normal; font-variant-caps: normal; font-weight: =
+normal; letter-spacing: normal; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; text-align: center; ">&nbsp; =
+</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-famil=
+y: -webkit-standard; font-style: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; text-indent: 0px; text-transform: non=
+e; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><=
+span style=3D"font-family:georgia,serif; ">That last one seems a little out=
+ of place, right?</span></p> <p style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-varia=
+nt-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: =
+0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-tex=
+t-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;=
+ text-align: center; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); c=
+olor: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font=
+-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-in=
+dent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -m=
+oz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><span style=3D"font-family:georgia,serif; ">Bu=
+t let' s be honest:</span></p> <p style=3D"caret-color: rgb(0, 0, 0); color=
+: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent=
+: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; text-align: center; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0);=
+ color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; fo=
+nt-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; text-align: center; "><span style=3D"font-family:georgia,serif; ">=
+Is there anything more frustrating than trying to make toast for yourself i=
+n the morning...</span></p> <p style=3D"caret-color: rgb(0, 0, 0); color: r=
+gb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-varian=
+t-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0=
+px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text=
+-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; =
+text-align: center; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); co=
+lor: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-=
+variant-caps: normal; font-weight: normal; letter-spacing: normal; text-ind=
+ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -mo=
+z-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: =
+none; text-align: center; "><span style=3D"font-family:georgia,serif; ">And=
+ when you go to spread cold butter onto your toast, it ? chews up? the brea=
+d, making it look like something out of a horror film...?</span></p> </td>=
+=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; "> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); =
+font-family: -webkit-standard; font-style: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; widows:=
+ auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stro=
+ke-width: 0px; text-decoration: none; ">There are 3 things in the world tha=
+t I can' t stand, FIRSTNAME...</p> <p style=3D"caret-color: rgb(0, 0, 0); col=
+or: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-align: start; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto;=
+ -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> <p st=
+yle=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit=
+-standard; font-style: normal; font-variant-caps: normal; font-weight: norm=
+al; letter-spacing: normal; orphans: auto; text-align: start; text-indent: =
+0px; text-transform: none; white-space: normal; widows: auto; word-spacing:=
+ 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-=
+decoration: none; ">1.) mean people.</p> <p style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; o=
+rphans: auto; text-align: start; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </=
+p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">2.) being sick in bed.</p> <p style=3D"caret-co=
+lor: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; orphans: auto; text-align: start; text-indent: 0px; text-trans=
+form: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0)=
+; font-family: -webkit-standard; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; ">3.) trying to spread cold butter =
+on toast...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: -webkit-standard; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-s=
+tyle: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; orphans: auto; text-align: start; text-indent: 0px; text-transfo=
+rm: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tex=
+t-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;=
+ ">I know I know...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0=
+, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard=
+; font-style: normal; font-variant-caps: normal; font-weight: normal; lette=
+r-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text=
+-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -we=
+bkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; ">That last one seems a little out of place, right?</p> <p style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-st=
+andard; font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px=
+; text-transform: none; white-space: normal; widows: auto; word-spacing: 0p=
+x; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-dec=
+oration: none; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-varia=
+nt-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto=
+; text-align: start; text-indent: 0px; text-transform: none; white-space: n=
+ormal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; ">But let' s be honest:=
+</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-famil=
+y: -webkit-standard; font-style: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; orphans: auto; text-align: start; tex=
+t-indent: 0px; text-transform: none; white-space: normal; widows: auto; wor=
+d-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: =
+0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: none; w=
+hite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">Is there=
+ anything more frustrating than trying to make toast for yourself in the mo=
+rning...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: -webkit-standard; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; widows: a=
+uto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke=
+-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-color: =
+rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-styl=
+e: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: =
+normal; orphans: auto; text-align: start; text-indent: 0px; text-transform:=
+ none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-s=
+ize-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">=
+And when you go to spread cold butter onto your toast, it ? chews up? the b=
+read, making it look like something out of a horror film...?</p> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; If you do not wish to receive future messages click here to <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed54.cloud/wordily-melodies/8fa4d2395r8Bl612o15f34n4b24J21GFv4GIf4rxvs4FhIHEsvZ8rRaomomo7z1VRg0s5O2BcY" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px; ">unsubscr=
+ibe</a></span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.speed54.cloud/covertly-spidery/8466k2W39z5Ovl8612O15f35g4b24C21lFv4GIf4rxvs4FhIHEsvZ8eRaomomo6Qo1z0A5PUcTY" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; text-align: center; "><font color=3D"#666666">=
+Better Butter Spreader</font></a> &nbsp; |&nbsp; 4122 Keaton Crossing Blvd,=
+ STE 104 O' Fallon MO 63368 </span><br /> <br /> <br /> <a href=3D"=
+http://www.speed54.cloud/9716u2o3x95Bx89F13p15fG36t4b24i21aFv4GIf4rxvs4FhIHEsvZ8PRaomomo7Q1Gro0L5mqcYW/selection-Rachel">&nbsp; Leave Here</a><br /> 6547 N Academy Boulevard #1170<br /=
+> 80918 Colorado Springs CO<br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style><style></style></style><span style="crystalline"></span><style lang="identifiable"></style><big></big> =20
+ <img src=3D"http://www.speed54.cloud/baton-brainwashed/12C4S2395b8hQ513h1L5f38P4b24v21SFv4GIf4rxvs4FhIHEsvZ8gRaomomo7Q1Ginx06CJcqYp" alt=3D""/></body>
+</html>
+
+------=_Part_229_737630832.1618851478356--
+

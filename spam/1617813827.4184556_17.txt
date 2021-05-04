@@ -1,0 +1,227 @@
+Return-Path: <candice@accentproleads.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1267782 invoked from network); 6 Apr 2021 14:32:33 -0000
+Received: (qmail 190721 invoked by uid 222); 6 Apr 2021 14:32:33 -0000
+Return-Path: <candice@accentproleads.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 190717 invoked from network); 6 Apr 2021 14:32:33 -0000
+Received: from mail-ua1-x92a.google.com (mail-ua1-x92a.google.com [IPv6:2607:f8b0:4864:20::92a])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 06 Apr 2021 14:32:33 -0000
+Received: by mail-ua1-x92a.google.com with SMTP id u11so4693943uaw.2
+        for <bruce@untroubled.org>; Tue, 06 Apr 2021 07:32:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accentproleads-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=GQEklfmhg8rfsXT5UoMONtelM8ZlclaGX5N9+wNCLIw=;
+        b=ZGQTkrBYK9FiAWNyggDAJ1n/w9MBuJlfpW+mrcxpdM427k+BbiDzBsdd3nEPewJF6O
+         BDrHVZNllSgIVH1sBnFoeg2JUlt6ZRAP4I2ZJes7SUTUXLLVu7mEc7CQRRdPIHtIPYnQ
+         VRhT9QuZ1vwab5sPw7BYCP1jg3sbsw9+/lbSWtGLrPYpMA4f2O018ZtGaTlLbI76T1t5
+         LzGBO5SDSfbYMMT+kPh82NYX/ipvZAmHKgeViXAkIwLjU6L1BpG/kzYQSd5VNM/+w/YF
+         IoMBz8uzrzn3uYQhIl0+JHU9bUviwYOH2acF8CbeuP4QGp9PwZSRJfo1hj78Rulx/Iff
+         YkyQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=GQEklfmhg8rfsXT5UoMONtelM8ZlclaGX5N9+wNCLIw=;
+        b=mWbL0toZ6qjMseRn6rtOZCkw74RbnxtqL2smIn90OUQnFuq9h6KxN35udSGdmRFpiR
+         aDb056VpKVxNImwzAPOVwmbyLjFQljko7cDakXxJFjOqAXIIDk4P+8NsEK0EkplxfqEq
+         JBxZ6TtJMuZxZie9ZMPI5YyXwQm5nPUylLrkZLF0m0bWTwC3RzxglS591iwnuEres/dx
+         Ly9/FqGvnU4pN0FwQWcEw5lN/3yRddhiIi127YBN8ln1uM+AtXWXlR86ekfzYi9NKvNa
+         yb6dO4t35amBaH7cmwSEu3QmlyxdtoaSSZ00syKvSZjJHR0Mrv4gjUrhBYnWOs6C70aw
+         ghJA==
+X-Gm-Message-State: AOAM530ArquA83sjJ3beZeSjE4aZHRwNppYe1D8qth//qgbkogHwz332
+	SzfWacR74hMFp4e+lkbOUtc4EnxoMuv0CjozNjTnvA==
+X-Google-Smtp-Source: ABdhPJxLvTzi10cOwseHZ2/R6d4baZZxIvyfnY32Abc5dayEZik24welhm7UbuGWnLMRtuMJ1xXofXaskoXYhtbqrGM=
+X-Received: by 2002:ab0:3149:: with SMTP id e9mr16077788uam.48.1617719552339;
+ Tue, 06 Apr 2021 07:32:32 -0700 (PDT)
+MIME-Version: 1.0
+From: Candice Cromwell <candice@accentproleads.com>
+Date: Tue, 6 Apr 2021 09:32:20 -0500
+Message-ID: <CADiYm2UD4TwsMZAJnXt4MrFSosF42pgmXZ5=bymJP4dguhk-Aw@mail.gmail.com>
+Subject: RE: AVMA Attendees Data List -2021
+To: Candice Cromwell <candice@accentproleads.com>
+Content-Type: multipart/alternative; boundary="00000000000043868b05bf4eafcc"
+Bcc: bruce@untroubled.org
+Content-Length: 8540
+
+--00000000000043868b05bf4eafcc
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+
+
+I hope you and your family are safe!
+
+
+
+*Would you be interested in acquiring American Veterinary Medical
+Association Attendees Data List -2021?*
+
+*List Includes:-*Org Name, First Name. Contact Job Title, *Verified Email
+Address*, Website URL, Mailing Address, Phone Number, Fax Number, Industry
+and many more=E2=80=A6
+
+*Number of Contacts: 10,694 Opt-in Contacts.*
+
+*Cost                    :- $ 1,684*
+
+
+
+Appreciate your time and Looking forward to hearing from you.
+
+
+
+Kind Regards,
+Candice Cromwell
+
+Marketing Coordinator
+
+
+
+If you do not wish to receive future emails from us, please reply as =E2=80=
+=98leave
+out=E2=80=99
+
+--00000000000043868b05bf4eafcc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify;backgro=
+und-image:initial;background-position:initial;background-size:initial;backg=
+round-repeat:initial;background-origin:initial;background-clip:initial;marg=
+in:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span la=
+ng=3D"EN-US" style=3D"color:rgb(31,73,125)">Hi,</span><span style=3D"font-s=
+ize:12pt;font-family:&quot;Times New Roman&quot;,serif"></span></p><p class=
+=3D"MsoNormal" style=3D"text-align:justify;background-image:initial;backgro=
+und-position:initial;background-size:initial;background-repeat:initial;back=
+ground-origin:initial;background-clip:initial;margin:0cm 0cm 0.0001pt;font-=
+size:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"col=
+or:rgb(31,73,125)">=C2=A0</span><span style=3D"font-size:12pt;font-family:&=
+quot;Times New Roman&quot;,serif"></span></p><p class=3D"MsoNormal" style=
+=3D"text-align:justify;background-image:initial;background-position:initial=
+;background-size:initial;background-repeat:initial;background-origin:initia=
+l;background-clip:initial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-famil=
+y:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">I=
+ hope you and your family
+are safe!</span><span style=3D"font-size:12pt;font-family:&quot;Times New R=
+oman&quot;,serif"></span></p><p class=3D"MsoNormal" style=3D"text-align:jus=
+tify;background-image:initial;background-position:initial;background-size:i=
+nitial;background-repeat:initial;background-origin:initial;background-clip:=
+initial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-ser=
+if"><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">=C2=A0</span><span =
+style=3D"font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"></sp=
+an></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 10pt;text-align:justi=
+fy;line-height:13.8pt;background-image:initial;background-position:initial;=
+background-size:initial;background-repeat:initial;background-origin:initial=
+;background-clip:initial;font-size:11pt;font-family:Calibri,sans-serif"><b>=
+<span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">Would you be interested=
+ in acquiring American Veterinary Medical
+Association Attendees Data List -2021?</span></b></p><p class=3D"MsoNormal"=
+ style=3D"margin:0cm 0cm 10pt;text-align:justify;line-height:13.8pt;backgro=
+und-image:initial;background-position:initial;background-size:initial;backg=
+round-repeat:initial;background-origin:initial;background-clip:initial;font=
+-size:11pt;font-family:Calibri,sans-serif"><b><span lang=3D"EN-US" style=3D=
+"color:rgb(31,73,125)">List Includes:-</span></b><span lang=3D"EN-US" style=
+=3D"color:rgb(31,73,125)">Org Name, First Name. Contact Job Title,=C2=A0<b>=
+Verified Email Address</b>,
+Website URL,=C2=A0Mailing Address, Phone Number, Fax Number, Industry and m=
+any
+more=E2=80=A6</span><span style=3D"font-size:12pt;font-family:&quot;Times N=
+ew Roman&quot;,serif"></span></p><p class=3D"MsoNormal" style=3D"text-align=
+:justify;background-image:initial;background-position:initial;background-si=
+ze:initial;background-repeat:initial;background-origin:initial;background-c=
+lip:initial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">Number of Co=
+ntacts: 10,694
+Opt-in Contacts.</span></b><span style=3D"font-size:12pt;font-family:&quot;=
+Times New Roman&quot;,serif"></span></p><p class=3D"MsoNormal" style=3D"tex=
+t-align:justify;background-image:initial;background-position:initial;backgr=
+ound-size:initial;background-repeat:initial;background-origin:initial;backg=
+round-clip:initial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calib=
+ri,sans-serif"><b><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">Cost=
+=C2=A0 =C2=A0 =C2=A0
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 :- $ 1,684</span></b><span=
+ style=3D"font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"></s=
+pan></p><p class=3D"MsoNormal" style=3D"text-align:justify;background-image=
+:initial;background-position:initial;background-size:initial;background-rep=
+eat:initial;background-origin:initial;background-clip:initial;margin:0cm 0c=
+m 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-=
+US" style=3D"color:rgb(31,73,125)">=C2=A0</span><span style=3D"font-size:12=
+pt;font-family:&quot;Times New Roman&quot;,serif"></span></p><p class=3D"Ms=
+oNormal" style=3D"text-align:justify;background-image:initial;background-po=
+sition:initial;background-size:initial;background-repeat:initial;background=
+-origin:initial;background-clip:initial;margin:0cm 0cm 0.0001pt;font-size:1=
+1pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"color:rgb=
+(31,73,125)">Appreciate your time and
+Looking forward to hearing from you.</span><span style=3D"font-size:12pt;fo=
+nt-family:&quot;Times New Roman&quot;,serif"></span></p><p class=3D"MsoNorm=
+al" style=3D"text-align:justify;background-image:initial;background-positio=
+n:initial;background-size:initial;background-repeat:initial;background-orig=
+in:initial;background-clip:initial;margin:0cm 0cm 0.0001pt;font-size:11pt;f=
+ont-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"color:rgb(31,7=
+3,125)">=C2=A0</span><span style=3D"font-size:12pt;font-family:&quot;Times =
+New Roman&quot;,serif"></span></p><p class=3D"MsoNormal" style=3D"text-alig=
+n:justify;background-image:initial;background-position:initial;background-s=
+ize:initial;background-repeat:initial;background-origin:initial;background-=
+clip:initial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,san=
+s-serif"><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">Kind Regards,<=
+/span><span style=3D"font-size:12pt;font-family:&quot;Times New Roman&quot;=
+,serif"></span></p><div style=3D"text-align:justify"><font color=3D"#1f497d=
+" face=3D"Calibri, sans-serif"><span style=3D"font-size:14.6667px">Candice =
+Cromwell</span></font></div><p class=3D"MsoNormal" style=3D"text-align:just=
+ify;background-image:initial;background-position:initial;background-size:in=
+itial;background-repeat:initial;background-origin:initial;background-clip:i=
+nitial;margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-seri=
+f"><span lang=3D"EN-US" style=3D"color:rgb(31,73,125)">Marketing Coordinato=
+r</span><span style=3D"font-size:12pt;font-family:&quot;Times New Roman&quo=
+t;,serif"></span></p><p class=3D"MsoNormal" style=3D"text-align:justify;bac=
+kground-image:initial;background-position:initial;background-size:initial;b=
+ackground-repeat:initial;background-origin:initial;background-clip:initial;=
+margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><spa=
+n lang=3D"EN-US" style=3D"color:rgb(31,73,125)">=C2=A0</span><span style=3D=
+"font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"></span></p><=
+p class=3D"MsoNormal" style=3D"text-align:justify;background-image:initial;=
+background-position:initial;background-size:initial;background-repeat:initi=
+al;background-origin:initial;background-clip:initial;margin:0cm 0cm 0.0001p=
+t;font-size:11pt;font-family:Calibri,sans-serif">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class=3D"MsoNormal" style=3D"text-align:justify;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repeat:=
+initial;background-origin:initial;background-clip:initial;margin:0cm 0cm 0.=
+0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-US" =
+style=3D"color:rgb(31,73,125)">If you do not wish to
+receive future emails from us, please reply as =E2=80=98leave out=E2=80=99<=
+/span></p></div>
+
+--00000000000043868b05bf4eafcc--

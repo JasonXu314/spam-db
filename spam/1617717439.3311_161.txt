@@ -1,0 +1,292 @@
+Return-Path: <patricia.mickey@absdigitrade.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1246599 invoked from network); 6 Apr 2021 09:16:53 -0000
+Received: (qmail 186056 invoked from network); 6 Apr 2021 09:16:52 -0000
+Received: from leads-prospects.com (user.ldpst152.leads-prospects.com [144.217.248.152])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Apr 2021 09:16:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=standard; d=absdigitrade.com;
+ h=From:To:References:In-Reply-To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=patricia.mickey@absdigitrade.com;
+ bh=vuKFcqM0om7X4BftjX6bq1PKFtk=;
+ b=CPMw8flXdd0ZPCWr1vNprLTnPkTzhOd4EjcHsV07ri2Nu59tobR+qyRqtOXQvJ3ktLks0vUUb3Xh
+   P26i3opxVJ+p04RC1RaQCoTd8MbO9ZZ2Xxbbcge+uh+V9vv+qIPF2YhKEiLX/lHVWiKwXsmYGbOL
+   PcrzjzltXXtLWzT8ByA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=standard; d=absdigitrade.com;
+ b=YdCfFRTNQu7opJJazNIziefTa4V3TT2h0Ye7b3ij3y/B6ld7XISVDPn135BaMiTeV9fQF7eHhGEL
+   hwouFfjGJj0xOouGdgDlL62PEN9ThGu7QPVA4+NGDF3d1sFwZdcyMOLQEJF/6F4q1lfrgeqQyc/T
+   ajwxBL6mkLOwU5t6Avg=;
+From: "Patricia Mickey" <patricia.mickey@absdigitrade.com>
+To: <bruce@home.untroubled.org>
+References: 
+In-Reply-To: 
+Subject: RE: CIO,CTO
+Date: Tue, 6 Apr 2021 10:16:50 +0100
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAHfqpAvCAaNPnsD0wIvJrYjCgAAAEAAAAGPGoB+DiU9PqTXW56pUn6YBAAAAAA==@absdigitrade.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0594_01D72ACD.F5B39BD0"
+Thread-Index: Adb0nWq6iMvpgVA5RnmtlniLBf63CQ2KCg3g
+Content-Language: en-us
+Disposition-Notification-To: "Patricia Mickey" <patricia.mickey@absdigitrade.com>
+Content-Length: 10175
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0594_01D72ACD.F5B39BD0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+ 
+
+Hi,
+
+ 
+
+I still haven't heard back from you, so I wanted to check if you had a
+chance to review my previous emails.
+
+ 
+
+Note: If this is not your target market, kindly let me know your target
+industry and target geography area we maintain all type of list across the
+globe.
+
+ 
+
+Awaiting your response.
+
+ 
+
+Regards,
+
+Patricia Mickey
+
+ 
+
+From: Patricia Mickey [mailto:patricia.mickey@absdigitrade.com] 
+Sent: Wednesday, January 27, 2021 11:14 AM
+To: 'bruce@home.untroubled.org'
+Subject: CIO,CTO
+
+ 
+
+Hi,
+
+ 
+
+Good day to you,
+
+ 
+
+I hope you are the right person to discuss about the Cyber Security
+Information Lists which includes complete contact details and verified email
+addresses of - CIOs/COOs/CTOs/CFO's/ISPs/ISVs, IT Directors, IT Management,
+IT Architects, Line of Business Managers & Directors, Security
+Professionals, Data Centre Managers, Technology Leaders, Channel & Partner
+Managers, Business Development Managers, Analysts and Infrastructure Teams
+from Cloud Service Providers, Telecommunications and many more across USA,
+UK, Canada, Australia, Europe and most of the World.
+
+ 
+
+If your target audience is not mentioned above, kindly let me know.
+
+ 
+
+Please send me your target audience and geographical area, so that I can
+send few sample records for your review.
+
+ 
+
+Target Industry: __________________ (Any Industry)
+
+Target Geography: ________________ (Worldwide) 
+
+Target Job Title: ___________________ (Any Title)
+
+
+Awaiting for swift response.
+
+Kind Regards,    
+Patricia Mickey | Demand Generation Manager
+CA | USA
+
+
+------=_NextPart_000_0594_01D72ACD.F5B39BD0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'>Hi,<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'>I still haven't heard back from =
+you, so I wanted to check if you had a chance to review my previous =
+emails.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'>Note: If this is not your target =
+market, kindly let me know your target industry and target geography =
+area we maintain all type of list across the =
+globe.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n lang=3DEN-IN style=3D'color:#1F3864'>Awaiting your =
+response.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n =
+style=3D'font-size:10.5pt;color:#1F497D'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:105%'><span =
+style=3D'font-size:10.5pt;line-height:105%;color:#203864'>Regards,</span>=
+<span =
+style=3D'font-size:10.5pt;line-height:105%;color:#1F497D'><o:p></o:p></sp=
+an></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><spa=
+n style=3D'font-size:10.5pt;color:#203864'>Patricia =
+Mickey<o:p></o:p></span></p></div><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal'><b>F=
+rom:</b> Patricia Mickey [mailto:patricia.mickey@absdigitrade.com] =
+<br><b>Sent:</b> Wednesday, January 27, 2021 11:14 AM<br><b>To:</b> =
+'bruce@home.untroubled.org'<br><b>Subject:</b> =
+CIO,CTO<o:p></o:p></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNoSpacing><span =
+style=3D'font-size:10.5pt;color:#203864'>Hi,</span><span =
+style=3D'font-size:10.5pt;font-family:"Times New =
+Roman","serif";color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;font-family:"Times =
+New Roman","serif";color:#203864'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;color:#203864'>Good =
+day to you,</span><span style=3D'font-size:10.5pt;font-family:"Times New =
+Roman","serif";color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;font-family:"Times =
+New Roman","serif";color:#203864'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;color:#203864'>I =
+hope you are the right person to discuss about the</span> <b><span =
+style=3D'font-size:10.5pt;color:#203864'>Cyber</span></b><span =
+style=3D'font-size:10.5pt;color:#203864'>&nbsp;<b>Security Information =
+Lists</b>&nbsp;which includes complete contact details and verified =
+email addresses of - CIOs/COOs/CTOs/CFO's/ISPs/ISVs, IT Directors, IT =
+Management, IT Architects, Line of Business Managers &amp; Directors, =
+Security Professionals, Data Centre Managers, Technology Leaders, =
+Channel &amp; Partner Managers, Business Development Managers, Analysts =
+and Infrastructure Teams from Cloud Service Providers, =
+Telecommunications and many more across USA, UK, Canada, Australia, =
+Europe and most of the World.</span><span =
+style=3D'font-size:10.5pt;font-family:"Times New =
+Roman","serif";color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;font-family:"Times =
+New Roman","serif";color:#203864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;color:#203864'>If =
+your target audience is not mentioned above, kindly let me =
+know.</span><span style=3D'font-size:10.5pt;font-family:"Times New =
+Roman","serif";color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;font-family:"Times =
+New Roman","serif";color:#203864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'font-size:10.5pt;color:#203864'>Please send me your target =
+audience and geographical area, so that I can send few sample records =
+for your review.</span><span =
+style=3D'font-size:10.5pt;font-family:"Times New =
+Roman","serif";color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:10.5pt;font-family:"Times =
+New Roman","serif";color:#203864'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'font-size:10.5pt;color:#203864'>Target Industry: =
+__________________ (Any Industry)<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'font-size:10.5pt;color:#203864'>Target Geography: =
+________________ (Worldwide) <o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'font-size:10.5pt;color:#203864'>Target Job Title: =
+___________________ (Any Title)<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;line-height:115%;color:#203864'><br><span =
+style=3D'background:#FBFBFB'>Awaiting for swift =
+response.</span><o:p></o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.5pt;line-height:115%;color:#203864;background:#FBFB=
+FB'>Kind Regards,&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span =
+style=3D'font-size:10.5pt;line-height:115%;color:#203864'><br><span =
+style=3D'background:#FBFBFB'>Patricia Mickey | Demand Generation =
+Manager</span><br><span style=3D'background:#FBFBFB'>CA | =
+USA</span></span></b><span =
+style=3D'font-size:10.5pt;line-height:115%;color:#203864'><o:p></o:p></sp=
+an></p></div></body></html>
+------=_NextPart_000_0594_01D72ACD.F5B39BD0--
+

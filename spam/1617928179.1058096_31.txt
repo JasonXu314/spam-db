@@ -1,0 +1,274 @@
+Return-Path: <easy_install_lights-bruce=untroubled.org@enigmaburger.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1506366 invoked from network); 8 Apr 2021 19:43:29 -0000
+Received: (qmail 7757 invoked by uid 222); 8 Apr 2021 19:43:29 -0000
+Return-Path: <easy_install_lights-bruce=untroubled.org@enigmaburger.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 7754 invoked from network); 8 Apr 2021 19:43:29 -0000
+Received: from mail.enigmaburger.com ([195.88.25.252])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 19:43:28 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=enigmaburger.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=easy_install_lights@enigmaburger.com;
+ bh=Fu4CXVTbmatgxlyTyxfyAy1Ybcw=;
+ b=a2bWEPDzOFe5iVPQyadn6HJh4uWMwdRgHgGnW08j0griHHmhiDnfh2BCc30B06TFggrH4ayMRfU2
+   iBOhXNzdE8yyQ6NSqgPF0ZSw4Z4KRNt4WKn7UfmPLwJe4jPOw6lk4p2fm7xz5FcIQfBa1Sjf2FgM
+   LT1QSr/e1vtQL8DvUac=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=enigmaburger.com;
+ b=ABrAvqllCRwRmdKnItMl8huQo+mq5BYwwxp7aQ+/Ir9WvkNrZ7Y4w6qlSYhd5Pvu5sHKytKeatfS
+   AHeR6DX6a80+06egCjbZsS/evjW4q5XRSPJSevJPidusLkkhnqVFvGZUbM1BhasIbV6t2cf3lOHj
+   fiDptHvUEyKtwKhq080=;
+Received: by mail.enigmaburger.com id hdteke0001g4 for <bruce@untroubled.org>; Thu, 8 Apr 2021 15:42:40 -0400 (envelope-from <easy_install_lights-bruce=untroubled.org@enigmaburger.com>)
+Date: Thu, 8 Apr 2021 15:42:40 -0400
+From: "Easy Install Lights" <easy_install_lights@enigmaburger.com>
+To:   <bruce@untroubled.org>
+Subject: This light will make your garage 8x brighter
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_178_742768189.1617910837255"
+List-Unsubscribe: <http://www.enigmaburger.com/e036eH239z5n8Z9_11OSS1N1Q4b5I21DFv4GIf4rxvs4FhIHEsvZ7HQFnonR7zNM10IX5gUsAv/phoenix-citation>
+Message-ID: <0.0.0.1D.1D72CAF5613A37A.547654@mail.enigmaburger.com>
+Content-Length: 11179
+
+------=_Part_178_742768189.1617910837255
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** You're invited to the 50,000 hour club.  **
+----------------------------------------------
+
+Normal light bulbs can last tens of thousands of hours before needing to be replaced.  The Daytime LED gives you a 50,000 hour lifespan, and 7x the brightness.  So you can worry about replacing your bulbs even less. 
+
+
+SHOP NOW -> http://www.enigmaburger.com/da94i2395ll86j10i1f2cv4b5s21OFv4GIf4rxvs4FhIHEsvZ7QQFnonR7cU1n0IT5bqBsv/innocents-rebutting
+
+
+
+
+Crisson-Wells Net-Grid
+1664 Cherokee Rd
+Crescent, OK 73028-9270
+Update Communication Preferences http://www.enigmaburger.com/tyrant-churchwomen/de66k23L9o5SZ86n11t_1f28T4b5C21YFv4GIf4rxvs4FhIHEsvZ7tQFnonR6t1_0Tk5Cp0sv
+
+
+
+------=_Part_178_742768189.1617910837255
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <!-- HEADER -->=20
+  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=
+=20
+   <tbody>=20
+    <tr>=20
+     <td bgcolor=3D"#ffffff">=20
+      <div style=3D"padding: 0px 15px 0px 15px;" align=3D"center">=20
+       <table class=3D"wrapper" border=3D"0" width=3D"500" cellspacing=3D"0=
+" cellpadding=3D"0">=20
+        <!-- LOGO/PREHEADER TEXT -->=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"logo" style=3D"padding: 20px 0px 30px 0px;">=20
+           <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" bgcolor=3D"#ffffff" width=3D"100"><a hre=
+f=3D"http://www.enigmaburger.com/d8b6z23ux95HT8k611BX1f27J4b5g21qFv4GIf4rxvs4FhIHEsvZ7UQFnonR5Rvr106Qqsv@1/phoenix-citation" target=3D"_blank" rel=3D"noopener"><img style=3D"display: =
+block; font-family: Helvetica, Arial, sans-serif; color: #666666; font-size=
+: 16px;" src=3D"http://www.enigmaburger.com/phoenix-citation/53a4e2395v7NHa12j1Uf29iy4b5A21CFv4GIf4rxvs4FhIHEsvZ7sQFnonR5q10DB5SXsWv" alt=3D"Logo" width=3D"252" border=3D"0" /></a>=
+</td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td class=3D"padding-copy" style=3D"font-size: 25px; font-family:=
+ Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; padding: =
+20px; background-color: #fffcd7;" align=3D"center">ULTRA-BRIGHT LED GARAGE =
+LIGHT</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <!-- ONE COLUMN SECTION -->=20
+  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=
+=20
+   <tbody>=20
+    <tr>=20
+     <td class=3D"section-padding" style=3D"padding: 10px 15px 70px 15px;" =
+align=3D"center" bgcolor=3D"#ffffff">=20
+      <table class=3D"responsive-table" border=3D"0" width=3D"500" cellspac=
+ing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td>=20
+          <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td>=20
+              <!-- HERO IMAGE -->=20
+              <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0">=20
+               <tbody>=20
+                <tr>=20
+                 <td class=3D"padding-copy">=20
+                  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"http://www.enigmaburger.com/d8b6z23ux95HT8k611BX1f27J4b5g21qFv4GIf4rxvs4FhIHEsvZ7UQFnonR5Rvr106Qqsv@1/phoenix-citation" target=3D"=
+_blank" rel=3D"noopener"><img class=3D"img-max" style=3D"display: block; pa=
+dding: 0; color: #666666; text-decoration: none; font-family: Helvetica, ar=
+ial, sans-serif; font-size: 16px; width: 370px;" src=3D"http://www.enigmaburger.com/unselfish-buttermilk/8645zi2395iRK7a12u1fKY2az4b5L21jFv4GIf4rxvs4FhIHEsvZ7KQFnonR7O10KlBV5F@0sv" alt=3D=
+"before and after" width=3D"300" border=3D"0" /></a></td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table> </td>=20
+            </tr>=20
+            <tr>=20
+             <td>=20
+              <!-- COPY -->=20
+              <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0">=20
+               <tbody>=20
+                <tr>=20
+                 <td class=3D"padding-copy" style=3D"padding: 20px 0 0 0; f=
+ont-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-seri=
+f; color: #666666; text-align: left;" align=3D"center">Instantly brighten y=
+our garage, warehouse, storage unit, basement, or other dimly-lit spaces, n=
+o tools necessary.<br /><br />Simply screw in this energy efficient LED bul=
+b as you would a traditional light bulb and get ready for a 360-degree ligh=
+ting experience that's 7x brighter.</td>=20
+                </tr>=20
+               </tbody>=20
+              </table> </td>=20
+            </tr>=20
+            <tr>=20
+             <td>=20
+              <!-- BULLETPROOF BUTTON -->=20
+              <table class=3D"mobile-button-container" border=3D"0" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+               <tbody>=20
+                <tr>=20
+                 <td class=3D"padding-copy" style=3D"padding: 25px 0 0 0;" =
+align=3D"center">=20
+                  <table class=3D"responsive-table" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td align=3D"center"><a class=3D"mobile-button" style=
+=3D"font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight=
+: normal; color: #ffffff; text-decoration: none; background-color: #ff2000;=
+ border-top: 15px solid #FF2000; border-bottom: 15px solid #FF2000; border-=
+left: 25px solid #FF2000; border-right: 25px solid #FF2000; border-radius: =
+3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; display: inline-b=
+lock;" href=3D"http://www.enigmaburger.com/d8b6z23ux95HT8k611BX1f27J4b5g21qFv4GIf4rxvs4FhIHEsvZ7UQFnonR5Rvr106Qqsv@1/phoenix-citation" target=3D"_blank" rel=3D"noopener">SEE MORE ?</a=
+></td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table>=20
+              <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0">=20
+               <tbody>=20
+                <tr>=20
+                 <td class=3D"padding-copy">=20
+                  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"http://www.enigmaburger.com/d8b6z23ux95HT8k611BX1f27J4b5g21qFv4GIf4rxvs4FhIHEsvZ7UQFnonR5Rvr106Qqsv@1/phoenix-citation" target=3D"=
+_blank" rel=3D"noopener"><img class=3D"img-max" style=3D"display: block; pa=
+dding: 0; color: #666666; text-decoration: none; font-family: Helvetica, ar=
+ial, sans-serif; font-size: 16px; width: 370px; margin-top: 35px;" src=3D"=
+http://www.enigmaburger.com/inventively-patio/8825HN2395yo7ak12S1fg2bi_4b5B21HFv4GIf4rxvs4FhIHEsvZ7oQFnonR7bXRj1S06K0svjL" alt=3D"garage light" width=3D"300" border=3D"0" /></a></td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=
+=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" bgcolor=3D"#ffffff">=20
+      <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"padding: 20px 0px 20px 0px;">=20
+          <!-- UNSUBSCRIBE COPY -->=20
+          <table class=3D"responsive-table" border=3D"0" width=3D"500" cell=
+spacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+           <tbody>=20
+            <tr>=20
+             <td style=3D"font-size: 12px; line-height: 18px; font-family: =
+Helvetica, Arial, sans-serif; color: #666666;" align=3D"center" valign=3D"m=
+iddle"> <p><br /><a class=3D"original-only" style=3D"color: #666666; text-d=
+ecoration: underline;" href=3D"http://www.enigmaburger.com/tyrant-churchwomen/8a04C2395B86OI11i1f28yI4b5S21GFv4GIf4rxvs4FhIHEsvZ7OQFnonR5S1Ix05GMBsv">Get out here</a> <span class=3D"=
+original-only" style=3D"font-family: Arial, sans-serif; font-size: 12px; co=
+lor: #444444;">or mail Hawking, Black, and Johl Publishing at</span><br /><=
+span class=3D"appleFooter" style=3D"color: #666666;">4265 Aerie Circle, Eva=
+ns, GA 30809.4888</span></p> <p>&nbsp;</p> <p class=3D""><span style=3D"col=
+or: #ffffff;">He enjoyed a long career with screen credits going as far bac=
+k as the early 1960s with work on popular TV shows &quot;Gunsmoke&quot; and=
+ &quot;Gomer Pyle, USMC.&quot;</span></p> <p class=3D""><span style=3D"colo=
+r: #ffffff;">Agent Linda McAlister said her client was mentally sharp to th=
+e end, but physical limitations brought on by Parkinson's kept him from the=
+ acting in recent years.</span></p> <p class=3D""><span style=3D"color: #ff=
+ffff;">&quot;He loved (acting). He wasn't trying to be a big star, he loved=
+ his characters because he was so understated,&quot; McAlister said of Hamp=
+ton's longevity.<strong>&quot;</strong>You didn't realize the impact he mad=
+e.&quot;</span></p> <p class=3D""><span style=3D"color: #ffffff;">The agent=
+ was particularly proud of Hampton's scenes with Reynolds in &quot;The Long=
+est Yard&quot; and Billy Bob Thornton in &quot;Sling Blade.&quot;</span></p=
+> <p class=3D""><span style=3D"color: #ffffff;">The &quot;Sling Blade&quot;=
+ cast was nominated for a Screen Actors Guild Award for best performance by=
+ a cast in 1997. Hampton's other big-screen credits included &quot;The Chin=
+a Syndrome&quot; and &quot;Police Academy 5: Assignment: Miami Beach.&quot;=
+</span></p> <p class=3D""><span style=3D"color: #ffffff;">&quot;He wasn't t=
+rying to chew up the scenery,&quot; McAlister told NBC News on Thursday. &q=
+uot;He was just adding warmth and humor and moving the story along.&quot;</=
+span></p> <p class=3D"endmark"><span style=3D"color: #ffffff;">Hampton is s=
+urvived by his wife Mary and children James, Andrea and Frank. In lieu of f=
+lowers, the family has asked for fans to donate to The Michael J. Fox Found=
+ation.</span></p> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.enigmaburger.com/innocents-rebutting/8825p2U395RjT8512E1rf2_dW4b5F21LFv4GIf4rxvs4FhIHEsvZ7BQFnonR7PNAs1V06zNsvWj" alt=3D""/></body>
+</html>
+
+------=_Part_178_742768189.1617910837255--
+

@@ -1,0 +1,75 @@
+Return-Path: <mysenior_perks-bruce=untroubled.org@speed91.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3558183 invoked from network); 24 Apr 2021 15:31:17 -0000
+Received: (qmail 30561 invoked by uid 222); 24 Apr 2021 15:31:16 -0000
+Return-Path: <mysenior_perks-bruce=untroubled.org@speed91.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 30558 invoked from network); 24 Apr 2021 15:31:16 -0000
+Received: from mail.speed91.cloud ([70.102.102.74])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Apr 2021 15:31:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed91.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mysenior_perks@speed91.cloud;
+ bh=dhQ2h3PgsbvO33IzktMzYTkEX/4=;
+ b=ew6qKfpTpYGg9aDprE2lwK+CeGCHKU9wvjadMlsPUq/AslIo6NPLsyzefcE1BAsW3KL361/+KBWd
+   rp0dp+tYdWHguwnnWtTMO8665ZbmN6+avPs+BmTZDCGfed2W6jJ8b3YnlmhRsEY3OEc4i+md9aWY
+   pm5339YMvoRyQhtxyno=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed91.cloud;
+ b=E6aoA4MUrH5z4AEV1YFsOcmwaa0WtilB846DJ6cfQhQ4goW0JeHjLTTGjd44dn5iR4v1LyhKaReP
+   gukXKAmJiOP7fjv2OqokfPX3+iAx/r7+kdfv6q0ZEa/nqENwzPNiLMON9l7lgKXIw5SOwYzUnss6
+   PpPPSkFE0B8lffASieY=;
+Received: by mail.speed91.cloud id hggss80001g8 for <bruce@untroubled.org>; Sat, 24 Apr 2021 11:20:51 -0400 (envelope-from <mysenior_perks-bruce=untroubled.org@speed91.cloud>)
+Date: Sat, 24 Apr 2021 11:20:51 -0400
+From: "MySenior Perks" <mysenior_perks@speed91.cloud>
+To:   <bruce@untroubled.org>
+Subject: Seniors - did you know about these discounts?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_115_1355509614.1619277646643"
+List-Unsubscribe: <http://www.speed91.cloud/e995w239A5g8pl913D1WHKl1n4b69B21YFv4GIf4rxvs4FhIHEsvZ11SRbomoSSoc96SDQB105rqcJY/plaintext-Gloriana>
+Message-ID: <0.0.0.C.1D7391D69588AE8.2B488@mail.speed91.cloud>
+Content-Length: 2826
+
+------=_Part_115_1355509614.1619277646643
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Grosset</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.speed91.cloud/inductively-prohibitive/b8e5k23N95USu8612E160aeF4b69N21HFv4GIf4rxvs4FhIHEsvZ11GRbomoSSoc96F1Mmg06RMO3cY">Key deals for seniors to save</a></span></span>
+  </div> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.speed91.cloud/inductively-prohibitive/b8e5k23N95USu8612E160aeF4b69N21HFv4GIf4rxvs4FhIHEsvZ11GRbomoSSoc96F1Mmg06RMO3cY"><img alt="senior s" src="http://www.speed91.cloud/b8d5lP2395sS7ag17HG1Mn60bxk1g4b69l21wFv4GIf4rxvs4FhIHEsvZ11SRbomoSSoc96KGt1o05gXjcY/Charley-interleaved" style="border-width: 0px; border-style: solid; height: 1223px; width: 653px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <font color="#666666">Leave</font><a href="http://www.speed91.cloud/5935R239_5B8SB617g16uUCF0afTD4b69G21CFv4GIf4rxvs4FhIHEsvZ11dRbomoSSoc95b10uX5hlPcY/squarely-disclaim"><font color="#666666"> Here</font></a>.<br /> <a href="http://www.speed91.cloud/inductively-prohibitive/b8e5k23N95USu8612E160aeF4b69N21HFv4GIf4rxvs4FhIHEsvZ11GRbomoSSoc96F1Mmg06RMO3cY"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.speed91.cloud/4a36f2u3N95in89o17nYD1T6P0mb0h4b69U21dFv4GIf4rxvs4FhIHEsvZ11bRbomoSSoc96kP10CU5OpcY0/Charley-interleaved">&nbsp; Cut out Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <font></font><font class="overcrowd"></font><style><font></style></font><style></style>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.speed91.cloud/6a14m2395z8_5i12h160b2P4b69T21jFv4GIf4rxvs4FhIHEsvZ11ARbomoSSoc95D10SU5z@PcY/depositors-curling" alt=""/></body>
+</html>
+
+------=_Part_115_1355509614.1619277646643--
+

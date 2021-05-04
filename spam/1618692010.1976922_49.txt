@@ -1,0 +1,129 @@
+Return-Path: <bounces+3769412-fe88-bruce=untroubled.org@em5691.usask.ca>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2757856 invoked from network); 16 Apr 2021 21:40:10 -0000
+Received: (qmail 111078 invoked by uid 222); 16 Apr 2021 21:40:10 -0000
+Return-Path: <bounces+3769412-fe88-bruce=untroubled.org@em5691.usask.ca>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 111075 invoked from network); 16 Apr 2021 21:40:10 -0000
+Received: from o1.email.acuity4survey.com (o1.email.acuity4survey.com [50.31.47.101])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 21:40:10 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=usask.ca;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding;
+	s=s1; bh=Ef4yVI1Th2b3SrhRpn3E3Jm5BC2Jedu4/3obXg3KmGg=;
+	b=ho+QshpaPLbUHgqib/PcC6hcUqY9HoxKGFF7jcLZ9ryaIIwXjfVYoeLc6pYyMxnQ9L5w
+	2IMyxzPMIqdsQW7F+Em1mrl67uLRTWdrElUDYXl/9OmETmMRGG4sQ7/Io/E9T8V2A1Xt+6
+	B28kB9nMGWy0Q2zVYA8VlgvjAxbiF/zCg=
+Received: by filterdrecv-7cd54bd647-4742f with SMTP id filterdrecv-7cd54bd647-4742f-14-607A042F-3D
+        2021-04-16 21:39:59.744709311 +0000 UTC m=+91115.360443869
+Received: from [10.140.136.106] (unknown)
+	by geopod-ismtpd-1-1 (SG)
+	with ESMTP id FsHM7K5lRGylgyBiuH9lhw
+	for <bruce@untroubled.org>;
+	Fri, 16 Apr 2021 21:39:59.697 +0000 (UTC)
+From: Canadian Hub for Social and Applied Research <chasr.survey@usask.ca>
+Date: Fri, 16 Apr 2021 21:39:59 +0000 (UTC)
+Subject: Survey Reminder: Children's Mental Health during the COVID-19
+ Pandemic
+Message-Id: <G7MYZWWQHDU4.8080HLA96HG2@CA1-TASK>
+VX-Message-ID: <20210416173959669.1695..4318@>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?vCnWrtQI5xO=2FJsh3vX2RwRPrlN+d5aJ5YrKfaNyUVh1WoUFCZYoGSGMaSaK2Wz?=
+ =?us-ascii?Q?ae5tOhPviP=2FADBZZPU+rpnb5KR7oY+C8bEEFVGp?=
+ =?us-ascii?Q?ZxIyYoEn7l0VPeFbJxyBfqzt7we01SlfK2t8ZpX?=
+ =?us-ascii?Q?VtOqKwTlJTGRTQS3E0CEGtteuGnqqA6oe1SRlgi?=
+ =?us-ascii?Q?OCWMH6X8GIBeuJeta5ljfz8hgSVI2WyYl+LDKjm?=
+ =?us-ascii?Q?vE3V+0CTnMo9EC=2F3hn4qfCt+SgUnZYxtBaRhGYg?=
+ =?us-ascii?Q?mnEQEzoDVgxv8ZaidL6W045IEfK6fiBwhQHZQg8?= =?us-ascii?Q?k28=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FLIbZwHqcRb6aAKRMB736?=
+ =?us-ascii?Q?JF5uK9cJbrkCBbGUMYGvzE7qKHh5Gig9FwWKWl5?=
+ =?us-ascii?Q?+dq427kf+p=2FKm0994FR=2FjpyotKkpMUcPBNv1+Ke?=
+ =?us-ascii?Q?AVb=2F4GTfMQ=3D=3D?=
+To: bruce@untroubled.org
+X-Entity-ID: pRK+kS2vtTz+Udhj0UZwjw==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 6094
+
+Good afternoon,<br><strong></strong><br><strong></strong>This is a friendly=
+ reminder to complete this important survey if you have children aged 8-18 =
+in your household.<br><br>We are currently recruiting participants for an o=
+nline survey as part of a research study entitled =E2=80=9CSee us, hear us=
+=E2=80=94Children, youth, and families in Saskatchewan coping with mental h=
+ealth during the first year of the COVID-19 pandemic.=E2=80=9D<br><br>The C=
+OVID-19 pandemic has disrupted the lives of children, youth and families in=
+ Saskatchewan--for some, quite severely; for others, less so. Many people a=
+re especially concerned about the pandemic's impact on young people's menta=
+l health. We want to get an accurate understanding of how the pandemic has =
+affected families, how they are coping, and how well their needs for mental=
+ health help are being met. To do this, we need your input!&nbsp;<br><br><s=
+trong>If you are the parent, guardian, or caregiver of a child or youth age=
+d 8-18, we are inviting you and your child/youth to participate in our surv=
+ey.&nbsp;</strong>See below for details and a link to the survey.<br><br><s=
+trong>We want to hear from a wide range of families so that our study refle=
+cts as many different experiences as possible. Whether your family has had =
+a really hard time during the pandemic or things have not been too bad, whe=
+ther you have been more affected by the economic impact of the restrictions=
+ put in place or by the health impact of COVID, we want your voice to be he=
+ard.</strong><br><br><strong>If you <u>do not</u> have a child or youth age=
+d 8-18 in your household but know someone who does, you may forward this em=
+ail to ONE person who may be interested in participating.</strong><br><br><=
+strong>Want to stop receiving reminders for this study because you don=E2=
+=80=99t have a child or youth aged 8-18 in the household? Please click the =
+link below to indicate so and we will update your information in our panel =
+and we will not send you anymore surveys directed to parents/caregivers.</s=
+trong><br><br>To access the survey, please go to:&nbsp;<a href=3D"http://li=
+nk.acuity4survey.com/ls/click?upn=3DJmwxj6lXXOG0JwP9JgNHNSUZNyQ5B0fKYGbJMOP=
+j2BONZc59TzCAE4F-2FnwzkBu1DZqnQmT6qPNM6kHsdw0cMv1aM05pcfZj9GBH49cby2PIdyHvN=
+8IxgMBm2X-2Fbfu0uPtPW6hYHgnrRVk41cCbTi0WZfzTiBn0W0PlFP3mmZyKEnYbw0C8ksdOK56=
+PCMBM6R5sUfJNmwPo5k4wT9oBD9kg-3D-3Dl6tQ_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjm=
+X01dz7iadkCFOQxihpEaAl1kRcQ8lFsTS-2BUb-2FoRkkQZWVBZmFOOcpgeBjZ0onCZ7bq8Hhsd=
+d9G157rj-2BLcmiTBk9mrswtOIkBdRnDifU3bETcJIgDlhpyogZErjOtRDLFXjMoH8SggzGJDD2=
+oYdb4-2BOQe-2BRZIAvEbupkAstKGcX2XP7dF5Afm-2FgNrob90adrbTeeGL6k8oDGuYOgiZJWB=
+6QUj8JKHGp3OfVZZi-2FJDn4pzxw3D5F6mZBA3rYjCvEFABlFG5e79b0F8Am3uAJKdUjDvlxVRI=
+v" rel=3D"noopener noreferrer" target=3D"_blank">https://ca1se.voxco.com/SE=
+/90/SUHU/?st=3DFxD1lCl1adocd1BELW1glLBUwX4vzzhWgSneC6xbbEs3rkEgD4zDPqIZm2I7=
+OXirSNNVb5nUpU%2BPZvEFhO4LVL13RvrhOp3s</a><br><br><strong>Participants who =
+complete the survey can enter their name in a draw to win a new iPad!</stro=
+ng><br><br>To find out more about the study, visit: <a href=3D"http://link.=
+acuity4survey.com/ls/click?upn=3DJmwxj6lXXOG0JwP9JgNHNSPraW4c92uLpnx-2BBg9B=
+EBBRexpcWoS5jHgriiKe-2BpjqszkDjMdoUF9lU5shhIRO5cj4mBN4-2BsZADzevKUdkveFZRun=
+dRDnFdVs-2FRZWDi2JM3EYf_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadkCFOQxi=
+hpEaAl1kRcQ8lFsTS-2BUb-2FoRkkQZWVBZmFOOcpgeBjZ0onCZ7bq8Hhsdd9G157rj-2BLcmiT=
+Bk9mrswtOIkBdRnDifU3bETcJIgDlhpyogZErjOtRDLFXjMoH8SggXpfL1lOVvUP9TKt1A3Z60p=
+irhVz4g3O-2BrSkOO-2BYgORXrBZmUwIesXyIMj1PRW-2FvZ7Xiioi-2F5aFYkt5s7Rz-2FrYFI=
+619L3HNPJMuiNaVApUYJ54rSq2XCSFTLf01nAka7-2FkQ4ZkNpFI36-2Bmq4KVaoHx" rel=3D"=
+noopener noreferrer" target=3D"_blank">spheru.ca</a>. If you have questions=
+, please contact us at seeus.hearus@usask.ca.<br><br>Principal investigator=
+s &nbsp;<br>Dr. Nazeem Muhajarine &nbsp;<br>Department of Community Health =
+and Epidemiology, College of Medicine, University of Saskatchewan&nbsp;<br>=
+Saskatchewan Population Health and Evaluation Research Unit (SPHERU)&nbsp;<=
+br>t: 306-966-7940 &nbsp;e: nazeem.muhajarine@usask.ca &nbsp;&nbsp;<br><br>=
+Dr. Tamara Hinz&nbsp;<br>Department of Psychiatry, College of Medicine, Uni=
+versity of Saskatchewan&nbsp;<br>t: 306-844-7940 &nbsp;e: tamara.hinz@usask=
+.ca&nbsp;<br><br><img src=3D"https://na1.voxco.com/Media/90/1616190761402.p=
+ng" style=3D"display: inline-block; vertical-align: bottom; margin-right: 5=
+px; margin-left: 5px; max-width: calc(100% - 10px); text-align: center; wid=
+th: 482px;">&nbsp;<br><span style=3D"font-size: 10px;">&nbsp;To opt-out of =
+the CHASR panel and stop reciving emails from us, click here: </span><a hre=
+f=3D"http://link.acuity4survey.com/ls/click?upn=3DJmwxj6lXXOG0JwP9JgNHNbpWb=
+XZKJj3lmnM1EnuCfLThpqCwpQgKbahgbJKdh5d4vCfEBjoaj7srVfSYL-2Bw66vZzwDXHKGFRQ-=
+2BL6B83OmKZeu7-2Fi6F5kDm0R0FxSJGfiG2jM_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX=
+01dz7iadkCFOQxihpEaAl1kRcQ8lFsTS-2BUb-2FoRkkQZWVBZmFOOcpgeBjZ0onCZ7bq8Hhsdd=
+9G157rj-2BLcmiTBk9mrswtOIkBdRnDifU3bETcJIgDlhpyogZErjOtRDLFXjMoH8SgiHRKy1kb=
+i7vj5m2CNpJMcZk1U2NdpGyqPI1nqsopq9JYqfoNkF0Y-2BbwCdwJs8z54tQYjc11U3VCfANL7X=
+ukzDLMf5c9b4lA5Gav0WMZwbd-2BRSn15iTtzOqiuhmHPhdcUm0iLjYLJTR5rv8nw-2BajzLl" =
+rel=3D"noopener noreferrer" target=3D"_blank"><span style=3D"font-size: 10p=
+x;">Opt-out</span></a>
+<img src=3D"http://link.acuity4survey.com/wf/open?upn=3D95ipHO-2FHtfiEGxEke=
+DVC7m2cc8Z9r802-2B369f-2FNYKjnkTR2IlZqGGPs0fsteTTxaz-2FEjIs9g1HU8VYnltd1hFp=
+X-2FYGjNrE4o1JsyFDJXhMuqVkH4IDWth-2Brzn0yH2B-2BF3uHL-2BqwVfCV7j-2BabNry2qyw=
+qvj0zLbZHSXfADMDvzXvn0qbPRd10aseMMawOcN81E5-2BGbxLYVQSPa9kmunehJPjU-2Fbpt3A=
+AWN1VMhWu4fdHlTcqahKMTVlBKRYz6pmJAJPpPEilyRWeZZ72-2B-2B8Ox2-2FXnUy0mZlFs3wm=
+5CvQ1earWqZa15BjTBj4CCNu7ZdFw" alt=3D"" width=3D"1" height=3D"1" border=3D"=
+0" style=3D"height:1px !important;width:1px !important;border-width:0 !impo=
+rtant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !im=
+portant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 =
+!important;padding-right:0 !important;padding-left:0 !important;"/>

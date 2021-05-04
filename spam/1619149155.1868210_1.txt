@@ -1,0 +1,71 @@
+Return-Path: <cenprot342385@aaacobranca505.protestocartoral.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3429503 invoked from network); 22 Apr 2021 23:25:32 -0000
+Received: (qmail 6838 invoked by uid 222); 22 Apr 2021 23:25:32 -0000
+Return-Path: <cenprot342385@aaacobranca505.protestocartoral.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 6835 invoked from network); 22 Apr 2021 23:25:31 -0000
+Received: from aaacobranca505.protestocartoral.cloud (ms008.company074.website [77.223.101.38])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 23:25:31 -0000
+Received: by aaacobranca505.protestocartoral.cloud (Exim, from userid 33)
+	id 7AD323E4FE; Thu, 22 Apr 2021 20:22:38 -0300 (-03)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=aaacobranca505.protestocartoral.cloud; s=mail; t=1619133928;
+	bh=LHhL77HbECJe1sTepf3gjhpcXOXbiuliXM+iBY/v35k=;
+	h=To:Subject:From:Date:Reply-To:From;
+	b=DeykgidoziSyyHatOA1rLtDTF1+EAWpk1qxg6mmMzubDLf8aUlwKRwUjGAfJ9r1eU
+	 XcX6rVTQB98NMxRXlFf9rR/PyijRBT22NBDZcS7UMVLt7NWAxe3iVqS9RVh2Pe0Ndc
+	 82K1BHNo0QNV+DFX+afz75O2EhqVOUURq61tyZUg=
+To: bruce@untroubled.org
+Subject: Certidao de Protesto P0379758255 em seu nome
+MIME-Version: 1.0
+From: CENPROT - CENTRAL DE PROTESTOS <cenprot342385@aaacobranca505.protestocartoral.cloud>
+Date: Thu, 22 Apr 2021 20:22:37 -0300
+Reply-To: cenprot342385@aaacobranca505.protestocartoral.cloud
+Content-type: multipart/mixed; boundary="-------220420212237_a312bb86ff28e75d7a7629ebca07af07"
+Message-Id: <20210422232528.7AD323E4FE@aaacobranca505.protestocartoral.cloud>
+Content-Length: 2869
+
+---------220420212237_a312bb86ff28e75d7a7629ebca07af07
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQoJPGhlYWQ+DQoJCTx0aXRsZT48L3RpdGxlPg0KCTwvaGVhZD4NCgk8Ym9keT4NCgkJ
+PHA+DQoJCQk8aW1nIGFsdD0iQ2VucHJvdCIgc3JjPSJodHRwOi8vd3d3LnByb3Rlc3Rvc3AuY29t
+LmJyL2ltYWdlbnMvZW1haWwvMDIuanBnIiAvPjwvcD4NCgkJPHRhYmxlIGJvcmRlcj0iMCIgY2Vs
+bHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSwg
+QXJpYWwsIHNhbnMtc2VyaWY7IiB3aWR0aD0iNjAwIj4NCgkJCTx0Ym9keT4NCgkJCQk8dHI+DQoJ
+CQkJCTx0ZCBiZ2NvbG9yPSIjZDQ0YTYzIiBoZWlnaHQ9IjY5IiB3aWR0aD0iMzU4Ij4NCgkJCQkJ
+CTxwIHN0eWxlPSJjb2xvcjogcmdiKDI1NSwgMjU1LCAyNTUpOyBwYWRkaW5nLWxlZnQ6IDIwcHg7
+IGZvbnQtc2l6ZTogMjBweDsgbGV0dGVyLXNwYWNpbmc6IDFweDsgdGV4dC1hbGlnbjoganVzdGlm
+eTsiPg0KCQkJCQkJCVJlc3Bvc3RhIGRlIENlcnRpZCZhdGlsZGU7byBkZSBQcm90ZXN0bzxpbWcg
+YWx0PSJjb25maXJtYWNhbyIgc3JjPSJodHRwOi8vd3d3LnByb3Rlc3Rvc3AuY29tLmJyL2ltYWdl
+bnMvZW1haWwvMDMuanBnIiAvPjwvcD4NCgkJCQkJPC90ZD4NCgkJCQk8L3RyPg0KCQkJPC90Ym9k
+eT4NCgkJPC90YWJsZT4NCgkJPHAgc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIEFyaWFsLCBz
+YW5zLXNlcmlmOyBjb2xvcjogcmdiKDk3LCA5NywgOTcpOyBmb250LXNpemU6IDE0cHg7IHBhZGRp
+bmc6IDE1cHg7Ij4NCgkJCVByZXphZG8mbmJzcDs8Yj5TcihhKTwvYj4sIGJydWNlQHVudHJvdWJs
+ZWQub3JnPGJyIC8+DQoJCQk8YnIgLz4NCgkJCUZvaSBpbmNsdSZpYWN1dGU7ZG8gcG9yIHVtYSBp
+bnN0aXR1aSZjY2VkaWw7JmF0aWxkZTtvIGNyZWRvcmEsIHVtYSBzb2xpY2l0YSZjY2VkaWw7JmF0
+aWxkZTtvIGRlIGNlcnRpZCZhdGlsZGU7byBkZSBwcm90ZXN0byBwb3IgbWVpbyBkbyBwcm90b2Nv
+bG8mbmJzcDs8Yj5QMzQ3ODE4NDUzOTwvYj4uPGJyIC8+DQoJCQlGb2kgcmVzcG9uZGlkbyBwZWxv
+IGNhcnQmb2FjdXRlO3JpbyBlIGVzdCZhYWN1dGU7IGRpc3BvbiZpYWN1dGU7dmVsIHBhcmEgY29u
+c3VsdGEgYWJhaXhvLjwvcD4NCgkJPGNlbnRlciBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSwg
+QXJpYWwsIHNhbnMtc2VyaWY7Ij4NCgkJCTxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij4N
+CgkJCQk8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAyMHB4OyI+PGEgY2xhc3M9ImxpbmtDbGlja2Fi
+bGUiIGhyZWY9Imh0dHA6Ly90bGVhcjguYm5oc2VndXJvLnh5ei9MMjFsWU0wSy9NcGdZa01sUksx
+UGtZRjVaOS8wUzA5TDBaMFYwTS85MzIyNzYuUFJPVEVTVE8iPjxzdHJvbmc+Q09OU1VMVEFSIFBS
+T1RFU1RPPC9zdHJvbmc+PC9hPjwvc3Bhbj48L3A+DQoJCQk8cCBzdHlsZT0idGV4dC1hbGlnbjog
+Y2VudGVyOyI+DQoJCQkJJm5ic3A7PC9wPg0KCQkJPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRl
+cjsiPg0KCQkJCTxzcGFuIHN0eWxlPSJmb250LXNpemU6OHB4OyI+QyZvYWN1dGU7ZGlnbyBkZSBB
+dXRlbnRpY2EmY2NlZGlsOyZhdGlsZGU7bzogNlUwNk42MDdDNjcwVDNUTjk1VE5JVlRISVRNUTM8
+L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOHB4OyI+NDQ8L3NwYW4+PHNwYW4gc3R5bGU9
+ImZvbnQtc2l6ZTogOHB4OyI+MzQ3PC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhweDsi
+PjEyNDQtPC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhweDsiPjg4MzQyPC9zcGFuPjxz
+cGFuIHN0eWxlPSJmb250LXNpemU6IDhweDsiPjkzMjI3Njwvc3Bhbj48c3BhbiBzdHlsZT0iZm9u
+dC1zaXplOiA4cHg7Ij4wUzA5TDBaMFYwTS08L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTog
+OHB4OyI+ODE4NDUzOTwvc3Bhbj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA4cHg7Ij44NDc1NjY1
+Mzwvc3Bhbj48L3A+DQoJCTwvY2VudGVyPg0KCTwvYm9keT4NCjwvaHRtbD4=
+
+---------220420212237_a312bb86ff28e75d7a7629ebca07af07--
+

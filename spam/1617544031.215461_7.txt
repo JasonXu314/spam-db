@@ -1,0 +1,339 @@
+Return-Path: <savagegrowplus.comoffer-bruce=untroubled.org@car5-tdy.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1117733 invoked from network); 3 Apr 2021 20:13:28 -0000
+Received: (qmail 153073 invoked by uid 222); 3 Apr 2021 20:13:27 -0000
+Return-Path: <savagegrowplus.comoffer-bruce=untroubled.org@car5-tdy.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 153070 invoked from network); 3 Apr 2021 20:13:27 -0000
+Received: from mail.car5-tdy.com ([69.94.155.15])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 20:12:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=car5-tdy.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=savagegrowplus.comoffer@car5-tdy.com;
+ bh=sY/73qxHnRQYg+/icWXDRQa8qrY=;
+ b=xPrKP4cgKvl/Zpqo6CmXNH31/pHM6BwE1kZljUOsf3zSHaffYW6d/plMk1m187HgtPUo6fc0FeLJ
+   r6BzLiaNS+bNbHcnUcgn0FQOVOZlARVWqYeXIxJxQGB+LLmwK25NIDUhOLw3CRX9zWyz1Bl6pr3Q
+   pChVIu+hRaU6ScSsQcw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=car5-tdy.com;
+ b=BaBjif2WmF0SY041iDWfyos5MX8Za5NfDXT4cWW+EYeBOIuCqT23oP8yJHDUt93C96IC/NSlPf7S
+   fJ1+XecD5sBnXW2xWsCkpLj3+hB3jc+dDVqVspA0MsNhQycInIiJsetNQWfxmUjQW+TjaDyYO3ON
+   Vd6xtW2HObNwH4GurXQ=;
+Received: by mail.car5-tdy.com id hd36340001gf for <bruce@untroubled.org>; Sat, 3 Apr 2021 16:02:35 -0400 (envelope-from <savagegrowplus.comoffer-bruce=untroubled.org@car5-tdy.com>)
+Date: Sat, 3 Apr 2021 16:02:35 -0400
+From: Savagegrowplus.comOffer <savagegrowplus.comoffer@car5-tdy.com>
+To:   <bruce@untroubled.org>
+Subject: African Tribe Elders Give White Man 12 Inch Elongation Secret
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_385_1747010532.1617480149597"
+List-Unsubscribe: <http://www.car5-tdy.com/b8d4F2395Du89H11Cj11yO4a33A21CFv4GIf4rxvs4FhIHEsvZ8PRDnKKQ96C1TKC06ozcPYB/laboriously-putters>
+Message-ID: <0.0.0.29.1D728C44A75840A.17FE2F@mail.car5-tdy.com>
+Content-Length: 21286
+
+------=_Part_385_1747010532.1617480149597
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>calibrating</title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">This dude is crazy but <a href=3D"=
+http://www.car5-tdy.com/7915W23V95Q86nJ17kU1Y5LVaA34R4a33h21AFv4GIf4rxvs4FhIHEsvZ8aRDnKKQ97zuwH10A6lMcYJ@/sweaters-forties">what a secret he discovered</a>...</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">He took his wife to a remote Afric=
+an island to negotiate with the tribe elders, including 3 African priests, =
+the sacred secret to gain 6 inches on his member.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">But they needed something in excha=
+nge.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">This guys WIFE...</span></span></p=
+>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">Don' t worry, it was just for a sh=
+ort period of time, but what followed after it' s wilder than anything you'=
+ d see on the craziest rated movies.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; "><a href=3D"http://www.car5-tdy.com/7915W23V95Q86nJ17kU1Y5LVaA34R4a33h21AFv4GIf4rxvs4FhIHEsvZ8aRDnKKQ97zuwH10A6lMcYJ@/sweaters-forties">The dude ac=
+tually documented everything here</a>? </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:arial,helvetica,sans-=
+serif; "><span style=3D"font-size:14px; "><a href=3D"http://www.car5-tdy.com/7915W23V95Q86nJ17kU1Y5LVaA34R4a33h21AFv4GIf4rxvs4FhIHEsvZ8aRDnKKQ97zuwH10A6lMcYJ@/sweaters-forties"><img alt=
+=3D"man helerc" src=3D"http://www.car5-tdy.com/disposable-tantrums/5b24V2395Jk7qa17R15Gwowna37C4a33w21yFv4GIf4rxvs4FhIHEsvZ8rRDnKKQ97YCnvV105s@cYU" style=3D"width: 589px; height: 391px; "=
+ /></a></span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">He came back with his wife happier =
+than ever and 6 inches more on his manhood and says he' ll gladly go back j=
+ust for the fun.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">He said his wife asked him to share=
+ the whole thing with the world.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">Apparently this <strong>TURNS HER O=
+N</strong>? </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">Well, it' s for everyone' s benefit=
+ since it supposedly already helped a few thousand fellows achieve the same=
+ results.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">I don' t know how much longer the v=
+ideo will be online, but honestly it' s just madness not to see it...</span=
+></span></p>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-s=
+pacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wido=
+ws: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-s=
+troke-width: 0px; text-decoration: none; margin: auto; " width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <=
+br /> <br /> If you do not wish to receive future messages click here to <s=
+pan class=3D"unstyle-auto-detected-links"><a href=3D"http://www.car5-tdy.com/Perilla-colorful/a264C2395S86Dq17Ul1Gs5azr35O4a33B21QFv4GIf4rxvs4FhIHEsvZ8GRDnKKQ95lLS105kPcYk" style=3D"f=
+ont-family: sans-serif; font-size: 10px; line-height: 14px; color: rgb(153,=
+ 153, 153); text-decoration: underline !important; ">unsubscribe</a></span>=
+<br /> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.car5-tdy.com/7915W23V95Q86nJ17kU1Y5LVaA34R4a33h21AFv4GIf4rxvs4FhIHEsvZ8aRDnKKQ97zuwH10A6lMcYJ@/sweaters-forties" style=3D"font-family: sans-serif; font-size: 10px; line-height: 14px;=
+ text-align: center; color: rgb(153, 153, 153); text-decoration: underline =
+!important; "><span style=3D"color: rgb(102, 102, 102); ">Mellitox.com</spa=
+n></a> &nbsp; |&nbsp; 200 Continental Drive, Suite 401, Newark, DE, 19713, =
+US </span><br /> <br /> Exit <a href=3D"http://www.car5-tdy.com/c054r2395GN8u912V15a36J4a33w21GFv4GIf4rxvs4FhIHEsvZ8dRDnKKQ96IF10HN6fzcOXY/disposable-tantrums">Here</a><br /> =
+<br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO<br />=
+ &nbsp; <p class=3D"gnt_ar_b_p"><br /> <br /> <br /> <br /> <br /> &nbsp; <=
+/p> <p class=3D"text | article-text" style=3D"box-sizing: border-box; margi=
+n-top: 0px; margin-bottom: 1rem; caret-color: rgb(33, 37, 41); color: rgb(3=
+3, 37, 41); font-family: &quot; Segoe UI&quot; , Roboto, &quot; Helvetica N=
+eue&quot; , Arial, &quot; Noto Sans&quot; , sans-serif, &quot; Apple Color =
+Emoji&quot; , &quot; Segoe UI Emoji&quot; , &quot; Segoe UI Symbol&quot; , =
+&quot; Noto Color Emoji&quot; ; font-size: 16px; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-align: left; text-indent: 0px; text-transform: none; white-space=
+: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; text-decoration: none; "><br /> <br /> <br =
+/> <span style=3D"color:#D3D3D3; ">The</span></p>=20
+      <div class=3D"c-section
+         =20
+          b-margin-bottom-d40-m20
+          " style=3D"box-sizing: content-box; margin: 0px auto 2.5rem; padd=
+ing: 0px 15px; border: 0px; font-size: 16px; font-family: -webkit-standard;=
+ vertical-align: baseline; display: block; max-width: 1080px; width: 865.57=
+8125px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal;=
+ font-variant-caps: normal; font-weight: normal; letter-spacing: normal; or=
+phans: auto; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust=
+: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">=20
+       <div class=3D"c-contentElements" style=3D"box-sizing: content-box; m=
+argin: 0px; padding: 0px 15px 0px 0px; border: 0px; font-size: 16px; font-f=
+amily: inherit; vertical-align: baseline; width: calc(100% - 330px); ">=20
+        <p class=3D"story-text b-margin-bottom-d40-m20" style=3D"box-sizing=
+: content-box; margin: 0px 0px 2.5rem; padding: 0px; border: 0px; font-size=
+: 1.25rem; font-family: Gordita, Arial, sans-serif; vertical-align: baselin=
+e; width: 535px; line-height: 2; text-rendering: optimizeLegibility; -webki=
+t-font-smoothing: antialiased; "><span style=3D"color:#D3D3D3; ">he agency =
+had said it would update its guidance as more people got vaccinated and evi=
+dence mounted about the protection the shots provide.</span></p>=20
+        <p class=3D"story-text b-margin-bottom-d40-m20" style=3D"box-sizing=
+: content-box; margin: 0px 0px 2.5rem; padding: 0px; border: 0px; font-size=
+: 1.25rem; font-family: Gordita, Arial, sans-serif; vertical-align: baselin=
+e; width: 535px; line-height: 2; text-rendering: optimizeLegibility; -webki=
+t-font-smoothing: antialiased; "><span style=3D"color:#D3D3D3; ">The CDC is=
+ sticking to its guidance for unvaccinated people to avoid unnecessary trav=
+el. If they do travel, the agency says to get tested one to three days befo=
+re the trip and three to five days after. People should also stay home and =
+quarantine for seven days after travel, even if their COVID-19 test is nega=
+tive, the agency said.</span></p>=20
+       </div>=20
+      </div>=20
+      <div class=3D"c-section" style=3D"box-sizing: content-box; margin: 0p=
+x auto; padding: 0px 15px; border: 0px; font-size: 16px; font-family: -webk=
+it-standard; vertical-align: baseline; display: block; max-width: 1080px; w=
+idth: 865.578125px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-st=
+yle: normal; font-variant-caps: normal; font-weight: normal; letter-spacing=
+: normal; orphans: auto; text-align: start; text-indent: 0px; text-transfor=
+m: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text=
+-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; =
+">
+       &nbsp;=20
+      </div>=20
+      <div class=3D"c-section
+         =20
+          b-margin-bottom-d40-m20
+          " style=3D"box-sizing: content-box; margin: 0px auto 2.5rem; padd=
+ing: 0px 15px; border: 0px; font-size: 16px; font-family: -webkit-standard;=
+ vertical-align: baseline; display: block; max-width: 1080px; width: 865.57=
+8125px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal;=
+ font-variant-caps: normal; font-weight: normal; letter-spacing: normal; or=
+phans: auto; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust=
+: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">=20
+       <div class=3D"c-contentElements" style=3D"box-sizing: content-box; m=
+argin: 0px; padding: 0px 15px 0px 0px; border: 0px; font-size: 16px; font-f=
+amily: inherit; vertical-align: baseline; width: calc(100% - 330px); ">=20
+        <p class=3D"story-subscription__placeholder subscription-promo b-ma=
+rgin-bottom-d40-m20" style=3D"box-sizing: content-box; margin: 0px 0px 2.5r=
+em; padding: 0px; border: 0px; font-size: 16px; font-family: inherit; verti=
+cal-align: baseline; height: auto; width: 535px; position: relative; border=
+-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-ra=
+dius: 6px; border-bottom-left-radius: 6px; ">&nbsp; </p>=20
+        <p class=3D"story-text b-margin-bottom-d40-m20" style=3D"box-sizing=
+: content-box; margin: 0px 0px 2.5rem; padding: 0px; border: 0px; font-size=
+: 1.25rem; font-family: Gordita, Arial, sans-serif; vertical-align: baselin=
+e; width: 535px; line-height: 2; text-rendering: optimizeLegibility; -webki=
+t-font-smoothing: antialiased; "><span style=3D"color:#D3D3D3; ">The new gu=
+idance says:</span></p>=20
+        <div class=3D"list b-margin-bottom-d40-m20" style=3D"box-sizing: co=
+ntent-box; margin: 0px 0px 2.5rem; padding: 0px; border: 0px; font-size: 1r=
+em; font-family: Gordita, Arial, sans-serif; vertical-align: baseline; line=
+-height: 2.25; text-rendering: optimizeLegibility; -webkit-font-smoothing: =
+antialiased; ">=20
+         <ul style=3D"box-sizing: content-box; margin: 0px 0px 0px 2.3em; p=
+adding: 0px 0px 0px 0.3em; border: 0px; font-size: 1.25rem; font-family: Go=
+rdita, Arial, sans-serif; vertical-align: baseline; line-height: 2.25; text=
+-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; list-s=
+tyle: none; ">=20
+          <li style=3D"box-sizing: content-box; font-family: Gordita, Arial=
+, sans-serif; margin: 0px; padding: 0px 0px 0px 0.3em; border: 0px; font-si=
+ze: 1.25rem; vertical-align: baseline; line-height: 2.25; text-rendering: o=
+ptimizeLegibility; -webkit-font-smoothing: antialiased; list-style: none; "=
+><span style=3D"color:#D3D3D3; ">Fully vaccinated people can travel within =
+the U.S., without getting tested for the coronavirus or quarantining. Peopl=
+e should still wear a mask,</span></li>=20
+         </ul>=20
+        </div>=20
+       </div>=20
+      </div> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"30" style=3D"font-size: 0px; line-height: 0px; ">&nbsp; =
+</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>  =20
+ <img src=3D"http://www.car5-tdy.com/laboriously-putters/a626v2sp395m85TI12m15a38R4a33P21sFv4GIf4rxvs4FhIHEsvZ8DRDnKKQ97SFlC10X5UAcYT" alt=3D""/></body>
+</html>
+
+------=_Part_385_1747010532.1617480149597--
+

@@ -1,0 +1,65 @@
+Return-Path: <canvasprints_promotion-bruce=untroubled.org@speed57.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3044362 invoked from network); 19 Apr 2021 15:59:17 -0000
+Received: (qmail 32654 invoked by uid 222); 19 Apr 2021 15:59:17 -0000
+Return-Path: <canvasprints_promotion-bruce=untroubled.org@speed57.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 32651 invoked from network); 19 Apr 2021 15:59:17 -0000
+Received: from mail.speed57.cloud ([70.102.102.89])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 15:59:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed57.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints_promotion@speed57.cloud;
+ bh=c5Fkhdjj6VGvNzbrYbnaIBinU48=;
+ b=WNQHe1WZM+T6JVv7M25hac4/2FypJokV6CtCgkMnlXzYJPZAr4eVXDbf3MfMaanYCUcMmzhWdOhG
+   USI9gjJo4sZbNTQgjImbDl3jYyMmDYo0JCCUp7fgXtqOBri8mMClgcMPJVoFrj+EAmZLATudH1bQ
+   AZdUf57HCEGOm/k6hO8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed57.cloud;
+ b=lx0B5HNLK49rt9Y0PPcXosUpS1ERLqTmxlwNYCHCfOy9mVu3y5PelKcwhsdfDYfnDGzKnioio5VE
+   30VT4Z3J4oF7aZdsvdtSL4gdjJq+S9hsX5V6QTTanzpARfbMOcaICy2NW8zGW53MdiFtwQ0vt2tD
+   p6D/X3F2lNoaDRlw6Bo=;
+Received: by mail.speed57.cloud id hfmkcs0001gt for <bruce@untroubled.org>; Mon, 19 Apr 2021 11:52:21 -0400 (envelope-from <canvasprints_promotion-bruce=untroubled.org@speed57.cloud>)
+Date: Mon, 19 Apr 2021 11:52:21 -0400
+From: "CanvasPrints Promotion" <canvasprints_promotion@speed57.cloud>
+To:   <bruce@untroubled.org>
+Subject: Turn your memories into art
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_490_1442016070.1618847536418"
+List-Unsubscribe: <http://www.speed57.cloud/Alexander-purifier/1986L2TA395Ot89m12lF11vZr4b22N21pFv4GIf4rxvs4FhIHEsvZ8oRpomomm6bPW10N5zJcLY>
+Message-ID: <0.0.0.36.1D73533FBDA8F62.4EC1CE@mail.speed57.cloud>
+Content-Length: 2843
+
+------=_Part_490_1442016070.1618847536418
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>buffoon</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.speed57.cloud/posts-grahams/5ee5O239O5wJS8617Bs1mS5f29gqK4b22x21NFv4GIf4rxvs4FhIHEsvZ8uRpomomm5rx10C6WlcYkB"><span style="font-size:18px; ">LOWEST price of the year on Canvas Prints </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed57.cloud/posts-grahams/5ee5O239O5wJS8617Bs1mS5f29gqK4b22x21NFv4GIf4rxvs4FhIHEsvZ8uRpomomm5rx10C6WlcYkB"><img alt="canvas" src="http://www.speed57.cloud/89f4S2395h7rOa13S15fp2cC4b22J21CFv4GIf4rxvs4FhIHEsvZ8cRpomomm6dT10As6OT3cY@/godhead-Jo" style="width: 613px; height: 756px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed57.cloud/bab6yN2C395Vk86W13u15f2UaK4b22W21kFv4GIf4rxvs4FhIHEsvZ8wRpomomm6lplG106QjUAcY/balking-apostles"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Exit&nbsp; <a href="http://www.speed57.cloud/truthfulness-bent/8824N2395PA8l912S15f2bu4b22_21PFv4GIf4rxvs4FhIHEsvZ8SRpomomm7E10HPWz6HJyclY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <style><font color="botanical"><style title="Beringer"></style><font face="exceeding"></font><span></span></font><style></style></style><style></style>
+  </center>   
+ <img src="http://www.speed57.cloud/stipulated-acronyms/abc5Y239X5WHH8513t15f2Sdu4b22Q21HFv4GIf4rxvs4FhIHEsvZ8CRpomomm6I10sNv6YJMcLY" alt=""/></body>
+</html>
+
+------=_Part_490_1442016070.1618847536418--
+

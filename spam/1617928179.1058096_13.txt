@@ -1,0 +1,136 @@
+Return-Path: <selectquote_insurance-bruce=untroubled.org@get-73.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1504553 invoked from network); 8 Apr 2021 18:22:42 -0000
+Received: (qmail 6958 invoked by uid 222); 8 Apr 2021 18:22:42 -0000
+Return-Path: <selectquote_insurance-bruce=untroubled.org@get-73.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 6955 invoked from network); 8 Apr 2021 18:22:42 -0000
+Received: from mail.get-73.us ([69.94.155.171])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 18:22:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=get-73.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote_insurance@get-73.us;
+ bh=vj6qdH2VFHuRO4wFA4XtMj9Xt9Q=;
+ b=J3zj/9wSfNF7zUwQAO/bCY/4OnCoN5unfQHRJDzsLFzSunvwTkPfRqW7TgVMygIjf2xWqQVDyjcR
+   oHhuw0G5mbAQX7ePiyEl//HEPRjGg7+giwO+EdWmf7B2aUtQGafn1wzvWawLv4nVUx6W4JJHWPZV
+   loWLMEbRADNdsLcCtio=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=get-73.us;
+ b=OoqMM84RB1AkI6L+YCGC977t1iNMeeGBDBI5+HdXQVe8HsblYR3cNqXtetFVC4oZtJhAYCkM8qYA
+   7i+hNM/L4qaP5hYwQCEJs1wxrobPqqY5HCUGtkbHxhCcwGp9I6VZ5pfxBZCvtmR3xFZSkRmsnLjl
+   LI5bc17SO0M2A3xd0DM=;
+Received: by mail.get-73.us id hdt4u20001g8 for <bruce@untroubled.org>; Thu, 8 Apr 2021 14:10:40 -0400 (envelope-from <selectquote_insurance-bruce=untroubled.org@get-73.us>)
+Date: Thu, 8 Apr 2021 14:10:40 -0400
+From: "SelectQuote Insurance" <selectquote_insurance@get-73.us>
+To:   <bruce@untroubled.org>
+Subject: Get a Free Life Insurance Quote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_562_1604073505.1617905424558"
+List-Unsubscribe: <http://www.get-73.us/c055Y23L95K8t9O11SP1o1p4a80D21sFv4GIf4rxvs4FhIHEsvZ11BR.omm9noZ96V10VhC6R@jPcY/aerospace-cranium>
+Message-ID: <0.0.0.3F.1D72CA27C17F718.66BC1E@mail.get-73.us>
+Content-Length: 6885
+
+------=_Part_562_1604073505.1617905424558
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>modulated</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.get-73.us/c9b5cq2395o8w6S13O15bcyaX4a80o21DFv4GIf4rxvs4FhIHEsvZ11iR.omm9noZ97bw10yoF6Byc2Yq/pumps-inflow">No cost quote in minutes&nbsp; </a><br /> &nbsp=
+;=20
+      <center>
+       <a href=3D"http://www.get-73.us/c9b5cq2395o8w6S13O15bcyaX4a80o21DFv4GIf4rxvs4FhIHEsvZ11iR.omm9noZ97bw10yoF6Byc2Yq/pumps-inflow"><img alt=3D"happyr" src=3D"http://www.get-73.us/5cf4c2395mAi7a12U15bcey4a80_21HFv4GIf4rxvs4FhIHEsvZ11zR.omm9noZ96GCY10F6alPcYk/Paleolithic-bullets" style=
+=3D"border-width: 0px; border-style: solid; width: 70%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">Copyright &copy; SelectQuote | Al=
+l Rights Reserved 2020</span></span></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">SelectQuote Insurance Services of=
+fers insurance products and services through its licensed insurance agency,=
+ SelectQuote Insurance Services, LLC. SelectQuote Insurance Services is not=
+ an insurance company. We represent trusted insurance companies, and receiv=
+e commissions ? and possibly other performance-based compensation ? for our=
+ services. Products and services are not available in all states.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">*40 year-old male in excellent he=
+alth, $500,000, 10-year policy for under a $1 a day. Example policy is for =
+$23 a month. Policy is a United of Omaha : Term Life Answers 10 is a non-pa=
+rticipating term life insurance to age 95, policy form 6179L-0696 (in TX, 5=
+957L-0495), underwritten by United of Omaha Life Insurance Company, Omaha, =
+NE 68175. The premium is guaranteed to stay the same for the 10 year period=
+ Minimum issue amount is $100,000. Premiums include a $62.50 annual policy=
+ fee. Forms and plan provisions may vary by state. Plan is available in all=
+ states except New York. Suicide and other limits may apply. The most favor=
+able rate classes (and lowest rates) are generally intended for those who c=
+an meet strict health/lifestyle criteria. All rates subject to underwriting=
+ qualifications. Rates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">* Best' s Credit Ratings? are und=
+er continuous review and subject to change and/or affirmation. For the late=
+st Best' s Credit Ratings? and Best' s Credit Reports (which include Best' =
+s Credit Ratings? ), visit the A.M. Best website at ambest.com. See Guide t=
+o Best' s Credit Ratings? for explanation of use and charges.? ? Best' s Cr=
+edit Ratings? reproduced herein appear under license from A.M. Best and do =
+not constitute, either expressly or impliedly, an endorsement of SelectQuot=
+e or its recommendations, formulas, criteria or comparisons to any other ra=
+tings, rating scales or rating organizations which are published or referen=
+ced herein. A.M. Best is not responsible for transcription errors made in p=
+resenting Best' s Credit Ratings? . Best' s Credit Ratings? are proprietary=
+ and may not be reproduced or distributed without the express written permi=
+ssion of A.M. Best Company.? A Best' s Financial Strength Rating opinion ad=
+dresses the relative ability of an insurer to meet its ongoing insurance ob=
+ligations. It is not a warranty of a company' s financial strength and abil=
+ity to meet its obligations to policyholders. View our Important Notice: Be=
+st' s Credit Ratings for a disclaimer notice and complete details at <a hre=
+f=3D"http://www.get-73.us/8276RG239A5Uu8Q617uF15QGLbDcbh4a80J21zFv4GIf4rxvs4FhIHEsvZ11zR.omm9noZ95HL10D5LBcYp/dumber-economics">http://www.get-73.us/8276RG239A5Uu8Q617uF15QGLbDcbh4a80J21zFv4GIf4rxvs4FhIHEsvZ11zR.omm9noZ95HL10D5LBcYp/dumber-economics</a></span></span></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">SelectQuote Insurance Services Co=
+rporate Office: 6800 W. 115th Street, Suite 2511, Overland Park, KS 66211</=
+span></span></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:8px; ">This email was sent to you on beh=
+alf of SelectQuote by a third-party marketing company. You are receiving em=
+ail from this third-party marketing company because you have expressed your=
+ interest in receiving commercial email through a site or sites associated =
+with them.</span></span></p>=20
+       <p><span style=3D"font-family:lucida sans unicode,lucida grande,sans=
+-serif; "><span style=3D"font-size:9px; "><span style=3D"font-size:8px; ">T=
+his email contains information regarding products and services offered by S=
+electQuote. If you do not wish to receive email messages from SelectQuote t=
+hat are advertising or promotional in nature, pleas</span>e<a href=3D"=
+http://www.get-73.us/bab6V2z39m5oND8613o15bccsS4a80u21aFv4GIf4rxvs4FhIHEsvZ11NR.omm9noZ95y1w0t5SAcUY/foreign-quake"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:georgia,serif; "> &nbsp; Remove <a =
+href=3D"http://www.get-73.us/unicorn-provable/e7c4P2395Lwr8913B15bcldY4a80O21BFv4GIf4rxvs4FhIHEsvZ11sR.omm9noZ95pW1n06alTcXY">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style></style><font></font><font dir="confiscated"><font lang="slamming"><style face="stormiest"></font></style></font><style dir="speculate"><style style="covered"></style><span></span></style><font id="tenses"></font><font class="throbs"></font><font color="Maurice"></font> =20
+ <img src=3D"http://www.get-73.us/dumber-economics/5586Az23n95DM8w517c1QU5blPcrfR4a80o21lFv4GIf4rxvs4FhIHEsvZ11IR.omm9noZ97BqPzG105H@cYU" alt=3D""/></body>
+</html>
+
+------=_Part_562_1604073505.1617905424558--
+

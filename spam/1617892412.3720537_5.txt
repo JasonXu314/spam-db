@@ -1,0 +1,70 @@
+Return-Path: <LibertyUOnlinePrograms-bruce=untroubled.org@buywaisttrainer.co.uk>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1342601 invoked from network); 8 Apr 2021 11:18:29 -0000
+Received: (qmail 226044 invoked by uid 222); 8 Apr 2021 11:18:28 -0000
+Return-Path: <LibertyUOnlinePrograms-bruce=untroubled.org@buywaisttrainer.co.uk>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 226041 invoked from network); 8 Apr 2021 11:18:28 -0000
+Received: from esparza.buywaisttrainer.co.uk (esparza.buywaisttrainer.co.uk [194.116.237.71])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 11:18:27 -0000
+Received: by esparza.buywaisttrainer.co.uk id hdrj880001g5 for <bruce@untroubled.org>; Thu, 8 Apr 2021 11:18:23 +0000 (envelope-from <LibertyUOnlinePrograms-bruce=untroubled.org@buywaisttrainer.co.uk>)
+Date: Thu, 8 Apr 2021 11:18:23 +0000
+From: Liberty U Online Programs <LibertyUOnlinePrograms@buywaisttrainer.co.uk>
+Reply-To: LibertyUOnlinePrograms@buywaisttrainer.co.uk
+To: bruce@untroubled.org
+Message-Id: <8ba9fa6c-d549-4f93-85f8-55d0b85b6400@buywaisttrainer.co.uk>
+Subject: =?utf-8?B?RWFybiBhIERlZ3JlZSBhbmQgUHJlcGFyZSB0byBBZHZhbmNlIFlvdXIgQ2FyZWVy?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-39199442e0fcac87d4d6__6287fbc812e6b7_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2614
+
+---_-_-39199442e0fcac87d4d6__6287fbc812e6b7_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-39199442e0fcac87d4d6__6287fbc812e6b7_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+TGliZXJ0eSBVbml2ZXJzaXR5CjxkaXYgc3R5bGU9ImRpc3BsYXk6IG5vbmU7IG1heC1oZWlnaHQ6
+IDBweDsgb3ZlcmZsb3c6IGhpZGRlbjsiPkVhcm4gWW91ciBEZWdyZWUgV2l0aCBMaWJlcnR5IFVu
+aXZlcnNpdHk8L2Rpdj4KPGRpdiBzdHlsZT0iZGlzcGxheTogbm9uZTsgbWF4LWhlaWdodDogMHB4
+OyBvdmVyZmxvdzogaGlkZGVuOyI+Jnp3bmo7ICZ6d25qOyAmenduajsgJnp3bmo7ICZ6d25qOyAm
+enduajsgJnp3bmo7ICZ6d25qOyAmenduajsgJnp3bmo7ICZ6d25qOyAmenduajsgJnp3bmo7PC9k
+aXY+CjxjZW50ZXI+Cjx0YWJsZSBzdHlsZT0iZGlzcGxheTogaW5saW5lLXRhYmxlOyIgd2lkdGg9
+IjYwMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIiBib3JkZXI9IjAiPgo8dGJvZHk+
+Cjx0cj4KPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwOi8vYnV5d2Fpc3R0cmFpbmVyLmNv
+LnVrL3E1Q0JUcF92LUF5UCI+PGltZyBhbHQ9IkJyb3dzZSBPdmVyIDQwMCBEZWdyZWUgUHJvZ3Jh
+bXMgYXQgTGliZXJ0eSBVbml2ZXJzaXR5IiBjbGFzcz0iYXV0by1zdHlsZTEwIiBzcmM9Imh0dHA6
+Ly9jbGljay53aG9zd2hvbGlzdC5jb20vZnJvbnRlbmQvYXNzZXRzL2ZpbGVzL2N1c3RvbWVyL29v
+MTA5c21nemFkOTUvdHJhY3Npb24vTGliZXJ0eVVuaXZlcnNpdHlfRUMtMjAxOV8wOV8xOS0xLTEu
+anBnIiBzdHlsZT0iYm9yZGVyLXdpZHRoOiAwcHg7IGJvcmRlci1zdHlsZTogc29saWQ7IHdpZHRo
+OiA2MDBweDsgaGVpZ2h0OiA3MTBweDsiIC8+IDwvYT48L3RkPgo8L3RyPgo8dHI+Cjx0ZCBhbGln
+bj0iY2VudGVyIj4KPHRhYmxlIGNsYXNzPSJhdXRvLXN0eWxlMTEiIHN0eWxlPSJkaXNwbGF5OiBp
+bmxpbmUtdGFibGUgYm9yZGVyLWNvbGxhcHNlOmNvbGxhcHNlOyB3aWR0aDogNTk5cHg7IiBjZWxs
+c3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGJvcmRlcj0iMCI+Cjx0Ym9keT4KPHRyPgo8dGQg
+c3R5bGU9InBhZGRpbmctdG9wOiAxMHB4OyB3aWR0aDogNTkzcHg7IGhlaWdodDogMzhweDsiPgo8
+cCBjbGFzcz0iYXV0by1zdHlsZTgiPlRoaXMgaXMgYW4gYWR2ZXJ0aXNlbWVudC4gSWYgeW91IG5v
+IGxvbmdlciB3aXNoIHRvIHJlY2VpdmUgaW5mb3JtYXRpb24gZGlyZWN0bHkgZnJvbSBMaWJlcnR5
+IFVuaXZlcnNpdHksIHlvdSBjYW4gdW5zdWJzY3JpYmUgPGEgaHJlZj0iaHR0cDovL2J1eXdhaXN0
+dHJhaW5lci5jby51ay9RZm9uNVBsVmtsQ3AiPmhlcmU8L2E+IG9yIHdyaXRlIHRvIDE5NzEgVW5p
+dmVyc2l0eSBCbHZkLiBMeW5jaGJ1cmcsIFZhLiAyNDUxNS48L3A+CjwvdGQ+CjwvdHI+CjwvdGJv
+ZHk+CjwvdGFibGU+CjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjwvY2VudGVyPgo8ZGl2
+IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IGJhY2tncm91bmQtY29sb3I6ICNmZmY7IHBhZGRp
+bmctdG9wOiAxMHB4OyBwYWRkaW5nLWJvdHRvbTogMTBweDsgZm9udC1zaXplOiA4cHQ7IGZvbnQt
+ZmFtaWx5OiBzYW5zLXNlcmlmOyI+WzEzMjEgVXBsYW5kIERyIDQzOTkgSG91c3RvbiwgVFggNzcw
+NDNdPGJyIC8+IDxhIGhyZWY9Imh0dHA6Ly9idXl3YWlzdHRyYWluZXIuY28udWsvU2RtbDNOalRp
+a1czIiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IGNv
+bG9yOiAjNjY2OyI+VU5TVUJTQ1JJQkU8L2E+PC9kaXY+
+
+---_-_-39199442e0fcac87d4d6__6287fbc812e6b7_-_---

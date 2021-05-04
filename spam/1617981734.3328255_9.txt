@@ -1,0 +1,135 @@
+Return-Path: <selectquote_insurance-bruce=untroubled.org@ocks25.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1540273 invoked from network); 9 Apr 2021 13:22:45 -0000
+Received: (qmail 20915 invoked by uid 222); 9 Apr 2021 13:22:44 -0000
+Return-Path: <selectquote_insurance-bruce=untroubled.org@ocks25.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 20912 invoked from network); 9 Apr 2021 13:22:44 -0000
+Received: from mail.ocks25.us ([208.187.164.69])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 13:22:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ocks25.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote_insurance@ocks25.us;
+ bh=QGzF8DFzB6sstbiji2TZfBPAj2I=;
+ b=ALL5He5bpDSLpBGtt7vJWZz8O/8YMQyswxXMKVSqPeGjKOfWbwm+VhfhT+Hxgd4lGLJIxYy6Hzd/
+   1Pb1Yci6kPr+cJPCO5BLMXIckeq2lFYBo7+sFjHa8khWAWZFPFTfNH99BWfTvao4CqXnMCNPmQrX
+   KmMjJ0Dmvf9s8SB0LlU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ocks25.us;
+ b=HrZnq4RtOVNi6LVpsGhvHNY7AlCG/knmUY3Ot22GJN0yOhNxdqY8xdIlmyNiHN+4ghsiyhbjow4r
+   P8HY9FSRvzfCSpzt6lU1Yzfb5BPpYhR2+JMTcAYgRLlaLyJR7/MIT2Up9agkemSS1w7rbdKbRsMk
+   5gf0ebs0VboKY+VAA7M=;
+Received: by mail.ocks25.us id he1ahk0001g0 for <bruce@untroubled.org>; Fri, 9 Apr 2021 09:15:27 -0400 (envelope-from <selectquote_insurance-bruce=untroubled.org@ocks25.us>)
+Date: Fri, 9 Apr 2021 09:15:27 -0400
+From: "SelectQuote Insurance" <selectquote_insurance@ocks25.us>
+To:   <bruce@untroubled.org>
+Subject: Get a Free Life Insurance Quote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_493_905879688.1617974120997"
+List-Unsubscribe: <http://www.ocks25.us/monuments-stomach/1d46pBX2395yO89g12Qg11WoY4a88X21jFv4GIf4rxvs4FhIHEsvZ11mRgomm9KoF97C10WVUz5WXcYy>
+Message-ID: <0.0.0.36.1D72D42685E401A.5B8FD7@mail.ocks25.us>
+Content-Length: 6688
+
+------=_Part_493_905879688.1617974120997
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>depicted</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.ocks25.us/c9b4U2395zh86V12l15bf4Z4a88k21dFv4GIf4rxvs4FhIHEsvZ11aRgomm9KoF96oA1Q0X5MNcY@/bacilli-affordable">Coverage in just minutes&nbsp; </a><br /> &nbsp=
+;=20
+      <center>
+       <a href=3D"http://www.ocks25.us/c9b4U2395zh86V12l15bf4Z4a88k21dFv4GIf4rxvs4FhIHEsvZ11aRgomm9KoF96oA1Q0X5MNcY@/bacilli-affordable"><img alt=3D"happyr" src=3D"http://www.ocks25.us/4a36Q2z3F95YL7sa17M15ObfT8Qthq4a88z21QFv4GIf4rxvs4FhIHEsvZ11lRgomm9KoF96j1vHm05XlzcY/Boswellize-airlocks" style=
+=3D"border-width: 0px; border-style: solid; width: 71%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Re=
+served 2020</span></span></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">SelectQuote Insurance Services offers insura=
+nce products and services through its licensed insurance agency, SelectQuot=
+e Insurance Services, LLC. SelectQuote Insurance Services is not an insuran=
+ce company. We represent trusted insurance companies, and receive commissio=
+ns ? and possibly other performance-based compensation ? for our services. =
+Products and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">*40 year-old male in excellent health, $500,=
+000, 10-year policy for under a $1 a day. Example policy is for $23 a month=
+ Policy is a United of Omaha : Term Life Answers 10 is a non-participating=
+ term life insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495),=
+ underwritten by United of Omaha Life Insurance Company, Omaha, NE 68175. T=
+he premium is guaranteed to stay the same for the 10 year period. Minimum i=
+ssue amount is $100,000. Premiums include a $62.50 annual policy fee. Forms=
+ and plan provisions may vary by state. Plan is available in all states exc=
+ept New York. Suicide and other limits may apply. The most favorable rate c=
+lasses (and lowest rates) are generally intended for those who can meet str=
+ict health/lifestyle criteria. All rates subject to underwriting qualificat=
+ions. Rates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuo=
+us review and subject to change and/or affirmation. For the latest Best' s =
+Credit Ratings? and Best' s Credit Reports (which include Best' s Credit Ra=
+tings? ), visit the A.M. Best website at ambest.com. See Guide to Best' s C=
+redit Ratings? for explanation of use and charges.? ? Best' s Credit Rating=
+s? reproduced herein appear under license from A.M. Best and do not constit=
+ute, either expressly or impliedly, an endorsement of SelectQuote or its re=
+commendations, formulas, criteria or comparisons to any other ratings, rati=
+ng scales or rating organizations which are published or referenced herein.=
+ A.M. Best is not responsible for transcription errors made in presenting B=
+est' s Credit Ratings? . Best' s Credit Ratings? are proprietary and may no=
+t be reproduced or distributed without the express written permission of A.=
+M. Best Company.? A Best' s Financial Strength Rating opinion addresses the=
+ relative ability of an insurer to meet its ongoing insurance obligations. =
+It is not a warranty of a company' s financial strength and ability to meet=
+ its obligations to policyholders. View our Important Notice: Best' s Credi=
+t Ratings for a disclaimer notice and complete details at <a href=3D"=
+http://www.ocks25.us/4675c239C5K86HH12u15bf5w4a88W21QFv4GIf4rxvs4FhIHEsvZ11DRgomm9KoF95M10qS6HPBc@Y/schools-distempered">http://www.ocks25.us/4675c239C5K86HH12u15bf5w4a88W21QFv4GIf4rxvs4FhIHEsvZ11DRgomm9KoF95M10qS6HPBc@Y/schools-distempered</a></span></span></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Off=
+ice: 6800 W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span=
+></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:8px; ">This email was sent to you on behalf of Sele=
+ctQuote by a third-party marketing company. You are receiving email from th=
+is third-party marketing company because you have expressed your interest i=
+n receiving commercial email through a site or sites associated with them.<=
+/span></span></p>=20
+       <p><span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><=
+span style=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email c=
+ontains information regarding products and services offered by SelectQuote.=
+ If you do not wish to receive email messages from SelectQuote that are adv=
+ertising or promotional in nature, pleas</span>e<a href=3D"http://www.ocks25.us/eccentricity-Linnaeus/2885Ct2395J8Dy612w15bf6m4a88k21AFv4GIf4rxvs4FhIHEsvZ11yRgomm9KoF97lL1juM05s1ycY"> uns=
+ubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; =
+"> &nbsp; Leave <a href=3D"http://www.ocks25.us/Boswellize-airlocks/X304q2395K89vk12q15bf7J4a88M21mFv4GIf4rxvs4FhIHEsvZ11VRgomm9KoF97A1U0Cpy5Q@NcY">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style></style><span face="gowns"></span><big></big><small><small><big></small></small></big><font face="ravaging"></font> =20
+ <img src=3D"http://www.ocks25.us/8bd6Rp239Y5Nq8S513P15bIf9q4a88w21SFv4GIf4rxvs4FhIHEsvZ11BRgomm9KoF97KFB1Bu06Qy1LcY/comprehensive-curtained" alt=3D""/></body>
+</html>
+
+------=_Part_493_905879688.1617974120997--
+

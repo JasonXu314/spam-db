@@ -1,0 +1,166 @@
+Return-Path: <alyssa.gonzalez@benefit-focus.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2354012 invoked from network); 13 Apr 2021 17:31:24 -0000
+Received: (qmail 51220 invoked by uid 222); 13 Apr 2021 17:31:24 -0000
+Return-Path: <alyssa.gonzalez@benefit-focus.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 51217 invoked from network); 13 Apr 2021 17:31:24 -0000
+Received: from mail-qv1-xf2d.google.com (mail-qv1-xf2d.google.com [IPv6:2607:f8b0:4864:20::f2d])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 13 Apr 2021 17:31:23 -0000
+Received: by mail-qv1-xf2d.google.com with SMTP id dl5so6196724qvb.6
+        for <bruce@untroubled.org>; Tue, 13 Apr 2021 10:31:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=benefit-focus-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2+r+drRI+/p0ly4HegiOlhGu9yKpEX/TmtFbsOcloCQ=;
+        b=Rcwf6GdOV9WpUHCau6G4touluES2FYtZ2B/nUhUn2VQcwfxH9BRcKqFj56Lp+OZoAU
+         f20d9ksN1/mDpKHbziLGbeiSm/ZoY3QstZuZTTTSv0kjD4cGS8oLEcUzfnaBaaiBuXYC
+         c8BG+GJvdTRCfVfbUC38dw0KTufOVeSVMjMs3E4gFv/sHCoshdwrROXBniShjjNjAtZc
+         mUWrePsuxqd0vdBOzp4bEHL5bfoJ/SlXQB+Kbe6Su8JO42vEeovKUNow93+1FanA5t48
+         p3H429R5ugz06/MdRJkI9SPsTi3uC5BDHQ/K08TNqwkPETQW9oPMu+JCyDPRwz6Ulvao
+         1GZg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=2+r+drRI+/p0ly4HegiOlhGu9yKpEX/TmtFbsOcloCQ=;
+        b=FNSHbgdV4URSu4cI+N54ToXV8WmTG7AKoKCWwzKG9+wTvF5p1XeoO2B2QtNccpdnQT
+         7EFtJJ+Z77y1Dkyj0RRKGD8bEe5y4PB5kfDI242vcACJiy9EKKx+rzNE+L3qswB4UOl2
+         TECLfihgBFQ2yAEZiyvP0er44mV3oxP2A3QBqXLqxModfQDFKY7nAeNHsd3CiGHzfykf
+         OynYABtBC1u9YaVCdYaWEcgIJAK5oYxPozne+roF5baLNW+4JRYksixlSdIqNAU1/tCy
+         nIDYhh2MOwNVdweEoEOLbWbtQ6L4AsrO16FuwDcyAK82oUhDgiQ3iY2SK2Kvmvm8k+4B
+         UJCw==
+X-Gm-Message-State: AOAM530iJwJGxb2F1ifqMCblDGfhUhoE+kttBKC3CiMKkdOqGGS/x8lP
+	tSbln3QBtmchY3WjUQ2MdgD0K1K0hbcwEsVgfFWdow==
+X-Google-Smtp-Source: ABdhPJx1ssL1YcpC2RLSnPKcldoh2AvWZOCb7epBmVmkLqxQwcGXQ/Nrz0vstzV2jKd9dx3RetClXznQhIez4EYzOw8=
+X-Received: by 2002:a0c:eec1:: with SMTP id h1mr7132327qvs.14.1618335083147;
+ Tue, 13 Apr 2021 10:31:23 -0700 (PDT)
+MIME-Version: 1.0
+From: Alyssa Gonzalez <alyssa.gonzalez@benefit-focus.com>
+Date: Tue, 13 Apr 2021 12:31:10 -0500
+Message-ID: <CAJirrr3y8kwXc7pd5feqBqcC_Fjdb+TWTHD0coqkRgA0FFGATg@mail.gmail.com>
+Subject: RE: AVMA Registrant Email Lists-2021
+To: Alyssa Gonzalez <alyssa.gonzalez@benefit-focus.com>
+Content-Type: multipart/alternative; boundary="000000000000c23d4f05bfddff25"
+Bcc: bruce@untroubled.org
+Content-Length: 4947
+
+--000000000000c23d4f05bfddff25
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I hope you and your family are safe!
+
+
+
+Would you be interested in acquiring American Veterinary Medical
+Association Registrant Email Lists-2021?
+
+List Includes: Company Name, First Name, Last Name, Full Name, Contact Job
+Title, Verified Email Address, Website URL, Mailing address, Phone number,
+Industry and many more=E2=80=A6
+
+Number of Contacts        : 9,728 Opt-in Contacts.
+Cost                                    : $1,539
+
+
+
+If you=E2=80=99re interested please let me know I will assist you with furt=
+her
+details.
+
+
+
+Kind Regards,
+
+Alyssa Gonzalez
+
+Marketing Coordinator
+
+
+
+If you don=E2=80=99t wish to receive further email from us please reply bac=
+k =E2=80=9CLeave
+Out=E2=80=9D
+
+--000000000000c23d4f05bfddff25
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 12pt;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"colo=
+r:rgb(31,78,121)">Hi,</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">I hope you and your family are safe!</span><span lang=3D"EN-US"></span=
+></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">=C2=A0</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 12pt;font-size:11pt;font-fam=
+ily:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(132,60,12)"=
+>Would you be interested in
+acquiring American Veterinary Medical Association Registrant Email Lists-20=
+21?</span><span lang=3D"EN-CA" style=3D"color:rgb(31,78,121)"><br>
+<br>
+</span><span lang=3D"EN-CA" style=3D"color:rgb(132,60,12)">List
+Includes: </span><span lang=3D"EN-CA" style=3D"color:rgb(31,78,121)">Compan=
+y
+Name, First Name, Last Name, Full Name, Contact Job Title, Verified Email
+Address, Website URL, Mailing address, Phone number, Industry and many more=
+=E2=80=A6</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">Number of Contacts =C2=A0 =C2=A0 =C2=A0 =C2=A0:=C2=A0</span><span lang=
+=3D"EN-CA" style=3D"color:rgb(132,60,12)">9,728 Opt-in Contacts.</span><spa=
+n lang=3D"EN-CA" style=3D"color:rgb(31,78,121)"><br>
+Cost =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0: </span><span lang=
+=3D"EN-CA" style=3D"color:rgb(132,60,12)">$1,539</span><span lang=3D"EN-CA"=
+ style=3D"color:rgb(31,78,121)">=C2=A0 =C2=A0=C2=A0</span><span lang=3D"EN-=
+US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"font-size:12pt;fo=
+nt-family:&quot;Times New Roman&quot;,serif">=C2=A0</span><span lang=3D"EN-=
+US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">If you=E2=80=99re interested please let me know I will assist you with=
+ further
+details.</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-US" style=3D"color:rgb(7,55,99=
+)">=C2=A0</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">Kind Regards,</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span style=3D"color:rgb(31,78,121);font-size:1=
+1pt">Alyssa Gonzalez</span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0=
+cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"c=
+olor:rgb(31,78,121);font-size:11pt">Marketing Coordinator</span><br></p><p =
+class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-fa=
+mily:Calibri,sans-serif"><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">=C2=A0</span><span lang=3D"EN-US"></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,sans-serif"><span lang=3D"EN-CA" style=3D"color:rgb(31,78,1=
+21)">If you don=E2=80=99t wish to receive further email from us please repl=
+y back
+=E2=80=9CLeave Out=E2=80=9D</span></p></div>
+
+--000000000000c23d4f05bfddff25--

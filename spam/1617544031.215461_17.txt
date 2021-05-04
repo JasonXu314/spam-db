@@ -1,0 +1,69 @@
+Return-Path: <tinnitus-ringing-ears-bruce=untroubled.org@credup2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1117137 invoked from network); 3 Apr 2021 19:37:22 -0000
+Received: (qmail 152854 invoked by uid 222); 3 Apr 2021 19:37:21 -0000
+Return-Path: <tinnitus-ringing-ears-bruce=untroubled.org@credup2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 152851 invoked from network); 3 Apr 2021 19:37:21 -0000
+Received: from mail.credup2.com ([70.102.103.66])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 19:37:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=credup2.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus-ringing-ears@credup2.com;
+ bh=Hknop0croLpBR9gX9334a0je4jc=;
+ b=LMNjWb2AeOAyXg89fJXWdIX36Q++O0Ep0YtiIl6liC2kTEluv9kBDymwMgQ7P8N3usrO3gf1dTFL
+   gda33fW8tREKZyFqSyEiDW7mZ472znq59I45a96ecrpwaDZOsS0PW39ZEZ0VuqDTTiNlIYLfHs7s
+   WexfR+6lGTYTOiyvElQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=credup2.com;
+ b=rq7goE43ZQasG+Ix4KFdTVUawG1NSvjS9qEHab5nhRBaQEXaVA12PJdhscLcuAHRi0ftlUM9cuCb
+   3KrKH8ugiuM78T187vW41t49taMojGHO57UTUH2MpmpoQHz7tZ8zQ/EYNNp+827D2ogfb6d9zhq2
+   frT9icWTHMlN/BEz0zY=;
+Received: by mail.credup2.com id hd31u60001gn for <bruce@untroubled.org>; Sat, 3 Apr 2021 15:26:04 -0400 (envelope-from <tinnitus-ringing-ears-bruce=untroubled.org@credup2.com>)
+Date: Sat, 3 Apr 2021 15:26:04 -0400
+From: "Tinnitus Ringing Ears" <tinnitus-ringing-ears@credup2.com>
+To:   <bruce@untroubled.org>
+Subject: This Is What Ear Ringing Does To Your Brain
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_79_833927420.1617477948093"
+List-Unsubscribe: <http://www.credup2.com/8db5z2x395JGC8911Ci11Xj4a32R21yFv4GIf4rxvs4FhIHEsvZ8aRYnKKQo6S1Yh0S6p3cY2l/Ottawa-angst>
+Message-ID: <0.0.0.8.1D728BF307D00DC.684256@mail.credup2.com>
+Content-Length: 8551
+
+------=_Part_79_833927420.1617477948093
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>reducible</title> 
+ </head> 
+ <body> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">If you suffer from tinnitus, then you need to watch this...</span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">New studies from top Ivy League Universities suggest that the root cause of tinnitus, along with many other hearing problems, has absolutely nothing to do with your actual ears...</span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">... but instead comes from a condition hidden inside your brain.</span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.credup2.com/6294m2395zT86t13l15ra2fn4a32K21oFv4GIf4rxvs4FhIHEsvZ8ORYnKKQo6r1oM0J5YlLcY/disconnect-Dominique">==&gt; Watch the shocking presentation about this new discovery</a></span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><a href="http://www.credup2.com/6294m2395zT86t13l15ra2fn4a32K21oFv4GIf4rxvs4FhIHEsvZ8ORYnKKQo6r1oM0J5YlLcY/disconnect-Dominique"><img alt="head top" src="http://www.credup2.com/ef36OO2D395q7qIa17IZlN15av3q2i4a32D21AFv4GIf4rxvs4FhIHEsvZ8GRYnKKQo6SP1D0N5UJ1cY/coexisting-schooler" style="width: 506px; height: 402px; " /></a></p> 
+  <div align="left" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+   <br /> 
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.credup2.com/b336Q23hI95q8A6y12Q15a30r4a32K21QFv4GIf4rxvs4FhIHEsvZ8GRYnKKQo7OAkh10W5UMcPY/Ottawa-angst"><font color="#666666">Unsubscribe Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+   <br /> 
+   <br /> 
+   <span style="font-size:12px; ">Remove&nbsp; <a href="http://www.credup2.com/coexisting-schooler/3006B2tw395cMM8913s15a3H1r4a32g21KFv4GIf4rxvs4FhIHEsvZ8kRYnKKQo5My10K5BAlcY"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span>
+   <br /> 
+   <br /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> &nbsp; 
+  </div> <style class="playing"><small><span title="alkaloid"><span size="examine"></span></small></span></style><style></style><span><big><big></big></span></big><big></big><big></big>  
+ <img src="http://www.credup2.com/d6d6pV23B95B8qU512o15a33s4a32A21kFv4GIf4rxvs4FhIHEsvZ8SRYnKKQo7zNR1X0i5kMcOY/imperfectly-rafter" alt=""/></body>
+</html>
+
+------=_Part_79_833927420.1617477948093--
+

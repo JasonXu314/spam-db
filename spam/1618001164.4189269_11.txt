@@ -1,0 +1,254 @@
+Return-Path: <simple_brain_fix-bruce=untroubled.org@ck1.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1547349 invoked from network); 9 Apr 2021 17:06:35 -0000
+Received: (qmail 23868 invoked by uid 222); 9 Apr 2021 17:06:34 -0000
+Return-Path: <simple_brain_fix-bruce=untroubled.org@ck1.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 23865 invoked from network); 9 Apr 2021 17:06:34 -0000
+Received: from mail.ck1.us ([69.94.155.146])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 17:06:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ck1.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=simple_brain_fix@ck1.us;
+ bh=yLKm/HnJKB9S0wk7Wt8ko+ZoTkI=;
+ b=h16Yad+ISznc02xHSQh+Qb/p79N7PmLUzW2lHvE/q1rowTfFZ53o+4dRmsde/SSGgu91Pv+Aa2Tc
+   MG2kxgqINYautZvRdtkG+jjgRlCk0+GkYukFgDoc0oE78gS0mzcBqlcACghYmm6SPG8lTaIP98qZ
+   HymqNkkaDiAS52dR/dw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ck1.us;
+ b=cjYBORIFQwJgXVAazIyFQC/3udlVPT4Zxj2ZAyFxZioXY5NDKSTl/6CAR1aEDXkHUqPsaJg6p4In
+   loX/36l9oJYO85GRj9tJlVO0MawqHtqFXgvKz8LQaasVeXB6M5EXPbCTL9dEeJs7u+AJi4CFJHy/
+   VP46I1SbKAGG+KOjubQ=;
+Received: by mail.ck1.us id he24p20001gj for <bruce@untroubled.org>; Fri, 9 Apr 2021 13:01:34 -0400 (envelope-from <simple_brain_fix-bruce=untroubled.org@ck1.us>)
+Date: Fri, 9 Apr 2021 13:01:34 -0400
+From: "Simple Brain Fix" <simple_brain_fix@ck1.us>
+To:   <bruce@untroubled.org>
+Subject: Scratching THIS Body Part Is a Sign of Alzheimer's
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_136_1653495222.1617987682176"
+List-Unsubscribe: <http://www.ck1.us/unknowable-botch/d145Q2M395IG89t13L1I1IpgI4a8eo21wFv4GIf4rxvs4FhIHEsvZ11IRbommdQo595tNK106QJO@cY>
+Message-ID: <0.0.0.F.1D72D61FF430B72.3E47B3@mail.ck1.us>
+Content-Length: 15983
+
+------=_Part_136_1653495222.1617987682176
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>passion</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:arial,helvetica,sans-serif; "><span class=3D"unsty=
+le-auto-detected-links" style=3D"text-decoration: none !important; font-siz=
+e: 18px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); =
+">Plug into </span><a class=3D"unstyle-auto-detected-links" href=3D"=
+http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" style=3D"text-decoration: none !important; font-family: sans-serif; fo=
+nt-size: 18px; line-height: 20px; text-align: center; color: rgb(153, 153, =
+153); ">your Brains Blueprint</a></span> <p style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-s=
+tyle: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; text-indent: 0px; text-transform: none; white-space: normal; wor=
+d-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:arial,helvetica,sans-=
+serif; ">A new study from Harvard Scientists has revealed<br /> that <a hre=
+f=3D"http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" target=3D"_blank">ONE of the following foods</a> is linked=
+ to combating<br /> Alzheimer' s and dementia. Can you guess which it is?</=
+span></p>=20
+      <div>
+       <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">1. </span><a href=3D"http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; font=
+-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: auto; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; " target=3D"_blank">Red wine</a><span style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; word-s=
+pacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; t=
+ext-decoration: none; display: inline !important; float: none; "> </span><b=
+r style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Ari=
+al, Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; f=
+ont-weight: normal; letter-spacing: normal; orphans: auto; text-align: star=
+t; text-indent: 0px; text-transform: none; white-space: normal; widows: aut=
+o; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-w=
+idth: 0px; text-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-vari=
+ant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; word-sp=
+acing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; display: inline !important; float: none; ">2. </span><=
+a href=3D"http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" style=3D"font-family: Arial, Helvetica, sans-serif; f=
+ont-style: normal; font-variant-caps: normal; font-weight: normal; letter-s=
+pacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: auto; word-spacing: 0px; -webki=
+t-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target=3D"_blan=
+k">Fish</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); f=
+ont-size: medium; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; text-align: start; text-indent: 0px; tex=
+t-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-a=
+djust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display=
+: inline !important; float: none; "> </span><br style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; fo=
+nt-style: normal; font-variant-caps: normal; font-weight: normal; letter-sp=
+acing: normal; orphans: auto; text-align: start; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-size: medium; font-style: normal; font-variant-caps: normal; font-weight=
+: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text=
+-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display:=
+ inline !important; float: none; ">3. </span><a href=3D"http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: au=
+to; text-align: start; text-indent: 0px; text-transform: none; white-space:=
+ normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; " target=3D"_blank">Avocados</a><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font=
+-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans=
+: auto; text-align: start; text-indent: 0px; text-transform: none; white-sp=
+ace: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: aut=
+o; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">4. </span><a href=3D"http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; font=
+-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: auto; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; " target=3D"_blank">Clams</a><span style=3D"caret-color: rgb(0, 0, =
+0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-varian=
+t-caps: normal; font-weight: normal; letter-spacing: normal; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; word-spac=
+ing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text=
+-decoration: none; display: inline !important; float: none; "> </span></spa=
+n>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&=
+nbsp; </p>=20
+      <div>
+       <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">Select your answer to find out...</span></span>
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: auto; word-sp=
+acing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; ">
+       <span style=3D"font-family:arial,helvetica,sans-serif; "><a href=3D"=
+http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" target=3D"_blank"><img alt=3D"alzheimers and sleep" src=3D"=
+http://www.ck1.us/unknowable-botch/9905R239p5BH7Ya13h15yc1eK4a8eq21FFv4GIf4rxvs4FhIHEsvZ11eRbommdQo595I1qJ05BkcYp" style=3D"max-width: 40%; height: 226px; width: 400px; " title=3D"a=
+lzheimers and sleep" /></a></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><=
+span style=3D"font-family:arial,helvetica,sans-serif; "><strong><a href=3D"=
+http://www.ck1.us/c415N23x95dO86r17aHP15cH1Dn3o4a8eT21jFv4GIf4rxvs4FhIHEsvZ11uRbommdQo597oy1I0RZ6vl2cWY/volleyballs-kernel" target=3D"_blank">Or click HERE to see the answer &gt; &gt; &gt=
+; &gt; </a></strong></span></p> <p style=3D"caret-color: rgb(0, 0, 0); colo=
+r: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: nor=
+mal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal=
+; text-indent: 0px; text-transform: none; white-space: normal; word-spacing=
+: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-de=
+coration: none; "><span style=3D"font-family:arial,helvetica,sans-serif; ">=
+To your health,</span></p> <p style=3D"caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; tex=
+t-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px=
+; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decorat=
+ion: none; "><span style=3D"font-family:arial,helvetica,sans-serif; ">Dr. W=
+ill Mitchell, DOM, MS Nutrition</span></p>=20
+      <div>
+       &nbsp;=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not wish to receive=
+ future messages click here to <span class=3D"unstyle-auto-detected-links">=
+<a href=3D"http://www.ck1.us/5ed4n2395c8B6s13a15oc14s4a8ex21oFv4GIf4rxvs4FhIHEsvZ11HRbommdQo595rP10N5E@cTY/unknowable-botch" style=3D"text-decoration: underline !important; bord=
+er-bottom-width: 0px !important; cursor: default !important; color: rgb(153=
+, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit=
+ !important; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span=
+ class=3D"unstyle-auto-detected-links"><a href=3D"http://www.ck1.us/unknowable-botch/7384O2395fZ86l13R15c15iH4a8eK21DFv4GIf4rxvs4FhIHEsvZ11KRbommdQo596or10vh5cpcBY" style=3D"text=
+-decoration: underline !important; border-bottom-width: 0px !important; cur=
+sor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-f=
+amily: sans-serif; font-weight: inherit !important; line-height: 14px; text=
+-align: center; ">New Brain Blueprint</a>&nbsp; |&nbsp; 321 N Central Expre=
+ssway Suite 351 - McKinney, TX 75070</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:georgia,serif; "><span style=3D"font-size:12p=
+x; "><a href=3D"http://www.ck1.us/Pythagoreanizes-Aleut/3005s239U5Mkj8917e15yc16tvBXv4a8eH21rFv4GIf4rxvs4FhIHEsvZ11aRbommdQo595SI10Y5U3McY">Exit Here</a><br /> 6547 N Academy Boul=
+evard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <style id="reigning"></style><span lang="sideline"><style></style><span color="analogies"><span class="oscillations"></span></span></span><font id="grape"></font> =20
+ <img src=3D"http://www.ck1.us/unknowable-botch/42c6g2gv395e85Vp12a15c18C4a8em21iFv4GIf4rxvs4FhIHEsvZ11ORbommdQo597o1Zsi0C5lTcyY" alt=3D""/></body>
+</html>
+
+------=_Part_136_1653495222.1617987682176--
+

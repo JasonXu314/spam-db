@@ -1,0 +1,438 @@
+Return-Path: <lola.cortez-bruce=untroubled.org@wegokansas.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1323627 invoked from network); 7 Apr 2021 21:51:20 -0000
+Received: (qmail 216851 invoked by uid 222); 7 Apr 2021 21:51:19 -0000
+Return-Path: <lola.cortez-bruce=untroubled.org@wegokansas.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 216848 invoked from network); 7 Apr 2021 21:51:19 -0000
+Received: from mail.wegokansas.com (205-236-248-81.serversto.com [205.236.248.81])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 21:51:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=wegokansas.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lola.cortez@wegokansas.com;
+ bh=296FITs/07971EWTjZM4bkXL05I=;
+ b=WIVYfTUDaDK3KpsCggqztOXIy1nW3recGFXyLKwJtlKO/vQWoT50ghFmaM5RgnQR4DvOn99+VVTb
+   OpXGcolUoCRmGXO7FLoLEiVXGMHtFxnHOwBtMopzEDMhbM5rLoEURkZKfOTsM6oo229Vz+1RItY/
+   TAc1eg0xRgY654xgBsc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=wegokansas.com;
+ b=mYj71sni/E5u00FiU1uF415QoYKB+lwvapba/GMHVueMt6jfb5IdNJoC18oe9s2op7FnzietUTvd
+   JL0Bp3K21uR11+Yz42RCwxbiGLRiaY2lHfJ3V6yE1OxX2cZoOntY6l9H4+PupFQiPr8+UXrAA/bf
+   /9gCRHERr5wdXI3+RFM=;
+Received: by mail.wegokansas.com id hdokre0001gk for <bruce@untroubled.org>; Wed, 7 Apr 2021 17:50:34 -0400 (envelope-from <lola.cortez-bruce=untroubled.org@wegokansas.com>)
+Date: Wed, 7 Apr 2021 17:50:34 -0400
+From: "Lola Cortez" <lola.cortez@wegokansas.com>
+To:   <bruce@untroubled.org>
+Subject: Rapidly Thaw Frozen Foods In Moments Using Revolutinary Technology
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_255_673994225.1617832076980"
+List-Unsubscribe: <http://www.wegokansas.com/descriptively-savings/d145z23B95ch89C11Qj1U1JL4acS21vFv4GIf4rxvs4FhIHEsvZ7PQHnomS5ux1r05B2lsv>
+Message-ID: <0.0.0.4D.1D72BF809A6BA66.54F7C4@mail.wegokansas.com>
+Content-Length: 17771
+
+------=_Part_255_673994225.1617832076980
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+- FREE SHIPPING ON ALL ORDERS -
+
+** Vacuum Sealer for Longer Lasting Food
+--------------------------------------------
+
+Help your food last longer, reduce food waste,  and make cooking easier with vacuum-sealed meal prep.   The White Dolphin sealer can quadruple the lifespan of your frozen food! Scientists have discovered that frozen food traditionally has a lifespan of 6-12 months, but vacuum-sealed frozen food lasts an average of 2-3 years.  Stock up on food now and reap the benefits later. 
+
+
+
+SHOP NOW UP TO 60% OFF ->  http://www.wegokansas.com/revulsion-gasping/a446tv23H95q8k6o10t1ee2y4acm21QFv4GIf4rxvs4FhIHEsvZ7NQHnomS7s1jrDP06cqj@sv
+
+
+
+
+
+
+Miller Thomas Industrial Networks.  7764 West Lamar Rd.  Glendale.  AZ 85303-2932. 
+Adjust your message settings here.  http://www.wegokansas.com/d314b2395pIv8612A1xedDfq4ac_21QFv4GIf4rxvs4FhIHEsvZ7lQHnomS7sknnX105QW1sv/descriptively-savings
+
+------=_Part_255_673994225.1617832076980
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <head>=20
+  <title></title>=20
+  <!--[if !mso]><!-- -->=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+  <!--<![endif]-->=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />=20
+  <style type=3D"text/css">
+         #outlook a { padding: 0; }
+         .ReadMsgBody { width: 100%; }
+         .ExternalClass { width: 100%; }
+         .ExternalClass * { line-height:100%; }
+         body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-=
+text-size-adjust: 100%; }
+         table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt; }
+         img { border: 0; height: auto; line-height: 100%; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; }
+         p { display: block; margin: 13px 0; }
+      </style>=20
+  <!--[if !mso]><!-->=20
+  <style type=3D"text/css">
+         @media only screen and (max-width:480px) {
+         @-ms-viewport { width:320px; }
+         @viewport { width:320px; }
+         }
+      </style>=20
+  <!--<![endif]-->=20
+  <!--[if mso]>=20
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->=20
+  <!--[if lte mso 11]>=20
+      <style type=3D"text/css">
+         .outlook-group-fix {
+         width:100% !important;
+         }
+      </style>
+      <![endif]-->=20
+  <style type=3D"text/css">
+         @media only screen and (min-width:480px) {
+         .mj-column-per-100 { width:100%!important; }
+         .mj-column-per-99 { width:99%!important; }
+         .mj-column-per-47 { width:47%!important; }
+         .mj-column-per-5 { width:5%!important; }
+         .mj-column-per-0 { width:0%!important; }
+         }
+      </style>=20
+ </head>=20
+ <body style=3D"background: #FAFAFA;">=20
+  <div class=3D"mj-container" style=3D"background-color:#FAFAFA;">=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->=20
+   <div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">=20
+    <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size:0px;width:100%;background:#FFFFFF;" align=3D"center" border=
+=3D"0">=20
+     <tbody>=20
+      <tr>=20
+       <td style=3D"text-align:center;vertical-align:top;border:0px;directi=
+on:ltr;font-size:0px;padding:0px;">=20
+        <!--[if mso | IE]>=20
+                                 <table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                       <td style=3D"vertical-align:top;widt=
+h:600px;">
+                                          <![endif]-->=20
+        <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"vertica=
+l-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:le=
+ft;width:100%;">=20
+         <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border:0px;vertical-align:top;" width=3D"100%" border=3D"0">=20
+          <tbody>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:0px;" a=
+lign=3D"center">=20
+             <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-collapse:collapse;border-spacing:0px;" align=3D"center" =
+border=3D"0">=20
+              <tbody>=20
+               <tr>=20
+                <td style=3D"width:600px;"> <a href=3D"" target=3D"_blank" =
+style=3D"color: #0080AE; text-decoration: underline;">=20
+                  <center>
+                   <img alt=3D"White Dolphin" height=3D"auto" src=3D"=
+http://www.wegokansas.com/9174c2395PB7xa12Liv1ee0w4acm21cFv4GIf4rxvs4FhIHEsvZ7hQHnomS7gI1S0qP6V0AsTv/bedrooms-massed" style=3D"border:0px;border-radius:0px;display:block;font-size:13px;o=
+utline:none;text-decoration:none;width:300px;height:auto;" width=3D"300" />
+                  </center> </a> </td>=20
+               </tr>=20
+              </tbody>=20
+             </table> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;">=20
+             <div style=3D"font-size:1px;line-height:20px;white-space:nowra=
+p;">
+              &nbsp;
+             </div> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:0px 10p=
+x 30px 10px;" align=3D"center">=20
+             <div style=3D"cursor:auto;color:#000000;font-family:Helvetica,=
+sans-serif;font-size:11px;font-weight:normal;line-height:19.8px;letter-spac=
+ing:2px;text-align:center;">=20
+              <p style=3D"margin: 0;text-decoration:none;">- FREE SHIPPING =
+ON ALL ORDERS -</p>=20
+             </div> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:0px;" a=
+lign=3D"center">=20
+             <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-collapse:collapse;border-spacing:0px;" align=3D"center" =
+border=3D"0">=20
+              <tbody>=20
+               <tr align=3D"center">=20
+                <td style=3D"width:600px;"><a href=3D"http://www.wegokansas.com/e7b5JA2395rJy8612NY1edmeB4acn21NFv4GIf4rxvs4FhIHEsvZ7YQHnomS6C10yAO5hOPsv/sacrifice-naturally" target=3D=
+"_blank" style=3D"color: #0080AE; text-decoration: underline;"><img alt=3D"=
+using the sealer" height=3D"auto" src=3D"http://www.wegokansas.com/Pakistan-subsided/a626Q2h39p5G7UCa10I1ee1t4acS21cFv4GIf4rxvs4FhIHEsvZ7lQHnomS6fy1S0L5IWTsv" style=3D"border:0px;b=
+order-radius:0px;display:block;font-size:13px;outline:none;text-decoration:=
+none;width:500px;height:auto;" width=3D"500" /></a></td>=20
+               </tr>=20
+              </tbody>=20
+             </table> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:30px 10=
+px;" align=3D"center">=20
+             <div style=3D"cursor:auto;color:#000000;font-family:Helvetica,=
+sans-serif;font-size:15px;font-weight:normal;line-height:22.5px;text-align:=
+center;">=20
+              <h1 style=3D"font-size:24px;font-weight:bold;text-decoration:=
+none;">Vacuum Sealer for Longer Lasting Food</h1>=20
+              <p style=3D"margin: 0;text-decoration:none;font-size:16px;">H=
+elp your food last longer, reduce food waste,&nbsp; <em>and</em> make cooki=
+ng easier with vacuum-sealed meal prep.</p>=20
+             </div> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:0px;" a=
+lign=3D"center">=20
+             <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-collapse:separate;" align=3D"center" border=3D"0">=20
+              <tbody>=20
+               <tr>=20
+                <td style=3D"border:1px solid rgba(230,236,238,1);border-ra=
+dius:4px;color:#FFFFFF;cursor:auto;padding:20px 30px;" align=3D"center" val=
+ign=3D"middle" bgcolor=3D"#f5813f"><a href=3D"http://www.wegokansas.com/e7b5JA2395rJy8612NY1edmeB4acn21NFv4GIf4rxvs4FhIHEsvZ7YQHnomS6C10yAO5hOPsv/sacrifice-naturally" style=3D"text-dec=
+oration: none; background: #f5813f; color: #FFFFFF; font-family: Helvetica,=
+sans-serif; font-size: 16px; font-weight: 700; line-height: 120%; text-tran=
+sform: none; margin: 0px;" target=3D"_blank"><span><strong>SHOP NOW</strong=
+></span></a></td>=20
+               </tr>=20
+              </tbody>=20
+             </table> </td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;">=20
+             <div style=3D"font-size:1px;line-height:50px;white-space:nowra=
+p;">
+              &nbsp;
+             </div> </td>=20
+           </tr>=20
+          </tbody>=20
+         </table>=20
+        </div>=20
+        <!--[if mso | IE]>=20
+                                       </td>
+                                    </tr>
+                                 </table>
+                                 <![endif]--> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table>=20
+   </div>=20
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->=20
+   <div style=3D"margin:0px auto;max-width:600px;background:rgba(245,245,24=
+5,0.9607843137254902);">=20
+    <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size:0px;width:100%;background:rgba(245,245,245,0.9607843137254902=
+);" align=3D"center" border=3D"0">=20
+     <tbody>=20
+      <tr></tr>=20
+     </tbody>=20
+    </table>=20
+   </div>=20
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->=20
+   <div style=3D"margin:0px auto;max-width:600px;background:#F5F5F5;">=20
+    <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size:0px;width:100%;background:#F5F5F5;" align=3D"center" border=
+=3D"0">=20
+     <tbody>=20
+      <tr>=20
+       <td style=3D"text-align:center;vertical-align:top;border:0px;directi=
+on:ltr;font-size:0px;padding:0px 0px 45px 0px;">=20
+        <!--[if mso | IE]>=20
+                                 <table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                       <td style=3D"vertical-align:top;widt=
+h:0px;">
+                                          <![endif]-->=20
+        <div class=3D"mj-column-per-0 outlook-group-fix" style=3D"vertical-=
+align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left=
+;width:100%;">=20
+         <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border:0px;vertical-align:top;" width=3D"100%" border=3D"0">=20
+          <tbody></tbody>=20
+         </table>=20
+        </div>=20
+        <!--[if mso | IE]>=20
+                                       </td>
+                                       <td style=3D"vertical-align:top;widt=
+h:600px;">
+                                          <![endif]-->=20
+        <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"vertica=
+l-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:le=
+ft;width:100%; background-color: #FAFAFA">=20
+         <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"background:#F5F5F5;border:0px;vertical-align:top;" width=3D"100%" b=
+order=3D"0">=20
+          <tbody>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:0px;" a=
+lign=3D"center"></td>=20
+           </tr>=20
+           <tr>=20
+            <td style=3D"word-wrap:break-word;font-size:0px;padding:20px 0p=
+x 0px 0px;" align=3D"center">=20
+             <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-collapse:collapse;border-spacing:0px;" align=3D"center" =
+border=3D"0">=20
+              <tbody>=20
+               <tr>=20
+                <td style=3D"width:100px;">&nbsp;</td>=20
+               </tr>=20
+              </tbody>=20
+             </table> </td>=20
+           </tr>=20
+          </tbody>=20
+         </table>=20
+        </div>=20
+        <!--[if mso | IE]>=20
+                                       </td>
+                                    </tr>
+                                 </table>
+                                 <![endif]--> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table>=20
+   </div>=20
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+   <!--[if mso | IE]>=20
+         <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"600" align=3D"center" style=3D"width:600px;">
+            <tr>
+               <td style=3D"line-height:0px;font-size:0px;mso-line-height-r=
+ule:exactly;">
+                  <![endif]-->=20
+   <div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">=20
+    <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size:0px;width:100%;background:#F5F5F5;" align=3D"center" border=
+=3D"0">=20
+     <tbody>=20
+      <tr>=20
+       <td style=3D"text-align:center;vertical-align:top;border:0px;directi=
+on:ltr;font-size:13px;padding:0px; padding-bottom: 30px; text-align: center=
+;">=20
+        <div style=3D"max-width: 320px; margin: auto; color: #767676;text-a=
+lign: left">
+         Miller Thomas Industrial Networks. 7764 West Lamar Rd. Glendale. A=
+Z 85303-2932.          <br />
+         <a target=3D"_blank" style=3D"color: #515151" href=3D"http://www.wegokansas.com/bedrooms-massed/8a05z2R395G8H6N10F1edfC4acz21fFv4GIf4rxvs4FhIHEsvZ7vQHnomS6JrN1O05MkNsv">=
+Adjust your message settings here.</a>
+        </div> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table>=20
+   </div>=20
+   <!--[if mso | IE]>=20
+               </td>
+            </tr>
+         </table>
+         <![endif]-->=20
+  </div>  =20
+  <!--A pileup involving 50 to 70 vehicles shut down the Trans-Canada Highw=
+ay near Brooks, Alberta, Monday morning. The westbound lanes of the highway=
+ about 125 miles east of Calgary were expected to be closed for several hou=
+rs, the Canadian Broadcasting Corporation reported. As of 9:30 a.m. Mountai=
+n Daylight Time (11:30 a.m. EDT), traffic was being detoured to Highway 1A.=
+ "Travel on area highways is not recommended at this time due to blowing sn=
+ow, icy roads and poor visibility," said the Royal Canadian Mounted Police.=
+ The RCMP also said a reception area was set up in Brooks at the Heritage I=
+nn for people unable to get through the area because of the weather and the=
+ road conditions.The weather has caused several accidents along Alberta's h=
+ighways. A semitrailer overturned on Highway 1 near Highway 56 east of Calg=
+ary, and another overturned on Highway 2 just north of the city, according =
+to 511alberta. The service also warned of several jackknifed semitrailers a=
+nd vehicles that had spun out. Much of eastern Alberta is under wind, snow =
+or winter storm warnings, according to Environment Canada. The city of Broo=
+ks and surrounding Newell County could see winds over 60 mph Monday, the ag=
+ency warned. The winds are part of a strong low-pressure system tracking th=
+rough Canada that is also bringing high winds and fire danger to the U.S. G=
+reat Plains states, according to weather.com meteorologist Chris Dolce. The=
+ Weather Company?s primary journalistic mission is to report on breaking we=
+ather news, the environment and the importance of science to our lives. Thi=
+s story does not necessarily represent the position of our parent company, =
+IBM.--->
+ <img src=3D"http://www.wegokansas.com/6a15H2H395zXJ8511ny1ee3C4acJ21cFv4GIf4rxvs4FhIHEsvZ7XQHnomS5n1ZT05VMsvU/Alar-immoderate" alt=3D""/></body>
+</html>
+
+------=_Part_255_673994225.1617832076980--
+

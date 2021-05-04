@@ -1,0 +1,65 @@
+Return-Path: <canvas.prints.advertisement-bruce=untroubled.org@speed44.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2754929 invoked from network); 16 Apr 2021 19:33:47 -0000
+Received: (qmail 109814 invoked by uid 222); 16 Apr 2021 19:33:47 -0000
+Return-Path: <canvas.prints.advertisement-bruce=untroubled.org@speed44.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 109811 invoked from network); 16 Apr 2021 19:33:47 -0000
+Received: from mail.speed44.cloud ([70.102.102.110])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 19:33:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed44.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.advertisement@speed44.cloud;
+ bh=AeENuxuQKO0rzWBfCtAXvGbTrbE=;
+ b=qPLiiOZzqyFzXBm5nbHK4hlHUnXWzsS0Tyy3tPGcJRMman6q3RmiHhUSlj2+G9gNDODY71OyIVQh
+   jLVpcEnKki/niG/0pcgOU03cMyVieyBP7Q+HSyFYMXee4EpDRZOsiIHNZZpM9Wo4LD0LAcsV7uem
+   CD9+sfGZQRiDDpk0vn4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed44.cloud;
+ b=ifE69ID5Pfo1WzpSrftpDCa4oePyIhFE0Hzi9VhKdAR27Q/uL4BTSQE2x9iJ7uKyMtNInAtZ5tyW
+   7JtPrO2vEQgxxFm936Px9DoPwPrNvYkEciM0vEkXiM3QVbhiijzoTIUmDhqyS71DdGBEZVuotyNM
+   hfEEQMKTXwf5x9uvdps=;
+Received: by mail.speed44.cloud id hf7j900001gi for <bruce@untroubled.org>; Fri, 16 Apr 2021 15:29:41 -0400 (envelope-from <canvas.prints.advertisement-bruce=untroubled.org@speed44.cloud>)
+Date: Fri, 16 Apr 2021 15:29:41 -0400
+From: "Canvas Prints Advertisement" <canvas.prints.advertisement@speed44.cloud>
+To:   <bruce@untroubled.org>
+Subject: UNLIMITED 16x20 Custom Canvas Prints for Just $14.99
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_997_1871986661.1618601371998"
+List-Unsubscribe: <http://www.speed44.cloud/paths-represented/44a6qW2G395ah8i913IAw1D1Ht4afbF21iFv4GIf4rxvs4FhIHEsvZ8PRBomnRm6Y10wuN6ypcYJz>
+Message-ID: <0.0.0.6B.1D732F6D92854E8.2841DD@mail.speed44.cloud>
+Content-Length: 2879
+
+------=_Part_997_1871986661.1618601371998
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>improvisations</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.speed44.cloud/9175U23o95Ej86i17i15ei5aLkrlV4afbo21WFv4GIf4rxvs4FhIHEsvZ8lRBomnRm5l1zA05e0cWY/paths-represented"><span style="font-size:18px; ">Give Mom a gift to remember</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed44.cloud/9175U23o95Ej86i17i15ei5aLkrlV4afbo21WFv4GIf4rxvs4FhIHEsvZ8lRBomnRm5l1zA05e0cWY/paths-represented"><img alt="canvas" src="http://www.speed44.cloud/7374y2395I7aHi17P1mu5e_I5dXA4afbW21tFv4GIf4rxvs4FhIHEsvZ8cRBomnRm5M1S0u6dNLzcY/fixedness-strategy" style="width: 609px; height: 753px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed44.cloud/paths-represented/ef45Q2h395L86tG13u1Z5e5bC4afbn21qFv4GIf4rxvs4FhIHEsvZ8pRBomnRm7hnoV1n06t0WlcY"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Exit&nbsp; <a href="http://www.speed44.cloud/7555E23u95c89FY17RD1L5weF5jcs4afbV21SFv4GIf4rxvs4FhIHEsvZ8NRBomnRm7vohQh105uPcYM/unwillingness-consulates"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <style></style><span><span></span><small></span><small><big><small><style class="caliph"></small></big></small></small></style>
+  </center>   
+ <img src="http://www.speed44.cloud/responsible-nondescript/daa5r23s95w8L5l13C15ez5es4afbQ21QFv4GIf4rxvs4FhIHEsvZ8PRBomnRm7yJh1tJ06a3PcyY" alt=""/></body>
+</html>
+
+------=_Part_997_1871986661.1618601371998--
+

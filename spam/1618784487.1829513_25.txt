@@ -1,0 +1,65 @@
+Return-Path: <canvasprints_advertisement-bruce=untroubled.org@speed22.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2916988 invoked from network); 17 Apr 2021 21:26:51 -0000
+Received: (qmail 5018 invoked by uid 222); 17 Apr 2021 21:26:51 -0000
+Return-Path: <canvasprints_advertisement-bruce=untroubled.org@speed22.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 5015 invoked from network); 17 Apr 2021 21:26:51 -0000
+Received: from mail.speed22.cloud ([69.94.138.161])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Apr 2021 21:26:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed22.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints_advertisement@speed22.cloud;
+ bh=WfXxy+qRdmFHPRlvjhll0XZjDtw=;
+ b=M5GQrf2zmWn1BdidbCaS0ldkE+M/gihfzFar/OqEcu2/yljQ7Zjv0J2RUmY7tdmP6M2dp6M7NQsl
+   2loFqTnqhpFqm1jgpuzAg1Yhdt16RNps5SK+NqjwrgMuUEQnQYvvshwVfTQp2XRlwz2CxASEiKwo
+   y1xAtTQnbPNSID9y0yA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed22.cloud;
+ b=wO5UqtCrcztgnoj94qNiM7zht+53MSojqw/m8O9O9t/puXNv8VjxdDS7eDSGfJSBMe/kMpSSgJOY
+   //m4DqJES1TrTYzeg5+zO+5xtTbXZzPLeUQM9wYZHiUmtbkY7lPlPYg2QiShvawWXvGfqk969ITS
+   Yx70FhW5cSWQTDzhYL4=;
+Received: by mail.speed22.cloud id hfd98s0001gv for <bruce@untroubled.org>; Sat, 17 Apr 2021 17:19:55 -0400 (envelope-from <canvasprints_advertisement-bruce=untroubled.org@speed22.cloud>)
+Date: Sat, 17 Apr 2021 17:19:55 -0400
+From: "CanvasPrints Advertisement" <canvasprints_advertisement@speed22.cloud>
+To:   <bruce@untroubled.org>
+Subject: Send Your Love From Afar! 16x20 Canvas Prints ONLY $14.99!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_460_2120780893.1618694384326"
+List-Unsubscribe: <http://www.speed22.cloud/leader-devilishly/33c6lx23U95D8gq911K11jlo4b0cV21jFv4GIf4rxvs4FhIHEsvZ8KRFomnSS5GlU106OTUNcY>
+Message-ID: <0.0.0.34.1D733CF69DCBB22.ECD6@mail.speed22.cloud>
+Content-Length: 2988
+
+------=_Part_460_2120780893.1618694384326
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>bumptiously</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.speed22.cloud/4df4p2395rU86j17z1nt5ZZSeb2J4b0cq21tFv4GIf4rxvs4FhIHEsvZ8fRFomnSS7vUT1sI05DPcTY/leader-devilishly"><span style="font-size:18px; ">Give Mom the perfect mothers day</span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed22.cloud/4df4p2395rU86j17z1nt5ZZSeb2J4b0cq21tFv4GIf4rxvs4FhIHEsvZ8fRFomnSS7vUT1sI05DPcTY/leader-devilishly"><img alt="canvas" src="http://www.speed22.cloud/leader-devilishly/8a06z23Yy95lH7aB13YR15eb5P4b0cg21OFv4GIf4rxvs4FhIHEsvZ8ERFomnSS7Pv1g0nl5rPlcY" style="width: 610px; height: 754px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:georgia,serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed22.cloud/6dd4B2395ig86B17f1wj5eb3tkNN4b0co21wFv4GIf4rxvs4FhIHEsvZ8QRFomnSS6j1Bu0i5WTzcY/outskirts-twinkle"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Hault&nbsp; <a href="http://www.speed22.cloud/3d14l2395eJ8O917aFYP1K5ebL4m4b0ch21cFv4GIf4rxvs4FhIHEsvZ8URFomnSS6WpI1j06ijWcY0/outskirts-twinkle"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <span><style dir="trends"><span></span><font style="conversed"></span></font></style><font id="powderpuff"></font><font><small></small></font><style title="delineating"></style><style></style>
+  </center>   
+ <img src="http://www.speed22.cloud/1f16h2KC395NN85S17S15ReukDgb6U4b0cm21tFv4GIf4rxvs4FhIHEsvZ8YRFomnSS5f1rs06Dk11cY/definition-longitudes" alt=""/></body>
+</html>
+
+------=_Part_460_2120780893.1618694384326--
+

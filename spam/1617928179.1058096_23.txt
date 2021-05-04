@@ -1,0 +1,275 @@
+Return-Path: <magic_hose-bruce=untroubled.org@bridon-beckaert.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1505145 invoked from network); 8 Apr 2021 18:41:45 -0000
+Received: (qmail 7239 invoked by uid 222); 8 Apr 2021 18:41:44 -0000
+Return-Path: <magic_hose-bruce=untroubled.org@bridon-beckaert.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 7236 invoked from network); 8 Apr 2021 18:41:44 -0000
+Received: from mail.bridon-beckaert.com (205-236-248-150.serversto.com [205.236.248.150])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 18:41:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bridon-beckaert.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=magic_hose@bridon-beckaert.com;
+ bh=yaeTD8QZ57gDaalKWZf72heGec0=;
+ b=MNm1eNs/hTdQ1trwD5KdDyumNiRv4MeKxUCb2EyOrDB/J1oMRzzgk4Tg6iVky3+1sgHwWO+UBrdh
+   m3oppNPbM7J8fedZ8AJM9t2nE/oF3hX2G+n29rmimw7vbHQBRI20RWm3kSWzrM0bcLBEhSa5pMdR
+   DO7fdr27yFbcPUEntdU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bridon-beckaert.com;
+ b=BqcZOJTbxe+iLKtxILvt7Y6XW9xTg+6cJUXX/N3pSqSZz0lbaSqFFBeL0m31LW1SBQl4kbjb/VvW
+   goR0z8DVW+HxEGMwrGFrQGWMA0eg9BBelcm1tPQKB2SkNuA4Sc/e4IvmF6RcSOClcZ13QqbZzQUd
+   57iEtTL9VQN+O3qmmAk=;
+Received: by mail.bridon-beckaert.com id hdt7eg0001g9 for <bruce@untroubled.org>; Thu, 8 Apr 2021 14:40:38 -0400 (envelope-from <magic_hose-bruce=untroubled.org@bridon-beckaert.com>)
+Date: Thu, 8 Apr 2021 14:40:38 -0400
+From: "Magic Hose" <magic_hose@bridon-beckaert.com>
+To:   <bruce@untroubled.org>
+Subject: Magic Garden Flexible Hose: 60% Off Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_337_599638364.1617907077300"
+List-Unsubscribe: <http://www.bridon-beckaert.com/corresponds-demultiplexed/2e24M2395qYM8910B11YRQ4b2r21SFv4GIf4rxvs4FhIHEsvZ7DQcnon97hg1qB0z6j@sNvU>
+Message-ID: <0.0.0.38.1D72CA6ABCBB28E.58E465@mail.bridon-beckaert.com>
+Content-Length: 17049
+
+------=_Part_337_599638364.1617907077300
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** Anti-Kink.  Anti-Leak.  Anti-Frustration.  **
+-----------------------------------------------
+
+This hose's special FLEX technology makes it easy to store and impossible t=
+o kink.  The hose rotates, stretches, and adapts, but shrinks down to =E2=
+=85=93 its size when you're hanging it up.   Take the hassle out of lawn ca=
+re!
+
+
+Get up to 60% OFF now! -> http://www.bridon-beckaert.com/maladies-delineating/6fc4v2395W8P6I10N1f15p4b2n21RFv4GIf4rxvs4FhIHEsvZ7IQcnon97HODN1j06Hyqsjv
+
+
+
+
+
+
+
+
+K Street Digital Pioneering.  4402 Boxwood Drive, Montclair, VA, 22025. 162=
+4
+Want out? http://www.bridon-beckaert.com/de54X2395Qt86A12q1f1ss6V4b2n21MFv4GIf4rxvs4FhIHEsvZ7kQcnon95aN1W06KBXUsv/Hitchcock-Chablises
+
+
+------=_Part_337_599638364.1617907077300
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table class="wrapper" style="border-collapse: collapse; table-layout: fixed; min-width: 320px; width: 100%; background-color: #fff;" role="presentation" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div role="banner"> 
+       <div class="preheader" style="margin: 0 auto; max-width: 560px; min-width: 280px; width: calc(28000% - 167440px);"> 
+        <div style="border-collapse: collapse; display: table; width: 100%;"> 
+         <!-- [if (mso)|(IE)]><table align="center" class="preheader" cellpadding="0" cellspacing="0" role="presentation"><tr><td style="width: 280px" valign="top"><![endif]--> 
+         <div class="snippet" style="display: table-cell; float: left; font-size: 12px; line-height: 19px; max-width: 280px; min-width: 140px; width: calc(14000% - 78120px); padding: 10px 0 5px 0; color: #171717; font-family: Avenir,sans-serif;">
+          &nbsp;
+         </div> 
+         <!-- [if (mso)|(IE)]></td><td style="width: 280px" valign="top"><![endif]--> 
+         <div class="webversion" style="display: table-cell; float: left; font-size: 12px; line-height: 19px; max-width: 280px; min-width: 139px; width: calc(14100% - 78680px); padding: 10px 0 5px 0; text-align: right; color: #171717; font-family: Avenir,sans-serif;">
+          &nbsp;
+         </div> 
+         <!-- [if (mso)|(IE)]></td></tr></table><![endif]--> 
+        </div> 
+       </div> 
+       <div id="emb-email-header-container" class="header" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px);"> 
+        <!-- [if (mso)|(IE)]><table align="center" class="header" cellpadding="0" cellspacing="0" role="presentation"><tr><td style="width: 600px"><![endif]--> 
+        <div class="logo emb-logo-margin-box" style="font-size: 26px; line-height: 32px; color: #41637e; font-family: Avenir,sans-serif; margin: 6px 20px 20px 20px;" align="center"> 
+         <div id="emb-email-header" class="logo-center" align="center">
+          <img style="display: block; height: auto; width: 100%; border: 0; max-width: 384px;" src="	
+                        https://733.efuserassets.com/733/offers/60/c/111/assets/logo.jpg" alt="" width="384" />
+         </div> 
+        </div> 
+        <!-- [if (mso)|(IE)]></td></tr></table><![endif]--> 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <div style="background-color: #65b87a;"> 
+         <div class="layout one-col stack" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+          <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;"> 
+           <!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" role="presentation"><tr class="layout-full-width" style="background-color: #65b87a;"><td class="layout__edges">&nbsp;</td><td style="width: 600px" class="w560"><![endif]--> 
+           <div class="column" style="text-align: left; color: #021a2c; font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;"> 
+            <div style="margin-left: 20px; margin-right: 20px;"> 
+             <div style="mso-line-height-rule: exactly; line-height: 20px; font-size: 1px;">
+              &nbsp;
+             </div> 
+            </div> 
+            <div style="margin-left: 20px; margin-right: 20px;"> 
+             <div style="mso-line-height-rule: exactly; mso-text-raise: 11px; vertical-align: middle;"> 
+              <p class="size-30" lang="x-size-30" style="margin-top: 0; margin-bottom: 20px; font-size: 26px; line-height: 34px; text-align: center;"><span style="color: #ffffff;"><strong>FREE SHIPPING ON ALL ORDERS</strong></span></p> 
+             </div> 
+            </div> 
+            <div style="font-size: 12px; font-style: normal; font-weight: normal; line-height: 19px;" align="center">
+             <a href="http://www.bridon-beckaert.com/4674I2395io86y11ST1f11q4b2_21nFv4GIf4rxvs4FhIHEsvZ7LQcnon95Ux1U05CjsvP/OShea-Hammett" target="_blank" rel="noopener"><img style="border: 0; display: block; height: auto; width: 100%; max-width: 800px;" src="http://www.bridon-beckaert.com/b514h2395Oyg7a11M1fJ14v4b2B21UFv4GIf4rxvs4FhIHEsvZ7uQcnon96G1Z0PY5LXs3v/ironically-footing" alt="" width="600" /></a>
+            </div> 
+            <div style="margin-left: 20px; margin-right: 20px; margin-top: 20px;"> 
+             <div style="mso-line-height-rule: exactly; line-height: 20px; font-size: 1px;">
+              &nbsp;
+             </div> 
+            </div> 
+           </div> 
+           <!-- [if (mso)|(IE)]></td><td class="layout__edges">&nbsp;</td></tr></table><![endif]--> 
+          </div> 
+         </div> 
+        </div> 
+        <div style="mso-line-height-rule: exactly; line-height: 20px; font-size: 20px;">
+         &nbsp;
+        </div> 
+        <div class="layout one-col fixed-width stack" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+         <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%; background-color: #ffffff;"> 
+          <!-- [if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0" role="presentation"><tr class="layout-fixed-width" style="background-color: #ffffff;"><td style="width: 600px" class="w560"><![endif]--> 
+          <div class="column" style="text-align: left; color: #021a2c; font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;"> 
+           <div style="margin-left: 20px; margin-right: 20px;"> 
+            <div style="mso-line-height-rule: exactly; line-height: 23px; font-size: 1px;">
+             &nbsp;
+            </div> 
+           </div> 
+           <div style="margin-left: 20px; margin-right: 20px;"> 
+            <div style="mso-line-height-rule: exactly; mso-text-raise: 11px; vertical-align: middle;"> 
+             <h2 style="margin-top: 0; margin-bottom: 0; font-style: normal; font-weight: normal; color: #021a2c; font-size: 26px; line-height: 34px;"><strong>Anti-Kink. Anti-Leak. Anti-Frustration.&nbsp;</strong></h2> 
+             <p style="margin-top: 16px; margin-bottom: 20px;">This hose's special FLEX technology makes it easy to store and impossible to kink. The hose rotates, stretches, and adapts, but shrinks down to ? its size when you're hanging it up.</p> 
+            </div> 
+           </div> 
+           <div style="margin-left: 20px; margin-right: 20px;"> 
+            <div class="btn btn--flat btn--large" style="margin-bottom: 20px; text-align: left;"> 
+             <!-- [if !mso]-->
+             <a style="border-radius: 0; display: inline-block; font-size: 14px; font-weight: bold; line-height: 24px; padding: 12px 24px; text-align: center; text-decoration: none !important; transition: opacity 0.1s ease-in; color: #ffffff !important; background-color: #212229; font-family: Avenir, sans-serif;" href="http://www.bridon-beckaert.com/4674I2395io86y11ST1f11q4b2_21nFv4GIf4rxvs4FhIHEsvZ7LQcnon95Ux1U05CjsvP/OShea-Hammett" target="_blank" rel="noopener">Get up to 60% OFF now!</a>
+             <!--[endif]--> 
+             <!-- [if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:rect xmlns:v="urn:schemas-microsoft-com:vml" href="http://www.bridon-beckaert.com/4674I2395io86y11ST1f11q4b2_21nFv4GIf4rxvs4FhIHEsvZ7LQcnon95Ux1U05CjsvP/OShea-Hammett" style="width:174px" fillcolor="#212229" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,12px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:Avenir,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Get up to 60% OFF now!</center></v:textbox></v:rect><![endif]--> 
+            </div> 
+           </div> 
+           <div style="margin-left: 20px; margin-right: 20px;"> 
+            <div style="mso-line-height-rule: exactly; line-height: 9px; font-size: 1px;">
+             &nbsp;
+            </div> 
+           </div> 
+          </div> 
+          <!-- [if (mso)|(IE)]></td></tr></table><![endif]--> 
+         </div> 
+        </div> 
+        <div style="mso-line-height-rule: exactly; line-height: 20px; font-size: 20px;">
+         &nbsp;
+        </div> 
+        <div style="background-color: #ebebeb;"> 
+         <div class="layout one-col stack" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+          <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;"> 
+           <!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" role="presentation"><tr class="layout-full-width" style="background-color: #ebebeb;"><td class="layout__edges">&nbsp;</td><td style="width: 600px" class="w560"><![endif]--> 
+           <div class="column" style="text-align: left; color: #021a2c; font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;"> 
+            <div style="margin-left: 20px; margin-right: 20px;"> 
+             <div style="mso-line-height-rule: exactly; line-height: 20px; font-size: 1px;">
+              &nbsp;
+             </div> 
+            </div> 
+            <div style="margin-left: 20px; margin-right: 20px;"> 
+             <div style="mso-line-height-rule: exactly; mso-text-raise: 11px; vertical-align: middle;"> 
+              <p style="margin-top: 0; margin-bottom: 20px; text-align: center;">Take the hassle out of lawn care.</p> 
+             </div> 
+            </div> 
+            <div style="margin-left: 20px; margin-right: 20px;"> 
+             <div style="mso-line-height-rule: exactly; line-height: 3px; font-size: 1px;">
+              &nbsp;
+             </div> 
+            </div> 
+           </div> 
+           <!-- [if (mso)|(IE)]></td><td class="layout__edges">&nbsp;</td></tr></table><![endif]--> 
+          </div> 
+         </div> 
+        </div> 
+        <div role="contentinfo"> 
+         <div class="layout email-footer stack" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+          <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;"> 
+           <!-- [if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0" role="presentation"><tr class="layout-email-footer"><td style="width: 400px;" valign="top" class="w360"><![endif]--> 
+           <div class="column wide" style="text-align: left; font-size: 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif; float: left; max-width: 400px; min-width: 320px; width: calc(8000% - 47600px);"> 
+            <div style="margin: 10px 20px 10px 20px;"> 
+             <div style="font-size: 12px; line-height: 19px;">
+              &nbsp;
+             </div> 
+             <div style="font-size: 12px; line-height: 19px; margin-top: 18px;">
+              &nbsp;
+             </div> 
+             <!-- [if mso]>&nbsp;<![endif]--> 
+            </div> 
+           </div> 
+           <!-- [if (mso)|(IE)]></td><td style="width: 200px;" valign="top" class="w160"><![endif]--> 
+           <div class="column narrow" style="text-align: left; font-size: 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif; float: left; max-width: 320px; min-width: 200px; width: calc(72200px - 12000%);">
+            &nbsp;
+           </div> 
+           <!-- [if (mso)|(IE)]></td></tr></table><![endif]--> 
+          </div> 
+         </div> 
+         <div class="layout one-col email-footer" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+          <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;"> 
+           <!-- [if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0" role="presentation"><tr class="layout-email-footer"><td style="width: 600px;" class="w560"><![endif]--> 
+           <div class="column" style="text-align: left; font-size: 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif;"> 
+            <div style="margin: 10px 20px 10px 20px;"> 
+             <div style="font-size: 12px; line-height: 19px;">
+              K Street Digital Pioneering. 4402 Boxwood Drive, Montclair, VA, 22025.1624
+              <br />
+              <a href="http://www.bridon-beckaert.com/eJ36uJ23F95lz86p12Q1wtf12g4b2m21QFv4GIf4rxvs4FhIHEsvZ7tQcnon96c1l0NX5B1sv3/determiner-investment" target="_blank" rel="noopener">Want out?</a>
+             </div> 
+             <div style="font-size: 12px; line-height: 19px;">
+              &nbsp;
+             </div> 
+             <div style="font-size: 12px; line-height: 19px;">
+              &nbsp;
+             </div> 
+             <div style="font-size: 12px; line-height: 19px;">
+              &nbsp;
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div> 
+       <div role="contentinfo"> 
+        <div class="layout one-col email-footer" style="margin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;"> 
+         <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;"> 
+          <div class="column" style="text-align: left; font-size: 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif;"> 
+           <div style="margin: 10px 20px 10px 20px;"> 
+            <div style="font-size: 12px; line-height: 19px;"> 
+             <p class=""><span style="color: #ffffff;">So, too, have the conflicts. The season's central conflict is between Becky and Kevin, who revive their old conversation about racism in America. The show seemingly attempts to give it a genuine and modern lens, as Kevin tries to keep Becky from becoming the next internet ?Karen? with her tone-deaf ways of playing the victim that don't appear to have changed much from when she was originally on the show.</span></p> 
+             <p class=""><span style="color: #ffffff;">Becky&nbsp;<a style="color: #ffffff;" href="http://www.bridon-beckaert.com/OShea-Hammett/3f05s2t395q8GA610d1f13Z4b2D21eFv4GIf4rxvs4FhIHEsvZ7lQcnon96HK1UR05BOsvW" target="_blank" rel="noopener">feels that the producers are setting her up</a>&nbsp;as an example of ?white privilege,? but her individual decisions are the ones causing the issues. It ends up highlighting something for younger viewers that has perhaps gone somewhat unspoken about the Karen phenomenon, which is that those sorts of behaviors and pronouncements clearly were once seen as more socially acceptable among young, middle-class white women who have now grown up, rather than something so out of the ordinary that they're worth videotaping and calling out on the internet.</span></p> 
+             <section class="styles_inlineVideo__sgWJp styles_contentBody__1NR0m mv8"> 
+              <div class="styles_background__u5iG0">
+               &nbsp;
+              </div> 
+             </section> 
+            </div> 
+           </div> 
+          </div> 
+          <span style="color: #ffffff;"> 
+           <!-- [if (mso)|(IE)]></td></tr></table><![endif]--> </span> 
+         </div> 
+        </div> 
+       </div> 
+       <div style="line-height: 40px; font-size: 40px;">
+        <span style="color: #ffffff;">&nbsp;</span>
+       </div> 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <div id="ascrail2000" class="nicescroll-rails" style="width: 12px; z-index: auto; cursor: default; position: fixed; top: 0px; height: 100%; right: 0px; display: block; opacity: 0.25;">
+   &nbsp;
+  </div> 
+ <img src="http://www.bridon-beckaert.com/ironically-footing/44a5eu2395vS8P512Q1f17yHY4b2Q21tFv4GIf4rxvs4FhIHEsvZ7wQcnon96o1y0CU5BT3sv" alt=""/></body>
+</html>
+
+------=_Part_337_599638364.1617907077300--
+

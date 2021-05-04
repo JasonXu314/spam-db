@@ -1,0 +1,133 @@
+Return-Path: <selectquote-insurance-bruce=untroubled.org@tox33.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2228719 invoked from network); 12 Apr 2021 13:30:05 -0000
+Received: (qmail 29038 invoked by uid 222); 12 Apr 2021 13:30:04 -0000
+Return-Path: <selectquote-insurance-bruce=untroubled.org@tox33.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 29035 invoked from network); 12 Apr 2021 13:30:04 -0000
+Received: from mail.tox33.us ([70.102.102.26])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Apr 2021 13:29:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox33.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote-insurance@tox33.us;
+ bh=7oi5CInYyatp8NMNoiweVbwJUOk=;
+ b=Qp7Qzzne5AnjV+lzgshZC6X7svnZAWXIHFlF1cKIQCVV6EyiavIAOuqKdepfmmcBx0JWzV8DSkrV
+   f4TRcDiZWx47rVotKtOxoj5LxM0RJzJwSiWJxbnMEithv6Sce0KwXAOjKrdyRHHNLjW66irFn7SK
+   yaxSYxhhlzGaTeTrSF8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox33.us;
+ b=cENzdNPQlCNNlk5G3Ry+T8NmPcnYgg7o423gr/4dPHQ0p8wPGrGZxC4BDC4CaY1fhtLzXn39wFjK
+   e5w02C8h20gVeE5ZpjutIq+9VOVLE2TitgSzB7/AaJPD2U+96rrAQRBNSjz5e4GbTVd7U6IvpdK4
+   KZeKq/zsULC/712jQ4Y=;
+Received: by mail.tox33.us id heh5la0001g5 for <bruce@untroubled.org>; Mon, 12 Apr 2021 09:15:55 -0400 (envelope-from <selectquote-insurance-bruce=untroubled.org@tox33.us>)
+Date: Mon, 12 Apr 2021 09:15:55 -0400
+From: "SelectQuote Insurance" <selectquote-insurance@tox33.us>
+To:   <bruce@untroubled.org>
+Subject: Get your free life insurance quote.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_316_341652247.1618233346425"
+List-Unsubscribe: <http://www.tox33.us/triers-screenplay/8dc5e2k395r89OP12r1XR_1x4ab3v21SFv4GIf4rxvs4FhIHEsvZ11hRMommeQoz95JO10Q5l0cYW>
+Message-ID: <0.0.0.23.1D72F9DF85AC83E.19CFA8@mail.tox33.us>
+Content-Length: 6636
+
+------=_Part_316_341652247.1618233346425
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Mafia</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.tox33.us/theft-joyride/8464S2395F8VD613z15ce2BO4ab3P21HFv4GIf4rxvs4FhIHEsvZ11YRMommeQoz97q1MAoF05MB@cY">Fastest way to get covered for a 1 a day </a><b=
+r /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.tox33.us/theft-joyride/8464S2395F8VD613z15ce2BO4ab3P21HFv4GIf4rxvs4FhIHEsvZ11YRMommeQoz97q1MAoF05MB@cY"><img alt=3D"happyr" src=3D"http://www.tox33.us/microwave-identify/42c6j239Jo5wJ7va12C15ce6F4ab3s21WFv4GIf4rxvs4FhIHEsvZ11oRMommeQoz95N1J0P6fpc22Y" style=
+=3D"border-width: 0px; border-style: solid; width: 75%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">Copyright &copy; SelectQuote | All Rights Reserved 2=
+020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">SelectQuote Insurance Services offers insurance prod=
+ucts and services through its licensed insurance agency, SelectQuote Insura=
+nce Services, LLC. SelectQuote Insurance Services is not an insurance compa=
+ny. We represent trusted insurance companies, and receive commissions ? and=
+ possibly other performance-based compensation ? for our services. Products=
+ and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">*40 year-old male in excellent health, $500,000, 10-=
+year policy for under a $1 a day. Example policy is for $23 a month. Policy=
+ is a United of Omaha : Term Life Answers 10 is a non-participating term li=
+fe insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwr=
+itten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premi=
+um is guaranteed to stay the same for the 10 year period. Minimum issue amo=
+unt is $100,000. Premiums include a $62.50 annual policy fee. Forms and pla=
+n provisions may vary by state. Plan is available in all states except New =
+York. Suicide and other limits may apply. The most favorable rate classes (=
+and lowest rates) are generally intended for those who can meet strict heal=
+th/lifestyle criteria. All rates subject to underwriting qualifications. Ra=
+tes effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">* Best' s Credit Ratings? are under continuous revie=
+w and subject to change and/or affirmation. For the latest Best' s Credit R=
+atings? and Best' s Credit Reports (which include Best' s Credit Ratings? )=
+, visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Ra=
+tings? for explanation of use and charges.? ? Best' s Credit Ratings? repro=
+duced herein appear under license from A.M. Best and do not constitute, eit=
+her expressly or impliedly, an endorsement of SelectQuote or its recommenda=
+tions, formulas, criteria or comparisons to any other ratings, rating scale=
+s or rating organizations which are published or referenced herein. A.M. Be=
+st is not responsible for transcription errors made in presenting Best' s C=
+redit Ratings? . Best' s Credit Ratings? are proprietary and may not be rep=
+roduced or distributed without the express written permission of A.M. Best =
+Company.? A Best' s Financial Strength Rating opinion addresses the relativ=
+e ability of an insurer to meet its ongoing insurance obligations. It is no=
+t a warranty of a company' s financial strength and ability to meet its obl=
+igations to policyholders. View our Important Notice: Best' s Credit Rating=
+s for a disclaimer notice and complete details at <a href=3D"http://www.tox33.us/fattening-grassy/Ne46t2m39M5q8P6v13E15cIe3m4ab3W21hFv4GIf4rxvs4FhIHEsvZ11qRMommeQoz96LlX10I6fzA@cY">=
+http://www.tox33.us/fattening-grassy/Ne46t2m39M5q8P6v13E15cIe3m4ab3W21hFv4GIf4rxvs4FhIHEsvZ11qRMommeQoz96LlX10I6fzA@cY</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">SelectQuote Insurance Services Corporate Office: 680=
+0 W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:10px; ">This email was sent to you on behalf of SelectQuote =
+by a third-party marketing company. You are receiving email from this third=
+-party marketing company because you have expressed your interest in receiv=
+ing commercial email through a site or sites associated with them.</span></=
+span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; ">This email contains information regarding products an=
+d services offered by SelectQuote. If you do not wish to receive email mess=
+ages from SelectQuote that are advertising or promotional in nature, please=
+<a href=3D"http://www.tox33.us/4855D23A95wB86q13l15ce4RA4ab3L21NFv4GIf4rxvs4FhIHEsvZ11rRMommeQoz96z1ZBV06pp@LcY/axiomatized-Jorge"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; =
+"> &nbsp; Remove <a href=3D"http://www.tox33.us/axiomatized-Jorge/f124U2395W8Pz912R15ce5s4ab3q21UFv4GIf4rxvs4FhIHEsvZ11iRMommeQoz96P1YTr05PMAcY">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font class="audible"></font><span></span><small></small><style></style><font color="waiters"></font><span style="pentagons"><font face="mincing"></font></span><style dir="doctorate"></style> =20
+ <img src=3D"http://www.tox33.us/51b5vi2395q85Wk17e15coQe7Lwnt4ab3h21lFv4GIf4rxvs4FhIHEsvZ11BRMommeQoz96Ql1SO06DlclYN/triers-screenplay" alt=3D""/></body>
+</html>
+
+------=_Part_316_341652247.1618233346425--
+

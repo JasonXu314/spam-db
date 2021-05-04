@@ -1,0 +1,75 @@
+Return-Path: <renewal-by-andersen-affiliate-bruce=untroubled.org@tox2.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1579876 invoked from network); 10 Apr 2021 19:01:42 -0000
+Received: (qmail 36254 invoked by uid 222); 10 Apr 2021 19:01:41 -0000
+Return-Path: <renewal-by-andersen-affiliate-bruce=untroubled.org@tox2.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36251 invoked from network); 10 Apr 2021 19:01:41 -0000
+Received: from mail.tox2.us ([69.94.138.201])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Apr 2021 19:01:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox2.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal-by-andersen-affiliate@tox2.us;
+ bh=+P1XrsTbvTqO0zhrVmpCszEnJRc=;
+ b=hXIAh+nBhx3qVfL7454PkSzHqsutD2iLH9RD9FaGslmfczM5PqJ3kpXDjGaR3bDRxHS2VUo4fjUA
+   DhJh9suR8lyJHEkrgtu0sf8UxthNDskIELRaRjGWHOSb8roSaEi4HSr2zXfz6ly8QIZbAgefxrJ7
+   BpgLkGmUivR5UAQSTUk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox2.us;
+ b=1jgjQIX9pUEY/5lH6Cr0B/9j3bq2AHSVGF4h/fHHrrXAKmIB+/gvVxQQeWA4jKDEEgFgwMVC1x/3
+   uhHbDaqSRwM/hpckfEC+c7IYUJ5SrWfHDeJNSRvd75DotOt3jKQBIqyxdOlfF3oF8l3bqRqjHRDt
+   +mmXP+xWRsIF84GbBU0=;
+Received: by mail.tox2.us id he7r180001gr for <bruce@untroubled.org>; Sat, 10 Apr 2021 14:52:49 -0400 (envelope-from <renewal-by-andersen-affiliate-bruce=untroubled.org@tox2.us>)
+Date: Sat, 10 Apr 2021 14:52:49 -0400
+From: "Renewal By Andersen Affiliate" <renewal-by-andersen-affiliate@tox2.us>
+To:   <bruce@untroubled.org>
+Subject: Stay home - Find New windows with a Virtual Consultation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_142_999393223.1618080759061"
+List-Unsubscribe: <http://www.tox2.us/photogenic-reactivation/8285Q239K5axC8912H1Kmj1u4a9ek21zFv4GIf4rxvs4FhIHEsvZ8LRuommRo7v1Uyvt06wkPcNY>
+Message-ID: <0.0.0.E.1D72E3AB408A606.63940A@mail.tox2.us>
+Content-Length: 3475
+
+------=_Part_142_999393223.1618080759061
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>supplies</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.tox2.us/6a16UhP2395sg86J17tp1_5cZ7u4JZ4a9eB21dFv4GIf4rxvs4FhIHEsvZ8mRuommRo6zlg1t05IWNcY/confidants-rouge"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 684px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.tox2.us/8f95C23t95J8Dt617BzR_15yc7B5U4a9ev21SFv4GIf4rxvs4FhIHEsvZ8eRuommRo5bR10l5z0cYy/photogenic-reactivation">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.tox2.us/cruelly-knell/26a6Qz2T395gV8p613L15c7T6L4a9eG21kFv4GIf4rxvs4FhIHEsvZ8tRuommRo7UrgI1m06BU@clY">here.</a></b></span></span></p> <span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Remove<a href="http://www.tox2.us/20f5N23r95J8GC912W15c77K4a9eF21SFv4GIf4rxvs4FhIHEsvZ8IRuommRo6SK1A0j5KlcUY/coronets-heretofore"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style><style><span><font lang="cyclone"><small><style face="polygons"></small><font face="mumbles"></font></span></font><span></style><span face="Khrushchev"><span class="hones"></style></style></span><font lang="harvested"></span></font></span>  
+ <img src="http://www.tox2.us/24b5z239U5M85gL12S15c78_4a9eZ21LFv4GIf4rxvs4FhIHEsvZ8uRuommRo5ttl105yLcYO/photogenic-reactivation" alt=""/></body>
+</html>
+
+------=_Part_142_999393223.1618080759061--
+

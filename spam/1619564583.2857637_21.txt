@@ -1,0 +1,197 @@
+Return-Path: <darla.roses@expodatabaselist.biz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 116046 invoked from network); 27 Apr 2021 07:45:53 -0000
+Received: (qmail 65756 invoked from network); 27 Apr 2021 07:45:52 -0000
+Received: from IND01-BO1-obe.outbound.protection.outlook.com (mail-eopbgr1390048.outbound.protection.outlook.com [40.107.139.48])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 07:45:52 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=R+MA08hiv68mzMG5p1DG2EV6eQNJKl23mevOq/pksTRyS0vVhPAFxQi2rEUy4DiB4khJL1NzPCcRs9WIRNm47Z4d0/1ykkdj88klBG/i7SOb7SsBiZkjoAc32wtkYxgCDqYe7i1RfQDhnSS7hWD2ei4FNCWAf/YPYy4QYVVNKifqbH3FcGgFfJ8gXkgPURMXLzi/II/EDmptl7WlVbcNkO0ujR55/A+z8q+2zBCIytxbFgLIuryNO/RAXIiW32uW9thM2JFp8dC7PYyOoNfslPxxXoKfn8keqif4GKZ00QBSTmIZsYPAMKMA17COAUT06zzX/9GQ3CLgaiyG/awtQg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=QNG6NySkVO8pxseqr28dZWYTZLRVIuYzy7eJOZuJCO8=;
+ b=Y2vY41ZVyiTjC2tcd/v44Drq1U52121K3SgB4muEM+0rAryXHK2cN1w5V/EvBPJ9xgIb1O+UbeKzNATQvL8tzecYUDVfrompeEVct3iWlSoQXSif7SxTakF9QaNWbTrkE+KHLW8VZFws6idll50b1oDCyHRxrP8tuLnHoAeLgk0WGAaWzTctEMlQkhBIhi9bbaSTZhXP7TWa/1KSnPq/i50/uyzztiDcGm4euxKgD1+5JN0QJq0kkLZ45uj0V+xUx0eu2OqmIyCd8wFfH2CN3Y3BnJx2Zpb/FkqVm+x/vBN9OxZ0C/gEmPubwy/ZiFG1oOUxpyXu2gAlCsjCO9sBKQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=expodatabaselist.biz; dmarc=pass action=none
+ header.from=expodatabaselist.biz; dkim=pass header.d=expodatabaselist.biz;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=expodatabaselist.biz;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=QNG6NySkVO8pxseqr28dZWYTZLRVIuYzy7eJOZuJCO8=;
+ b=Y9oNQ77LXJvZuPapUfnVa9YTvkoEygRSM2PSoKWEp5pzGGi7GdS51puwgzaXiuWdjj8Bn718c7gd2KYX1F3DoZnKzzOP3moqtczvFybCXLseGxBhNZk+IVnfviy1CYsVD81Fp8ZMQDRDZOXe5B5p2mEKakXOeV7+FdOG892Bo7BQx8nHhvvVE/A/Yyoc8/Ebrpf/8qjBh9xAEGFAQKfjw3cl4b6kTDZYPFAx9LvjSXUBc4hnLdtkcj+D02V5xSpbij3e/EOdRLL0sOZaa9D/EKujhXQbGloTbCbiy24tBsQ4mfXb6Ylp/42V9KGrogSXpZ6McrJKDnj2jZ/i6BhK1Q==
+Received: from BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b01:b::12)
+ by BM1PR01MB2641.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b00:43::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4065.21; Tue, 27 Apr
+ 2021 07:45:46 +0000
+Received: from BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::a427:d4fe:24b5:a8ef]) by BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::a427:d4fe:24b5:a8ef%4]) with mapi id 15.20.4065.027; Tue, 27 Apr 2021
+ 07:45:46 +0000
+From: Darla Roses <darla.roses@expodatabaselist.biz>
+To: "bruce@home.untroubled.org" <bruce@home.untroubled.org>
+Subject: intersec
+Thread-Topic: intersec
+Thread-Index: Adc7OVMLS+3AJMU5SzCDzUBqlP8YOQ==
+Date: Tue, 27 Apr 2021 07:45:46 +0000
+Message-ID:
+ <BM1PR01MB4531EC41F37066D8BA9535E98C419@BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: home.untroubled.org; dkim=none (message not signed)
+ header.d=none;home.untroubled.org; dmarc=none action=none
+ header.from=expodatabaselist.biz;
+x-originating-ip: [69.65.45.57]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 8d741200-3d00-4a58-dccd-08d90950780c
+x-ms-traffictypediagnostic: BM1PR01MB2641:
+x-microsoft-antispam-prvs:
+ <BM1PR01MB26419F91D8AB18DF85C451F78C419@BM1PR01MB2641.INDPRD01.PROD.OUTLOOK.COM>
+x-ms-oob-tlc-oobclassifiers: OLM:4125;
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ nmK5Ye/+DOFpnchq0MJ/+Y4taoZF3MjLMF77BibBh1Dah2mXxG/x+py5AIMs2ThSb3hMiS7iByZYAIY2lS/mxbsOx9Hc9hZp+rEEur+VqIeeRy6HWqCgzjlfoFtsp/AFogQIRRltLvDpkxREyZEjcIMX9jgOx+Hcx6ySEsIFnrzMbQ3VcaLvqMo6/ZNHxMta5Ms6eSshE8Kul4oAHJmcwuth0L0TwhrZp6AeOrge8STyzwjGCihLkrF2qP2rOrzenDjHigF9SGaymV15YWun4X+zM+/1sDjmME1Lk6YPw1YkefcRO76IP0D8ckk7i28IAF+AtNWRxgPBrt2CP2d+htTuZ18djcQXzpoNg0IFjm923a+KO1xlIE/J58+ioYg/t976KTxtAgd/77bjbL8nZUEx15Nynr31AIWUXoyhmabTQ24eSEDGjaMn8nkA0Jka2+KmI+r7FAnEtY+Dk6km9uiSltFvgk9DL51B6S3HKGAcb1x7QBcOCqe/vnahsRqt5xGM9ADmJKLHXEQ2+se7CPeHdNkq4bXIs8EqNXedI/1CVBpI/xKOtu+/T/9wogzGcdqot7GWJUuh6Yh5QNCF9X1FFUhvpvC2xrdohtqecnfjpVMhUP+NVfOSof2NpDOJqPI/bBk1y2gL7yW3keD3755C3kBrEdVUGbJCEkZ49u4=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(39850400004)(346002)(136003)(366004)(376002)(396003)(6916009)(66446008)(8936002)(55016002)(5660300002)(38100700002)(316002)(4744005)(55236004)(6506007)(71200400001)(3480700007)(7116003)(8676002)(122000001)(7696005)(33656002)(186003)(86362001)(44832011)(26005)(66476007)(9326002)(64756008)(66946007)(2906002)(66556008)(52536014)(76116006)(478600001)(9686003)(166393002)(220243001);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata:
+ =?us-ascii?Q?chRgLmRI3l/+fCmmYENdJD0FMscjMA4H6QaWbQh3026ZZtPXmp7FnP4ON6QY?=
+ =?us-ascii?Q?xVvdodwX93VHt2KW6ssAymQOwZsrmSFv2qAc5b+wjxhku68ma2FqZlx88Crp?=
+ =?us-ascii?Q?rVkPA5hUSeJXb1ZbfWNzPQFhM7Jq/oIQYrUsOKbHh4oA/41pdVcdGvADSpyS?=
+ =?us-ascii?Q?GioNbiO/viErsztl6JtdTfN4GTJOJOdLmqVahTQ/PQxR4GYoi+C9If+pdK/i?=
+ =?us-ascii?Q?QuT+2oEdBv9F9Dlvx/flqLcdrEVpPYonjiLPTv0NQtV2QbiTC/XdP9tESWfZ?=
+ =?us-ascii?Q?5I02Jrecm9Z3Y274wwWDZlGjDEPa+40x46KyKfQO+CpjVzBS7J4Br5pwKi7K?=
+ =?us-ascii?Q?NYlP0Ywm/ePTl6v1QKw2Y7cniuhAz0Aujz6bUFLAnPevlxtx9WGvUgnBzar7?=
+ =?us-ascii?Q?FwmEHLeflubY2f/AVJSe9aeYJ8jVbcdyPpbsBqyCZVOnG/w6aYMuIgt+UTGo?=
+ =?us-ascii?Q?NugodJF+hVBqdxOkJ7MzRxuMjdhmmLjpMrTZS8qtuAT5DOgUg/i8UZWkQKe+?=
+ =?us-ascii?Q?9lBPTejRXMBoXttFFsXn2vs/7mL34je0Y90VrLyp9w0J0R52F3duCQhZIuTb?=
+ =?us-ascii?Q?Ch1hD3U01EP1KHlA7LPlBGDaUy6yk6wJOrb6l+hq8tApGNHBko2APk4kshFO?=
+ =?us-ascii?Q?BaNQLiEOCb9/JIhdpK3q3X7nfjoO92MeQRAkTB1yOzPh10G155OQ3L7YZsEW?=
+ =?us-ascii?Q?txUpJI8Xokj65uvb1eb2ZyqEi0ZWhFgG6NJA8hc6K33RKM+5TomNwQD8BUwO?=
+ =?us-ascii?Q?Fk/ah2SrFSFXSkocWaB0MHA/pQpsVL9gbOaBFdZUMCRuswBri3CAf5SdYQgy?=
+ =?us-ascii?Q?I3gB/iHxK+LJX/NBxqc5Lpi8rksH9ElwUJS0tlsJeIxuAA1cYd2xKA/IytV3?=
+ =?us-ascii?Q?ntIh5O15ugmH14YMtN7DCITALrmRy/UlfwmeXE4QH0cs6lzCmgnf0vKMByg3?=
+ =?us-ascii?Q?2hFrxlnmO8ICJRp8UcdTgMeobkx3OB0CRZKA1m0STWaJbdMncNGoh+UlSVyY?=
+ =?us-ascii?Q?teeK8aLQIF9GcLPT13Q5pPDtYornS5nt3U0jCvwN9q6wPeNMZ35zw7BLhmnO?=
+ =?us-ascii?Q?vYp7Z/J4KghzqOXx3hXs3M+f03dHjyCyd1q0YmYejblUBh/mWmqmmZR4huqx?=
+ =?us-ascii?Q?uDHO+zXyJZ4/98XSX8hKJpObRHU4c7zKuNcfqlJ3e1rvICw5Y1tA+5jfgTUu?=
+ =?us-ascii?Q?ROYXEjDFT89j1Xjm1prItlOa8PWpuEXOZIOY+IvZ4W5ySFyv8K3rTJl71lJ5?=
+ =?us-ascii?Q?4c3oyYNOEHzKcVyqjw38cjnAjR7+wpHajMUoQzoXNLVODV+5rqwZoSYBZpna?=
+ =?us-ascii?Q?VDQ=3D?=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR01MB4531EC41F37066D8BA9535E98C419BM1PR01MB4531INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: expodatabaselist.biz
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BM1PR01MB4531.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 8d741200-3d00-4a58-dccd-08d90950780c
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Apr 2021 07:45:46.4460
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: e56b0542-e968-49f5-89a8-08e6fbce03e4
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: atg6Kgi/GKZu9Mi8eK2YxzI3uHIC7DM6KC34mf+XHVh2X9HLhVO8mTdBMMPZgCA/Or2vG6Ic98jfvsQxSJ+Y8k/aYERW4o6gmptP3jYQJFzg9ZVjwgFDHwvLokZZ6K6M
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BM1PR01MB2641
+Content-Length: 3542
+
+--_000_BM1PR01MB4531EC41F37066D8BA9535E98C419BM1PR01MB4531INDP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Team,
+
+Just checking if you're still interested in reaching-out all the registered=
+ attendees/Visitors?
+
+Intersec
+
+Pre-Registered Attendee Contacts Includes: Contact Name, Email Address, Com=
+pany Name, URL/Website, Phone Number, Job Title etc.
+
+Let me know your thoughts, so that I can send discount cost & additional in=
+formation.
+
+Best,
+Darla Roses.
+
+--_000_BM1PR01MB4531EC41F37066D8BA9535E98C419BM1PR01MB4531INDP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:brea=
+k-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Hi Team,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Just checking if you&#8217;re s=
+till interested in reaching-out all the registered attendees/Visitors?<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"background:yellow;mso-=
+highlight:yellow">Intersec</span><span lang=3D"EN-US"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Pre-Registered Attendee Contact=
+s Includes: Contact Name, Email Address, Company Name, URL/Website, Phone N=
+umber, Job Title etc.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Let me know your thoughts, so t=
+hat I can send discount cost &amp; additional information.<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Best,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Darla Roses.<o:p></o:p></span><=
+/p>
+</div>
+</body>
+</html>
+
+--_000_BM1PR01MB4531EC41F37066D8BA9535E98C419BM1PR01MB4531INDP_--

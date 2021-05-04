@@ -1,0 +1,80 @@
+Return-Path: <renewal_by_andersen_affiliate-bruce=untroubled.org@speed61.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3205189 invoked from network); 21 Apr 2021 14:24:36 -0000
+Received: (qmail 69876 invoked by uid 222); 21 Apr 2021 14:24:36 -0000
+Return-Path: <renewal_by_andersen_affiliate-bruce=untroubled.org@speed61.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 69873 invoked from network); 21 Apr 2021 14:24:36 -0000
+Received: from mail.speed61.cloud ([70.102.102.69])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 14:24:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed61.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal_by_andersen_affiliate@speed61.cloud;
+ bh=Uk/52OqPevEhPuQEJPxK5IcRx4Y=;
+ b=ptxUIRjLLvEe4Z4xAgTMCb/LlEuSY4kFMHP5XqFiAP5nvhuIrIeeQ35uJSN6oh9OWbJTCaOE4mYy
+   Yls2oW0SU3g9NMIqI9St1M36fSu+WmmOPBu/af9A6bs35TVa+ZJSefV/53CgI+1l4p6w+oTRUTtm
+   GCO3n5cEeyBFs4zg/Ok=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed61.cloud;
+ b=x3i7yVNPQOajyQ5ifAs8XRvuIkdp9XQM4rnFTl/WGPKgvqQfw/fh2jBM3jMw+wYBeuSbW5a4VTU8
+   dlWKjD9SZESBcM95T/ypJAlXlmFpHsP1ICuZaPlYAsS7A9EgOoMGDF9yw5RHwpr6k5nMJkEXEh8C
+   k/YxfyT5B1uoM/Et2MM=;
+Received: by mail.speed61.cloud id hg0qq00001gg for <bruce@untroubled.org>; Wed, 21 Apr 2021 10:16:59 -0400 (envelope-from <renewal_by_andersen_affiliate-bruce=untroubled.org@speed61.cloud>)
+Date: Wed, 21 Apr 2021 10:16:59 -0400
+From: "Renewal By Andersen Affiliate" <renewal_by_andersen_affiliate@speed61.cloud>
+To:   <bruce@untroubled.org>
+Subject: Looking for energy efficient windows for your home? Estimate from Renewal by Andersen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_298_1520745879.1619014601819"
+List-Unsubscribe: <http://www.speed61.cloud/e035i2G395RRP8913u1tlV1xk4b3cw21AFv4GIf4rxvs4FhIHEsvZ8zR4omooK5vrm106oU2cY@/scurry-possess>
+Message-ID: <0.0.0.20.1D736B8FDCA971E.7A620F@mail.speed61.cloud>
+Content-Length: 3585
+
+------=_Part_298_1520745879.1619014601819
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>libel</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.speed61.cloud/be76zO239T5zg86C13Ik15fb7v4b3ch21jFv4GIf4rxvs4FhIHEsvZ8GR4omooK6Q10JhO5PWqcY/dissent-pounces">&nbsp; Get the LOWEST&nbsp; prices on windows</a>
+   <br /> 
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.speed61.cloud/be76zO239T5zg86C13Ik15fb7v4b3ch21jFv4GIf4rxvs4FhIHEsvZ8GR4omooK6Q10JhO5PWqcY/dissent-pounces"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 697px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:georgia,serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.speed61.cloud/8096spB2395OWu8613S15fnb8L4b3cq21WFv4GIf4rxvs4FhIHEsvZ8CR4omooK5Eq10K5gJcYT/unnaturally-stager">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:georgia,serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.speed61.cloud/9715J2P395ev86w17bz1A5Cfbo9Bp4b3cz21pFv4GIf4rxvs4FhIHEsvZ8zR4omooK6Op1yO05PlclY/immaterially-Peiping">here.</a></b></span></span></p> <span style="font-family:georgia,serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Hault <a href="http://www.speed61.cloud/a615U2x395Fw8t912g15fbas4b3ci21QFv4GIf4rxvs4FhIHEsvZ8CR4omooK5PRJ105aUBcY/dissent-pounces">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style><span style="indexed"><font></style></span><font></font><span></span></font><small><style></small><big></big></style>  
+ <img src="http://www.speed61.cloud/6296GQ2U395s8wD517j15OfZbbpIzT4b3cK21RFv4GIf4rxvs4FhIHEsvZ8bR4omooK6t1ps0H5hTycY/unnaturally-stager" alt=""/></body>
+</html>
+
+------=_Part_298_1520745879.1619014601819--
+

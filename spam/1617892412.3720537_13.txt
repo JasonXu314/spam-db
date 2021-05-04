@@ -1,0 +1,86 @@
+Return-Path: <31211-44520-39280-8165-bruce=untroubled.org@mail.budsaver.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1341761 invoked from network); 8 Apr 2021 10:41:37 -0000
+Received: (qmail 225675 invoked by uid 222); 8 Apr 2021 10:41:37 -0000
+Return-Path: <31211-44520-39280-8165-bruce=untroubled.org@mail.budsaver.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 225672 invoked from network); 8 Apr 2021 10:41:37 -0000
+Received: from net.budsaver.us ([134.73.142.240])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 10:41:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=budsaver.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=WattProSaver@budsaver.us;
+ bh=1Jtf5KkGi+nFAsxo6qiz2MUcYYw=;
+ b=KKbVjfCySciaPEGjOQub4XTmk05vo0N4L+OY9Ba7yOXOICQrjwuBaJAxiLj3pi5WT8A0/nEj2zH8
+   sb8DnbBDTGb1Dhy9uQYpcE6eU0GLTn/5pbQ/qixuG2F9sjxLXtjQuBQkYluqamKx1JiNAlW7hviH
+   pc1PoSa1Kzx2eQ+Y5PM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=budsaver.us;
+ b=Vvd/BZ+q1jB9c2dzcw3a0VDtBkjwmfZYh2q6sM9T6KcjYyhBr1pz4h+siVqwyNEs/trnGk6z2luN
+   XsA9Gw3ZyqE/nv/nOVtIA5I3/euIY2eDoxjesx3wzosAjzWXqeb634VmyrhNqXOCoOs4W1+yh4eU
+   G2feDhtwq2nFwX9Ua0E=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c026958b56c27edcef047f3127f4c0e9_ade8_9970"
+Date: Thu, 8 Apr 2021 03:41:35 -0700
+From: "Saver Pro" <WattProSaver@budsaver.us>
+Reply-To: "Saver Pro" <WattProSaver@budsaver.us>
+Subject: New Technology
+To: <bruce@untroubled.org>
+Message-ID: <fwfv64lwv2le7cdf-o0skai333ki6pv22-ade8-9970@budsaver.us>
+Content-Length: 5483
+
+--c026958b56c27edcef047f3127f4c0e9_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+New Technology
+
+http://budsaver.us/v-REpzdyX3yIH3EI4wtxqZX1BTy8DC3TxiY7Pj3IPQYMZ3bk
+
+http://budsaver.us/blN8c6bSuCZXmGCJcZQ9u9eH1--nfiA_cA81quKSF2kRDM8v
+
+anav and Shravani remain unmarried because of a mishap in the Deshmukh clan. Archana is now educated and returns to Mumbai after a year to visit her family and to attend her sister, Vaishali's wedding with Dharmesh Jaipurwala (who later cheats on her, but still remains married to her). Shravani has delivered a boy, too named as Sachin. Sulochana decides to get Archana married to Jaiwant, who only wants a working wife like Archana and wants to take over Dharmesh and Satish's company. He frames Manav in a false case creating rift between both families. Coincidentally, Manav and Shravani's marriage falls on the same date of Jaiwant and Archana's wedding. At the last moment, Manav and Archana realise that they deserve each other and run away from their respective mandalas. They marry each other and hence unite again. But Savita and Sulochana decline to accept them.
+
+Later, after much opposition, Manav and Archana come a back to Savita's house. Shravani understands that Manav can't stay away from Archana. She leaves for abroad with her father, Girish and gives Junior Sachin to Archana and Manav. They legally adopt him. Soon, Manav and Archana spend a romantic night with each other and Archna is pregnant. But, Due to their low financial state and Archana's medical condition, Manav and Archana lose their first child. Manav tries to work hard under Digvijay Kirloskar.Four years later.Manav has started working as a Manager with Digvijay Kirloskar and is now a rich business tycoon. Manav and Archana have a son named Soham.Archana delivers two twin daughters, Ovi and Tejaswini. Archana's childless sister Varsha soon abducts Soham and runs away with him, and they are presumed dead. Manav's mother Savita creates a misundersta
+
+--c026958b56c27edcef047f3127f4c0e9_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://budsaver.us/TRlqin9ZVXt8wQRwnOr1VCvgeZrIpQqn3jWYmDXeGRvHrxtx"><img src="http://budsaver.us/11d853a66933cbcb02.jpg" /><img height="1" src="http://www.budsaver.us/x0xUy597v9FLZsbuZHf5gTcj9UTwQftLqTVGfvj2LtovUkLI" width="1" /></a>
+<div style="font-family: calibri; width:550px;padding:15px; font-size:17px;"><a href="http://budsaver.us/v-REpzdyX3yIH3EI4wtxqZX1BTy8DC3TxiY7Pj3IPQYMZ3bk" style="font-family: Arial;font-weight:bold;font-size:25px;color:#D7232D;">Why does this matter?</a><br />
+<br />
+Watt Pro Saver provides the opportunity for you to save up to 50% on your energy bill.<br />
+<br />
+Stabilizes electrical flow, prolongs the life of electrical appliances, and helps maintain the environment.<br />
+<br />
+Within just one month, the device would pay for itself.<br />
+<br />
+<a href="http://budsaver.us/v-REpzdyX3yIH3EI4wtxqZX1BTy8DC3TxiY7Pj3IPQYMZ3bk" style="color:#0000FF;font-weight:bold;">See how it works!</a><br />
+<br />
+<a href="http://budsaver.us/v-REpzdyX3yIH3EI4wtxqZX1BTy8DC3TxiY7Pj3IPQYMZ3bk"><img src="http://budsaver.us/fb12246ad4fc679d24.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://budsaver.us/mRCX5LJnVJXU9bqoHQ2Pp_yoeFgC4g3HKbgUWfQUhKq3lMdr" target="blank"><img src="http://budsaver.us/9d9ca82dc9e5683be0.jpg" /><br />
+<img src="http://budsaver.us/94041c5622afc38bc3.jpg" /></a><br />
+<span style="color:#FFFFFF;font-size:5px;">anav and Shravani remain unmarried because of a mishap in the Deshmukh clan. Archana is now educated and returns to Mumbai after a year to visit her family and to attend her sister, Vaishali&#39;s wedding with Dharmesh Jaipurwala (who later cheats on her, but still remains married to her). Shravani has delivered a boy, too named as Sachin. Sulochana decides to get Archana married to Jaiwant, who only wants a working wife like Archana and wants to take over Dharmesh and Satish&#39;s company. He frames Manav in a false case creating rift between both families. Coincidentally, Manav and Shravani&#39;s marriage falls on the same date of Jaiwant and Archana&#39;s wedding. At the last moment, Manav and Archana realise that they deserve each other and run away from their respective mandalas. They marry each other and hence unite again. But Savita and Sulochana decline to accept them. Later, after much opposition, Manav and Archana come a back to Savita&#39;s house. Shravani understands that Manav can&#39;t stay away from Archana. She leaves for abroad with her father, Girish and gives Junior Sachin to Archana and Manav. They legally adopt him. Soon, Manav and Archana spend a romantic night with each other and Archna is pregnant. But, Due to their low financial state and Archana&#39;s medical condition, Manav and Archana lose their first child. Manav tries to work hard under Digvijay Kirloskar.Four years later.Manav has started working as a Manager with Digvijay Kirloskar and is now a rich business tycoon. Manav and Archana have a son named Soham.Archana delivers two twin daughters, Ovi and Tejaswini. Archana&#39;s childless sister Varsha soon abducts Soham and runs away with him, and they are presumed dead. Manav&#39;s mother Savita creates a misundersta</span></div>
+</body>
+</html>
+
+--c026958b56c27edcef047f3127f4c0e9_ade8_9970--

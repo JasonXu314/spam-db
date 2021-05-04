@@ -1,0 +1,75 @@
+Return-Path: <affiliate_renewal_by_andersen-bruce=untroubled.org@get-20.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1419224 invoked from network); 8 Apr 2021 14:23:25 -0000
+Received: (qmail 229299 invoked by uid 222); 8 Apr 2021 14:23:25 -0000
+Return-Path: <affiliate_renewal_by_andersen-bruce=untroubled.org@get-20.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 229296 invoked from network); 8 Apr 2021 14:23:25 -0000
+Received: from mail.get-20.us ([70.102.103.109])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 14:23:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=get-20.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=affiliate_renewal_by_andersen@get-20.us;
+ bh=8O9/lPhjKNbrOUTfPZI39iHMNy8=;
+ b=EDOg6k8hRcpqciGu2eHRn/oWnebX1NtSiL4K86UO0wpFhtM9FPkDP5Mtv+kq3oSw+pugDPc0Hjry
+   p4A8/Wy0j0Rh4lLQMZipTk0ckgwaKWwC/bLLju9hMkhGFkOQHpBo4LywOAl6v+Ret73MfdrJb3lP
+   qIPbYhr9AimoL7mNxFA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=get-20.us;
+ b=xiNLgqsrOGxLegjjCM5r8hsqWRqpv5NRpm21q4VjfJ2B1ZIAvmAfbYRDx5zxuMr8eetiVBcKABz9
+   eApdoKXMyntzE5gToQXxfH5UpEi/nBdRaC0QM89Ph4asQHYqXg97n3RVz9lQDB3/L+ZpCzbGaFUW
+   NEgMlF4VSL/KRUfMO2c=;
+Received: by mail.get-20.us id hds8tk0001gg for <bruce@untroubled.org>; Thu, 8 Apr 2021 10:13:06 -0400 (envelope-from <affiliate_renewal_by_andersen-bruce=untroubled.org@get-20.us>)
+Date: Thu, 8 Apr 2021 10:13:06 -0400
+From: "Affiliate Renewal By Andersen" <affiliate_renewal_by_andersen@get-20.us>
+To:   <bruce@untroubled.org>
+Subject: Schedule a consultation with us this Winter
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_514_1598627386.1617891170792"
+List-Unsubscribe: <http://www.get-20.us/perpendicular-amounted/8a06z239Tw5w8JT912J1gTZ1t4a7aC21bFv4GIf4rxvs4FhIHEsvZ8GRWommoQ5pF10p5zJcMY>
+Message-ID: <0.0.0.39.1D72C814BD1AA7A.1B21D0@mail.get-20.us>
+Content-Length: 3380
+
+------=_Part_514_1598627386.1617891170792
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>static</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.get-20.us/1d36vx23C95r86pH17b1k5PbZQaaqo4a7aY21IFv4GIf4rxvs4FhIHEsvZ8NRWommoQ5Vv1z05OAcYJ/generosity-endangered"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 681px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.get-20.us/5ed6gB2Y395t_86q12D15babz4a7aU21LFv4GIf4rxvs4FhIHEsvZ8FRWommoQ6pAz10X5p@cPY/volleyballs-formalities">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.get-20.us/stillest-penthouse/6485O2A395N8S6T13a15baRcr4a7au21kFv4GIf4rxvs4FhIHEsvZ8zRWommoQ6f10nXn6q0cjYA">here.</a></b></span></span></p> <span style="font-family:arial,helvetica,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Exit<a href="http://www.get-20.us/generosity-endangered/7744t2395a8V9n13C15wbadP4a7aM21JFv4GIf4rxvs4FhIHEsvZ8ERWommoQ7Nm1i0wy6Mlpc@Y"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <font class="shattered"></font><span></span><style title="inflating"></style><style><small><span size="empowered"></span></small></style>  
+ <img src="http://www.get-20.us/benches-cheating/d6e6H2VJ395Qh85N12R15baep4a7aI21sFv4GIf4rxvs4FhIHEsvZ8dRWommoQ5q1pu05GqcY2" alt=""/></body>
+</html>
+
+------=_Part_514_1598627386.1617891170792--
+

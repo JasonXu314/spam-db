@@ -1,0 +1,66 @@
+Return-Path: <TalcumPowderCases-bruce=untroubled.org@feelgoodskate.co>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1303532 invoked from network); 7 Apr 2021 12:55:02 -0000
+Received: (qmail 208755 invoked by uid 222); 7 Apr 2021 12:55:01 -0000
+Return-Path: <TalcumPowderCases-bruce=untroubled.org@feelgoodskate.co>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 208752 invoked from network); 7 Apr 2021 12:55:01 -0000
+Received: from jensen.feelgoodskate.co (jensen.feelgoodskate.co [193.17.7.70])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 12:55:01 -0000
+Received: by jensen.feelgoodskate.co id hdmlqa0001gu for <bruce@untroubled.org>; Wed, 7 Apr 2021 12:42:30 +0000 (envelope-from <TalcumPowderCases-bruce=untroubled.org@feelgoodskate.co>)
+Date: Wed, 7 Apr 2021 12:42:30 +0000
+From: Talcum Powder Cases <TalcumPowderCases@feelgoodskate.co>
+Reply-To: TalcumPowderCases@feelgoodskate.co
+To: bruce@untroubled.org
+Message-Id: <2bc5dbc6-756f-4c03-8927-616cfc4ff5e4@feelgoodskate.co>
+Subject: =?utf-8?B?VGFsY3VtIFBvd2RlciBDYW5jZXIgQ2xhaW1zPw==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-a5934f07bab776__71532d9cd1304520_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2302
+
+---_-_-a5934f07bab776__71532d9cd1304520_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-a5934f07bab776__71532d9cd1304520_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+VGFsY3VtIFBvd2Rlcgo8dGFibGUgd2lkdGg9IjYwMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRk
+aW5nPSIwIiBiZ2NvbG9yPSIiIGFsaWduPSJjZW50ZXIiPgo8dGJvZHk+Cjx0cj4KPHRkIGNvbHNw
+YW49IiI+PGEgaHJlZj0iaHR0cDovL2ZlZWxnb29kc2thdGUuY28vRnF5QmtrQWd2eGxFIj48aW1n
+IHNyYz0iaHR0cHM6Ly9hc3NldHMuZWZ1c2VyY29udGVudC5jb20vMTM4L29mZmVycy8yMDA5L2Mv
+NzExMS9hc3NldHMvaGVyby5qcGciIGFsdD0iIiBib3JkZXI9IjAiIC8+PC9hPjwvdGQ+CjwvdHI+
+Cjx0cj4KPHRkIGNvbHNwYW49IiI+CjxoMSBzdHlsZT0iZm9udC1mYW1pbHk6ICdBcmlhbCc7IGZv
+bnQtc2l6ZTogMnJlbTsgdGV4dC1hbGlnbjogY2VudGVyOyBwYWRkaW5nOiAwcHggMHB4OyBtYXJn
+aW46IDA7IGNvbG9yOiAjNWJlNWZkOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyIgYWxpZ249
+ImNlbnRlciI+PGEgaHJlZj0iaHR0cDovL2ZlZWxnb29kc2thdGUuY28vRnF5QmtrQWd2eGxFIj5Z
+b3UgTWF5IGJlIGR1ZSBjb21wZW5zYXRpb24hPC9hPjwvaDE+CjxwIHN0eWxlPSJmb250LWZhbWls
+eTogJ0FyaWFsJzsgZm9udC1zaXplOiAxcmVtOyB0ZXh0LWFsaWduOiBjZW50ZXI7IHBhZGRpbmc6
+IDEwcHggMHB4OyBtYXJnaW46IDIwcHggMDsgY29sb3I6ICMwMTAxMDE7IiBhbGlnbj0iY2VudGVy
+Ij5UYWxjdW0gcG93ZGVyIGhhcyBiZWVuIGxpbmtlZCB0byBzZXJpb3VzIGhlYWx0aCBjb25kaXRp
+b25zLCBpbmNsdWRpbmcgb3ZhcmlhbiBjYW5jZXIgYW5kIG1lc290aGVsaW9tYS4gSWYgeW91IG9y
+IGEgbG92ZWQgb25lIHJlY2VpdmVkIGEgY3J1c2hpbmcgZGlhZ25vc2lzIGFmdGVyIGZyZXF1ZW50
+IHVzZSBvZiBwcm9kdWN0cyB0aGF0IGNvbnRhaW4gdGhpcyBwb3dkZXIsIGxhd3N1aXRzIGNvdWxk
+IHByb3ZpZGUgYSByb3V0ZSB0byBtdWNoLW5lZWRlZCByZWxpZWYuPC9wPgo8L3RkPgo8L3RyPgo8
+dHI+Cjx0ZCBjb2xzcGFuPSIiPjxhIGhyZWY9Imh0dHA6Ly9mZWVsZ29vZHNrYXRlLmNvL0ZxeUJr
+a0FndnhsRSI+PGltZyBzcmM9Imh0dHBzOi8vYXNzZXRzLmVmdXNlcmNvbnRlbnQuY29tLzEzOC9v
+ZmZlcnMvMjAwOS9jLzcxMTEvYXNzZXRzL2J1dHRvbi5qcGciIGFsdD0iIiBib3JkZXI9IjAiIC8+
+PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkPgo8cCBzdHlsZT0iZm9udC1mYW1pbHk6ICdBcmlhbCc7
+IGZvbnQtc2l6ZTogLjdyZW07IHRleHQtYWxpZ246IGNlbnRlcjsiPjwvcD4KPC90ZD4KPC90cj4K
+PC90Ym9keT4KPC90YWJsZT4KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPlRvIHVuc3Vi
+c2NyaWJlJm5ic3A7PGEgaHJlZj0iaHR0cDovL2ZlZWxnb29kc2thdGUuY28vQXYzR3BwRmwwMnFW
+Ij5DbGljayBoZXJlPC9hPiZuYnNwO29yIHdyaXRlIHRvOiZuYnNwO1RyaXp1IE1lZGlhIDMwIE4g
+R291bGQgU3QgU3RlIE4gU2hlcmlkYW4sIFdZIDgyODAxPC9wPg==
+
+---_-_-a5934f07bab776__71532d9cd1304520_-_---

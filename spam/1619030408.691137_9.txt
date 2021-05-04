@@ -1,0 +1,120 @@
+Return-Path: <32028-44520-39280-8359-bruce=untroubled.org@mail.dronie.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3198555 invoked from network); 21 Apr 2021 12:26:18 -0000
+Received: (qmail 67298 invoked by uid 222); 21 Apr 2021 12:26:17 -0000
+Return-Path: <32028-44520-39280-8359-bruce=untroubled.org@mail.dronie.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 67295 invoked from network); 21 Apr 2021 12:26:17 -0000
+Received: from yellow.dronie.us (aside-mail-root.positivedo.com [220.158.199.199])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 12:25:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=dronie.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=DronePro4K@dronie.us;
+ bh=AHHgv09AN2Mj6h1hbDofUQHM3JA=;
+ b=eY0hr9XUbs0EU4Ef/7pLmdbzWNkZR28S6Lg+rwmezjGN4vn73ZOvc4133NQOry+czj+o9nBybAI0
+   bdIMJi+7dLrmsumLhPk2eHGC4uc09dJ+00+mOZRmrnLldKN1z8xRTgTeXpgwcR8hFxof50+UEwo9
+   CcMFQDh8nABfv7lRkRc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=dronie.us;
+ b=hf+7bN5F3EO2zQFQIF6VXatTI3LOtF53oeapgrM1exjWEzOHyoUR9AZCel0hDt88PHyKWFsGtWVe
+   Z3ZwAH80ECuJ4IRf+MJzG4h/NJtQcR7AMpalSOBKPWsepKTidDzgNLF0nsGW7NUhsAtYNOJXCHAa
+   OKFZYIbDJgcOo7HybRc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="bd01c825a8a2ad1cf74756306d27638a_ade8_9970"
+Date: Wed, 21 Apr 2021 08:25:35 -0400
+From: "DronePro 4K Superior" <DronePro4K@dronie.us>
+Reply-To: "DronePro 4K" <DronePro4KSuperior@dronie.us>
+Subject: DronePro 4K’s unparalleled Ultra Wide-Angle 4K definition Zoom
+To: <bruce@untroubled.org>
+Message-ID: <ie74wgx0mbdcagd2-y39f9p8ik0ottj11-ade8-9970@dronie.us>
+Content-Length: 5689
+
+--bd01c825a8a2ad1cf74756306d27638a_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+DronePro 4K’s unparalleled Ultra Wide-Angle 4K definition Zoom
+
+http://dronie.us/GJOP-SHFGhtJATXVQRa2EPU4GcGPDumnfEnHJNBrdUGEgVvh
+
+http://dronie.us/AMaPZVLkvyyvebDzSdD32zWdwhZzQg53dVTPCI567wuJgcF8
+
+dents involving Chauvin, such as a September 2017 case where Chauvin pinned a 14-year old boy for several minutes with his knee while ignoring the boy's pleas that he could not breathe; the boy briefly lost consciousness. Though the 2017 case was similar to the 2020 killing of Floyd, it was deemed as inadmissible by the judge overseeing the trial of Chauvin for Floyd's murder.
+
+Tax evasion charges
+On July 22, 2020, after the murder charges were brought against him, Chauvin and his then-wife were separately charged in Washington County, Minnesota, on multiple felony counts of tax evasion related to allegedly fraudulent state income tax returns from 2014 to 2019. Prosecutors state the couple under-reported their joint income by $464,433, including more than $95,000 from Chauvin's off-duty security work. The complaint also alleges failure to pay proper sales tax on a $100,000 BMW purchased in Minnesota in 2018, failure to declare income from Chauvin's wife's business, and improper deductions on a rental home.
+
+Personal life
+Chauvin's ex-wife Kellie, a real estate agent and photographer, is a Hmong refugee from Laos who competed in a "Mrs. Minnesota" beauty pageant in 2018. She filed for divorce the day before he was arrested for Floyd's death, and it was approved in Februa
+
+--bd01c825a8a2ad1cf74756306d27638a_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://dronie.us/aekpGKZOd0nA11ECEAPoL8w_ugFRt5Fc0PmVRhqtD_9rDbyr"><img src="http://dronie.us/6a29b951864d0245ec.jpg" /><img height="1" src="http://www.dronie.us/P55bHbphV_ArNQtG0u0MJAO4M1uzsk1DzHhW9KuNLOVMaDXQ" width="1" /></a>
+<center><br />
+<br />
+<a href="http://dronie.us/GJOP-SHFGhtJATXVQRa2EPU4GcGPDumnfEnHJNBrdUGEgVvh"><img src="http://dronie.us/97b956ae0573a39698.jpg" /></a><br />
+&nbsp;
+<div style="width:90%;font-family:trebuchet ms,helvetica,sans-serif;padding:20px;text-align:left;">
+<center>
+<div style="font-family:trebuchet ms,helvetica,sans-serif;font-size:32px;font-weight:bold;text-align:center;max-width:55%;">DronePro 4K: The 4K Drone Taking the World by Storm</div>
+</center>
+&nbsp;
+
+<center>
+<div style="max-width:55%;text-align:left;">Equipped with a crystal clear 4K camera, automatic gesture recognition, trajectory control, a wide-angle lens, and altitude holding, the DronePro 4K delivers professional performance for a <a href="http://dronie.us/GJOP-SHFGhtJATXVQRa2EPU4GcGPDumnfEnHJNBrdUGEgVvh" style="font-weight:bold;" target="blank">not-so-professional price.</a></div>
+</center>
+&nbsp;
+
+<center><a href="http://dronie.us/GJOP-SHFGhtJATXVQRa2EPU4GcGPDumnfEnHJNBrdUGEgVvh" target="blank"><img src="http://dronie.us/3f6b6e837abd6e991b.png" style="max-width:70%;" /></a>
+
+<center>
+<ul style="max-width:55%;text-align:left;">
+	<li>Captures Stunning 4K Video.</li>
+	<li>Light, Compact, and Easy-to-Use.</li>
+	<li>Performs Better Than Brand-Name Drones but Costs Far Less.</li>
+	<li>Mobile Control.</li>
+	<li>One-Touch Takeoff and Return.</li>
+	<li>Altitude Hold.</li>
+	<li>Anti-Collision Protection.</li>
+	<li>Trajectory Fly.</li>
+	<li>Follow Me Mode.</li>
+	<li>Gesture Photography and Videograph.</li>
+</ul>
+</center>
+<a href="http://dronie.us/GJOP-SHFGhtJATXVQRa2EPU4GcGPDumnfEnHJNBrdUGEgVvh" target="blank"><img src="http://dronie.us/5ef38471471dfe70f7.jpg" style="max-width:70%;" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://dronie.us/rZ_CLxFWgcIKynDe-8akEZPRNWAJ_yKNd7L72GBPoT_akaBj" target="blank"><img src="http://dronie.us/6c9f5b395a57a19e89.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF; font-size:3px;">dents involving Chauvin, such as a September 2017 case where Chauvin pinned a 14-year old boy for several minutes with his knee while ignoring the boy&#39;s pleas that he could not breathe; the boy briefly lost consciousness. Though the 2017 case was similar to the 2020 killing of Floyd, it was deemed as inadmissible by the judge overseeing the trial of Chauvin for Floyd&#39;s murder. Tax evasion charges On July 22, 2020, after the murder charges were brought against him, Chauvin and his then-wife were separately charged in Washington County, Minnesota, on multiple felony counts of tax evasion related to allegedly fraudulent state income tax returns from 2014 to 2019. Prosecutors state the couple under-reported their joint income by $464,433, including more than $95,000 from Chauvin&#39;s off-duty security work. The complaint also alleges failure to pay proper sales tax on a $100,000 BMW purchased in Minnesota in 2018, failure to declare income from Chauvn&#39;s wife&#39;s business, and improper deductions on a rental home. Personal life Chauvin&#39;s ex-wife Kellie, a real estate agent and photographer, is a Hmong refugee from Laos who competed in a &quot;Mrs. Minnesota&quot; beauty pageant in 2018. She filed for divorce the day before he was arrested for Floyd&#39;s death, and it was approved in F</span><br />
+&nbsp;
+<center><a href="http://dronie.us/AMaPZVLkvyyvebDzSdD32zWdwhZzQg53dVTPCI567wuJgcF8" target="blank"><img src="http://dronie.us/720024934b3a3f6d42.jpg" /><br />
+<img src="http://dronie.us/e1f8562f04f719b73a.jpg" /></a></center>
+</div>
+</center>
+</body>
+</html>
+
+--bd01c825a8a2ad1cf74756306d27638a_ade8_9970--

@@ -1,0 +1,172 @@
+Return-Path: <lawrence-lee-bruce=untroubled.org@myislans.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 99394 invoked from network); 26 Apr 2021 17:49:58 -0000
+Received: (qmail 58643 invoked by uid 222); 26 Apr 2021 17:49:57 -0000
+Return-Path: <lawrence-lee-bruce=untroubled.org@myislans.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 58640 invoked from network); 26 Apr 2021 17:49:57 -0000
+Received: from mail.myislans.com (10br40.watertheftembarrassment.org [194.69.253.253])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 17:49:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=myislans.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lawrence-lee@myislans.com;
+ bh=QfCdrzCVUz22NAGKDapdmelzYZc=;
+ b=phDWTQvDkxxjuZlVIMnR1i9vS5CoRcwtw2gFnwOaB45U3UjVwiLKU4JvvD5ZB1AsBbRXFK5AuQLW
+   6c+Vhas0kNgVCGsAIf0wLqoJVKDuvKTLh67aDVeGunkV3qF+rxa7yzuDBxKOTpHvzMxOYL4BQXmR
+   oEWkT2Du9WiD3g3mKzY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=myislans.com;
+ b=mzaOS3f4ER+WtQGMjVqEgc6TVFnvekfnCDbfc0yDOo5xw8s+Wff0UzrFWJncxW9TUmmxok4zB/U8
+   uN+Wj3DQ6/vSOAjIA083ERjdYbggXjIPSog3qGodL14Eb3mzKocRGXcp2huoGVRzmIDoNTaCsqsQ
+   vpDgO8gN9i1JrAz5n1k=;
+Received: by mail.myislans.com id hgrurg0001gu for <bruce@untroubled.org>; Mon, 26 Apr 2021 13:45:06 -0400 (envelope-from <lawrence-lee-bruce=untroubled.org@myislans.com>)
+Date: Mon, 26 Apr 2021 13:45:06 -0400
+From: "Lawrence Lee" <lawrence-lee@myislans.com>
+To:   <bruce@untroubled.org>
+Subject: Perfect tool for DIY projects, camping, hiking, and more.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_286_389212629.1619458950264"
+List-Unsubscribe: <http://www.myislans.com/ransomer-straightway/8285j239M5jB89K10GJK11J511k21qFv4GIf4rxvs4FhIHEsvZ7qQwn9n95K1j0v6DXsM1v>
+Message-ID: <0.0.0.2F.1D73AC3E4B50D4A.3C33F0@mail.myislans.com>
+Content-Length: 8723
+
+------=_Part_286_389212629.1619458950264
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Instantly Upgrade Your Toolbox with the Golden Multitool & Universal Tiger Wrench **
+-----------------------------------------------------------------------------------------
+
+Upgrade your toolbox and get more done with the QualityTech tool set.  The Tiger Wrench and Multitool feature a compact design and are made of high-quality stainless steel so you can work with comfort and confidence.   Our innovative, universal 8-in-1 socket wrench is designed to get more done with less visits to the workbench.  Rotate the head of the wrench and work with any size bolt or nut, from 8mm to 19mm.  This stainless steel wrench is great for working with spline bolts, 6-point, 12-point, long studs, drain plugs, square and even damaged bolts.  This adjustable wrench comes with both metric and standard sizes to assure you always have the right tool for the job. 
+
+
+Shop Now Up To 54% Off -> http://www.myislans.com/bedspring-considerately/abc4r2395E8w6i11y22z38Z511O21QFv4GIf4rxvs4FhIHEsvZ7fQwn9n95PMn106BA23sv
+
+
+
+
+
+LADV Technical Resources
+33 Church Street
+Saint Johnsville, NY 13452-1026
+Manage Email Preferences http://www.myislans.com/22d4m2395Lt86g10E2236W511Y21gFv4GIf4rxvs4FhIHEsvZ7nQwn9n95f1Ww05uNslv/coached-bunkmate
+
+
+
+
+------=_Part_286_389212629.1619458950264
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table style=3D"width: 100%; max-width: 640px; font-family: Gotham, 'Helv=
+etica Neue', Helvetica, Arial, 'sans-serif';" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"> <a href=3D"http://www.myislans.com/exasperate-gills/3784N2395n8m6R11A223j5i511P21UFv4GIf4rxvs4FhIHEsvZ7GQwn9n97q_1Dv0K6MLqsvO"> <img style=3D"width:=
+ 100%; max-width: 160px; padding: 15px;" src=3D"http://www.myislans.com/electrophoresis-beholden/3005XS2395lj7aJ12z22O3y7Q511z21uFv4GIf4rxvs4FhIHEsvZ7rQwn9n96DJZ10V6pNkJsv" alt=3D"=09
+                           QualityTech Logo" /> </a> <a href=3D"http://www.myislans.com/exasperate-gills/3784N2395n8m6R11A223j5i511P21UFv4GIf4rxvs4FhIHEsvZ7GQwn9n97q_1Dv0K6MLqsvO"=
+> <img style=3D"width: 100%; max-width: 640px;" src=3D"=09
+                           https://imagizer.imageshack.com/v2/xq90/922/gOgW=
+aE.png" alt=3D"tool illustrations" /> </a> <h1 style=3D"width: 100%; max-wi=
+dth: 550px; color: #414042;">Instantly Upgrade Your Toolbox with the <span =
+style=3D"color: #ff4800;">Golden Multitool</span> &amp; <span style=3D"colo=
+r: #ff4800;">Universal Tiger Wrench</span></h1> <p style=3D"color: #414042;=
+ width: 100%; max-width: 600px;">Upgrade your toolbox and get more done wit=
+h the QualityTech tool set. The Tiger Wrench and Multitool feature a compac=
+t design and are made of high-quality stainless steel so you can work with =
+comfort and confidence.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div> <a style=3D"text-decoration: none; padding: 6px 15px; colo=
+r: white; background-color: #ff4800;" href=3D"http://www.myislans.com/exasperate-gills/3784N2395n8m6R11A223j5i511P21UFv4GIf4rxvs4FhIHEsvZ7GQwn9n97q_1Dv0K6MLqsvO"><strong>Shop Now<=
+/strong></a>=20
+          <div style=3D"padding: 16px;">
+           &nbsp;
+          </div> <a href=3D"http://www.myislans.com/exasperate-gills/3784N2395n8m6R11A223j5i511P21UFv4GIf4rxvs4FhIHEsvZ7GQwn9n97q_1Dv0K6MLqsvO"> <img style=3D"width: 100%; max-wid=
+th: 640px;" src=3D"=09https://imagizer.imageshack.com/v2/xq90/922/iV8m2w.jp=
+g" alt=3D"tool photo" /> </a>=20
+          <div style=3D"padding: 35px;">
+           &nbsp;
+          </div> <p style=3D"color: darkgray;">LADV Technical Resources</p>=
+ <p style=3D"color: darkgray;">33 Church Street</p> <p style=3D"color: dark=
+gray;">Saint Johnsville, NY 13452-1026</p> <p><a href=3D"http://www.myislans.com/1b55Xh2395gN86D11sy2236s511i21aFv4GIf4rxvs4FhIHEsvZ7jQwn9n95SI10l6ekjs0v/ransomer-straightway">Manage=
+ Email Preferences</a></p> <p>&nbsp;</p> <p class=3D"css-1yqigsj"><span sty=
+le=3D"color: #ffffff;">One hundred days into his term, Biden's solution to =
+the myriad crises is an ambitious economic agenda that promises to ?own the=
+ future? by dramatically expanding the role of government in American life.=
+</span></p> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">The Wh=
+ite House is guided by the belief that if it can lift the nation from the C=
+ovid-19 crisis and the economic havoc it wrought, it can begin to restore A=
+mericans' faith in government and pave the way for the next phase of the Bi=
+den presidency.</span></p> <p class=3D"css-1yqigsj"><span style=3D"color: #=
+ffffff;">?We need to remember the government isn't some foreign force in a =
+distant capital,? Biden said in his first primetime address, hours after si=
+gning the American Rescue Plan. ?It's us. All of us.?</span><span style=3D"=
+color: #ffffff;"><span class=3D"css-114to15"><span class=3D"css-1ljoi60">T<=
+/span></span><span class=3D"css-1yqigsj">he pandemic remains an inescapable=
+ challenge. But the picture is inarguably brighter than it was when Biden d=
+elivered his inaugural address in January to a sea of American flags markin=
+g the crowds absent from the Mall. Now, Biden is dangling the prospect of b=
+ackyard barbecues by the Fourth of July.</span></span></p> <p class=3D"css-=
+1yqigsj"><span style=3D"color: #ffffff;">Marshaling a ?full-scale, wartime =
+effort?, his administration has built one of the largest and most effective=
+ mass immunization campaigns in the world.</span></p> <p class=3D"css-1yqig=
+sj"><span style=3D"color: #ffffff;">At its peak the US was administering mo=
+re than 3m shots a day. In a nation of nearly 330 million, more than 50% of=
+ adults including 80% over 65 are at least partially vaccinated. Last week,=
+ Biden surpassed his goal of administering 200m shots by his 100th day. The=
+ problem is rapidly becoming too much vaccine and not enough people willing=
+ to be vaccinated.</span></p> <p class=3D"css-1yqigsj"><span style=3D"color=
+: #ffffff;">?That was arguably one of his main jobs as president ? to start=
+ getting this pandemic under control,? said Dr Ashish Jha, dean of the Brow=
+n University School of Public Health, ?It's not fully under control yet, bu=
+t it is clearly in much better shape than it would have been had this incre=
+dible vaccination effort not happened.?</span></p> <p class=3D"css-1yqigsj"=
+>&nbsp;</p> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Jha cr=
+edits the campaign's success to several factors, from improving coordinatio=
+n between the federal government and states to tweaking the way doses are e=
+xtracted from vials. He added that such success is due in part to the Trump=
+ administration's Operation Warp Speed, which dramatically accelerated vacc=
+ine development.</span></p>=20
+          <div id=3D"dfp-ad--inline1" class=3D"js-ad-slot ad-slot ad-slot--=
+inline ad-slot--inline1 ad-slot--rendered" data-link-name=3D"ad slot inline=
+1" data-name=3D"inline1" aria-hidden=3D"true" data-mobile=3D"1,1|2,2|300,19=
+7|300,250|300,274|fluid" data-phablet=3D"1,1|2,2|300,197|300,250|300,274|62=
+0,350|550,310|fluid" data-desktop=3D"1,1|2,2|300,250|300,274|620,1|620,350|=
+550,310|fluid" data-google-query-id=3D"CNn44d23nPACFS8qrQYdbbcMsw">=20
+           <div class=3D"ad-slot__label">
+            <span style=3D"color: #ffffff;">Advertisement</span>
+           </div>=20
+           <div id=3D"google_ads_iframe_/59666047/theguardian.com/us-news/a=
+rticle/ng_5__container__" class=3D"ad-slot__content">
+            &nbsp;
+           </div>=20
+          </div> <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">D=
+eaths from the coronavirus have declined sharply since a peak in January, a=
+s many of the most vulnerable Americans are vaccinated. Yet infections are =
+rising again in many parts of the country. The more contagious B117 variant=
+ of the coronavirus that was first discovered in the UK has emerged as the =
+dominant strain in the US, and young people are at particular risk. Even so=
+, a number of Republican states have ignored Biden's pleas to keep mask man=
+dates and other restrictions in place.</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.myislans.com/ransomer-straightway/8fa6HmH2395SW8k512K2239hIo511u21oFv4GIf4rxvs4FhIHEsvZ7jQwn9n96psDD105u0sJv" alt=3D""/></body>
+</html>
+
+------=_Part_286_389212629.1619458950264--
+

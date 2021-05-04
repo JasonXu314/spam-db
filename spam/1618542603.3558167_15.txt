@@ -1,0 +1,64 @@
+Return-Path: <myseniorperks-bruce=untroubled.org@new5.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2619394 invoked from network); 15 Apr 2021 19:01:04 -0000
+Received: (qmail 89721 invoked by uid 222); 15 Apr 2021 19:01:03 -0000
+Return-Path: <myseniorperks-bruce=untroubled.org@new5.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 89718 invoked from network); 15 Apr 2021 19:01:03 -0000
+Received: from mail.new5.cloud ([208.187.244.225])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 19:00:59 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=new5.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=myseniorperks@new5.cloud;
+ bh=nXMGlVbiyIbegTkY0Yx879bVLZY=;
+ b=vIPkaSK4apCywutAezGo4r+6nanDKAOjb1+PpwEmV9HjjtsHXwDvSK65Fg+zgeaLhpOHwy3/Ci8D
+   KLraVenzLyrJjOxAPNCz+jYAwWo8nZkU7evTag3Z06P+HuUUZqTU0In9sZ/EO1uLHHmCSQOXfeQr
+   KzjTUPJqHfU/cznz8rw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=new5.cloud;
+ b=DO8uUjBNBLwPx7HqHBmmg+92DQZguQjV72pRIBGgb7UkofbO8seFhHKD54BMniiGzpv3/wNlBMJx
+   plOQ3bIIBjw59fuVeZbHl2quDf5mdZZcj1fvwWZKfu7yKrEjnNQcOGAG8a2sXn4X47miUVZ+H1TO
+   co1wL71d0tAm6p0kRts=;
+Received: by mail.new5.cloud id hf26mq0001g7 for <bruce@untroubled.org>; Thu, 15 Apr 2021 14:53:09 -0400 (envelope-from <myseniorperks-bruce=untroubled.org@new5.cloud>)
+Date: Thu, 15 Apr 2021 14:53:09 -0400
+From: Myseniorperks <myseniorperks@new5.cloud>
+To:   <bruce@untroubled.org>
+Subject: Seniors, you can save big
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_466_1099151860.1618512770277"
+List-Unsubscribe: <http://www.new5.cloud/2a56r_2l395G89h_13ex1zJy1W4ae7_21RFv4GIf4rxvs4FhIHEsvZ11ARFomndmoj96S10AFz5qMcYl/teeming-skinners>
+Message-ID: <0.0.0.34.1D732289424A082.1EA949@mail.new5.cloud>
+Content-Length: 2324
+
+------=_Part_466_1099151860.1618512770277
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>constrain</title> 
+ </head> 
+ <body> 
+  <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+   <tbody> 
+    <tr> 
+     <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+      <center>
+       <a href="http://www.new5.cloud/teeming-skinners/8a04b2395cC86h12w15df4w4ae7K21vFv4GIf4rxvs4FhIHEsvZ11cRFomndmoj97syV10JD6VBcAYP"><img alt="" src="http://www.new5.cloud/expelling-proliferated/80a5a_2395LA7ga12f15df7t4ae7J21IFv4GIf4rxvs4FhIHEsvZ11sRFomndmoj97zrN1tX05RB2cY" style="border-width: 0px; border-style: solid; height: 1200px; width: 641px; " /></a>
+      </center> 
+      <div align="center">
+       <br /> 
+       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.new5.cloud/cz56h2U3l95v86yK13U15pdf5M4ae7M21hFv4GIf4rxvs4FhIHEsvZ11jRFomndmoj96AYK10p5n@cYp/expelling-proliferated"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.new5.cloud/teeming-skinners/8a04b2395cC86h12w15df4w4ae7K21vFv4GIf4rxvs4FhIHEsvZ11cRFomndmoj97syV10JD6VBcAYP"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103</font>
+       <br /> 
+       <br /> 
+       <span style="font-size:12px; "><a href="http://www.new5.cloud/89f4C2395nSn8912d15df6R4ae7J21aFv4GIf4rxvs4FhIHEsvZ11LRFomndmoj97V1gqN0j5z1XcY/humanness-steadies">&nbsp; Remove Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span>
+       <br /> &nbsp; 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> <style><style></style></style><span style="mutandis"><span size="gratings"><font></span><style dir="beginners"></span><span lang="statutory"></span></font></style><font style="huntsman"></font><font></font>  
+ <img src="http://www.new5.cloud/aviaries-trowels/2e25XS2395i8I5F13z15dfG8z4ae7K21BFv4GIf4rxvs4FhIHEsvZ11iRFomndmoj95p1Qg06klMcqY" alt=""/></body>
+</html>
+
+------=_Part_466_1099151860.1618512770277--
+

@@ -1,0 +1,240 @@
+Return-Path: <charlotte.lucas@reachinfousa.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 172346 invoked from network); 28 Apr 2021 08:48:24 -0000
+Received: (qmail 81817 invoked from network); 28 Apr 2021 08:48:23 -0000
+Received: from mail-pl1-x643.google.com (mail-pl1-x643.google.com [IPv6:2607:f8b0:4864:20::643])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 28 Apr 2021 08:48:23 -0000
+Received: by mail-pl1-x643.google.com with SMTP id s15so4007039plg.6
+        for <bruce@home.untroubled.org>; Wed, 28 Apr 2021 01:48:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=reachinfousa-com.20150623.gappssmtp.com; s=20150623;
+        h=return-receipt-to:from:to:references:in-reply-to:subject:date
+         :message-id:mime-version:importance:thread-index:content-language
+         :disposition-notification-to;
+        bh=ETv3h3Psr/70IxN2rbHBX+spB+0uO3eccTKoBLg/ZZQ=;
+        b=Aixqe1VvEJxqN1jvZ8r1FpPqJxDM9p+yYK8L52ZzkfOquKBPiP1CpN3spa6n3EppAw
+         G7bJfCeTLJPVhiUIi07pQnrgWc+evqAjg62/tK8xvcGXwlvC/htP4wfmFxmEYrlRWu4c
+         URZjteFUNZuPy40pLOK8L0elkE/as18p/zCZpFEHtD1+OeDpufVVOJT1JKy4As44263Q
+         iVy8TfmPyHLJIjx7TEnqnXl4hmh2JzfsP7sXUlg+HaaPtGP5mA2v1LRv6f05vHYf8abT
+         LzDA/CAEo26SxX7escWUimMWTlPrIF2xKupYkINVNYhXAhLhnCWIULgGvkix1yPVddOt
+         ALTg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:return-receipt-to:from:to:references:in-reply-to
+         :subject:date:message-id:mime-version:importance:thread-index
+         :content-language:disposition-notification-to;
+        bh=ETv3h3Psr/70IxN2rbHBX+spB+0uO3eccTKoBLg/ZZQ=;
+        b=J5JF64/bEu7mjvJHm5NzV66cicTTxhz4pA3NzTffwDShZGRsZpFOUD6GrJKdL0RkMl
+         fQMncGjh52jDlGN1laJaajVWiNZPeKOVqQEaoLA4cl0dXYEgRvu7zJFUMpE1sQcoLVRD
+         b0x/Wt2WJ6fGu9PW/+y0nWXUedBb74SFaUfuZ2oHAlBzFjunjfNkICKrC9OJpK543fmT
+         Z13ptBgFkAmyR9ZnLA8yyHrI7SRwi/De4vQtSeREFlWU3vbQ3mbbi1Aancsz+3DeFrEd
+         +xoXRZQPqsfp8ur54Jv5nFjfmgDwHTVgtQD/kK7TdyZV2Qv3ZQ58UvX+DtVMwNyK/7Oa
+         mUyQ==
+X-Gm-Message-State: AOAM532AD0We1EL8aM6CLNnH+CACCv2tOObSctsnHdqSgol/E32jOdui
+	s073kbUr6MSxIK+FyoJnHc7ks5l+prHuQw3U
+X-Google-Smtp-Source: ABdhPJztHmTEmah6MB0of0St3Mz0RBsOj9QBEHADin/VTQhyTqMik89yoUaZnZ+oSJKb56IdzLvh3g==
+X-Received: by 2002:a17:90b:1d88:: with SMTP id pf8mr2853003pjb.114.1619599702238;
+        Wed, 28 Apr 2021 01:48:22 -0700 (PDT)
+Return-Path: <charlotte.lucas@reachinfousa.com>
+Received: from DESKTOPRS25EDA ([2409:4071:208d:537e:e58c:403f:2b71:377c])
+        by smtp.gmail.com with ESMTPSA id f3sm4055359pjo.3.2021.04.28.01.48.20
+        for <bruce@home.untroubled.org>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 28 Apr 2021 01:48:21 -0700 (PDT)
+Return-Receipt-To: "Charlotte Lucas" <charlotte.lucas@reachinfousa.com>
+From: "Charlotte Lucas" <charlotte.lucas@reachinfousa.com>
+To: <bruce@home.untroubled.org>
+References: 
+In-Reply-To: 
+Subject: IFSEC International 2021
+Date: Wed, 28 Apr 2021 04:48:14 -0400
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAJ4vTsWHVRpHtMQlAOs1f/TCgAAAEAAAAHlJ5pjpSaRNvgJv6HjaFZoBAAAAAA==@reachinfousa.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0335_01D73BE9.B6970BD0"
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook 15.0
+Importance: High
+Thread-Index: Adc8CdjH/kdh6Tl9Tmujp+EGT923IAAAABagAAAAEhAAAAANcAAAAA7QAAAADwAAAAAP0AAAABAwAAAADzAAAAAQYAAAAA5QAAAAEYAAAAAQUAAAABGwAAAAEBAAAAATcAAAABEAAAAAEdAAAAASwAAAABLwAAAAEvAAAAAUUAAAABNQAAAAFBAAAAAUEAAAABSgAAAAFdAAAAAVwAAAABlgAAAb/KAAAAAJ0AAAAAyAAAAAEBAAAAATQAAAAA7QAAAAENAAAAARMAAAABHwAAAAEJAAAAAP8AAAABFQAAAAEeAAAAARsAAAABFwAAAAE6AAAAAU0AAAABNgAAAAEsAAAAAUUAAAABTwAAAAFuAAAC6f4AAAABNwAAAADZAAAAAO8AAAAA6wAAAAD4AAAAAPsAAAAA+wAAAADnAAAAAPoAAAAB2gAAAAKcAAAAApIAAAACPgAAAAEaAAAAARcAAAABJgAAAAETA=
+Content-Language: en-us
+Disposition-Notification-To: "Charlotte Lucas" <charlotte.lucas@reachinfousa.com>
+Content-Length: 6250
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0335_01D73BE9.B6970BD0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+ 
+
+Hi,
+
+ 
+
+I am following up to check if you are interested in acquiring the attendees
+List.
+
+ 
+
+IFSEC International 2021
+
+Location: UK
+
+Date: 12-14 July, 2021
+
+Visitors: 32000
+
+ 
+
+Each Record in the list contains: Business Name, Email Address, Phone
+Number, Job Title.
+
+ 
+
+Let me know your thoughts on this so that I can provide you the cost &
+further details.
+
+ 
+
+Waiting for your response.
+
+ 
+
+Thanks & Regards,
+
+Charlotte Lucas - Business Analyst.
+
+List acquirement | Email campaign | Exhibitors List | Attendee List
+
+ 
+
+If you're not interested kindly reply with the subject line "Opt-Out"
+
+ 
+
+
+------=_NextPart_000_0335_01D73BE9.B6970BD0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Hi,<o:p></=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>I am =
+following up to check if you are interested in acquiring the attendees =
+List.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>IFSEC =
+International 2021<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Location:<=
+/span></b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'> =
+UK<o:p></o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Date:</spa=
+n></b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'> 12-14 =
+July, 2021<o:p></o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Visitors:<=
+/span></b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'> =
+32000<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Each =
+Record in the list contains:</span></b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'> Business =
+Name, Email Address, Phone Number, Job Title.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Let me =
+know your thoughts on this so that I can provide you the cost &amp; =
+further</span></b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'> =
+details.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Waiting =
+for your response.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>Thanks =
+&amp; Regards,<o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black'>Charlotte Lucas =
+</span></b><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>&#8211; =
+Business Analyst.</span></b><b><span =
+style=3D'font-size:12.0pt;color:black'><o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>List =
+acquirement | Email campaign | Exhibitors List | Attendee =
+List<o:p></o:p></span></b></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'><o:p>&nbsp=
+;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;color:black;mso-fareast-language:ES'>If =
+you&#8217;re not interested kindly reply with the subject line =
+&#8220;Opt-Out&#8221;<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0335_01D73BE9.B6970BD0--
+

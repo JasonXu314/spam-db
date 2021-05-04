@@ -1,0 +1,75 @@
+Return-Path: <affiliate_renewal_by_andersen-bruce=untroubled.org@stks2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2358410 invoked from network); 13 Apr 2021 20:26:31 -0000
+Received: (qmail 53565 invoked by uid 222); 13 Apr 2021 20:26:31 -0000
+Return-Path: <affiliate_renewal_by_andersen-bruce=untroubled.org@stks2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 53561 invoked from network); 13 Apr 2021 20:26:30 -0000
+Received: from mail.stks2.com ([208.187.244.168])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 20:26:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=stks2.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=affiliate_renewal_by_andersen@stks2.com;
+ bh=WGuOByF5L99TSFD8Y5dFpQqwX+s=;
+ b=KsDbW1Hs4uyvn3yK9E1qOB7PEQRJSXnMRb1iRZ1T/pXInbz1PUt0P9rno2DNUYG6frVzJsvDXYez
+   8OyQZd1zP5BQKDANidOPTQgbqZaVymbmIw496YDiJQ1sbEQ2NOBWu/fbAmNlWeTpt/2NtLmPP2ce
+   2mJbM35dpo4nFoCwq7A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=stks2.com;
+ b=QIjZxfNMbsTo04aE4mQJpSuGh9aaSyfFQb9/AcXOq1z4k+8ykX9FAe1RNhTGW7ZngJ1TZKbqnkpi
+   0Dp47YhwJ3GkJXHH25v+bvr/gU4jZ1COYEJE5e+QWUymPR/x+CZ1ly+v1oG1exCerXN4EDdFE4wj
+   FTr92QSf0++JB5TiYUI=;
+Received: by mail.stks2.com id henv740001g5 for <bruce@untroubled.org>; Tue, 13 Apr 2021 16:18:44 -0400 (envelope-from <affiliate_renewal_by_andersen-bruce=untroubled.org@stks2.com>)
+Date: Tue, 13 Apr 2021 16:18:44 -0400
+From: "Affiliate Renewal By Andersen" <affiliate_renewal_by_andersen@stks2.com>
+To:   <bruce@untroubled.org>
+Subject: Update: We are now offering Virtual Consultations!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_523_732381222.1618345107940"
+List-Unsubscribe: <http://www.stks2.com/de56D2YI395w8OA913kht1C1gD4acct21DFv4GIf4rxvs4FhIHEsvZ8GRYomnnn6moG1W06aWTc@Y/counterbalance-underpinnings>
+Message-ID: <0.0.0.3A.1D730A234177BA6.591494@mail.stks2.com>
+Content-Length: 3488
+
+------=_Part_523_732381222.1618345107940
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>frighten</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.stks2.com/quantifiable-mistakes/a084F2395P_i8617M1L5_JYdt66W4acco21vFv4GIf4rxvs4FhIHEsvZ8JRYomnnn6V1pZ0h6OkTlcY"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 689px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.stks2.com/15b5P239q5i86Hs12w15d67I4accW21EFv4GIf4rxvs4FhIHEsvZ8hRYomnnn5J10Rk6RMcYMW/tailor-advisability">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.stks2.com/Le36NYI2395JS86j13f15d68tO4accz21lFv4GIf4rxvs4FhIHEsvZ8yRYomnnn5F10WY5sqWcY/secretary-inflicting">here.</a></b></span></span></p> <span style="font-family:trebuchet ms,helvetica,sans-serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Exit<a href="http://www.stks2.com/c054F2395AI8D913r15d6k9Z4accW21RFv4GIf4rxvs4FhIHEsvZ8SRYomnnn6Gno1V05dJBcY/tailor-advisability"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <span lang="evicting"></span><small><font lang="controversy"><font></font><span face="furthers"><font class="mouthful"><span style="wondrously"><font></font></font></font></small></span><font></font><span></span></span><span></span>  
+ <img src="http://www.stks2.com/ed56S239QV5w8YX512R15d6az4accx21hFv4GIf4rxvs4FhIHEsvZ8VRYomnnn5S1IR06EyOcY1/tapestries-Patrice" alt=""/></body>
+</html>
+
+------=_Part_523_732381222.1618345107940--
+

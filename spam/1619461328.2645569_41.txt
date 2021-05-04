@@ -1,0 +1,62 @@
+Return-Path: <neuropathy_treatment_group-bruce=untroubled.org@tspeed18.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3561984 invoked from network); 24 Apr 2021 19:07:53 -0000
+Received: (qmail 31657 invoked by uid 222); 24 Apr 2021 19:07:51 -0000
+Return-Path: <neuropathy_treatment_group-bruce=untroubled.org@tspeed18.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 31654 invoked from network); 24 Apr 2021 19:07:51 -0000
+Received: from mail.tspeed18.cloud ([69.94.138.177])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Apr 2021 19:07:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed18.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=neuropathy_treatment_group@tspeed18.cloud;
+ bh=CrppE2Lz4LNIkb4uFkTuQVnq9lA=;
+ b=51DLzS4JuoJwbbtP493aoajYvwcJ11swTqbi9fpv9Ox+bW1Qjbo1ejJ7LEchpL2gQkRMNnjpOYDz
+   A17Q1bNm/LjnZw/uzHRWsoJAlHlcH+9kIO8nQ9SizZKqNA1j8/Ob+hSE+MxU+F7fp92eMDZLGh5K
+   iOn6VZA+SnNbq1RdLdM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed18.cloud;
+ b=16aJq8Fyd8eNN3Fj4G5DzJQ/ZqorBDyYKdHGfLB65YbGq8HG1QhN7fEvUtNf3cl5g5DUybhmYQqU
+   gWDuxEIo5yzGKZqGvGNZE60x22zV9Y/y6zOj//OMhsRZLors/LXQnsRFGN1Kp48oMdTZ9PzCttuz
+   Pm7wPQF0qkwpCeNxfrM=;
+Received: by mail.tspeed18.cloud id hghm6u0001gf for <bruce@untroubled.org>; Sat, 24 Apr 2021 14:54:28 -0400 (envelope-from <neuropathy_treatment_group-bruce=untroubled.org@tspeed18.cloud>)
+Date: Sat, 24 Apr 2021 14:54:28 -0400
+From: "Neuropathy Treatment Group" <neuropathy_treatment_group@tspeed18.cloud>
+To:   <bruce@untroubled.org>
+Subject: Suffer From Nerve Pain?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_595_127838603.1619290452168"
+List-Unsubscribe: <http://www.tspeed18.cloud/golfer-nonpersistent/c065JM2395L89wp11w1Lu1S4b6bD21FFv4GIf4rxvs4FhIHEsvZ8UR0omoSK5jP10D5rL1cY>
+Message-ID: <0.0.0.42.1D7393B41018F4A.67F980@mail.tspeed18.cloud>
+Content-Length: 6361
+
+------=_Part_595_127838603.1619290452168
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>intriguing</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:16px; ">Robert was a fit 70-year-old who could walk circles around most guys half his age...</span></span><br /> &nbsp; </p> 
+   <center>
+    <span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:16px; ">But during a hiking trip, his feet and legs hurt so bad he could hardly lift them to walk.<br /> <br /> When they got home, Robert was diagnosed with neuropathy...<br /> <br /> And told he would never enjoy his active, mobile lifestyle again.<br /> <br /> Desperate for solutions, he accidentally stumbled across Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist and best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend of 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Today, Robert lives pain-free.<br /> <br /> <u><strong><a href="http://www.tspeed18.cloud/Kankakee-Sagittarius/15c5h23U95pk8F617lxw1l60bT8QM4b6bA21QFv4GIf4rxvs4FhIHEsvZ8vR0omoSK5N10tJ6ql0cY2" target="_blank">&gt; &gt; See the essential nerve-healing nutrients here</a></strong></u></span></span> 
+    <p>&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <span style="font-family:verdana,geneva,sans-serif; "> <a href="http://www.tspeed18.cloud/Kankakee-Sagittarius/15c5h23U95pk8F617lxw1l60bT8QM4b6bA21QFv4GIf4rxvs4FhIHEsvZ8vR0omoSK5N10tJ6ql0cY2" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target="_blank"><img alt="nerves" src="http://www.tspeed18.cloud/c056A2HF395e7TTa17v1Tkh60bbXWm4b6bM21XFv4GIf4rxvs4FhIHEsvZ8zR0omoSK6Ss1Ls05Iq2cY/stipend-uplink" style="width: 478px; height: 419px; " /></a></span> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:12px; ">NerveRenew | 3855 W. Lorenzo Ste. 100, Eagle, ID 83616</span></span></p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:12px; "><a href="http://www.tspeed18.cloud/respond-companion/cba6SN23v95Y86Cl17O1z6uF0YbZ9I4b6bJ21GFv4GIf4rxvs4FhIHEsvZ8dR0omoSK7u1sB0MA6zJzcYU" target="_blank">Unsub</a> here<br /> <br /> Quit <a href="http://www.tspeed18.cloud/aerodynamics-minorities/8ma5Q23I95tVt8912c160baC4b6bA21LFv4GIf4rxvs4FhIHEsvZ8BR0omoSK6pTV10Q6oLcYTy">Here</a><br /> 6547 N Academy Boulevard #1170 80918 Colorado Springs CO</span></span><br /> &nbsp; </p> 
+    <span style="font-family:times new roman,times,serif; "> <font face="hemlock"></font><font dir="velvet"></font><span></span><small><style><span id="bluebird"></small></span></style></span>
+   </center> 
+  </center>   
+ <img src="http://www.tspeed18.cloud/e034h2395V85Sy12S160bcp4b6bM21EFv4GIf4rxvs4FhIHEsvZ8DR0omoSK5V10Kp6tycYUB/Kankakee-Sagittarius" alt=""/></body>
+</html>
+
+------=_Part_595_127838603.1619290452168--
+

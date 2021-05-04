@@ -1,0 +1,65 @@
+Return-Path: <just.gismos-bruce=untroubled.org@tspeed14.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3606785 invoked from network); 25 Apr 2021 14:36:18 -0000
+Received: (qmail 38617 invoked by uid 222); 25 Apr 2021 14:36:17 -0000
+Return-Path: <just.gismos-bruce=untroubled.org@tspeed14.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 38614 invoked from network); 25 Apr 2021 14:36:17 -0000
+Received: from mail.tspeed14.cloud ([208.187.244.190])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Apr 2021 14:36:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed14.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=just.gismos@tspeed14.cloud;
+ bh=aEkFIcoCUYoSb2x3JfevkParrUg=;
+ b=or6QlAxhU5G+wqbW+9hxm47h69wJj2JllbDR5Muxb3wNL/K95tvePg+p4ucwnD2pMQ5c55GGCUqV
+   uC3Agh64O5gJ0eeDkR7AbUP3U0Y4ks4kRQoMaQNyCXI0j51xBetfrK3NlR8ZjW8Q/xKtJB6L2SNI
+   oEZ8gJrEnEmGLDOMp+8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed14.cloud;
+ b=Gf9rwNa5tImqMfXZDAt122aN8KZZRQxLqGNbEhWS2ECKZyS2xQpfRQEXlcLmbNRs7PxqZgatiLuh
+   kRppBINilQcd1vtv/fMAeXMwD+cFq+GI6dH3xCbo5P6qqO4BTaof5eUUUXzjHECnbZ4VzMqW1wrz
+   NrazNIB2r2gWGyuWKxw=;
+Received: by mail.tspeed14.cloud id hglv600001gs for <bruce@untroubled.org>; Sun, 25 Apr 2021 10:27:21 -0400 (envelope-from <just.gismos-bruce=untroubled.org@tspeed14.cloud>)
+Date: Sun, 25 Apr 2021 10:27:21 -0400
+From: "Just Gismos" <just.gismos@tspeed14.cloud>
+To:   <bruce@untroubled.org>
+Subject: Your Family Will Love Using These Gadgets
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_454_305621974.1619360828044"
+List-Unsubscribe: <http://www.tspeed14.cloud/comb-chocolate/ga84a2395aSW8911ik11wW4b6eP21XFv4GIf4rxvs4FhIHEsvZ8MRjomoeo7QWu10YG5ykjcY>
+Message-ID: <0.0.0.33.1D739DF1A848D6E.7CBBDA@mail.tspeed14.cloud>
+Content-Length: 2326
+
+------=_Part_454_305621974.1619360828044
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>neonatal</title> 
+ </head> 
+ <body> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span style="font-size:18px; "><a href="http://www.tspeed14.cloud/inside-brig/80a6aT2p395kB8h617B1o60DcfgUip4b6eZ21uFv4GIf4rxvs4FhIHEsvZ8zRjomoeo5b1pM06GJ2zcY">19 gadgets you CANT find in stores</a></span><br /> &nbsp; 
+       <center>
+        <a href="http://www.tspeed14.cloud/inside-brig/80a6aT2p395kB8h617B1o60DcfgUip4b6eZ21uFv4GIf4rxvs4FhIHEsvZ8zRjomoeo5b1pM06GJ2zcY"><img alt="" src="http://www.tspeed14.cloud/descending-omits/2105Sz2395im7aL13A160yd2G4b6eQ21bFv4GIf4rxvs4FhIHEsvZ8tRjomoeo7e1LxS0G6OjNcqY" style="border-width: 0px; border-style: solid; height: 737px; width: 610px; " /></a>
+       </center> 
+       <div align="center">
+        <br /> 
+        <span style="font-size:11px; "><span style="font-family:arial,helvetica,sans-serif; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed14.cloud/image-denials/abc5tT2395b__8612G160d0t4b6e_21OFv4GIf4rxvs4FhIHEsvZ8PRjomoeo5W1kj06z0cY1W"><font color="#666666">Unsubscribe Here</font></a>.<br /> 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> Hault&nbsp; <a href="http://www.tspeed14.cloud/5934p2395QK89Y12i160d1o4b6eR21oFv4GIf4rxvs4FhIHEsvZ8kRjomoeo6jj1j0K6FqclBY/micro-Constantinople"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> <font lang="supervises"><span></font></span><small></small><span face="detract"></span><big><font></font></big><style><style size="suspects"></style></style>
+  </center>   
+ <img src="http://www.tspeed14.cloud/micro-Constantinople/9ae5P239C5fsS8513c160d3xV4b6ei21nFv4GIf4rxvs4FhIHEsvZ8hRjomoeo6cI1t0j5XXcXY" alt=""/></body>
+</html>
+
+------=_Part_454_305621974.1619360828044--
+

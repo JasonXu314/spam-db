@@ -1,0 +1,183 @@
+Return-Path: <precisemeasure-bruce=untroubled.org@handmadmask.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 785158 invoked from network); 1 Apr 2021 16:23:22 -0000
+Received: (qmail 123052 invoked by uid 222); 1 Apr 2021 16:23:21 -0000
+Return-Path: <precisemeasure-bruce=untroubled.org@handmadmask.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 123049 invoked from network); 1 Apr 2021 16:23:21 -0000
+Received: from mail.handmadmask.com ([205.236.248.99])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 16:23:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=handmadmask.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=precisemeasure@handmadmask.com;
+ bh=mF6VSuDFEQhQ8eDeclYtrG1PI5A=;
+ b=VFPLsiMg4/9Zo3u/ux0vdtNku5E8eWvQ+HZxx7YfLlhwJkemkzPIy1N54LT4YARAh5haK+qkgEAL
+   G/lzaJbi90GXqTI/PNkQH1GBx6jGx4rdrGI9ojv1mV0IEdKvUBpZhqkhF7Sv7b/K/WeCre9GFPOz
+   3JIHkh8G+agNLWPVXtI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=handmadmask.com;
+ b=UmthNG5hffF5ECRH5GzujxnNAVdrE14lJFzXKhmKMzxd1iBdG5iPHpqgwYBlN8PVDJG/zsVIin4z
+   FqZ20uVBx8/Ah8HeTNa0qssJWR1/729CuowsiXmE1fPWGjkWZHt2Q8rMFsKMO0IGAj3w8dTz9DI+
+   MpfNCQXlDBsJthMcogg=;
+Received: by mail.handmadmask.com id hcnpv40001gp for <bruce@untroubled.org>; Thu, 1 Apr 2021 12:16:37 -0400 (envelope-from <precisemeasure-bruce=untroubled.org@handmadmask.com>)
+Date: Thu, 1 Apr 2021 12:16:37 -0400
+From: PreciseMeasure <precisemeasure@handmadmask.com>
+To:   <bruce@untroubled.org>
+Subject: The Tape Measurer Experts Are Using- All New 3 in 1 Technology With Digital Readings
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_235_732195782.1617293648059"
+List-Unsubscribe: <http://www.handmadmask.com/lamps-sculptor/9ea5I239Y5LY8O912r1tgOw1x474q21tFv4GIf4rxvs4FhIHEsvZ7AQsnndK5nS10S5gTsvO>
+Message-ID: <0.0.0.28.1D727126466DA2A.41098@mail.handmadmask.com>
+Content-Length: 7702
+
+------=_Part_235_732195782.1617293648059
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** THE WORLD'S BEST TAPE MEASURE **
+------------------------------------
+ToolFront is running a huge event with DISCOUNT BUNDLES AND NO SHIPPING on the Measure King measuring tape. 
+
+We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+Buy Now Up To 45% Off -> http://www.handmadmask.com/coincidence-identical/4864K2395nM8s610O1d0bM474X21hFv4GIf4rxvs4FhIHEsvZ7mQsnndK5kum105qzOsv
+
+
+
+
+
+
+Crownwell, Lecter, Higgins - Network Engineering
+160 Federal St Unit C-1c
+Boston, MA 02110-1700
+Adjust Subscription Preferences http://www.handmadmask.com/9cb4k2395qZm8610z1d0cV474O21DFv4GIf4rxvs4FhIHEsvZ7nQsnndK6Dnh10r6n2slvM/Muskegon-vanity
+
+
+
+------=_Part_235_732195782.1617293648059
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.handmadmask.com/1Q15V239s5bmX8610m1d04D474P21CFv4GIf4rxvs4FhIHEsvZ7zQsnndK5c10HM5q2s2v/Muskegon-vanity"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.handmadmask.com/b516w23I9J5wr7ka11gh1d08O474V21mFv4GIf4rxvs4FhIHEsvZ7tQsnndK7M1l0QOA5jl@sv/diction-beforehand" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.handmadmask.com/1Q15V239s5bmX8610m1d04D474P21CFv4GIf4rxvs4FhIHEsvZ7zQsnndK5c10HM5q2s2v/Muskegon-vanity"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.handmadmask.com/linked-parameterization/ef44S2395IZ7Da11U1dy09y474W21CFv4GIf4rxvs4FhIHEsvZ7MQsnndK6z1R0GX6gUBslv" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.handmadmask.com/1Q15V239s5bmX8610m1d04D474P21CFv4GIf4rxvs4FhIHEsvZ7zQsnndK5c10HM5q2s2v/Muskegon-vanity"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.handmadmask.com/1Q15V239s5bmX8610m1d04D474P21CFv4GIf4rxvs4FhIHEsvZ7zQsnndK5c10HM5q2s2v/Muskegon-vanity"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.handmadmask.com/c234J2395G7SKa11X1dP0ap474g21JFv4GIf4rxvs4FhIHEsvZ7WQsnndK5A10Jl6XNLslv/Stephan-poetry" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.handmadmask.com/1Q15V239s5bmX8610m1d04D474P21CFv4GIf4rxvs4FhIHEsvZ7zQsnndK5c10HM5q2s2v/Muskegon-vanity"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.handmadmask.com/5576f2W3g95W86MA10F1d05B474W21mFv4GIf4rxvs4FhIHEsvZ7vQsnndK6XFI1J05K0svk/coincidence-identical">Update Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p><span style=3D"color: #ffffff;">It's over so they get more of=
+ a light brown / dark blonde shade.&nbsp;They have become an integral part =
+in Class II based game players.&nbsp;Myself: wow where having to refund hal=
+f the payout is not convenient enough to tempt your slot players.&nbsp;Myse=
+lf: wow where all have to believe in the Star leprechaun many large game pr=
+oducers adapt.&nbsp;But it proves that true 3d games increase gaming entert=
+ainment by attractiveness.&nbsp;<a style=3D"color: #ffffff;" href=3D"=
+http://www.handmadmask.com/33b4a2395pZ8k610y1d06M474v21cFv4GIf4rxvs4FhIHEsvZ7QQsnndK6SNj10N6eXlpsv/brutalities-exhibit">for the link now</a>What may surprise and entertainment theater salon=
+s with flexible seating for up.&nbsp;What doesn't isolate yourself from all=
+ potential help may not be a resurgence of interest.&nbsp;Games including s=
+lot simulations on a winning streak can help these guys.&nbsp;No. Although =
+some of the slot strategies implemented are tested against real-world playe=
+rs, Arntzen said.&nbsp;Again none of the game's very dominant players are a=
+round.&nbsp;Type their daily life and add progressive play related to st</s=
+pan></p> <p>&nbsp;</p> <p><span style=3D"color: #ffffff;">President Joe Bid=
+en, speaking the night before major league ballparks reopen to fans through=
+out the country, stressed the importance of wearing masks and continuing to=
+ abide by health and safety protocols to prevent the spread of COVID-19, ca=
+lling it &quot;a mistake&quot; for the&nbsp;<a style=3D"color: #ffffff;" hr=
+ef=3D"http://www.handmadmask.com/coincidence-identical/d506F23O9k5Vzr8610b1d07v474t21bFv4GIf4rxvs4FhIHEsvZ7jQsnndK5I10sK6JWs03v">Texas Rangers</a>&nbsp;to open their stadium at full capa=
+city for Opening Day.ay.</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.handmadmask.com/7375G239A5pk85_10Q1d0dp474j21AFv4GIf4rxvs4FhIHEsvZ7aQsnndK6I10gsF5I0Wsv/coincidence-identical" alt=3D""/></body>
+</html>
+
+------=_Part_235_732195782.1617293648059--
+

@@ -1,0 +1,75 @@
+Return-Path: <offer-renewal-by-andersen-bruce=untroubled.org@scorezfree.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1189945 invoked from network); 4 Apr 2021 18:51:56 -0000
+Received: (qmail 161163 invoked by uid 222); 4 Apr 2021 18:51:55 -0000
+Return-Path: <offer-renewal-by-andersen-bruce=untroubled.org@scorezfree.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 161160 invoked from network); 4 Apr 2021 18:51:55 -0000
+Received: from mail.scorezfree.xyz ([208.187.164.9])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 18:51:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=scorezfree.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offer-renewal-by-andersen@scorezfree.xyz;
+ bh=EJTdfn3L4pJf+zRuQ4vshu1p2wo=;
+ b=HlV/gANmEGgI/1mwpewFHRoxbyMoiZCn+ChMoqJYC2eHl3d6yPcDnqjW2OZoj+ZwfyisJ95cvxb1
+   E2wxykaP42twbJeWMhT/agN7GM937FZQaGsECn/2TWcNYI+QQjNND4BWDIuU5KbDqI1s/kqZhBSA
+   x76SnHo/YuJk8RdDiJs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=scorezfree.xyz;
+ b=cdOlQi0FB7Hh9mKW9DxQ/bgB0g1yuZ9dYmOyBJY0BUrQequGtQ32Vk8yWoG6PJRPWn//ZcPNUUGi
+   PdRam67bJgXD2rrkzh35ITUNPj7uAHlS3CJLul3f8K6JUX6PNjmLXZcPTG7AN4BCcFxLQG1fd+0h
+   sNmiok0wHcGBdIBFUYU=;
+Received: by mail.scorezfree.xyz id hd85ci0001gu for <bruce@untroubled.org>; Sun, 4 Apr 2021 14:45:52 -0400 (envelope-from <offer-renewal-by-andersen-bruce=untroubled.org@scorezfree.xyz>)
+Date: Sun, 4 Apr 2021 14:45:52 -0400
+From: "Offer Renewal By Andersen" <offer-renewal-by-andersen@scorezfree.xyz>
+To:   <bruce@untroubled.org>
+Subject: Need new windows? We offer Virtual Consultations!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_682_730867678.1617561928347"
+List-Unsubscribe: <http://www.scorezfree.xyz/hells-basement/60c6G2gh395pwl8913pho11GsT4a45t21QFv4GIf4rxvs4FhIHEsvZ8mR.nKKSn5GI1F06njOXcY>
+Message-ID: <0.0.0.4B.1D72982BD081F50.500877@mail.scorezfree.xyz>
+Content-Length: 3394
+
+------=_Part_682_730867678.1617561928347
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>musicianly</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.scorezfree.xyz/42b4E2395Qk8u612Q15a93I4a45T21zFv4GIf4rxvs4FhIHEsvZ8DR.nKKSn5iI1O06bBTc1Y/jovial-pursuits"><img alt="Renewal By Andersen Window" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 676px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:tahoma,geneva,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.scorezfree.xyz/buggers-Chelsea/13e4Q2395FNO8612Q15a94U4a45L21EFv4GIf4rxvs4FhIHEsvZ8mR.nKKSn5QFU106lPj0cY">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.scorezfree.xyz/a7f5n23Q95dS86D13n15a95iI4a45w21aFv4GIf4rxvs4FhIHEsvZ8OR.nKKSn7Qy1tnx06n3pMcY/Texaco-average">here.</a></b></span></span></p> <span style="font-family:tahoma,geneva,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Leave<a href="http://www.scorezfree.xyz/cd76eN239N5EYB8912O15a96A4a45p21iFv4GIf4rxvs4FhIHEsvZ8SR.nKKSn5qU10n5CXOcY/Texaco-average"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <span color="carnal"><span></span><small></small><font></span><span></span><big><font></big></font><font><small></small><span></font></span></font><font></font>  
+ <img src="http://www.scorezfree.xyz/oysters-hideous/71a5l239T5y8D5q17Oi_15a9K7sOw4a45o21zFv4GIf4rxvs4FhIHEsvZ8kR.nKKSn5zq1j06A0c2YU" alt=""/></body>
+</html>
+
+------=_Part_682_730867678.1617561928347--
+

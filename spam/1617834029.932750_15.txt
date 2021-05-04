@@ -1,0 +1,133 @@
+Return-Path: <selectquote-insurance-bruce=untroubled.org@credup6.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1316670 invoked from network); 7 Apr 2021 17:38:07 -0000
+Received: (qmail 213421 invoked by uid 222); 7 Apr 2021 17:38:07 -0000
+Return-Path: <selectquote-insurance-bruce=untroubled.org@credup6.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 213418 invoked from network); 7 Apr 2021 17:38:07 -0000
+Received: from mail.credup6.com ([69.94.155.48])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 17:38:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=credup6.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote-insurance@credup6.com;
+ bh=WL7gLbkZyqUzPRTCgU1vZbFrMgE=;
+ b=HylZbaU+8zSbPiqfLFi2b1D+h9tOW/zplQFRMhPS7sYrsr3mR+MkykXXZ+s83nQcPOXq3LyzrjeP
+   nMfhCc/d05eVJmtsItTou3BUll9b+fT7HQx3sTXFkYfiCl7MX/JHcnZnV+f7Hbr41Z/0r5zuxojy
+   gHIUaGwYH5hxgsPeReg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=credup6.com;
+ b=e2Ko6DMri85s9Zgre1kQFlYj27CIYeLRDilNLl579yCV/vNsHUflAZfaZpoWDWohIkoGRE/CQFjr
+   Y3NA/lQMJnXLkFEUsPF8Ily79tOtiv5rmo+hSixobMrhCTYvNVwmLDAmfdGDjJCaewsvvaclvDp6
+   Tgi5fX6UYyrMQKfGc/4=;
+Received: by mail.credup6.com id hdnmvo0001gb for <bruce@untroubled.org>; Wed, 7 Apr 2021 13:28:52 -0400 (envelope-from <selectquote-insurance-bruce=untroubled.org@credup6.com>)
+Date: Wed, 7 Apr 2021 13:28:52 -0400
+From: "SelectQuote Insurance" <selectquote-insurance@credup6.com>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_940_300200283.1617816524807"
+List-Unsubscribe: <http://www.credup6.com/chargeable-adumbrating/cba4f2395M89Lm13S1JQN1Hk4a71D21fFv4GIf4rxvs4FhIHEsvZ11qROommnRoU95y10CS5bjqcY>
+Message-ID: <0.0.0.68.1D72BD37ACA86F2.652362@mail.credup6.com>
+Content-Length: 6618
+
+------=_Part_940_300200283.1617816524807
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>reprieves</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.credup6.com/cq54v2395EO86i12S15b7aj4a71z21aFv4GIf4rxvs4FhIHEsvZ11XROommnRoU96GwZ10D5QkNcY/Chablis-suddenness">Simple and quick way for lifes most important c=
+overage&nbsp; </a><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.credup6.com/cq54v2395EO86i12S15b7aj4a71z21aFv4GIf4rxvs4FhIHEsvZ11XROommnRoU96GwZ10D5QkNcY/Chablis-suddenness"><img alt=3D"happyr" src=3D"http://www.credup6.com/enveloping-depleting/de66wV2y395so7aX12d15b7eP4a71Z21QFv4GIf4rxvs4FhIHEsvZ11DROommnRoU95o1A0z6ABcpPY" style=
+=3D"border-width: 0px; border-style: solid; width: 70%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">Copyright &copy; SelectQuote | All Rights Reserved 2020</span></=
+span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">SelectQuote Insurance Services offers insurance products and ser=
+vices through its licensed insurance agency, SelectQuote Insurance Services=
+, LLC. SelectQuote Insurance Services is not an insurance company. We repre=
+sent trusted insurance companies, and receive commissions ? and possibly ot=
+her performance-based compensation ? for our services. Products and service=
+s are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">*40 year-old male in excellent health, $500,000, 10-year policy =
+for under a $1 a day. Example policy is for $23 a month. Policy is a United=
+ of Omaha : Term Life Answers 10 is a non-participating term life insurance=
+ to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwritten by Uni=
+ted of Omaha Life Insurance Company, Omaha, NE 68175. The premium is guaran=
+teed to stay the same for the 10 year period. Minimum issue amount is $100,=
+000. Premiums include a $62.50 annual policy fee. Forms and plan provisions=
+ may vary by state. Plan is available in all states except New York. Suicid=
+e and other limits may apply. The most favorable rate classes (and lowest r=
+ates) are generally intended for those who can meet strict health/lifestyle=
+ criteria. All rates subject to underwriting qualifications. Rates effectiv=
+e as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">* Best' s Credit Ratings? are under continuous review and subjec=
+t to change and/or affirmation. For the latest Best' s Credit Ratings? and =
+Best' s Credit Reports (which include Best' s Credit Ratings? ), visit the =
+A.M. Best website at ambest.com. See Guide to Best' s Credit Ratings? for e=
+xplanation of use and charges.? ? Best' s Credit Ratings? reproduced herein=
+ appear under license from A.M. Best and do not constitute, either expressl=
+y or impliedly, an endorsement of SelectQuote or its recommendations, formu=
+las, criteria or comparisons to any other ratings, rating scales or rating =
+organizations which are published or referenced herein. A.M. Best is not re=
+sponsible for transcription errors made in presenting Best' s Credit Rating=
+s? . Best' s Credit Ratings? are proprietary and may not be reproduced or d=
+istributed without the express written permission of A.M. Best Company.? A =
+Best' s Financial Strength Rating opinion addresses the relative ability of=
+ an insurer to meet its ongoing insurance obligations. It is not a warranty=
+ of a company' s financial strength and ability to meet its obligations to =
+policyholders. View our Important Notice: Best' s Credit Ratings for a disc=
+laimer notice and complete details at <a href=3D"http://www.credup6.com/5ed5X2K395kzD8617O15nb7rqTbmJ4a71x21BFv4GIf4rxvs4FhIHEsvZ11iROommnRoU96vUP1B05AycYJ/sugaring-figurings">http://www.credup6.com/5ed5X2K395kzD8617O15nb7rqTbmJ4a71x21BFv4GIf4rxvs4FhIHEsvZ11iROommnRoU96vUP1B05AycYJ/sugaring-figurings</a>=
+</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">SelectQuote Insurance Services Corporate Office: 6800 W. 115th S=
+treet, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">This email was sent to you on behalf of SelectQuote by a third-p=
+arty marketing company. You are receiving email from this third-party marke=
+ting company because you have expressed your interest in receiving commerci=
+al email through a site or sites associated with them.</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:9px; "><span style=3D"font-size:8px; ">This email contains information =
+regarding products and services offered by SelectQuote. If you do not wish =
+to receive email messages from SelectQuote that are advertising or promotio=
+nal in nature, pleas</span>e<a href=3D"http://www.credup6.com/13d6a23NA95q8hp617eX15ZyHb7zcw4a71j21aFv4GIf4rxvs4FhIHEsvZ11VROommnRoU97Mg10OnR6XycJY@/enveloping-depleting"> unsubscribe here.</a></=
+span></span></p>=20
+      </div> <span style=3D"font-family:georgia,serif; "> &nbsp; End <a hre=
+f=3D"http://www.credup6.com/a074y2395wq89T17nZ1z5IXb7dtN4a71m21AFv4GIf4rxvs4FhIHEsvZ11lROommnRoU95LU1o05JBMcY/worldliness-resourcefully">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <small><span><font dir="Saukville"></font><font><span lang="delegates"><span id="utterly"></small></span></font></span></span><span dir="rejection"></span> =20
+ <img src=3D"http://www.credup6.com/5755q2N395H85SK17y15mbuuCq7fL4a71u21RFv4GIf4rxvs4FhIHEsvZ11MROommnRoU97j1B0kBH6WpBLcY/leaping-excusing" alt=3D""/></body>
+</html>
+
+------=_Part_940_300200283.1617816524807--
+

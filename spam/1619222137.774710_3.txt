@@ -1,0 +1,469 @@
+Return-Path: <bounce@mail.koodomobile.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3534629 invoked from network); 23 Apr 2021 21:28:48 -0000
+Received: (qmail 23530 invoked by uid 222); 23 Apr 2021 21:28:47 -0000
+Return-Path: <bounce@mail.koodomobile.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 23527 invoked from network); 23 Apr 2021 21:28:47 -0000
+Received: from r237.i.telus.com (r237.i.telus.com [192.243.230.237])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 21:28:47 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=telus;
+	d=mail.koodomobile.com;
+	h=domainkey-signature:from:subject:date:to:reply-to:mime-version:x-mailer:message-id:id:deliverylabel:sourcesystem:content-type;
+	bh=0pP3NVoyS2mBcq1AMuzlkrrGKtO3ZKMXfOpXaVEWAhU=;
+	b=VbDxBAFMhCf3YJl0hZnjI7hpaa8SOY3s/5npV0jr5R8iMD51N+nzAiiRYyJh/XyhpyxEVavN63C+cAorRWDidF69U4HlVfrAmLaUdkZD8ZJyqGoWxiWuN7uOvLlG5F2g74dvPFjQnz87c14YG33argM5x95vsYZfHPFZqjMFyfxG0hAAvkUrwPprfkYuESj+GV6aJGw9Z/R+JPLh8CkSYD92M5SUANv1h2VDWWm6WHFSzMXKyJZXTBC55hpIe+lZbEnZ/yBD7nxhuhbOUjPH6iwa7IY6eLzDdsjPUS24VL8yyiszfV7iV+dCE8AVGYt8WAy/UJ+xKWqtIjLek0hevw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=telus;
+	d=mail.koodomobile.com;
+	h=From:Subject:Date:To:Reply-To:MIME-Version:X-mailer:Message-ID:id:deliveryLabel:sourceSystem:Content-Type;
+	b=K5heNXbb+8ewhiO5fk9S6YRNzny/S6u8zw/IGPLhwc0bJbJq4bee/rRMH8ySCAsqwe4/WhLqOU/m11zXfBEUtnexdcaBNd4fMb1PbBMTfnAmc3vQ4Q59AikBoKYWNhwF3vT8OwNtYFNVCd4tw1qzZVD9CsawNg6NO9S+yXeHvP9nvkbqRR/Wbc6fTenhgAdTEzLgKoPd4hDk/tnkT8A/MCMTMWtKNDjPwX73bCYuDYtN2Ruo38lQ3YTY7PsYGWp/Nqcyh7Taf6M5/YjWj1Ay37z8OrDOYxnRVLXbmRxbAeKLbhzp9iux6kcNcP7bnKTdBGwIKDmGEGDi3NRJOtIP6w==
+From: "Koodo" <koodoservice@mail.koodomobile.com>
+Subject: Cancelled service and your next bill
+Date: Fri, 23 Apr 2021 14:28:42 -0700
+To: <bruce@untroubled.org>
+Reply-To: "Koodo" <koodoservice@mail.koodomobile.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 6.7.0
+Message-ID: <NM60451864407E2015Ftelus_rt_prod3@mail.koodomobile.com>
+id: 72057594400859697
+deliveryLabel: emc_koodo_srv_mob_realtime_customer_service_cancel_en_fr_v2_4
+sourceSystem: messageCenter
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_266_5C01E2B0.5C01E2B0"
+Content-Length: 18148
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_266_5C01E2B0.5C01E2B0
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+
+  
+Trouble viewing this email? View in web browser.  
+  
+Account number:  
+ 
+We’re sorry to see you go.  
+You recently scheduled to cancel your wireless service on , for the following phone number(s): 
+
+
+
+What to expect on your next bill: 
+
+Prorated recurring monthly charges: recurring charges such as your monthly plan and tab charge will be prorated to reflect only the portion of the month in which your wireless service was still active. 
+Tab Debit: you’ll see this charge only if you have a remaining Tab balance. 
+Tab Bonus Debit: you’ll see this charge only if you have a remaining Tab Bonus balance. You may receive an additional bill for this. 
+Additional usage charges: any extra calls, texts and data charges not included with your monthly plan. 
+Roaming: if you’ve recently used your phone outside of Canada, roaming charges may not immediately show up on your bill. You may receive an additional bill if this happens. 
+View and pay your bill with Self Serve: 
+You’ll receive an email alert when your bill is ready to view with Self Serve. You can continue to view your E-Bill online up to 90 days after your cancellation date. 
+Log into with Self Serve to pay quickly and easily. 
+Paying your bill at your financial institution: 
+All you need for this is your Koodo account number. Bank payments typically take 3 days to process through. 
+Are you sure you’re ready to cancel? If you change your mind about this, schedule a convenient time for a rep to personally contact you at koodo.com/chat 
+
+We appreciate your business and hope to see you again in the future. 
+
+All the best, 
+The Koodo Team 
+ 
+ 
+Self Serve   |   Help  
+Privacy statement   |   koodo.com  
+© Koodo. All rights reserved.  
+ 
+
+Vous avez du mal à visualiser cet email? Voir dans le navigateur Web.  
+  
+N° de compte:  
+ 
+Nous sommes tristes de vous voir partir.  
+Vous avez récemment annulé votre service sans fil, en date du , pour le ou les numéros : 
+
+
+Que verrez-vous sur votre facture suivante : 
+
+Frais récurrents établis au prorata : comprenant le coût du forfait mensuel et de la Balance mensuelle, le cas échéant, pour la portion du mois pendant laquelle le service état actif. 
+Remise sur la Balance : vous verrez ces frais seulement s'il reste un solde à votre Balance. 
+Remise sur Balance Petit plus: vous verrez ces frais seulement si vous avez de Balance Petit plus. Il est possible que vous receviez une facture additionnelle en pareil cas. 
+Frais d'utilisation additionnelle : frais d'appels, de textos et de données qui ne sont pas inclus dans votre forfait mensuel. 
+Itinérance : si vous avez utilisé votre téléphone à l'extérieur du Canada, les frais d'itinérance ne sont pas toujours portés à votre compte sur-le-champ. Il est possible que vous receviez une facture additionnelle en pareil cas. 
+Visualisez et payez votre facture au Libre-service : 
+Vous recevrez une alerte lorsque votre facture sera prête à visualiser au Libre-service. Vous pourrez visualiser votre Cyber Facture au Libre-service jusqu'à 90 jours après la date d'annulation du service. 
+Ouvrez une session Libre-service pour faire un paiement. C'est simple et facile. 
+Payez votre facture à votre institution financière : 
+Vous n'aurez besoin que de votre numéro de compte Koodo. Les paiements bancaires sont généralement traités en 3 jours. 
+Vous êtes réellement prêt à mettre fin à votre service? Si vous changez d'avis, prenez rendez-vous à un moment qui vous convient en visitant koodo.com/clavardage et un représentant communiquera avec vous. 
+
+Nous apprécions la confiance que vous nous témoignez et espérons avoir le plaisir de vous revoir bientôt. 
+
+Au plaisir, 
+L’équipe Koodo 
+ 
+ 
+Libre-service  |   Aide  
+Confidentialité   |   koodo.com  
+© Koodo. Tous droits résérvés.
+
+------=_NextPart_266_5C01E2B0.5C01E2B0
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v =3D 
+"urn:schemas-microsoft-com:vml" xmlns:o =3D 
+"urn:schemas-microsoft-com:office:office"><HEAD><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><TITLE>KOODO</TITLE>
+<META http-equiv=3D"Content-Type" 
+content=3D"text/html; charset=3DUTF-8">
+<META content=3D"initial-scale=3D1.0" name=3D"viewport">
+<META content=3D"telephone=3Dno" name=3D"format-detection">
+<META name=3D"x-apple-disable-message-reformatting">
+<STYLE type=3Dtext/css>
+    /* Force Hotmail to display emails at full width */
+
+    .ReadMsgBody {
+      width: 100%;
+      background-color: #eeeeee;
+    }
+
+    /* Force Hotmail to display emails at full width */
+
+    .ExternalClass {
+      width: 100%;
+      background-color: #eeeeee;
+    }
+
+    /* Forces Hotmail to display normal line spacing. */
+
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+      line-height: 100%;
+    }
+
+    /* Resolves webkit padding issue. */
+
+    table {
+      border-spacing: 0;
+    }
+
+    /* Resolves the Outlook 2007, 2010, and Gmail td padding issue. */
+
+    table td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    /* Yahoo auto-sensing link color and border */
+
+    .yshortcuts a {
+      border-bottom: none !important;
+    }
+
+    a.white,
+    a.white:visited {
+      color: #ffffff;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    img {
+      display: block;
+    }
+
+    sup {
+      font-size: 66%;
+      line-height: 1;
+      vertical-align: top;
+      mso-text-raise: 30%;
+    }
+
+    @media only screen and (max-width: 600px) {
+      /* Constrain email width for small screens */
+      /* Constrain email width for small screens */
+      .email-container {
+        width: 100% !important;
+        min-width: 320px !important;
+      }
+      .width90 {
+        width: 90% !important;
+        font-size: 16px !important;
+      }
+      .width100 {
+        width: 100% !important;
+        min-width: 320px !important;
+      }
+      .font16 {
+        font-size: 16px !important;
+      }
+      .font18 {
+        font-size: 18px !important;
+      }
+      .font12 {
+        font-size: 12px !important;
+      }
+      .font14 {
+        font-size: 14px !important;
+      }
+      .mainimage {
+        width: 100% !important;
+        display: block !important;
+        height: auto !important;
+      }
+    }
+  </STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+
+<BODY 
+style=3D"PADDING-BOTTOM: 0px; -MS-TEXT-SIZE-ADJUST: none; PADDING-TOP: 0px;=
+ PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; -webkit-text-size-adju=
+st: none" 
+bgColor=3D#ffffff leftMargin=3D0 topMargin=3D0 marginwidth=3D"0" 
+marginheight=3D"0">&nbsp; 
+<TABLE class=3Demail-container 
+style=3D"WIDTH: 600px; MIN-WIDTH: 600px; MARGIN-LEFT: auto; MARGIN-RIGHT: a=
+uto" 
+cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D0><!--L=
+ogo and account deal, STARTS HERE-->
+  <TBODY>
+  <TR>
+    <TD 
+    style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PAD=
+DING-RIGHT: 0px" 
+    align=3Dcenter>
+      <TABLE class=3Dwidth100 style=3D"BORDER-COLLAPSE: collapse" cellSpaci=
+ng=3D0 
+      cellPadding=3D0 width=3D600 border=3D0>
+        <TBODY>
+          <TR>
+            <TD style=3D"PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; PADDING-LE=
+FT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; COL=
+OR: #989898; FONT-SIZE: 14px; PADDING-TOP: 20px" align=3Dmiddle>
+              <P><FONT color=3D#008080 size=3D2 face=3D"Courier New"></FONT=
+></P>Trouble 
+              viewing this email=3F View in <a href=3D"https://t.mail.koodo=
+mobile.com/r/=3Fid=3Dh4518644%2C7e2015f%2C5928a2b&p1=3D%40Yk91HlhTVA0eNWWTX=
+Kdx5zhPjpUW2CbwIpSp4Nlo1O8%3D&s=3DjWxMWclQzMjOAdgQnPSoTKgHEGUL75yjnPpm_mzY0=
+_U">web browser</A>. 
+          </TD>
+        </TR>
+        <TR>
+          <TD class=3Dmainimage 
+          style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDING-LEFT: 0p=
+x; PADDING-RIGHT: 0px" 
+          align=3Dcenter><a href=3D"https://t.mail.koodomobile.com/r/=3Fid=
+=3Dh4518644%2C7e2015f%2C5928a2c&p1=3Demc_koodo_srv_mob_realtime_customer_se=
+rvice_cancel_en_fr_v2_4&s=3DPAFRRfnTnfHWI5LxXgs13qgF0U_H-rvjSGa0dzIZY0M" ta=
+rget=3D"Koodo Mobile"><IMG 
+            src=3D"https://images.ctfassets.net/vob3qda590l9/4RgM4XGmzSewYI=
+GAmkGU46/9280d827dbb2d37e2412c3af16029cbb/Koodo_English_Email_header-_Deskt=
+op-600px.png" 
+            width=3D"100%"> </A></TD></TR>
+        <TR>
+          <TD class=3Dfont12 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial; BACKGROUND: #016b6a=
+; COLOR: white; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px=
+; PADDING-LEFT: 10px; PADDING-RIGHT: 10px">Account 
+            number: ****2130 <!--| Phone number: *** - *** - 2406<BR>--></T=
+D></TR></TBODY></TABLE></TD></TR><!--Logo and account deal, ENDS HERE-->
+  <TR>
+    <TD 
+    style=3D"PADDING-BOTTOM: 20px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PAD=
+DING-RIGHT: 0px" 
+    bgColor=3D#ffffff align=3Dcenter>
+      <TABLE class=3Dwidth90 cellSpacing=3D0 cellPadding=3D0 width=3D540 bg=
+Color=3D#ffffff 
+      border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dfont16 
+          style=3D"FONT-SIZE: 20px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT=
+: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px" 
+          align=3Dcenter><B>We=92re sorry to see you go.</B> </TD></TR>
+        <TR>
+          <TD class=3Dfont12 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT:=
+ 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px" 
+          align=3Dcenter>
+            <P>You recently scheduled to cancel your wireless service on Ap=
+ril 23, 2021, for the 
+            following phone number(s): <BR><BR>*** - *** - 2406<BR> 
+            </P>
+            <P><B>What to expect on your next bill:</B> </P>
+            <UL>
+              <LI><B>Prorated recurring monthly charges:</B> recurring char=
+ges 
+              such as your monthly plan and tab charge will be prorated to 
+              reflect only the portion of the month in which your wireless 
+              service was still active. 
+              <LI><B>Tab Debit:</B> you=92ll see this charge only if you ha=
+ve a 
+              remaining Tab balance.
+              <LI><B>Tab Bonus Debit:</B> you=92ll see this charge only if =
+you have a remaining Tab Bonus balance. 
+              You may receive an additional bill for this.
+              <LI><B>Additional usage charges:</B> any extra calls, texts a=
+nd 
+              data charges not included with your monthly plan. 
+              <LI><B>Roaming:</B> if you=92ve recently used your phone outs=
+ide of 
+              Canada, roaming charges may not immediately show up on your b=
+ill. 
+              You may receive an additional bill if this happens. 
+            </LI></UL><B>View and pay your bill with Self Serve:</B> 
+            <UL>
+              <LI>You=92ll receive an email alert when your bill is ready t=
+o view 
+              with <a href=3D"https://t.mail.koodomobile.com/r/=3Fid=3Dh451=
+8644%2C7e2015f%2C5928a2d&p1=3Demc_koodo_srv_mob_realtime_customer_service_c=
+ancel_en_fr_v2_4&s=3D0VLhaSC4q1UF0hU9yyaUg9KER-hhY1PbiIYyV-wwj0s">Self 
+              Serve</A>. You can continue to view your E-Bill online up to =
+90 
+              days after your cancellation date. 
+              <LI> Log into with <a href=3D"https://t.mail.koodomobile.com/=
+r/=3Fid=3Dh4518644%2C7e2015f%2C5928a2e&s=3DXh1PgY8_TvB4bdX8HKsTwXlLXXKtsk_O=
+reqFmOIHST0">Self Serve</A> to pay quickly and easily.
+
+            </LI></UL><B>Paying your bill at your financial institution:</B=
+> 
+            <UL>
+              <LI>All you need for this is your Koodo account number. Bank 
+              payments typically take 3 days to process through. </LI></UL>=
+<B>Are 
+            you sure you=92re ready to cancel=3F</B> If you change your min=
+d about 
+            this, schedule a convenient time for a rep to personally contac=
+t you 
+            at <a style=3D"text-decoration:none" href=3D"https://t.mail.koo=
+domobile.com/r/=3Fid=3Dh4518644%2C7e2015f%2C5928a2f&p1=3Demc_koodo_srv_mob_=
+realtime_customer_service_cancel_en_fr_v2_4&s=3Dy1hr_qxaZesN5b0Xc5blYTNIi8N=
+z3188cXrRxZJqCeQ">koodo.com/chat</A> 
+            <BR><BR>We appreciate your business and hope to see you again i=
+n the 
+            future. <BR><BR>All the best, <BR>The Koodo Team <BR></TD></TR>=
+<!--Button, STARTS HERE--            
+                        <tr>
+                            <td width=3D"540" align=3D"Left" style =3D "pad=
+ding:0 0 20px 0">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td>
+                                            <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td align=3D"center" st=
+yle=3D"border-radius: 3px;" bgcolor=3D"#016B6A"><a href=3D"https://litmus.c=
+om" target=3D"_blank" style=3D"font-size: 16px; font-family: Helvetica, Ari=
+al, sans-serif; color: #ffffff; text-decoration: none; text-decoration: non=
+e;border-radius: 3px; padding: 12px 18px; border: 1px solid #016B6A; displa=
+y: inline-block;">I am a button &rarr;</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>              
+    <!--Button, ENDS HERE--><!--<tr>
+              <td align=3D"center" style=3D"font-family: Arial, Helvetica, =
+sans-serif; font-size: 13px; line-height: 18px; text-align: left;">We respe=
+ct your privacy and will not provide your personal information to others wi=
+thout your consent. Please do not reply to this message. We won't get your =
+email because this isn't a valid return address. 
+              </td>
+            </tr>--></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD 
+    style=3D"PADDING-BOTTOM: 32px; PADDING-TOP: 32px; PADDING-LEFT: 0px; PA=
+DDING-RIGHT: 0px" 
+    bgColor=3D#000000 align=3Dcenter>
+      <TABLE class=3Dwidth90 
+      style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PA=
+DDING-RIGHT: 0px" 
+      cellSpacing=3D0 cellPadding=3D0 width=3D460 align=3Dcenter bgColor=3D=
+#000000 
+      border=3D0>
+        <TBODY>
+        <TR>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: right; LINE-HEIGHT: 28px" 
+          width=3D210 align=3Dcenter><a style=3D"TEXT-DECORATION: none; COL=
+OR: #ffffff" href=3D"https://t.mail.koodomobile.com/r/=3Fid=3Dh4518644%2C7e=
+2015f%2C5928a30&p1=3Demc_koodo_srv_mob_realtime_customer_service_cancel_en_=
+fr_v2_4&s=3DkIW_N7dCuNNL3NW6bwfRWy0T8i02fRe8iRg8xZnu6mw" target=3D"_blank">=
+Self&nbsp;Serve&nbsp;</A> </TD>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: center; LINE-HEIGHT: 28px" 
+          width=3D40 align=3Dcenter>|&nbsp; </TD>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: left; LINE-HEIGHT: 28px" 
+          width=3D210 align=3Dcenter><a style=3D"TEXT-DECORATION: none; COL=
+OR: #ffffff" href=3D"https://t.mail.koodomobile.com/r/=3Fid=3Dh4518644%2C7e=
+2015f%2C5928a31&p1=3Demc_koodo_srv_mob_realtime_customer_service_cancel_en_=
+fr_v2_4&s=3DaUn4Qhv5x2_9ZbY6J68kGBHc8gt8QNYydcHU3LARHgw" target=3D"_blank">=
+Help</A> </TD></TR>
+        <TR>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: right; LINE-HEIGHT: 28px" 
+          width=3D210 align=3Dcenter><a style=3D"TEXT-DECORATION: none; COL=
+OR: #ffffff" href=3D"https://t.mail.koodomobile.com/r/=3Fid=3Dh4518644%2C7e=
+2015f%2C5928a32&p1=3Demc_koodo_srv_mob_realtime_customer_service_cancel_en_=
+fr_v2_4&s=3DQiK5x7vEpPQKfkpgBOpnVpMH_aoL32qVU0wygD78uDw" target=3D"_blank">=
+Privacy&nbsp;statement</A> </TD>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: center; LINE-HEIGHT: 28px" 
+          width=3D40 align=3Dcenter>&nbsp;|&nbsp; </TD>
+          <TD 
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: left; LINE-HEIGHT: 28px" 
+          width=3D210 align=3Dcenter><a style=3D"TEXT-DECORATION: none; COL=
+OR: #ffffff" href=3D"https://t.mail.koodomobile.com/r/=3Fid=3Dh4518644%2C7e=
+2015f%2C5928a33&p1=3Demc_koodo_srv_mob_realtime_customer_service_cancel_en_=
+fr_v2_4&s=3DbJHHsZ_U_mZRmh-ulJq1WE7V3OtIsk9jLerkX_x5Fyg" target=3D"_blank">=
+koodo.com</A> </TD></TR>
+        <TR>
+          <TD 
+          style=3D"FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-ser=
+if; COLOR: #ffffff; TEXT-ALIGN: center; LINE-HEIGHT: 34px" 
+          colSpan=3D3 align=3Dcenter>=A9 2021 Koodo. All rights reserved. <=
+/TD></TR></TBODY></TABLE></TD></TR>
+  <TR></TR></TBODY></TABLE></TABLE></TR></TABLE> <img height=3D'0' width=3D=
+'0' alt=3D'' src=3D'https://t.mail.koodomobile.com/r/=3Fid=3Dh4518644,7e201=
+5f,1'/></BODY></HTML>
+
+------=_NextPart_266_5C01E2B0.5C01E2B0--
+

@@ -1,0 +1,282 @@
+Return-Path: <bounces+3769412-fe88-bruce=untroubled.org@em5691.usask.ca>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2345033 invoked from network); 13 Apr 2021 14:55:50 -0000
+Received: (qmail 47500 invoked by uid 222); 13 Apr 2021 14:55:49 -0000
+Return-Path: <bounces+3769412-fe88-bruce=untroubled.org@em5691.usask.ca>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 47497 invoked from network); 13 Apr 2021 14:55:49 -0000
+Received: from o1.email.acuity4survey.com (o1.email.acuity4survey.com [50.31.47.101])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 14:55:49 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=usask.ca;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding;
+	s=s1; bh=XJz+z7nBZaAwr8YgEZnJdzE6OFzSDPQiboMLqvfLc0c=;
+	b=kjaV4eD45Mv0KFrVF3bJfLaY6CKgN++L8uZCNPSEDtuOD7bXpshqalXCsEF7UIWX1KbW
+	ZSHkUfOZ5ngH56jTiEypTFegdghe1WrADyD3mQaLzyJlFTU1lUtl8d1CN1rQn5GmgAGHL+
+	uVAw22LW07LfmwF+qNcgnTpxk5WbPf3T8=
+Received: by filterdrecv-5d6974ffbb-jkvxj with SMTP id filterdrecv-5d6974ffbb-jkvxj-14-6075B0EE-2
+        2021-04-13 14:55:42.01712965 +0000 UTC m=+67923.921067332
+Received: from [10.140.136.106] (unknown)
+	by geopod-ismtpd-3-2 (SG)
+	with ESMTP id H-knQjq-RVKeYwpaD9EmgA
+	for <bruce@untroubled.org>;
+	Tue, 13 Apr 2021 14:55:41.945 +0000 (UTC)
+From: Canadian Hub for Social and Applied Research <chasr.survey@usask.ca>
+Date: Tue, 13 Apr 2021 14:55:42 +0000 (UTC)
+Subject: Survey Invitation: COVID-19, Society, and the Economy (Phase 10)
+Message-Id: <5W4H9QQQGDU4.EWYCW8WF7HX4@CA1-TASK>
+VX-Message-ID: <20210413105541881.1630..4311@>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?vCnWrtQI5xO=2FJsh3vX2RwRPrlN+d5aJ5YrKfaNyUVh1WoUFCZYoGSGMaSaK2Wz?=
+ =?us-ascii?Q?ae5tOhPviP=2FADBZZPU+rpnb5KR7oY+C8bEEFVGp?=
+ =?us-ascii?Q?ZxIyYoEn7l0VPeFbJxyBfqzt7weVLGk8wipYrHy?=
+ =?us-ascii?Q?+RMguXx4GG8RCF7Fmn6=2F1H0EoVd+bxjkvTBxEyF?=
+ =?us-ascii?Q?vXiV=2FpkXKvh8I6SbodwwsehJiAtl0uW00cDJyN=2F?=
+ =?us-ascii?Q?Fk7frcuNBzOB6EoLQsdRlm8U3Ee2vQxvK=2F6b8C8?=
+ =?us-ascii?Q?g5FrSuOp8OU+JDV3P0K=2Fdd1x5UR+Cc3HmIFpF5C?=
+ =?us-ascii?Q?NcM=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FLIbZwHqcRb6aAKRMB736?=
+ =?us-ascii?Q?JFqSDSdQPWH31cTCWn3fec=2FW9g8SXEV=2FxBI0QN5?=
+ =?us-ascii?Q?eVQ4FmZQVEq2NjoSdn79cKHe0Erd2KIJ5=2F7uW9z?=
+ =?us-ascii?Q?ZJuBXlGYKQ=3D=3D?=
+To: bruce@untroubled.org
+X-Entity-ID: pRK+kS2vtTz+Udhj0UZwjw==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 17877
+
+Hello,<br><br><strong>You are being contacted because you agreed to be part=
+ of the Canadian Hub for Applied and Social Research's (CHASR) Community Pa=
+nel. You will periodically get invited to participate in research studies.<=
+/strong><strong></strong><br><strong></strong><br><strong>You are being inv=
+ited to participate in a survey as part of a research study entitled =E2=80=
+=9CThe Social Contours and COVID-19 Project (Phase 10)=E2=80=9D.</strong><b=
+r><br>The pandemic has disrupted all our lives, for some more than others. =
+Since early May, we have been collecting data in our province about what pe=
+ople are thinking and doing about the pandemic. This information is analyze=
+d to learn more about COVID-19 in our province and to share these learnings=
+ with others.<br><br><strong>It should take you about 10 minutes to complet=
+e the questionnaire</strong>, which is hosted by Voxco, a Canadian-owned an=
+d managed company whose data is securely stored in Canada.&nbsp;In order to=
+ complete this survey, <u>you must provide a response to each question</u>.=
+ If you are unable or unwilling to provide a response to a question or comp=
+lete the questionnaire, you may withdraw at any time by closing your intern=
+et browser. <strong>Participation is strictly voluntary and your responses =
+are confidential.&nbsp;</strong><br><br>This questionnaire has been created=
+ by a multinational team of researchers from diverse fields and different i=
+nstitutions, including the University of Saskatchewan. For more information=
+ on the project, visit: https://devpost.com/software/mapping-social-contour=
+s. If you have questions, please contact us at <strong>social.contouring@us=
+ask.ca</strong>.<br><br>To access the survey, please go to<br><a href=3D"ht=
+tp://link.acuity4survey.com/ls/click?upn=3DJmwxj6lXXOG0JwP9JgNHNSUZNyQ5B0fK=
+YGbJMOPj2BNjUSyKghX2iMClwMhaV7mnULGUWvY7DChQvHa-2BxjmTXQsWQ7f0q5Fzgfp-2BFT-=
+2BjuFW0f4VVAlBY293COC-2FIob-2BU8XrFYiFSFXowxaqlTpVgdVLt1gjQmwzJd7GPIcgXVhWq=
+Gs0TfZtPWrgmlf-2Bgrg4pQKc-2FA6llZKRI9YhwCHYD2Q-3D-3D-6sY_PlY-2FBeaHTBsRoTkC=
+fSa8KvFzhdlAgIxjmX01dz7iadkCFOQxihpEaAl1kRcQ8lFsy5jGSg3G5BeIO-2F9Wg7Sx2FGlF=
+wWptvWwGi8CUNNrSLc5-2B8qDpGhgc4F7OhEJ1XDqtrfsargvDdE9RjKIBGSv1OTmjnyVOeQ0v-=
+2F0CAcZyyMV3-2BkQnHXtqAPMd4muR4fbdWJQZ-2B1moE0a7bZGFD3P6dr6O78QCJi-2B6ljG3v=
+Vs2aBrIuizO46AfRdj1OwuwYO3cQYVp6RemTGj4QeyD6x-2BfTVs1duhloB-2FawP5M0kaKs8bu=
+1XLA08BENj2ZiS6-2BE48p" rel=3D"noopener noreferrer" target=3D"_blank">https=
+://ca1se.voxco.com/SE/90/COVID19Phase10/?st=3DFxD1lCl1adrZyGKzGuUsr2Bn0cwQq=
+T%2BsZyjfEXsSltXnkTpwM7AuwV6EBzleBTyS1MJ%2BwNYCvuLAeTL%2B5RftK8hD0m4ADiwg</=
+a><br><br>Thank you for your time and consideration. &nbsp;<br><br>For more=
+ information, email <strong>social.contouring@usask.ca</strong> or contact:=
+&nbsp;<br><br>Dr. Nazeem Muhajarine, Principal Investigator,&nbsp;t: (306) =
+966-7940 | &nbsp;e:&nbsp;<a href=3D"mailto:nazeem.muhajarine@usask.ca">naze=
+em.muhajarine@usask.ca</a><br>Miles Fahlman, Sub-Investigator, t: 306-260-9=
+819 | e:&nbsp;<a href=3D"mailto:miles.fahlman@usask.ca">miles.fahlman@usask=
+.ca</a><br><br><br><img data-fr-image-pasted=3D"true" width=3D"157" src=3D"=
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATwAAABHCAYAAAHtkMsmAAAAAXNSR=
+0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAIdUAACHVAQSctJ0AACSDSURBVHhe7Z0J=
+mB1FtcdnsjKZbCRsAcKSQNgSWTQrSSYi+FwBN1xwX1AkICibSECQKCjCgxcRxE9kEdwQlEURBFl=
+CEtz16RNXRIEISUgCJCFk5r76V/f/zrlnTlVX38mG6d/3/dNVp05V9e3U1O3bXUuLo1YgoI8bld=
+ozP2v3Gnzcy71kmD7i+NMsGGUfJ/1hELdsklX5EdTT/In84c4dnk08QXkkOg5geyYLtrzLaaBTy=
+I8wjGPdXj8Zwrg4wSX5EcgCt82PmoYKHH2dWp1oezg/Auknqdv9iRx11FH56WWoEwShgjY4D+JE=
+8N/qwrWWPq2x/2LAMP77Uk86K7sbKx9sQ7NgnRf8vzyZbWbPqs29dPLT6uRi0Ef6/jw/aqQPwjq=
+uWefENtyyiCdlXD3A8I75kRVAT8DgeFV+pK88yj+QdieGwej8SJDG9PoJesSJyQI2OTwhS8CybR=
+xwtZYvbO+64JKpyxHGfy805LhZoRPRdhm30q7LgkHC5fGE+N8q47lLGZCH+WT+UFln5UcbnlDfC=
+Tt2rVmzJtbvWRXw64hp2kfn65cfv5wf2/Ijud6p2z8/CX9SxLhyCD+fBTciPLnDDxn2VEvf1i6E=
+f3xlW5c6uSLW5kedJxY/2ulxp6d9LOPH+THzw0lAKxa1d+GKfeiCl3bS5h26YVwfY8zJjyRUJrk=
+3P3bDk5F/GHkSmes038n6r0VnDH/mOcfpX1mw5RVOW2VBjyxXhkc4yfiP8mMGT8o4sU1K/aSWPz=
+R4Ha6evIJakatbFP+PxF+IH31rz+cW3z/i+SULhq3RF2+4+8LgRf3s5RPW0J7nJ7H435xwHxqD/=
+tY9qizLCqPDODQLtrw2P0q/EDEfncZ4g91fCPeN2nXBVyas4EXiBZJasmBwp0zL85OiOLBsRP5t=
+E+k/NT/SJtOssLTF2Dc/anR+s9yGC6R/aEi0b5Z9y0ZejPrFQwvbe0xf3wfuumO/tbRFLp6Mbzk=
+Xlhej7d1T6vcA1OwLsxtmrZb+fa0L5P8DnHgbR1IurLazrBgy/fT8KG1W2LK920nawS1O2gZo6/=
+5NJi/M7LnTn0MrY0vr0eJaW3AnqBmZHwErkJXrEzklP5IVTvxRKrE+ALHSQnXK8Kj82N9pWRZsu=
+daJnyuUj8DW+IPW8TNeoN/9eHv/J/v3e0aubbhwFUn82V+svba1WllFDlpTswI6DnT8PxP+Oep+=
+TQppf/rp8Noj92y3kjaXVV+sLQ9ciBHHdfhHALhIFC8SNPXkjudh4y9z2FzW1IsX8ksJvzQ/Wul=
+lbaFjCJlu5anVW94R50zyP8v0hYOWPThkLex41jf3ivH+55nP3I0MWzD99fkRpOTnxZPQtyi/tu=
+n4wvxo5e3Mj4Q+jb7yIuECPXTHtvXfrjpNXliXVRZknYAGPqGLB36bHyW4eDOzYB1dN9F27RPKY=
+xHK23iUF+faa/bo2uXEmetok2nQuJNn1m9b6gVkyHCI5U6xi4f4T7JgndSWRw7Mj8AqX2PZwA75=
+kdh1yotEaQYcuk+PC+qy6ooR73A61elTMORIv1AY6AeFQ5z457M4PwLmm+DEsD4CXb6OA8tGmCb=
+f/DT6ywvS6n455NerB8616OJtecgLgj/NEM614QLmcQlteFm4ZWBdvOkH9fHP7d726n7+CJyrV+=
+Di/T4/blnIi3fYlH4v4GI5c62lb59aS/sA/yro1A9s9Szt4uLJb8FfOMmLaT0kADK8KD/S1ic/E=
+iufPuItdQxZxmn5sfH1UoYME23r6dN/ypgeXwbQBVfut0zb2t4+SX7bamCjyCwnfMsSpH0zC9ax=
+yiI6TcZj+Yj04cUj78uPgH6350cL+PSsU14g6MCTD35h34/P8E9VEP/GDbs23Pu1vWeqvomU4H0=
+CK/l8ftSVIs7bAeukHsyPVj6i0yykj754AOn0Sf32lraWlgE7jXheXhxeNByhiSfP8D/fqDybRN=
+tCcWnXNpm2U37UWPljSJ/QxSNWeaH0xsYjLw7EC6ftzlU2dwI7C9dH8E8n+vBFDpF+CN/plHKfC=
+Bjn8RIny/89TtoXWGFpk0+YQ/ky5EU67uL9V+PinTdvvHw9f0HmWRGifgGl8rSKFPpN3e2F/KLd=
+lFkqLMyWtiGFOrOqexBLAxgAE0uveBFRbxCHnzvF37HwS/bUefv574wHfrDnYvoU6e2fyd5aPjF=
+/SP3hNI47nDCrfreDOrOqe1DU8IBMp7+VR6Y9B4MDD2eknUPBpe1ZGHJ2dZJpuDX9h4ivdkLZEG=
+0YcE9wR0O79IEsYOebUIQx4Fn6Mi+FcwGMy3PBkfkhwDD0FAw5CNPO+mNgxBx8cTOCh07MK6EN4=
+nk1nI9vDONPnVb/PcHja8+a5n/R0vbnu7fpMX6KabfeOPYZ6XvfTVljlbbtj5/lw6zYIJZGrHTM=
+BYD9SR/r5oz8qInVPygLNvDr/CiBr/Wo1nqMqutLtYEUP/2j0sojQTwbxd/NHfmxCOTVTyEI0j6=
+TBT2I67qB/4lRb0BSaChSlo+llHyoExUbxNJILF3nl8/8JaEyMP5Dp4V8YWfDO8op5ifT/GOqLN=
+gD+kK/gcGA6TGK0gHLeaPTYBgSKKpbp1vxOj0axolfmLL6yM/t75/rxRqQJZnnZ7dv1zXuxOx9s=
+BTqzKruQSyNFKUD+NzgVLbhAXkORX6yxwv5yvI4wL9ohCyReYll0xSlE/gdkQWTKKpbp0f9GxrF=
+xhDqzKruwWucYumWfbdcmrLlSGJ5CdJjb0WJVVbIptHTt4CVV1OUTuAXGlEcAnn01zTAG19dL+L=
+BczEbBxUbnRyiqEyk+5rjfN+JvhfB0AR6nl0Z8MZ4U/B+J9yrXuFjmzecePQSHytJsHHg67LZho=
+e8sbKdKrZwgo1jEzU8pOENlqQoT8WLkGDjYOPp27fFDwSVgn2bEQPr4yClXeYNle1kUZQWoijtZ=
+VnQD8BC/Ic+1tLyaifEKTb4bzvRhvf1GrwElMtBEOb5ltOX8jCODEMSxG/Ngh7pg3NmHJLn8YgT=
+7XwMspcTbXjdzXrpizm5w/MwhKFEciQegF0iX3ZKdJx8w4n+l8IgkLdOf4Whx5ta0Tjqaj+2o4e=
+P1qBjZvBRQV2Wn7PHaMgPQwH0syY6hMrg6Biifaw8EjzHsnzW5EeifdAgAeyhOrQ95melwWa91s=
+ezTmLlpe2/fKybH+RHQj+dXxLzaZjyYzYQS+jJcDx73gHL/33/yOekLUWuLjnapwj9poFznYj8Y=
+AgfkAUbkPmlv4T2ULqEF+5cpyL/WH2hh9sa+GICvxbsVvmwXe6Eobno+SwfAPuwLFh/i4F5+dJf=
+58XbB4K0WNlgPyeE8ZyT9JhrZjYUauInp6774Y1j6hOYMZWAYejD509aPXfeS3xDDMnVgQl5MUI=
+fBCBNpqMs2qSKsPwYH+sUK4dpWiFCaUX5JGXLgE32eCn5D8mPQNolmL3KNKmTnDSwS+gLejQ80G=
+Y1GC3Z4CDLR6r9Ix36RELIE9TA/uYs6L/qrEcl+q2AVdYxTtpuxYt8iOVLQnaANL5rlehh3GXrh=
+a1oBB2JlaHtlh/fZWssGx4TwW42PPKU1YCoMg3PlXVjVmRpMMoZN95H+ljv0dOhNxfwbvdKp9S3=
+GVsE2/c9YkLDGNuLL5v01EmXTljNKY/DZnd0vfmM6X78GdW63zZyhEdFRa84uv+YbRvWF5BqHdG=
+G1yjWzX1FxXrl205nZsGKivLgPmxjS1PkY6Xv71TxYsX62tzQyqvWYOohG1WIovSKFwu6USx5cF=
+jD8PeUX66U9MVx6HGzar+8bfcl2i+v2iKl4eG1T8WLHd0ooMfuH+7nWmBN82H50qCwX3X1eHPZv=
+O9ev6+fwwy/mafN9DaEmQ8NkL5QXrVFUcOTbz3kPAH9KxrvUZkmy5M2CO9qH1U2+WxN1iHXLKbM=
+uQQ5cm4G/RjnGwMN0sY5ccAoRGR50EongOd+tMk6ZBivwTCEiXGInxPDv6Q9Bfjxmv+fE+LycZC=
+si59dns/RDQ0PDeX+m0fXX/w/tWDIuqcXDu7a5YQO/+hk14/1HE0MvfXTU/3CSB86d/oq+F919b=
+h6w1u6YHB9pSnKVRyCJxbCet0Wy2PZQ/6w6eVviJ5NzP9sTYoN8WbzAti+ngU9OBc2QqDLR1i+f=
+0U89F47BfjJ977Eyh+ydTc8NI7HHhi+7ozL9/azkGVjYRjHw+ZMalhA9Nz/yWYvSz+Gjz1/ou81=
++XqNaVn9JkiLpccanpUvZCtr14QaHh4Ea7QfRi2n1hOy6YYnQbrOJxseex6JVY+FVTax0kK+jT0=
+ehAYCPXLPdksfv39o113f323VtDNmrP3DnaPqW9pYenrB4OcPPHnGC28+b2Ln3K/sVZt90aSnli=
+0aUp+5JpVXbmGdvCTU8HjUea2yLD8S8teEGp6F9rvLKVSPtoeG9MuGp7HK0UifAU6Ts2AhyINV1=
+S040y+04D/ojutGAbHxUZZPSDLfgju2NX3yqi2QFkuPNTyAMNcOBFZZsTp0WuiBuG54ofKATkP8=
+i1mwgXuckEbpJaUJ0nrb8L7jRJ8iXwl8rXkmBOkPZUGPLHuKU3fcahhvmnvgumuvPuDRpxdlGzl=
+YPiHB/4Gbd182/dQO/8PE8smrtkBaLL2o4WGugoxbZcXqwHi6ovygbMOTKqLIH7beNjyQ6icp8t=
+dlyjAGrHbHrYbBHuvxB4bVRh0/q3bLN8c2vK8N6ckFQ/3KXadfvldt8X1b+xUFtA+UV22hT1xT1=
+PCALMMqS6ZbII2TsrEHjEWzX7VFdUt4L/YWH+sGtk3Z8L6SBU2QLmet6fK747pRoLG8/syD/cKC=
+bzxz+rr//dHo5Qi/ds601dpX6tpr9l8Kv+WLBnfi8QnCt39n7+UYTKB986otkFaUrgnZQmWF7CS=
+Wl8QanrZbcb36Lld001i+sG3KhhfK8wknnRYuXzeKjaG8aovYBwNWmmXjfNSQv2UnmEqJdDSuEK=
+GGhx3atF3HrYWHPuJklQebfmAO26ZqeAc5hfJY5YXLtxqGpcMPP2J1PonM47LmoYyxY/d4xspnK=
+as5CD/AH3ws20KENg1WCoAdw9A1+n6NhMqSpKSHysbkGjLeCTY9mIL58YsSYCIP4nKiNPNqmDdE=
+UTqhX+ryFQTzRnT5iOv1Ord3gl2uYt2N1TCo1jHD16xe3dDe6riseaiRf/7rsdqAIw/osVmQVFZ=
+zIXgyDl9untoMVoNModnBq+sDrJmCtwGbO3y7wgVcy2E1DAr3aSFc1jzUE+SzyqOymiu2aKyGAb=
+Vt1eofpYRwWfNQT5AP6Va5kK+4YsvGahjQoLY+m6rhYaN0n18IFOWreDFhNQxoEzU8rEZppfvys=
+mDFfwRWw4B0wxs8eLDf14xyWevhpQ+21w444MAVuWtvGl6ogf3FKZav4sWG1TAgNLzF9w2qDRo0=
+aO0/fjKo3sigX93Y7rezePjW9obFG+++akBtjz32XLpiUbjhDTpmZjMND8Tsu2TBHmCXeubDowt=
+dPp+pQVyqgeu8QfK9o0SWQTDnF3aM75NrpSCMR0MI/9mJMJ2sckKcj1Tw4Jg+v4QhR673guFNXP=
+9EjuDmuinYk4U2INcvuQ4GAX3IcU70lQ+48TjFGlYlr68uC89VOecZel1L37ceZDaQIe0ttZUP5=
+T3a/EEyU63t/Qf7Y783H1C3QcsWDPLDn/54a5uPW+W27BvdzJVlvd3HGpG7X0iYx8Kya5uVP1Qe=
+ONwJ6Vh4WoKGJ59l6XLxn86Gp9MIbPJZXsgPWHYshhMql+j32QQ2bX/Aydp1ycpPZFvRNNjsBtK=
+dudb3leMa5s2G1H/SrpglXs9n+eRpIRryO4UGZhKMdP2gU6hMy65trIvI/3gL+utyuMoBsXxkww=
+sRa7wSyx5qeHijItE+GBFt1WWVxbdCoW8ZDJvCGjfwwRovkobybrEaSEx/vWcbv0bK7+7YLvr+1=
+pKr75VZtUHQs8FPKvT6Cmk8yq8xwvwxpM9jTqEVzQn2CQJlypWE3qiQ9d3w9FJkQJfLsM4biuOo=
+0wjH61k+jfH2Y+0h7Zb+dd9w/yMDYd7baZ+QBrxuv6LeRMK/GimJHONvpYPPOsn8M5w0TMN9a9G=
+SqvAjzBcilF6UT0JfvVIUZJXBhoeVoiCEUxoeN27Vdr1RIdN2dpJ+EjlQVJfXI4/ZUKRkY/v4F6=
+b47c7HndTRYKdvSK4eTpgpCz+AHBypP0SPDyXghBRKIu06TSPTuVpViFB5IbtFzNey6x4Pf+hWw=
+8OwL/rJ1Vdlfbp83NJIkI4NZjR6hHKsTHcT8MHpwV5PNq7XnDG9Pn8Cx53ziUDSz1K/Q/coanTY=
+HuAdWbAH2BMMJz3NxzL4gbRicNaY3H1H5ouVwZEZWrIsCdM1IbtFzNeyp37VAvhdnB8ljFt2Sxr=
+d8DCsHn4YzW35tzxsNRgKjWrZwsGdmLhz7Nzp/h5v29lZj7dkwRA/fk/nkXLlY+hPDCxUaJ6YA1=
+0+0tj1Y0sjDR8dEL3LD4GPXBQRcZlPx0nIZtlBKI2rieofI0T+gRaVrwn9uADazrL1krqw4T5TP=
+27Boo0aqy7d8ADrsvw9ZqNp1KzaO8+Z0nX8Zw9eufC2HVfZPo1CuVnxUfjMzRpGkzKkHcDOZfq5=
+fq9G2xCXNtw7Iq6H+VhlneBk2YEuVxJL2xAND72etvP2QwObtsd+3Gnf0OKblq9gUP/okKb3nXu=
+w7+Uoy0fKlRiprAEuW6rz4JGKjHMQpl4ZHnuQMS9+mGDxZ8YJfrXqYVb0GepjGXJCMpBhifwFLp=
+Hn8lEYDJh+oY+1tHzPSZdDHyysLeHDZQyPl9D/RB/L4G692I9CA7uFtH/ZCXE8kNbADl3lY9kC3=
+7RZ+4TAHqbfiPbgHItpp03v3Hr2rNrLT++oveGcqc9u68KWH+SKilcUB3NUrXmqzYCHvq/Ngpsd=
+WDDyY1mwApg/NtDL/fvBbFLPlV8bF5yF5vL3ptFVbOGYjYqNDcdXnzOlx0Nk5MuyV1Q0zxUDj36=
+Z7+GK1G/6bniuI1cQr6joNWZjo5CeuVVUbBiqBlexSakaXEWvaOjB/lOFz5l93CCYOD3fqWHsoR=
+IebltjBcmpTqEdhyAM7YdPRUXFJsLsIEJavqi98+/3Dqs/4ptzyYQua3mU9aVDz57oFxuVNsSx9=
+J60FQmfM/u4yciOqmxewrx6QdGKiopNhNlBSB1y5sG+0xl/4qzaMZ+bvFJ2QAjfeP0+K0bMztaH=
+uuiyl0bXDU3Vw3fu8AzrWTx/uF+VmWkIjz6+o/O8eQc9K+0x4XNmHzcZ5mkmLwnlxWAkS0VYeaQ=
+kVroWh71aaVqabZwsP4rLi1tpZYQVWDSWX0i92Q3lbU4YsiHbAZYs5wrQs51Qh0afQ0gEy3Ra6W=
+XFN/pWmpYEa7haPtT65CwnjsGX+p1TEda5lREGNvbs8EbmnRc09oRsBMCdN43xi+QhzLR/3T+0Y=
+QToo/dmuyZj1AB9pn1qctIsoauv2cPPk1zxUHvd3905dvJODmlz5u3rO977bt7J+yD8yrMnr0H4=
+XXMP8i+NIeaXwufEhy2B/M8om5dgFclY3k866Xre61SEHJH6JxgiYGVJWb61Bi7BH7D0xTJdKWC=
+UA/OE4ALJVGw9Wzk0KDTKFvR3kmVacOUnKlYeoS+HDWk4D5WKIf2Qz4LDrSDMKdXIMjR4Vcg0vb=
+W63l9iJ6ciOA83dK7NgHkVPAe5aqdG+u0JQwB8DvpBMTAcjX4YOtXY4XXMmeLvpl5x9hTfkdxwf=
+feeF3ffvFN9JYGpn5xe3/0H+uNPtlu1+IGtffpDt+3gBw3sddJMPyr5kssPiN71PXLvdv5uDkOt=
+EMfOQojf9b0xq9ABIgwh7WtX7+2Xt4XeNndqPTz7iwf585lz2fhV9JXKP3AZmKeZvKSowwMjnXR=
+dRXnAd51S/ECZcjG1oIw/4ETyIuQfdqzDA9wNvKiDYnlQCE6MKvIDqX4HO5UtL7SYJq9LCFmGBb=
+ev0B0ewJ24zK+nuUo4WBhjSdcHnFEAWTNAQzAPFCLFh+AOFn49Ozzq+PMn+Y5DynVEfqtahBfdO=
+nrlJVdMfBRh2B69Z8cV0he69rpxyQuEQr+6Y6Tfp0Xqq18fvwJpCB94yox1Ty9s77zrptHeX/tC=
+k0/p6FEulH/gMjBPM3lJSocH6INBPbLOQ51CcCHUFGSZKeCukf56gLMGi4mmlpvS4V2eH1NhebF=
+zeLlTih+QfnrQtybl/1eWF1s9OIYso1lkGdbcLz3Iv7fgp6usswxyhZZQ3qJ0YN4lmh2EpbEndj=
+x/yZcnPfL2s2asxPHiyyY9cuaFUx5H+L3nHvy0lae3uuiySY+hfOjE86c+iePEj8+q4Wj5h4TPm=
+X3cZOQFLZuXlO3wiH5TbLEhOzwg88jZGxqk750FCynq8PjTuAwsL5ZP+hwLQwHSn4r9xIohy9iU=
+HR6Q5cgXaYjHVjNqBllX6NFADJn/TTAoZLpFcCKt2UFYOvHzk6Ky8vRWVj3Uhz872cxjCZ8z+7j=
+JME8zeUmzHR54jZOsXz9839AdHpD5rL2tMPfzR1kwCdnhxVQGmQ9T+SBstiGf3WAduqLFcDSHOc=
+mytUITtjUyz6bu8IAsiyskYD7s+kbW0wwyv1WGTg+pB2YHYUn/fFy6MNvj7O93j+wxdGR9CeWef=
+el4X/511+7pnwleetUe/u3s4/cN9z+xU4TPmX3cZORFK5uX9KbDI/Ic0GGQjdHhTXIK5W3mJ1DR=
+HV5sYnwIlifzjXaSdr2GYTOgw8c6gbJcKob02xw6PCDLw9jQDYGso+h5rYXMj/3vNDLd4hInM83=
+sIKR2PaHDdzQQ4jg+MX/rlb+5c5R/bjdqdnf6tNNnJndCMV341f38C4lHfjpi7TvPm+bDr/v0NP=
++mGIKPDBcJnzP7uMkwTzN5SWreIp+TnFgWhAfRG6PDA3IgNdY6AqHNhopIeYaHTqUMLM86Hz38o=
+QistJviB2S5i2AIIP02xw4v9ta0N8hrj1VkysCXDJRciZDI9BBmmtlBaM06baY/spM5bM4MvzKe=
+7HRe88kZSUNQUjXtEx2d2OlW1vHrO3Z5UsZ3Pj68cIYUPmf2cZNhHuoNTmXgG6qHfSwO/FKQ50O=
+lUNZfI/NjAblmy0np8DT0D8H0kA9W1pE+U51CcAvDlAVT5BLjP4QhAH2gLanDA7Ke7WBIRObDtt=
+oW0qcUZgfRW/WZtPNzbW2D1s277MtPYcOLJUuW1LbffvvO/vvv5Mfq9R/a9tzkyZOf7erq8htin=
+HrqaY/169evs//rxpeaQZEqfM7s45ZCDzqFrG8bCf5j6at3NraY5wTfX/hYMbxVp1Io628hy8Dz=
+xWbAMz+WUfblQYgUHyD9Qg/o9XO7GHK/hhiyvM2xw3sVDBuQBU6sC+M8Y3BdQCpGql8PzA6irAZ=
+O3sUP8Ozs7Mx6sAjwK2L16tX+TWWfw8cnbUVfJJTl1Cx845Mq6wG/5NdOVj6pIor8ZFkhWW+/Qu=
+zhhDz/9rF0dJ3NSHcUlo+WheUH4VklGOOEOMb+yXR01HjWxW3OaAsh88YUAs+sLH8tuY5jEVZ+r=
+aIhSL2Bw5eolU5oS0uFDbrWKYT0C6kQs4NI0YUnb/XCUUcdlXdR6aDOsiDPhHF9mr77Q3582IqK=
+ii0bs4MIqXXcdrWW3Ud2PXl/9hxtY3Z4qO/n3xnozwGyzi8k5MeHraio2LIxO4iQ4M/NazdFhwc=
+h3Mx5O/UWjO+q15/rLifcrhOM97ImvFdUVGwGmB1ESPDfwjq8en1OR8CgkC8ppCoqKjZDzA4iJP=
+indniHHnoYFsyU06T8Cw2E1659wcdl2pyzzl7sMxrAZxN0ePW6fKyYsv4VFRUbGbODCAn+oQ7vH=
+Ue/0y/vwrSQinyWLWj3HeE3v/Xd1XnRDXkQhqzzCynPU4Z6PblSkK/Vy1C0020M1BlaZflDTgBv=
+xLAzmgSb7sckB4ta6VIpYCcznBN2xi3iSCernrLC2/AQWFqKm8Za4n6gjzjhTSKx6tHSWD5aBAO=
+vrfRUHeUE3uhkpUuFwE7Esb1VrbKoELim2MgthV2crLJD2zESrGBj5ZMq33G0t7X4mRUIsxOy9K=
+fb22qzJvZhA4rqyEP61pbMt8uhBg7IOlrmsc7PUttbDsKaYdgTswwN5+d0mlMK5znBP5VjnFhH0=
+c7REiywyXx6v3aCYQb0CQ2O3dWJPlAM+vzMx8qRWgfAxr30tZbEj5UlP4+1JJHMGxs+hF8n9MO2=
+5ho9ZixlrTn8Ics8RUjfWPuTUwD9EkgKWQ47xBAvc6Iv9u2NIZfdikGfIj8LueUqxcVlY2BdSfo=
+3cFjLoAFmR2HJ+dcG9GupnfL+/r7zOeV9/Vhog/oMGrBm4Kv28YOMUzVw+p6rWvv2MSeYf/6kAb=
+6THTakHxqft1llWMr9MV2lDHIkvRbHbfUWrvkmf9qf75QC/eXdhwUG+MIvdfpTCKThi6MZmDelH=
+sAOLzThP6UcpMkO7wtOzIMxoylgW1n4Wx0eYHlQKmXycJNrKOULF35WhwdYDhRD+qX6xsCeyHLA=
+eZG/BXZ4l/mhlLYIP3MhU7OjsARfr9aWzra9d1wvy7mnqP3YjlrrqGHd9SeeM/I5395MkI5tyiO=
+FQatlQT5u1i3Lii3SSKR/0bc27hyb7fBC9lTws5KDdOX8yt6s0MEyUs8LC2OWzUPwBxMaZNxMmW=
+XypHR4SLPWt9OwHAhr1VkgDTccnFMMhVY+5obzeDQQAnfn8AFcsJYqAzs8wMVmqdjfCtL9z1gNv=
+knNDqM3GjZ7Vn0J+Au/Mq4ehnb/xAy/Asrw2R1d7/7C/g17VqxP4XP5T7h+wBxLlhlTyvxE+Mln=
+EhjKIssoAotTSn/qN05FMz00Mj/R8WaY7qTLYLmQtUJvCrKMFKT/jTCsJ2S5qZTJU9ThfdUJaSk=
+dHmBZkAbr/Um79MUzVQ3sRTMzZHlAlvkDGBKRHR6RZXFRCw3SzA4PYFXY9b772N/uHllfcn35wv=
+Yu7HqGMGx/vmuUXzQU4XlXvGQV8ww+Lm1BgCK5zwNxw5UNBR7wsi6tEJg+Y6Vf5ZSSX9LuJPNo4=
+edy0TWw8lG9AfmtlxS9Lb9sfukf+snXDLLcZlSE7PBiSu3wfu/EPPquFbaJWdATm9fKPVViIP2t=
+WbABWWbKc09gdXgA889leRrYgh0eOLB1q369mry/8wndq5vce8tO9X0vli0csu6x+0b4vSpefnq=
+Ht91zy87PYYvHxfNH+P0z/nnvCH/X5zrFrqG97PTcZ4HKPrcjNzhZF7AI1ktZDZF7WNwekMx/i1=
+MzYGl4WQ4VQvvoDXdoLwPy4Pmi9Rnx0qO3ZZfJK/3vh2E9IctNpUyeojs8/j+ldniA5UGEz8U1/=
+GLW/gjHHqPQ3/q/1z9JUwh1eESWJ9/MIx7t8MC2TmYnEtM2YqeyJx7Y2q+JN+r4bJ28f947bO1w=
+14E98cDQzr/fM9LfycF+5bVjfEfHfAhjIx/GaSsrnL//JM3DpZ3wPKMMeoK03xZOAXvRXgmyDLz=
+Z02C1XSwumoIsC5/LQvpI9K5q/+2UAl9QxJB/TKkvEQjzFdVBbnMqmyeFZsoskyflGR4eG+AuPx=
+W9tuLY/BhC+uJlEmYWxfyLOieA4SksE79Aikgp87dOLJO+OBZ2eKTW9r4pTd/tLbhtVH2HM9l5W=
+cc/3pXd2UHXfGNcqTe7UgNetQ++qcr+8VjI/xBevBSGO8XywZa6IkWsHIyRgz308FkidyGbDIMB=
+0yELmR7yIdc7FfkQWebZMCQi86VSdjFQwrso6+F8M+WVyZPS4Wn4RjQGy6S4P7EFRxJIhcBMpFi=
+6BC9DWF7shRpI6fAIy6SSOzzwfqdeP9fb4YRsu8aQrDxl1P7RWfxwKeNzUpBb8FEYgBpD7v+KV/=
+EapqUixxHpfN9xCqVp6HOzj9mklGUtkaX5tBPs1/lYGrI8627WQuZJeaNNuEo0VfTHQL8Qsix82=
+aUg8xQhfVPGkUr/GFgElX4pv2K+7UT/0BhMPtez2n4IlglhPGoI+shnjDHwC4h5SnV4ZGn/Af39=
+XrPN6ulF7bUPfGaqP8754pRlOM7//uhncbT8U+XODbfE6/PNG+AbUAysBO9x4gWMSY8bwy71lh9=
+lYflJoeP9eB4G+OzaR6rDycLylQo1XMs3Jmt9M272HJPG8tHCWLtU9LhALWxibWH5amksHy3ySy=
+crvYz+4lQEfVMJ+dNuyZrp8jEny1cKWHapop3QOGymqQ6PPNfS1t+/ZS0j3smdfOGUZTjihQSOu=
+30sOy5dMKR0ma5rQUeHB6AVFRUVGxT/MBuDeq3OiLr7plF+fB3exCKOMBQKz/nShOhd5MD3TOLb=
+JPzkrKioqNjo1FrbB/q3rRtCeD7X2tqKB7Flng1UVFRUbFAwUNHfgaGTsjqvVA368EzOLS1aHaG=
+ioqJis8C/Uu87a2zSJjz9Rw/jyh7YxauioqLiRY1/Y9m6wxC/d21LW3/exWFScUVFRcUGpqXl/w=
+EnNafrbjaF4AAAAABJRU5ErkJggg=3D=3D" align=3D"left" hspace=3D"12" v:shapes=
+=3D"Picture_x0020_2"><br><br><br><strong>Saskatchewan Population Health and=
+ Evaluation Research Unit (SPHERU)</strong><br>University of Saskatchewan<b=
+r>Saskatoon, Saskatchewan | S7N 5E5<br>&nbsp;<br><span style=3D"font-size: =
+10px;">&nbsp;To opt-out of receiving future CHASR invitations, click here: =
+</span><a href=3D"http://link.acuity4survey.com/ls/click?upn=3DJmwxj6lXXOG0=
+JwP9JgNHNbpWbXZKJj3lmnM1EnuCfLThpqCwpQgKbahgbJKdh5d47vAXkhuN8KVeTDDfOOVHz8P=
+zEV6F9GcRblKYiR4E9XHxy2qMWUV7u-2ByhTpyAX3O3ffSW_PlY-2FBeaHTBsRoTkCfSa8KvFzh=
+dlAgIxjmX01dz7iadkCFOQxihpEaAl1kRcQ8lFsy5jGSg3G5BeIO-2F9Wg7Sx2FGlFwWptvWwGi=
+8CUNNrSLc5-2B8qDpGhgc4F7OhEJ1XDqtrfsargvDdE9RjKIBGSv1OTmjnyVOeQ0v-2F0CAcZyy=
+MX1dDmtkfyrWEHC6FHfKJh01q5ILdZQNBbD6iBIoUKVw3MTFQcBNYfb5gydQFyBlNkKmqnsGSZ-=
+2BfXGrKf1HIiinOFulzJjv055sjSjRaLcrR464Dp4XRRQyw1yP90X3FYj-2FQp95j5GITgUfMJm=
+kT6nj" rel=3D"noopener noreferrer" target=3D"_blank"><span style=3D"font-si=
+ze: 10px;">Opt-out</span></a>
+<img src=3D"http://link.acuity4survey.com/wf/open?upn=3D95ipHO-2FHtfiEGxEke=
+DVC7m2cc8Z9r802-2B369f-2FNYKjnkTR2IlZqGGPs0fsteTTxalQ54p0i5D2dueNF4sXITS8p0=
+FZxgFokEWgKXUrqSLeVNtrPsLtt1aUsVjjDSQ5DpDOWW9cjBjb71bGgStkJJPqJjxYquroTqDQ0=
+Pu0LRlzj-2Boscjh66tVjxkk-2F5VjssWx0RI7NpbuQ2lvCItNL1-2BBYYMy6IXznMyl3cYMoDK=
+wiqE11nHKnddZA9eFAU-2BgCVnyo7G2jyh-2BdrYmY2ciaHhlnhi-2FE0kBOpgswoM-2B-2Fzfe=
+K9FYCusdlXayEx5INnWqwyb" alt=3D"" width=3D"1" height=3D"1" border=3D"0" sty=
+le=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;"/>

@@ -1,0 +1,300 @@
+Return-Path: <savagegrowplusdeal-bruce=untroubled.org@cashpays.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1068999 invoked from network); 2 Apr 2021 18:37:55 -0000
+Received: (qmail 141987 invoked by uid 222); 2 Apr 2021 18:37:55 -0000
+Return-Path: <savagegrowplusdeal-bruce=untroubled.org@cashpays.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 141984 invoked from network); 2 Apr 2021 18:37:55 -0000
+Received: from mail.cashpays.xyz ([69.94.155.66])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Apr 2021 18:37:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cashpays.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=savagegrowplusdeal@cashpays.xyz;
+ bh=rVaucrykkrRDComm1Q61BZeabeE=;
+ b=gryQAWg2xDdV0XGESBGRjG+UVDXi2IhZRnKK4uz7IATWq5+wi3GZ4xO8oo8qCDWw7BjbCL+Onuyu
+   WSdr2WaNn99B0qG3So3EdvQh8veVXwmPem7NTL5K9dlIyP0GURowLB55JXO9pWBljlwcsPLkuiPF
+   zG62aXjYb+jtP+8Haxo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cashpays.xyz;
+ b=q/63HVT/WmFa7SOBHh0tU3YUpt7wpLsD7GTQo9Nqrdq+zauJOyNDBsVwP1kstzHyFgla1TRdE11H
+   RzvenzFTaxiajqJPDuGBGJmNHHUWh9WJGmY3TDSQJaWtksx1ZuTx8cvFpno3JM1x/V+LuXcdW67C
+   hh3rN4oGv/QKo9UzrHM=;
+Received: by mail.cashpays.xyz id hcti7o0001gs for <bruce@untroubled.org>; Fri, 2 Apr 2021 14:21:42 -0400 (envelope-from <savagegrowplusdeal-bruce=untroubled.org@cashpays.xyz>)
+Date: Fri, 2 Apr 2021 14:21:42 -0400
+From: SavageGrowPlusDeal <savagegrowplusdeal@cashpays.xyz>
+To:   <bruce@untroubled.org>
+Subject: Grow your penis by 3, 4 and even 5 inches in just a few weeks
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_592_1105376742.1617387691198"
+List-Unsubscribe: <http://www.cashpays.xyz/dragged-Willoughby/4866om23P95cH89o13OuiV11r_4a22F21zFv4GIf4rxvs4FhIHEsvZ8MRDnKK9o5M_10B6B3BNcY>
+Message-ID: <0.0.0.41.1D727ED081C8342.6C3EA9@mail.cashpays.xyz>
+Content-Length: 19086
+
+------=_Part_592_1105376742.1617387691198
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>recipes</title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">This dude is crazy but <a href=3D"=
+http://www.cashpays.xyz/porpoise-oppresses/C6c5z23w95P86KQ12K159e0t4a22I21KFv4GIf4rxvs4FhIHEsvZ8RRDnKK9o7hiZ1X0P5pT2cY">what a secret he discovered</a>...</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">He took his wife to a remote Afric=
+an island to negotiate with the tribe elders, including 3 African priests, =
+the sacred secret to gain 6 inches on his member.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">But they needed something in excha=
+nge.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">This guys WIFE...</span></span></p=
+>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; ">Don' t worry, it was just for a sh=
+ort period of time, but what followed after it' s wilder than anything you'=
+ d see on the craziest rated movies.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:verdana,geneva,sans-serif; "><a href=3D"http://www.cashpays.xyz/porpoise-oppresses/C6c5z23w95P86KQ12K159e0t4a22I21KFv4GIf4rxvs4FhIHEsvZ8RRDnKK9o7hiZ1X0P5pT2cY">The dude ac=
+tually documented everything here</a>? </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:arial,helvetica,sans-=
+serif; "><span style=3D"font-size:14px; "><a href=3D"http://www.cashpays.xyz/porpoise-oppresses/C6c5z23w95P86KQ12K159e0t4a22I21KFv4GIf4rxvs4FhIHEsvZ8RRDnKK9o7hiZ1X0P5pT2cY"><img alt=
+=3D"man helerc" src=3D"http://www.cashpays.xyz/muddles-collapsible/17a6d239mV5SH7Ka12M159e3x4a22N21AFv4GIf4rxvs4FhIHEsvZ8wRDnKK9o7s1S0pvq6w@AcYA" style=3D"width: 589px; height: 391px; "=
+ /></a></span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">He came back with his wife happier =
+than ever and 6 inches more on his manhood and says he' ll gladly go back j=
+ust for the fun.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">He said his wife asked him to share=
+ the whole thing with the world.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">Apparently this <strong>TURNS HER O=
+N</strong>? </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">Well, it' s for everyone' s benefit=
+ since it supposedly already helped a few thousand fellows achieve the same=
+ results.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-size:16px; "><span style=3D"=
+font-family:tahoma,geneva,sans-serif; ">I don' t know how much longer the v=
+ideo will be online, but honestly it' s just madness not to see it...</span=
+></span></p>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-s=
+pacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wido=
+ws: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-s=
+troke-width: 0px; text-decoration: none; margin: auto; " width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <=
+br /> <br /> If you do not wish to receive future messages click here to <s=
+pan class=3D"unstyle-auto-detected-links"><a href=3D"http://www.cashpays.xyz/porpoise-oppresses/2a65vn2395D86UX13K15J9e1j4a22k21uFv4GIf4rxvs4FhIHEsvZ8wRDnKK9o7j1CB0jA6zzycYj" style=3D"f=
+ont-family: sans-serif; font-size: 10px; line-height: 14px; color: rgb(153,=
+ 153, 153); text-decoration: underline !important; ">unsubscribe</a></span>=
+<br /> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.cashpays.xyz/porpoise-oppresses/C6c5z23w95P86KQ12K159e0t4a22I21KFv4GIf4rxvs4FhIHEsvZ8RRDnKK9o7hiZ1X0P5pT2cY" style=3D"font-family: sans-serif; font-size: 10px; line-height: 14px;=
+ text-align: center; color: rgb(153, 153, 153); text-decoration: underline =
+!important; "><span style=3D"color: rgb(102, 102, 102); ">Mellitox.com</spa=
+n></a> &nbsp; |&nbsp; 200 Continental Drive, Suite 401, Newark, DE, 19713, =
+US </span><br /> <br /> Exit <a href=3D"http://www.cashpays.xyz/8bd6fl239t5t89YZ17b1Ypp59eFT2H4a22w21SFv4GIf4rxvs4FhIHEsvZ8lRDnKK9o6vt10ij6hjcYq2/dragged-Willoughby">Here</a><br /> =
+<br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO<br />=
+ &nbsp; <p class=3D"gnt_ar_b_p"><br /> <br /> <br /> <br /> <br /> &nbsp; <=
+/p> <p class=3D"text | article-text" style=3D"box-sizing: border-box; margi=
+n-top: 0px; margin-bottom: 1rem; caret-color: rgb(33, 37, 41); color: rgb(3=
+3, 37, 41); font-family: &quot; Segoe UI&quot; , Roboto, &quot; Helvetica N=
+eue&quot; , Arial, &quot; Noto Sans&quot; , sans-serif, &quot; Apple Color =
+Emoji&quot; , &quot; Segoe UI Emoji&quot; , &quot; Segoe UI Symbol&quot; , =
+&quot; Noto Color Emoji&quot; ; font-size: 16px; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-align: left; text-indent: 0px; text-transform: none; white-space=
+: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; text-decoration: none; "><span style=3D"col=
+or:#FFFFFF; ">The Penrose Fire Department shared tragic news Thursday night=
+ as one their own has passed away.</span></p> <p class=3D"text | article-te=
+xt" style=3D"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; =
+caret-color: rgb(33, 37, 41); color: rgb(33, 37, 41); font-family: &quot; S=
+egoe UI&quot; , Roboto, &quot; Helvetica Neue&quot; , Arial, &quot; Noto Sa=
+ns&quot; , sans-serif, &quot; Apple Color Emoji&quot; , &quot; Segoe UI Emo=
+ji&quot; , &quot; Segoe UI Symbol&quot; , &quot; Noto Color Emoji&quot; ; f=
+ont-size: 16px; font-style: normal; font-variant-caps: normal; font-weight:=
+ normal; letter-spacing: normal; orphans: auto; text-align: left; text-inde=
+nt: 0px; text-transform: none; white-space: normal; widows: auto; word-spac=
+ing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; t=
+ext-decoration: none; "><span style=3D"color:#FFFFFF; ">At about 7:30 p.m. =
+the department posted the following to Facebook:</span></p>=20
+      <aside class=3D"pullquote | article-pullquote" style=3D"box-sizing: b=
+order-box; display: block; caret-color: rgb(33, 37, 41); color: rgb(33, 37,=
+ 41); font-family: &quot; Segoe UI&quot; , Roboto, &quot; Helvetica Neue&qu=
+ot; , Arial, &quot; Noto Sans&quot; , sans-serif, &quot; Apple Color Emoji&=
+quot; , &quot; Segoe UI Emoji&quot; , &quot; Segoe UI Symbol&quot; , &quot;=
+ Noto Color Emoji&quot; ; font-size: 16px; font-style: normal; font-variant=
+-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; =
+text-align: left; text-indent: 0px; text-transform: none; white-space: norm=
+al; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webki=
+t-text-stroke-width: 0px; text-decoration: none; ">=20
+       <blockquote class=3D"blockquote | font-italic bg-light p-4 border-le=
+ft" style=3D"box-sizing: border-box; margin: 0px 0px 1rem; background-color=
+: rgb(248, 249, 250) !important; border-left-width: 1px !important; border-=
+left-style: solid !important; border-left-color: rgb(222, 226, 230) !import=
+ant; padding: 1.5rem !important; font-style: italic !important; font-size: =
+1.25rem; ">=20
+        <p class=3D"mb-2" style=3D"box-sizing: border-box; margin-top: 0px;=
+ margin-bottom: 0.5rem !important; "><span style=3D"color:#FFFFFF; ">? It i=
+s with great sadness that we announce the loss of Assistant Chief Greg Gatz=
+ke, he tragically passed away from a work related accident. Greg will be de=
+eply missed our thoughts and prayers go out to his family.? </span></p>=20
+        <footer class=3D"blockquote-footer" style=3D"box-sizing: border-box=
+; display: block; font-size: 16px; color: rgb(108, 117, 125); ">
+         &nbsp;=20
+        </footer>=20
+       </blockquote>=20
+      </aside> <p class=3D"text | article-text" style=3D"box-sizing: border=
+-box; margin-top: 0px; margin-bottom: 1rem; caret-color: rgb(33, 37, 41); c=
+olor: rgb(33, 37, 41); font-family: &quot; Segoe UI&quot; , Roboto, &quot; =
+Helvetica Neue&quot; , Arial, &quot; Noto Sans&quot; , sans-serif, &quot; A=
+pple Color Emoji&quot; , &quot; Segoe UI Emoji&quot; , &quot; Segoe UI Symb=
+ol&quot; , &quot; Noto Color Emoji&quot; ; font-size: 16px; font-style: nor=
+mal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal=
+; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span s=
+tyle=3D"color:#FFFFFF; ">Details on what the work-related accident was were=
+n' t immediately shared. There was an immediate outpouring of support from =
+community members and other departments from across the state.</span></p> <=
+br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"30" style=3D"font-size: 0px; line-height: 0px; ">&nbsp; =
+</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>  =20
+ <img src=3D"http://www.cashpays.xyz/Henri-prance/a086p2h39s5W8D5s17XX159MYei4Ui4a22N21AFv4GIf4rxvs4FhIHEsvZ8WRDnKK9o6RJ10os5dTcOY" alt=3D""/></body>
+</html>
+
+------=_Part_592_1105376742.1617387691198--
+

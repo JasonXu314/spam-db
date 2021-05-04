@@ -1,0 +1,79 @@
+Return-Path: <renewalbyandersen-bruce=untroubled.org@speed98.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3557392 invoked from network); 24 Apr 2021 14:46:40 -0000
+Received: (qmail 30307 invoked by uid 222); 24 Apr 2021 14:46:40 -0000
+Return-Path: <renewalbyandersen-bruce=untroubled.org@speed98.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 30304 invoked from network); 24 Apr 2021 14:46:40 -0000
+Received: from mail.speed98.cloud ([69.94.138.219])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Apr 2021 14:46:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed98.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewalbyandersen@speed98.cloud;
+ bh=iI+3Zh5pnSZST8abnkhJFVAs/cg=;
+ b=I4tHqID+o8TIH1hU/inTpNYIjFd4aHstSF5lsWuMuZ766P9a8ryjO+RgXdTX+2qWAXry6Y56B1Mj
+   8m7+8L4CEO1ozDSOevTy8vigR1bGjSPaxW7ry1hqQ7l7fHLfgGVazthFyCuXTbwvIaX3DU1Tecph
+   /3rwxEeDkB8y847/9zw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed98.cloud;
+ b=UzzbT/tfKqXAQ1zB3Pw0DeTA5HzhUWv/4/TwAMTJqssGSMFlAJvbjTLbn8Xlxw80hEFz28tI1NPc
+   pUPh/yYDzhpc05fq+6VsW9ZdENqhcd1IxN/DdZ2WzvOphA5P9SR3jyBFTqUfMUpR4Rx0njyL6SBF
+   wYqV/8LpjO5bCQLsI1s=;
+Received: by mail.speed98.cloud id hggnkq0001gp for <bruce@untroubled.org>; Sat, 24 Apr 2021 10:41:04 -0400 (envelope-from <renewalbyandersen-bruce=untroubled.org@speed98.cloud>)
+Date: Sat, 24 Apr 2021 10:41:04 -0400
+From: RenewalbyAndersen <renewalbyandersen@speed98.cloud>
+To:   <bruce@untroubled.org>
+Subject: Save on windows this Save on windows this [insert] season &ndash; Consultation From Renewal by Andersen season &ndash; Consultation From Renewal by Andersen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_877_409894319.1619275255692"
+List-Unsubscribe: <http://www.speed98.cloud/adultery-drinkable/9ae5rZ2395V89yX11D1Gy1y4b67Q21PFv4GIf4rxvs4FhIHEsvZ8qRtomoSQ5X1Y0_5qlWcY>
+Message-ID: <0.0.0.61.1D73917DAA36F02.5221AE@mail.speed98.cloud>
+Content-Length: 3588
+
+------=_Part_877_409894319.1619275255692
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>exacting</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.speed98.cloud/b335A2y395bsS8612z160cas4b67K21sFv4GIf4rxvs4FhIHEsvZ8qRtomoSQ6jSg10Q6aNc2YU/alum-auxiliary">Keep your house cool this summer with new windows</a>
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.speed98.cloud/b335A2y395bsS8612z160cas4b67K21sFv4GIf4rxvs4FhIHEsvZ8qRtomoSQ6jSg10Q6aNc2YU/alum-auxiliary"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 701px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, Leave&nbsp; <a href="http://www.speed98.cloud/b335uM2395pB86o17C1tUqZ60cbYJ4b67K21EFv4GIf4rxvs4FhIHEsvZ8FRtomoSQ5FsJ106zMBlcY/overwork-adventure"> here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.speed98.cloud/40d4u2395sW86H13RU160ccN4b67D21NFv4GIf4rxvs4FhIHEsvZ8ARtomoSQ6XM1U0Q6pzl0cY/wading-revisiting">here.</a></b></span></span></p> <span style="font-family:arial,helvetica,sans-serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Remove <a href="http://www.speed98.cloud/42b4D2395Mg89t12r160cdI4b67o21YFv4GIf4rxvs4FhIHEsvZ8tRtomoSQ5U1kB05cpclY/disappearances-precipitates">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style><font id="broilers"><font></font><small></font></small></style><font></font>  
+ <img src="http://www.speed98.cloud/disappearances-precipitates/d6e6z23vG95qIQ8512w160cek4b67V21EFv4GIf4rxvs4FhIHEsvZ8DRtomoSQ7t_sH10Q5O1lcY" alt=""/></body>
+</html>
+
+------=_Part_877_409894319.1619275255692--
+

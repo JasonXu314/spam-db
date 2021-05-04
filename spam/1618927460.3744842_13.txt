@@ -1,0 +1,54 @@
+Return-Path: <markmilley201711@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3063151 invoked from network); 20 Apr 2021 06:28:25 -0000
+Received: (qmail 48546 invoked from network); 20 Apr 2021 06:28:24 -0000
+Received: from mail-yb1-xb2a.google.com (mail-yb1-xb2a.google.com [IPv6:2607:f8b0:4864:20::b2a])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 20 Apr 2021 06:28:24 -0000
+Received: by mail-yb1-xb2a.google.com with SMTP id 65so41720808ybc.4
+        for <bruce@home.untroubled.org>; Mon, 19 Apr 2021 23:28:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=DiD3MjzN/cJcMb3ulw2tGO83oKJ+jWXIePRdmOHSq0s=;
+        b=LxCATyg6zqQnv8iVIijrhaFQDxogJoty29fmYwrG3F73yQSySHlwGvJFFBlNJxcSSI
+         vCdPUuTU4TzyZXNDtV0sMf7L+h6AyeucCXywVBOTPcm1zg51QKgDm07nUIKjikLGtroj
+         eGSfrIIZWLQCYfEFL3a9vNx0U3UBqUmRwKXpZKmFxHiWb81nuVq8lfL2VI/3qgzJh+vu
+         ObaZUwScWAw/zY6AtslhAT37Q1JmoDzOSPdA0TIKw8P7qeRLYbYEiE9rgjmPqQX1o/QD
+         +UFCCBwJdyrLUYqHe94HV9xk0vwB4PWC3BKPo5PUFo32Al15gQc/6RoNskzFd3RUUW9n
+         2W+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=DiD3MjzN/cJcMb3ulw2tGO83oKJ+jWXIePRdmOHSq0s=;
+        b=csnfkoUPO1xRN7Ba4XLpVW8lMUgXR8fI2rh9MTkEioWxqex70cPS4SeMH019Yfbs6a
+         sd9Tm8u3hEjaL8BK1y5FEB7PwIf9eDp7SChMGnsLOPud3kEtNMCTtcNkzX//BNEsvN4c
+         68Z0W/cIdOeS1SCo3kOF5QIqVBK8XN7mFGAL7/0zrhuOzPrv7GZB34S4xdGbW9P8t6Q8
+         h9AYj4aWSqK3YrfBvjs9xQnHrZYzC8ilbA7eDQpJZo0O9tRBdDTGHK+r8kOQhVSSB12h
+         SiBN459nmyxzD7JvqLMN3XHkpGsiwKx2HjdpyqcoyHiyqHZzcOnFCLEYC7z8aO8hHNNf
+         sWvw==
+X-Gm-Message-State: AOAM533REguVVxKhD0e9LPbN2pZ2TAdWdhbq+Fg3knlfkNGz/rKZCC3i
+	CkCFimw3S7eDQWF2/3IWWth6Ljiej1sR7dCBuO8=
+X-Google-Smtp-Source: ABdhPJyb2Nze5zursnFE2OgVUuTvQi6/jJFZRlCu1RHesAt2QxlUq/Wr2F5tsdOcmn9xXvVVj0/+MZvELQ9g0Ionijo=
+X-Received: by 2002:a25:bacc:: with SMTP id a12mr21992354ybk.288.1618900103764;
+ Mon, 19 Apr 2021 23:28:23 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a05:7010:2345:b029:aa:4f1:c27b with HTTP; Mon, 19 Apr 2021
+ 23:28:23 -0700 (PDT)
+Reply-To: markmilley20171@gmail.com
+From: mark milley <markmilley201711@gmail.com>
+Date: Tue, 20 Apr 2021 07:28:23 +0100
+Message-ID: <CAPtv-xb7Zkd336N0iLspA8z-qjtyL5xOWLt=DJJN8zACjNxuZw@mail.gmail.com>
+Subject: RE
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Bcc: bruce@home.untroubled.org
+Content-Length: 186
+
+Hello
+Good day my dear,
+ I have something important to discourse with you please contact me
+with my private email address as following  markmilley20171@gmail.com
+)
+Barrister Mark Milley

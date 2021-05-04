@@ -1,0 +1,174 @@
+Return-Path: <marguerite-foster-bruce=untroubled.org@nari-rail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1321720 invoked from network); 7 Apr 2021 20:33:03 -0000
+Received: (qmail 215924 invoked by uid 222); 7 Apr 2021 20:33:03 -0000
+Return-Path: <marguerite-foster-bruce=untroubled.org@nari-rail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 215921 invoked from network); 7 Apr 2021 20:33:03 -0000
+Received: from mail.nari-rail.com ([195.88.25.37])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 20:33:02 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=nari-rail.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=marguerite-foster@nari-rail.com;
+ bh=ppN7bTg+YsL16WZ6a5t6lwBO2TQ=;
+ b=QPfPizrgQUaNAnXd/1mJWrhJ15eC60+v8PcJwV7JHbf3vZ+RebgeD6bOoidv4x+XhcUnIDPmqFRb
+   1Cj7vyFm31iUd8CkCwvYEGN5ZY7fCeLU4arae4/DxsaqEDLxn8EZcui/NCOR8MVczXYsT+Lh1Jt4
+   GLVgTAlctSWASEWS7oc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=nari-rail.com;
+ b=tE/lxcBxmHxgjjQp+otrgyIQuSP3k5x5PTGwKbzEL+yiP9alolLhqqhyjVwTwmVBGH8LT+MAr8ow
+   0/6Wo5IDChhNeee8ZNaB2mZumRQ6nWESo2yvavomvBSY+DjHgLh8jX8COEYqyjKyqoldGzObg8jF
+   ROWE8xwVFvJJkanht8w=;
+Received: by mail.nari-rail.com id hdobns0001gl for <bruce@untroubled.org>; Wed, 7 Apr 2021 16:33:01 -0400 (envelope-from <marguerite-foster-bruce=untroubled.org@nari-rail.com>)
+Date: Wed, 7 Apr 2021 16:33:01 -0400
+From: "Marguerite Foster" <marguerite-foster@nari-rail.com>
+To:   <bruce@untroubled.org>
+Subject: You'll never be without the charger you need again
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_253_1304285526.1617827432164"
+List-Unsubscribe: <http://www.nari-rail.com/b6f5c239y5Q89hq11gG1j1Qs4abj21UFv4GIf4rxvs4FhIHEsvZ7gQCnomQ6fz10iJ5mq0sv/benefitting-daresay>
+Message-ID: <0.0.0.2A.1D72BED34736A06.950BB@mail.nari-rail.com>
+Content-Length: 8092
+
+------=_Part_253_1304285526.1617827432164
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Tired of having the wrong cables when you leave the house? **
+---------------------------------------------------------------------------------------------------
+
+This cable keychain is a one-of-a-kind solution to your cable needs.  With 6 connections in one, this keychain is compatible with most current devices on the market.  It also contains strong N52 magnets to assure it will never leave your keychain.  Great for you or as a gift, get yours today!
+
+
+Buy Now -> http://www.nari-rail.com/1015W23z95Q8QB611Q1eKdch4abW21PFv4GIf4rxvs4FhIHEsvZ7uQCnomQ6Dy10jt6wUUlsv/declaratives-nimbleness
+
+
+
+
+
+
+Wright & King Computing Services
+612 E 89th St
+Brooklyn NY 11236-3440
+Change Email Preferences http://www.nari-rail.com/9176G239Pn5XS86x12rC1edN8i4abN21IFv4GIf4rxvs4FhIHEsvZ7bQCnomQ5Gs1G05cTzsv/blasphemes-Abba
+
+
+------=_Part_253_1304285526.1617827432164
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <!--Roger Fritz lives on the lake's west side. He said in a tweet that he=
+ saw one person swim to the south shore and one to the north. Another perso=
+n was rescued by someone in a kayak, he said.       "My guess is the water =
+is about 40 degrees," Fritz tweeted. Emergency scanners mentioned patients =
+with hypothermia.       Scott Grummer, a fisheries biologist with the Iowa =
+Department of Natural Resources said the water temperature was 39 to 42 deg=
+rees near the shore.       The air temperature at 8:30 a.m. at the Ames Mun=
+icipal Airport was 37 degrees, according to the National Weather Service. T=
+he wind chill was 27 degrees, and the winds were blowing out of the northwe=
+st at 20 mph with gusts up to 29 mph, the NWS said.       The lake was stil=
+l frozen over about two weeks ago, Fritz said in a Facebook Live video stre=
+am.       Sheriff Timmons said "the lake was pretty rough."
+      "I?m guessing they probably got swamped in some heavier waves," Fritz=
+ said. "Those crew boats are really shallow."--->=20
+  <meta charset=3D"UTF-8" />=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width" />=20
+ </head>=20
+ <body style=3D"background-color: #231F20">=20
+  <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h: 100%; max-width: 640px; font-family: Gotham, 'Helvetica Neue', Helvetica=
+, Arial, 'sans-serif'">=20
+   <tbody>
+    <tr>=20
+     <td>=20
+      <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center"> <a href=3D"http://www.nari-rail.com/blasphemes-Abba/eb84H2395Sh8Z612C1TedP7Y4abM21zFv4GIf4rxvs4FhIHEsvZ7WQCnomQ5W1lz06PMsBvU"> <img src=3D"=
+http://www.nari-rail.com/electrocution-mower/b706dv_2395Ruu7a11y1edh9Y4abp21dFv4GIf4rxvs4FhIHEsvZ7lQCnomQ6w1jp0T5m3Wsv" alt=3D"logo" style=3D"padding: 12px; width: 100%; max-width: 140px" />=
+ </a> <a href=3D"http://www.nari-rail.com/blasphemes-Abba/eb84H2395Sh8Z612C1TedP7Y4abM21zFv4GIf4rxvs4FhIHEsvZ7WQCnomQ5W1lz06PMsBvU"> <img src=3D"http://www.nari-rail.com/neared-conversions/d146Nq2n395M7avS12c1redaIn4ab_21gFv4GIf4rxvs4FhIHEsvZ7yQCnomQ7nt1j0PU5gBksv" style=3D"width: 100%=
+; max-width: 500px; padding-top: 10px" alt=3D"" /> </a> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center"> <h1 style=3D"color:white; max-width: 500px">=
+The Swiss Army Knife of Cables<span style=3D"color: #FFA300">.</span></h1> =
+<p style=3D"color:white; max-width: 520px">Six connections in one, charging=
+ <span style=3D"color: #FFA300"><strong>any device</strong></span> from <sp=
+an style=3D"color: #FFA300"><strong>any power source.</strong></span></p>=
+=20
+          <div style=3D"padding: 12px">=20
+           <a href=3D"http://www.nari-rail.com/blasphemes-Abba/eb84H2395Sh8Z612C1TedP7Y4abM21zFv4GIf4rxvs4FhIHEsvZ7WQCnomQ5W1lz06PMsBvU" style=3D"text-decoration: none; color: wh=
+ite; background-color: #FFA300; padding: 6px 14px; border-radius: 20px"><st=
+rong>Shop Now</strong></a>=20
+          </div>=20
+          <div style=3D"padding: 20px"></div> </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center"> <a href=3D"http://www.nari-rail.com/blasphemes-Abba/eb84H2395Sh8Z612C1TedP7Y4abM21zFv4GIf4rxvs4FhIHEsvZ7WQCnomQ5W1lz06PMsBvU"> <img style=3D"width:=
+ 100%; max-width: 300px" src=3D"http://www.nari-rail.com/ic56d239uM5p7ajJ12SOr1edbX4abL21OFv4GIf4rxvs4FhIHEsvZ7bQCnomQ7Rv1U0Bw6Qq31sv/blasphemes-Abba" alt=3D"cable combination illus=
+trations" /> </a>=20
+          <div style=3D"padding: 15px"></div> <h1 style=3D"color: white; ma=
+x-width: 460px">One Cable For Every Device, All in One<span style=3D"color:=
+ #ffa300">.</span></h1> <p style=3D"color:white; max-width: 500px">The keyc=
+hain is compatible with most devices out there. The keychain is only 1.5 in=
+ches long, making it the world's smallest keyring charging cable. Get yours=
+ today!</p>=20
+          <div style=3D"padding: 12px"></div> <a href=3D"http://www.nari-rail.com/blasphemes-Abba/eb84H2395Sh8Z612C1TedP7Y4abM21zFv4GIf4rxvs4FhIHEsvZ7WQCnomQ5W1lz06PMsBvU" style=
+=3D"text-decoration: none; color: white; background-color: #FFA300; padding=
+: 6px 14px; border-radius: 20px"><strong>Buy Now</strong></a>=20
+          <div style=3D"padding: 40px"></div> </td>=20
+         <!--A search Monday found the body of an Iowa State University stu=
+dent missing since the crew club boat he was in capsized Sunday morning. An=
+other student's body was located Sunday, and three other crew members made =
+it to shore.                      The five members of the rowing club were =
+training on Little Wall Lake, about 15 miles north of Ames, Iowa, on Sunday=
+ morning when their boat capsized, according to a news release from the uni=
+versity.                      Three of the students were rescued, and diver=
+s recovered the body of a fourth student, the Iowa State Daily reported.   =
+                   The search for the fifth person continued until 9 p.m. S=
+unday, the Des Moines Register reported. It resumed Monday morning. Investi=
+gators found the body on a side of the lake using sonar technology, WOI-TV =
+reported.                      The body was recovered about 9:45 a.m., befo=
+re strong winds caused weather conditions to deteriorate, the Iowa State Da=
+ily reported. Hamilton County Sheriff Doug Timmons said choppy waters and c=
+old water temperatures would have made it more dangerous for divers.       =
+               The names of the students have not been released.           =
+           (MORE: Flooding Kills 5 in Tennessee, Forces Evacuations in Kent=
+ucky)
+                     Timmons told the ISD his office received a 911 call at=
+ about 9:30 a.m. Sunday. Several people who live around the lake helped res=
+cue some of the students, he said.                      "We've also had sev=
+eral heroes that live in the buildings out here, came out and help the indi=
+viduals," Timmons said. "This could have been a lot worse than what it is, =
+what it's going to be."--->=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center" style=3D"color:grey"> <p>Cohen &amp; Verrel D=
+ata Solutions</p> <p>386 Colby Siding Rd</p> <p>Caribou, ME 4736-5540</p> <=
+a href=3D"http://www.nari-rail.com/electrocution-mower/4e06Gh2o395z86xK11o1ed8Oj4abk21WFv4GIf4rxvs4FhIHEsvZ7DQCnomQ6XX10Gx6CkUsvO">Update Communication Preferences</a> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img src=3D"http://www.nari-rail.com/af75N239Q5lZz8511j1peddU4abj21UFv4GIf4rxvs4FhIHEsvZ7rQCnomQ7irG10Pi5c2@sv/benefitting-daresay" alt=3D""/></body>
+</html>
+
+------=_Part_253_1304285526.1617827432164--
+

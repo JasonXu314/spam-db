@@ -1,0 +1,290 @@
+Return-Path: <savagegrowplus.comoffer-bruce=untroubled.org@getsccw.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1188793 invoked from network); 4 Apr 2021 17:42:36 -0000
+Received: (qmail 160799 invoked by uid 222); 4 Apr 2021 17:42:35 -0000
+Return-Path: <savagegrowplus.comoffer-bruce=untroubled.org@getsccw.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 160796 invoked from network); 4 Apr 2021 17:42:35 -0000
+Received: from mail.getsccw.xyz ([70.102.103.131])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 17:37:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=getsccw.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=savagegrowplus.comoffer@getsccw.xyz;
+ bh=DRuRdvhlyePJpmCNpKren4G4d48=;
+ b=th6Uydlk6omN1PiG0OtXasXsYawN1RtfNjIDqG5HywLseKHKoYly4anNafq5rzlyXrnB/EHHyw8l
+   o1r6Vo4vOHLs8/DFh47hDanwSFsdJz8ws1fXl7FOIgWKeh3TG09zjbbLD0SVc7IoFj8XVfXwfSiV
+   J8RteA7g6iI+MQP+B3U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=getsccw.xyz;
+ b=s9OtWYDTyaokNJTamWhhcUAwRrPN8qGCt3u8ecyJ8CUZaU5oflUvNE0/ACLrkCQ6jRJ6b91MlYc7
+   qYmZa208gX0J5k5FFV4FcJPXNl+9ubkymfIl4LDpqK3etdvacpidyKgVcR9q/rCd8YfisElYFi7d
+   tIN7keV6s/CCMZcvF6U=;
+Received: by mail.getsccw.xyz id hd7slu0001gt for <bruce@untroubled.org>; Sun, 4 Apr 2021 13:29:58 -0400 (envelope-from <savagegrowplus.comoffer-bruce=untroubled.org@getsccw.xyz>)
+Date: Sun, 4 Apr 2021 13:29:58 -0400
+From: Savagegrowplus.comOffer <savagegrowplus.comoffer@getsccw.xyz>
+To:   <bruce@untroubled.org>
+Subject: Regrow Your Manhood To Its Full Size
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_808_52119989.1617557377770"
+List-Unsubscribe: <http://www.getsccw.xyz/9e94z2395eF8r912L11rPVL4a43M21HFv4GIf4rxvs4FhIHEsvZ8iRNnKKRK7b1nwwL06lWc0yY/converted-poled>
+Message-ID: <0.0.0.59.1D7297822868548.2E5DA0@mail.getsccw.xyz>
+Content-Length: 18371
+
+------=_Part_808_52119989.1617557377770
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>remark</title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">This dude is crazy but <a href=3D"http://www.getsccw.xyz/5756hs239N5Glz8612j15a88t4a43J21HFv4GIf4rxvs4FhIHEsvZ8BRNnKKRK5hCF106r2OlcY/summarizations-alkyl">=
+what a secret he discovered</a>...</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">He took his wife to a remote African island to=
+ negotiate with the tribe elders, including 3 African priests, the sacred s=
+ecret to gain 6 inches on his member.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">But they needed something in exchange.</span><=
+/span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">This guys WIFE...</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">Don' t worry, it was just for a short period o=
+f time, but what followed after it' s wilder than anything you' d see on th=
+e craziest rated movies.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; "><a href=3D"http://www.getsccw.xyz/5756hs239N5Glz8612j15a88t4a43J21HFv4GIf4rxvs4FhIHEsvZ8BRNnKKRK5hCF106r2OlcY/summarizations-alkyl">The dude actually docum=
+ented everything here</a>? </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:arial,helvetica,sans-=
+serif; "><span style=3D"font-size:14px; "><a href=3D"http://www.getsccw.xyz/5756hs239N5Glz8612j15a88t4a43J21HFv4GIf4rxvs4FhIHEsvZ8BRNnKKRK5hCF106r2OlcY/summarizations-alkyl"><img alt=
+=3D"man helerc" src=3D"http://www.getsccw.xyz/7376Q2hV395In7aD12a15a8bh4a43g21VFv4GIf4rxvs4FhIHEsvZ8BRNnKKRK7q1WoW0N5l3pcY/sensual-experimentation" style=3D"width: 589px; height: 391px; "=
+ /></a></span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">He came back with his wife happier than ever a=
+nd 6 inches more on his manhood and says he' ll gladly go back just for the=
+ fun.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">He said his wife asked him to share the whole =
+thing with the world.</span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">Apparently this <strong>TURNS HER ON</strong>?=
+ </span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">Well, it' s for everyone' s benefit since it s=
+upposedly already helped a few thousand fellows achieve the same results.</=
+span></span></p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; ">&nbsp; </p>=20
+  <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: =
+-webkit-standard; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: auto; word-s=
+pacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; "><span style=3D"font-family:georgia,serif; "><spa=
+n style=3D"font-size:16px; ">I don' t know how much longer the video will b=
+e online, but honestly it' s just madness not to see it...</span></span></p=
+>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-s=
+pacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wido=
+ws: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-s=
+troke-width: 0px; text-decoration: none; margin: auto; " width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <=
+br /> <br /> If you do not wish to receive future messages click here to <s=
+pan class=3D"unstyle-auto-detected-links"><a href=3D"http://www.getsccw.xyz/fadeout-relaxes/4Qe5D23s95U8wC612d15a89P4a43y21GFv4GIf4rxvs4FhIHEsvZ8yRNnKKRK6R1Br0L6eWpcYp" style=3D"f=
+ont-family: sans-serif; font-size: 10px; line-height: 14px; color: rgb(153,=
+ 153, 153); text-decoration: underline !important; ">unsubscribe</a></span>=
+<br /> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.getsccw.xyz/5756hs239N5Glz8612j15a88t4a43J21HFv4GIf4rxvs4FhIHEsvZ8BRNnKKRK5hCF106r2OlcY/summarizations-alkyl" style=3D"font-family: sans-serif; font-size: 10px; line-height: 14px;=
+ text-align: center; color: rgb(153, 153, 153); text-decoration: underline =
+!important; "><span style=3D"color: rgb(102, 102, 102); ">Mellitox.com</spa=
+n></a> &nbsp; |&nbsp; 200 Continental Drive, Suite 401, Newark, DE, 19713, =
+US </span><br /> <br /> Leave&nbsp; <a href=3D"http://www.getsccw.xyz/decoded-Shirley/9cc4Q2395vN8t912f15a8aX4a43v21QFv4GIf4rxvs4FhIHEsvZ8WRNnKKRK6g1l0Qn5n@McY">Here</a>=
+<br /> <br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs C=
+O<br /> &nbsp; <p class=3D"gnt_ar_b_p"><br /> <br /> <br /> <br /> <br /> &=
+nbsp; </p> <p class=3D"text | article-text" style=3D"box-sizing: border-box=
+; margin-top: 0px; margin-bottom: 1rem; caret-color: rgb(33, 37, 41); color=
+: rgb(33, 37, 41); font-family: &quot; Segoe UI&quot; , Roboto, &quot; Helv=
+etica Neue&quot; , Arial, &quot; Noto Sans&quot; , sans-serif, &quot; Apple=
+ Color Emoji&quot; , &quot; Segoe UI Emoji&quot; , &quot; Segoe UI Symbol&q=
+uot; , &quot; Noto Color Emoji&quot; ; font-size: 16px; font-style: normal;=
+ font-variant-caps: normal; font-weight: normal; letter-spacing: normal; or=
+phans: auto; text-align: left; text-indent: 0px; text-transform: none; whit=
+e-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust:=
+ auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><br /> <br =
+/> &nbsp; </p> <p style=3D"box-sizing: border-box; margin: 0px 0px 1.5rem; =
+caret-color: rgb(42, 42, 42); color: rgb(42, 42, 42); font-family: PublicoT=
+ext, Georgia, TimesNewRoman, &quot; Times New Roman&quot; , Times, Baskervi=
+lle, serif; font-size: 18px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; widows: a=
+uto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke=
+-width: 0px; text-decoration: none; "><span style=3D"color:#D3D3D3; ">oting=
+ rights advocate Ns&eacute; Ufot has been fighting for a week like this all=
+ year.</span></p> <p style=3D"box-sizing: border-box; margin: 1.5rem 0px; c=
+aret-color: rgb(42, 42, 42); color: rgb(42, 42, 42); font-family: PublicoTe=
+xt, Georgia, TimesNewRoman, &quot; Times New Roman&quot; , Times, Baskervil=
+le, serif; font-size: 18px; font-style: normal; font-variant-caps: normal; =
+font-weight: normal; letter-spacing: normal; orphans: auto; text-align: sta=
+rt; text-indent: 0px; text-transform: none; white-space: normal; widows: au=
+to; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-=
+width: 0px; text-decoration: none; "><span style=3D"color:#D3D3D3; ">For mo=
+nths, more than a half-dozen activist groups, including her own New Georgia=
+ Project, had urged business interests to denounce Republican-led efforts t=
+o restrict voting access in Georgia, she said. Billboards had gone up acros=
+s the state that parodied corporate slogans, urging action. Advocates proje=
+cted campaigns on the side of a hotel hosting attendees for the NBA All-Sta=
+r weekend in early March.</span></p>=20
+      <div id=3D"taboolaReadMoreBelow" style=3D"box-sizing: border-box; car=
+et-color: rgb(42, 42, 42); color: rgb(42, 42, 42); font-family: PublicoText=
+, Georgia, TimesNewRoman, &quot; Times New Roman&quot; , Times, Baskerville=
+, serif; font-size: 18px; font-style: normal; font-variant-caps: normal; fo=
+nt-weight: normal; letter-spacing: normal; orphans: auto; text-align: start=
+; text-indent: 0px; text-transform: none; white-space: normal; widows: auto=
+; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; ">
+       &nbsp;=20
+      </div> <p style=3D"box-sizing: border-box; margin: 1.5rem 0px; caret-=
+color: rgb(42, 42, 42); color: rgb(42, 42, 42); font-family: PublicoText, G=
+eorgia, TimesNewRoman, &quot; Times New Roman&quot; , Times, Baskerville, s=
+erif; font-size: 18px; font-style: normal; font-variant-caps: normal; font-=
+weight: normal; letter-spacing: normal; orphans: auto; text-align: start; t=
+ext-indent: 0px; text-transform: none; white-space: normal; widows: auto; w=
+ord-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; text-decoration: none; "><span style=3D"color:#D3D3D3; ">The compani=
+es had offered cautious statements, and what Ufot calls &quot; hand-wringin=
+g&quot; and &quot; shoulder shrugging.&quot; That is, until Wednesday, when=
+ Atlanta-based Delta Airlines and Coca-Cola</span></p> <br /> &nbsp; </td>=
+=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"30" style=3D"font-size: 0px; line-height: 0px; ">&nbsp; =
+</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>  =20
+ <img src=3D"http://www.getsccw.xyz/42b4F2395i8Iu512m15a8cr4a43U21DFv4GIf4rxvs4FhIHEsvZ8NRNnKKRK7dQH1r0A6WLp2cY/summarizations-alkyl" alt=3D""/></body>
+</html>
+
+------=_Part_808_52119989.1617557377770--
+

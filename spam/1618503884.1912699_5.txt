@@ -1,0 +1,75 @@
+Return-Path: <renewal-by-andersen-facts-bruce=untroubled.org@new9.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2613177 invoked from network); 15 Apr 2021 15:14:51 -0000
+Received: (qmail 86817 invoked by uid 222); 15 Apr 2021 15:14:50 -0000
+Return-Path: <renewal-by-andersen-facts-bruce=untroubled.org@new9.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 86814 invoked from network); 15 Apr 2021 15:14:50 -0000
+Received: from mail.new9.cloud ([70.102.102.13])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 15:14:50 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=new9.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal-by-andersen-facts@new9.cloud;
+ bh=a1KYCXHH46xl/Cf32jspKdb3CHE=;
+ b=pOao1enYOT6mHyVwL6XHGBE5W8P3m3DRVvV7WqpZpTJjpDeH+eK/h+dK7J48ofChCFufGkd4f1cw
+   nsKxCnwc7L9LLIdPHn5i9TjC0g5md66bHyYPH2nBXjFjcX4Cprsdjt9HQULprW53uSfQ3biLYjeC
+   P/Q4ptKi8IX4aYySuIE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=new9.cloud;
+ b=lT5BHLIVrZ32muj5//y779LcAhaMGut2FencmfSIYxuVR6l7Lraem6deKfHuyv5TnMg9/mFtcuLX
+   PqcrimcQli86/v12Pgi4QqupC+Z5rtvhPy3VonmuIUpuih78AbauFECMNmsn3qebFy9ECUlvsNUX
+   fWB3IW6Q51v+uzVVBpc=;
+Received: by mail.new9.cloud id hf1c6k0001gg for <bruce@untroubled.org>; Thu, 15 Apr 2021 11:09:56 -0400 (envelope-from <renewal-by-andersen-facts-bruce=untroubled.org@new9.cloud>)
+Date: Thu, 15 Apr 2021 11:09:56 -0400
+From: "Renewal By Andersen Facts" <renewal-by-andersen-facts@new9.cloud>
+To:   <bruce@untroubled.org>
+Subject: Buy One, Get One 40% off* *with minimum purchase
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_841_1208010600.1618499378557"
+List-Unsubscribe: <http://www.new9.cloud/K4d4D2395L_8Y911et11Tj4ae1U21aFv4GIf4rxvs4FhIHEsvZ8fR3omn9d7lqm1Wq06ABPAcY/eclipsed-horned>
+Message-ID: <0.0.0.5D.1D7320965273638.1912FD@mail.new9.cloud>
+Content-Length: 3334
+
+------=_Part_841_1208010600.1618499378557
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>traversing</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.new9.cloud/electroencephalograph-estates/b165pj2395mX86A12d15dd5I4ae1R21FFv4GIf4rxvs4FhIHEsvZ8pR3omn9d7SWj1kZ06oycYkN"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 691px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.new9.cloud/stinkers-propose/b525O23g95c8V6I12N15dd6w4ae1Z21vFv4GIf4rxvs4FhIHEsvZ8AR3omn9d7Pu1oGi06z1cYlk">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.new9.cloud/eclipsed-horned/2886U239M_5wW8z613n1k5dd7U4ae1Y21UFv4GIf4rxvs4FhIHEsvZ8wR3omn9d5eqU106f1JUcY">here.</a></b></span></span></p> <span style="font-family:verdana,geneva,sans-serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Leave<a href="http://www.new9.cloud/de55XU2395tS8F913iD15dd8I4ae1N21LFv4GIf4rxvs4FhIHEsvZ8sR3omn9d7z1I0jkg6ElNcYL/by-scheming"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style><style></style></style><small></small><font></font><big><span></span></big><span></span>  
+ <img src="http://www.new9.cloud/f2f5pw2395jO85O12P15dd9y4ae1M21vFv4GIf4rxvs4FhIHEsvZ8wR3omn9d6b10OoB5eyycY/Hillcrest-Kirkpatrick" alt=""/></body>
+</html>
+
+------=_Part_841_1208010600.1618499378557--
+

@@ -1,0 +1,199 @@
+Return-Path: <samantha.stewart-bruce=untroubled.org@redmountianhighschool.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3051332 invoked from network); 19 Apr 2021 20:47:33 -0000
+Received: (qmail 38801 invoked by uid 222); 19 Apr 2021 20:47:33 -0000
+Return-Path: <samantha.stewart-bruce=untroubled.org@redmountianhighschool.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 38798 invoked from network); 19 Apr 2021 20:47:33 -0000
+Received: from mail.redmountianhighschool.com (205-236-248-88.serversto.com [205.236.248.88])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 20:47:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=redmountianhighschool.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=samantha.stewart@redmountianhighschool.com;
+ bh=hDPNPF7Q180POQ46CFS9wuhK9Ag=;
+ b=bjZ5GqUf5vTnTNyeztHEhfsddZvb9pXXGbjg36TQbJc439kuR0D6Qh9nBpedzwpcxlWiZh/M73rg
+   nBblUZs9t3mN4qJDYtGqA2G3IBlVmd82vmS9y26R/L0HXLVaNbBaNUFIW9dHTbFda1ME0qqP75ks
+   IW3eWnxiuaAwyCJwMD8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=redmountianhighschool.com;
+ b=Zt6G8AktkOMAb3rhtVBGU2vXulmLB2zDM1Jj0gEBeuSOJYZEI4HpMBhjWuqzFHNIPHSdsvyWpK0Z
+   CEQQweHIGP5YaMogfkuu6bWUGu3bYTEaAUF3BQJZ90gMugSDGE4wbBCm68dCstgQhKpUHo2wcF8w
+   VIVU5c5yTn8MNtjy+P8=;
+Received: by mail.redmountianhighschool.com id hfnmf20001g3 for <bruce@untroubled.org>; Mon, 19 Apr 2021 16:46:38 -0400 (envelope-from <samantha.stewart-bruce=untroubled.org@redmountianhighschool.com>)
+Date: Mon, 19 Apr 2021 16:46:38 -0400
+From: "Samantha Stewart" <samantha.stewart@redmountianhighschool.com>
+To:   <bruce@untroubled.org>
+Subject: Finally, A Tape Measurer With Digital Technology Allowing Precise Measurements
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_493_1423041871.1618865027453"
+List-Unsubscribe: <http://www.redmountianhighschool.com/spectacle-portends/5764G2395Q8Wp912lMX1V1vX4e6n21hFv4GIf4rxvs4FhIHEsvZ7OQ1noRe5Kn10u5gqWsv>
+Message-ID: <0.0.0.52.1D7355D1847AF12.6CED5B@mail.redmountianhighschool.com>
+Content-Length: 9324
+
+------=_Part_493_1423041871.1618865027453
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** THERE ARE ONLY SO MANY TOOLS YOU CAN FIT IN YOUR TOOLBAG.  THAT'S WHY WE PUT 3-IN-1.  **
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This tape measure includes three different measuring tools so you'll always get an accurate measurement no matter the object.  A rolling tool great for curved surfaces and irregular objects, a flex cord for measuring around objects, and a laser tool for long measurements and hard to reach areas.  On top of that all measurements are precise to 1/100 of an inch. 
+
+
+Buy Now 45% Off -> http://www.redmountianhighschool.com/c9b4j2395CJN8612n20Df0on4e6h21OFv4GIf4rxvs4FhIHEsvZ7SQ1noRe5sv10R5iBqsv/Gothicizer-planter
+
+
+
+
+
+
+
+Portnoy-Benz Data Transit
+1007 Main St, Eudora, KS, 66025-9447
+Click here http://www.redmountianhighschool.com/bicarbonate-equivalents/c065K23R95Ds86h10A20f1n4e6K21uFv4GIf4rxvs4FhIHEsvZ7OQ1noRe5z10hx6S01sAv to edit your messaging preferences. 
+
+
+
+------=_Part_493_1423041871.1618865027453
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.redmountianhighschool.com/spectacle-portends/7564L2395F86BD10C20e8T4e6r21vFv4GIf4rxvs4FhIHEsvZ7bQ1noRe6NIN1j06r12s@v"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.redmountianhighschool.com/Gothicizer-planter/e7c5g239y5rT7ao11S2K0edG4e6t21hFv4GIf4rxvs4FhIHEsvZ7RQ1noRe7zA1RzT06e0svpT" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.redmountianhighschool.com/spectacle-portends/7564L2395F86BD10C20e8T4e6r21vFv4GIf4rxvs4FhIHEsvZ7bQ1noRe6NIN1j06r12s@v"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.redmountianhighschool.com/multiprocessors-meteorite/e5e6A2w3q95Hyj7a11Y2y0eeo4e6G21KFv4GIf4rxvs4FhIHEsvZ7gQ1noRe5h10Lq5Eklsv" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.redmountianhighschool.com/spectacle-portends/7564L2395F86BD10C20e8T4e6r21vFv4GIf4rxvs4FhIHEsvZ7bQ1noRe6NIN1j06r12s@v"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.redmountianhighschool.com/spectacle-portends/7564L2395F86BD10C20e8T4e6r21vFv4GIf4rxvs4FhIHEsvZ7bQ1noRe6NIN1j06r12s@v"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.redmountianhighschool.com/manhole-homemakers/7385B23F95DO7ai10O20efg4e6k21PFv4GIf4rxvs4FhIHEsvZ7CQ1noRe6e1PZt06rkLsMv" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.redmountianhighschool.com/spectacle-portends/7564L2395F86BD10C20e8T4e6r21vFv4GIf4rxvs4FhIHEsvZ7bQ1noRe6NIN1j06r12s@v"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.redmountianhighschool.com/trying-snouts/bac5Jl2395P86nR10r20e9P4e6u21MFv4GIf4rxvs4FhIHEsvZ7gQ1noRe5vz10P6eAsTvk">Update Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p>&nbsp;</p> <h2><span style=3D"color: #ffffff;">6 COVID-19 Vac=
+cine Myths It's Time to Stop Believing ? Here's the Truth</span></h2> <h6><=
+span style=3D"color: #ffffff;">Myth #1: The COVID-19 vaccine was rushed; th=
+ere wasn't enough testing.</span></h6> <p><span style=3D"color: #ffffff;"><=
+strong>Fact:</strong>&nbsp;While it might appear that pharmaceutical compan=
+ies rushed these vaccines to market too quickly, the truth is that&nbsp;<a =
+style=3D"color: #ffffff;" href=3D"http://www.redmountianhighschool.com/Doge-receded/62a4O2395GJI8610r20eak4e6T21NFv4GIf4rxvs4FhIHEsvZ7gQ1noRe6rUy10x5z3svy" target=3D"_blank" rel=3D"noop=
+ener noreferrer">there were no shortcuts</a>&nbsp;when it came to their dev=
+elopment or clinical trials.</span></p> <p><span style=3D"color: #ffffff;">=
+?The entire biotech industry pivoted to focus on COVID-19 and the pandemic,=
+? Dr. O'Connor said. ?Advancements in genetics, existing mRNA technology, u=
+nprecedented support and focused efforts all came together to facilitate th=
+e rapid development of safe and effective COVID-19 vaccines. Scientific int=
+egrity and principles were not compromised.?</span></p> <p><span style=3D"c=
+olor: #ffffff;">In other vaccine and drug developments, it can take months =
+and months to gather a small cohort of participants for clinical trials. Fo=
+r the COVID-19 vaccine, tens of thousands lined up quickly to enroll in the=
+ randomized trials. The FDA, as well as an independent panel of vaccine exp=
+erts, closely scrutinized the data for the trials to ensure the vaccines we=
+re safe and effective and that no shortcuts were taken in the process. And,=
+ that's not just in the U.S. Similar panels in other countries have done th=
+e same thing.</span></p> <h6><span style=3D"color: #ffffff;">Myth #2: The v=
+accine will give me COVID-19 or contains a live virus that can make me sick=
+</span></h6> <p><span style=3D"color: #ffffff;"><strong>Fact:</strong>&nbs=
+p;While you&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.redmountianhighschool.com/trying-snouts/8466J23Pq95J86_O10n20ebB4e6m21qFv4GIf4rxvs4FhIHEsvZ7cQ1noRe6X1u0MK5CW0sv">might hav=
+e mild?and expected?side effects</a>&nbsp;like a headache, fatigue or chill=
+s, that's only your body creating an immune response?not symptoms that you'=
+ve been infected. The truth is that there is no live or killed virus in the=
+ vaccine, so there is no way of infecting you. As well, the vaccine won't c=
+ause you to test positive on a&nbsp;<a style=3D"color: #ffffff;" href=3D"=
+http://www.redmountianhighschool.com/reworking-nuptial/Fc66y2U39O5o8Sg612S20eJclR4e6l21QFv4GIf4rxvs4FhIHEsvZ7iQ1noRe6v10RIV5EO0sv" target=3D"_blank" rel=3D"noopener noreferrer">PCR or antigen test=
+</a>&nbsp;either. Only being infected with COVID-19 will cause you to test =
+positive.</span></p> <p><span style=3D"color: #ffffff;">To break it down, t=
+he first two COVID-19 vaccines basically teach your immune system to recogn=
+ize and protect against the virus. The vaccines make our bodies produce one=
+ single protein from the virus?the protein that infects our cells?and helps=
+ us build a resistance to infection.</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.redmountianhighschool.com/trying-snouts/4e05u239l5EIU8512B20fm2Ht4e6L21tFv4GIf4rxvs4FhIHEsvZ7zQ1noRe5Iy10o5uLUsv" alt=3D""/></body>
+</html>
+
+------=_Part_493_1423041871.1618865027453--
+

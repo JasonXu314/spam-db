@@ -1,0 +1,118 @@
+Return-Path: <marian.ruiz-bruce=untroubled.org@slacklovers.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3053456 invoked from network); 19 Apr 2021 22:02:14 -0000
+Received: (qmail 41053 invoked by uid 222); 19 Apr 2021 22:02:14 -0000
+Return-Path: <marian.ruiz-bruce=untroubled.org@slacklovers.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 41050 invoked from network); 19 Apr 2021 22:02:14 -0000
+Received: from mail.slacklovers.com (205-236-248-227.serversto.com [205.236.248.227])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 22:02:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=slacklovers.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=marian.ruiz@slacklovers.com;
+ bh=e/idzsNLfHdeIifb7BWkGzGLjNQ=;
+ b=fILC0S0rat/JWjVMtRYsVmHhguvTflyiFX8j3cQsiI7qOoRQ93J5eSjxJ1lMlmQYEwO/PLO+FqpL
+   2mEkNgW5pQPTxL/KGz9Edo6TGTYhs5fgQl2AnVbg1HRQi6UeibcQ1xQDtB3yXFgyXL2QMA6NDpAg
+   OuBgLy2bbCqWeiLQJsY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=slacklovers.com;
+ b=kdrKMYIoGDKUAEYSKnMuqOHqpS0vTDekQq8wauy1YanlQMSWtSZwu7pnC82f1blMV40tm3042fPW
+   0aFDTc3QqtgD28dKLFlPD3Hvz7m9jdQiRTIgaddhDEwcygjqOkTsle4OACuhBwSdgVifW0Rbqc2w
+   VTyNL+jcOMFnPiE/YXI=;
+Received: by mail.slacklovers.com id hfnv6q0001gr for <bruce@untroubled.org>; Mon, 19 Apr 2021 18:00:57 -0400 (envelope-from <marian.ruiz-bruce=untroubled.org@slacklovers.com>)
+Date: Mon, 19 Apr 2021 18:00:57 -0400
+From: "Marian Ruiz" <marian.ruiz@slacklovers.com>
+To:   <bruce@untroubled.org>
+Subject: New Technology Allows You To Measure Any Area In Seconds With Digital Readings
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_571_1405202753.1618869401571"
+List-Unsubscribe: <http://www.slacklovers.com/provincial-Waldron/7564J2395A8g9m12WJHnu11S4e8i21yFv4GIf4rxvs4FhIHEsvZ7IQDnoSm6e1_T0v5D3svy>
+Message-ID: <0.0.0.5F.1D7356779F51AF6.744F67@mail.slacklovers.com>
+Content-Length: 6323
+
+------=_Part_571_1405202753.1618869401571
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** A REGULAR TAPE MEASURE COULDN'T MEASURE THAT.  BUT OURS CAN **
+------------------------------------------------------------
+Our Measure King tape measure is equipped with a precise, easy-to-read digital LED display and includes three different measuring tools.  Perfect for measuring rooms, furniture, work projects, and more.   We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+
+Visit our site -> http://www.slacklovers.com/2tf5a2v395n_8K610L20fcV4e8k21pFv4GIf4rxvs4FhIHEsvZ7fQDnoSm5O1o0g6FL3sAv/ponderous-alba in the next 24 hours to take advantage of the event with 48% Off!  We've got a Measure King with your name on it. 
+
+
+
+
+Phillips-Murphy Computing Engineers
+890 W End Ave Apt 2a
+New York, NY 10025-3520
+Update Subscription Preferences http://www.slacklovers.com/7cd5E2T395kxJ8612m20fdZjI4e8K21eFv4GIf4rxvs4FhIHEsvZ7tQDnoSm7aQ1RIi05Lpysv/synonyms-plebiscites 
+
+
+------=_Part_571_1405202753.1618869401571
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!--Myth #5: Once I get the COVID-19 vaccine, I don?t need to wear a mask or social distance. Fact: It is important to continue masking and social distancing after you?ve received the COVID-19 vaccine, until public health experts recommend the easing of those practices. The COVID-19 vaccines were granted Emergency Use Authorization by the FDA for their ability to prevent illness and death, but it?s not clear if they?ll also protect against asymptomatic infection and spread. Studies to determine this are ongoing. With that in mind, even if you get the vaccine, you should continue to mask around others, wash your hands and practice social distancing. These behaviors are very important to protect those around you until we have the majority of Americans vaccinated. Myth #6: We don?t know what?s in these vaccines. The vaccine could change my DNA or I could be tracked without even knowing!
+Fact:  Despite what you?ve read or heard on social media, not only do we know exactly what?s in the COVID-19 vaccines, but we also know that they won?t change our genetic makeup and don?t contain any form of tracking device. ?Both vaccines rely on mRNA (messenger RNA) that tells our cells to make a portion of the viral spike protein which is the portion of the virus used to infect our cells,? Dr. O?Connor said. ?This triggers an immune response to the viral spike protein thus offering protection when exposed to the SARs-CoV2 virus. The vaccine?s mRNA does not last long in our bodies and can?t be incorporated in our DNA.?
+The vaccines aren?t DNA-based vaccines. They?re mRNA-based vaccines, which means they don?t enter our DNA and can?t modify our DNA. Both Pfizer-BioNTech and Moderna have published the ingredient lists. The vaccines don?t include location-tracking devices, so any statements suggesting otherwise are fictional.--->
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta name="viewport" content="width=device-width" /> 
+  <style>
+         img {
+         max-width: 100%
+         }
+         @media only screen and (max-width: 600px) {
+         tr td {
+         display: block !important;
+         width: 100% !important;
+         }
+         }
+      </style> 
+ </head> 
+ <body style="background: #fff; padding: 0px; margin: 0px;"> 
+  <table cellpadding="0" cellspacing="0" width="100%" style="background: #fff; padding: 0px; margin: 0px;font-family: Arial; width: 100%"> 
+   <tbody>
+    <tr> 
+     <td> 
+      <table width="100%" align="center" cellpadding="0" cellspacing="0" style="max-width: 640px; width: 100%"> 
+       <tbody>
+        <tr> 
+         <td background="#de1c24" width="100%" align="center" style="background-color: #de1c24;"> <h1 style="color: #fff;">Look familiar?</h1> </td> 
+        </tr> 
+        <tr> 
+         <td width="100%"> <a target="_blank" href="http://www.slacklovers.com/6474f2395foD8612W20XGf9_4e8W21DFv4GIf4rxvs4FhIHEsvZ7wQDnoSm7a10gyNW5OWsjv/provincial-Waldron"><img style="max-width: 100%;" src="http://www.slacklovers.com/7376c2h39S5cH7ja12m20pfNbi4e8m21qFv4GIf4rxvs4FhIHEsvZ7zQDnoSm7f1Mi0Gh6Q3sMvU/ravens-poetry" alt="packed toolbag" /></a> </td> 
+        </tr> 
+        <tr> 
+         <td width="100%" align="center"> <h2 style="color: #de1c24;">There are only so many tools you can fit in your toolbag. That's why we put 3-in-1.</h2> <p>Our Measure King tape measure is equipped with a precise, easy-to-read digital LED display and includes three different measuring tools. Perfect for measuring rooms, furniture, work projects, and more.</p> 
+          <div style="margin-top: 40px;"> 
+           <a href="http://www.slacklovers.com/6474f2395foD8612W20XGf9_4e8W21DFv4GIf4rxvs4FhIHEsvZ7wQDnoSm7a10gyNW5OWsjv/provincial-Waldron" style="background-color: #de1c24; padding: 12px; color: #fff;text-decoration: none; ">SHOP NOW</a> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table width="100%" align="center" cellpadding="0" cellspacing="0" style="max-width: 640px; width: 100%"> 
+       <tbody>
+        <tr> 
+         <td width="100%" height="80px;"> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table width="100%" align="center" cellpadding="0" cellspacing="0" style="max-width: 640px; width: 100%"> 
+       <tbody>
+        <tr> 
+         <td width="100%" style="line-height: 13px; font-size: 13px;" align="center"> <p>Crisson Wells Net Grid</p> <p>30 Prescott Terrace, Quincy, MA 2169-6016</p> <p>Click <a target="_blank" href="http://www.slacklovers.com/5934a2395A8R6u10d20fay4e8u21wFv4GIf4rxvs4FhIHEsvZ7tQDnoSm5Aj10G6V@lsyv/provincial-Waldron">here</a> to end further messaging.</p> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table>  
+ <img src="http://www.slacklovers.com/astonishingly-fighter/b165b239x5i8N5O12Q2j0f_ev4e8z21EFv4GIf4rxvs4FhIHEsvZ7HQDnoSm6bW1ij05C@Tsv" alt=""/></body>
+</html>
+
+------=_Part_571_1405202753.1618869401571--
+

@@ -1,0 +1,133 @@
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@carryhere.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1189441 invoked from network); 4 Apr 2021 18:19:21 -0000
+Received: (qmail 161013 invoked by uid 222); 4 Apr 2021 18:19:20 -0000
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@carryhere.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 161010 invoked from network); 4 Apr 2021 18:19:20 -0000
+Received: from mail.carryhere.xyz ([70.102.103.44])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 18:19:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=carryhere.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifequote.selectquote.com@carryhere.xyz;
+ bh=ig6ZM0Rwqnbpz8ARueQzD//y1lI=;
+ b=riapIVB2aoq2HRTlUbG4+VZNXhZOjX0TNtFH6UhurNbSnFgIR+uBzlBMIEt7Y6UpgFYNgSMeF715
+   rcJPzrLqUN5qQ1O857sx4jQyU2lD7ZXIMTtNutsk/v0UrJKanJ0V51KjXkEdMY8CRkOmuYEh6YbR
+   CT2WF4XAiZjUSKheic0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=carryhere.xyz;
+ b=CcvBvV10jwzcBzIiawgGbod+n7q678MhI1/YuiNHcom+sGbQYJUhTJSrYttbgi/va0DFMm1gPov5
+   Gn/e6Z1swXJskwUAAAaUX1tqDImRd+iq1LhCc7XuJitW+CGlrkQxUuNbhGWeq73IwfK0P4vYleGy
+   yEomNKgy+ts5IyHLEgQ=;
+Received: by mail.carryhere.xyz id hd81i80001gu for <bruce@untroubled.org>; Sun, 4 Apr 2021 14:13:14 -0400 (envelope-from <lifequote.selectquote.com-bruce=untroubled.org@carryhere.xyz>)
+Date: Sun, 4 Apr 2021 14:13:14 -0400
+From: Lifequote.selectquote.com <lifequote.selectquote.com@carryhere.xyz>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_907_1961452200.1617559980270"
+List-Unsubscribe: <http://www.carryhere.xyz/5ed4j2395s8zq913fSgR11ym4a44j21mFv4GIf4rxvs4FhIHEsvZ11rRunKKSmo296O1pSz05o@cYy/maddening-limply>
+Message-ID: <0.0.0.64.1D7297E2E206C88.4BED9B@mail.carryhere.xyz>
+Content-Length: 6667
+
+------=_Part_907_1961452200.1617559980270
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>conferee</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.carryhere.xyz/4c15v2X395ot8s617Wz15XaQp8IdH4a44y21gFv4GIf4rxvs4FhIHEsvZ11fRunKKSmo295v1t0l6MBcYXN/hairpin-licensing">Get fast coverage in minutes dont leave your fa=
+mily in debt&nbsp; </a><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.carryhere.xyz/4c15v2X395ot8s617Wz15XaQp8IdH4a44y21gFv4GIf4rxvs4FhIHEsvZ11fRunKKSmo295v1t0l6MBcYXN/hairpin-licensing"><img alt=3D"happyr" src=3D"http://www.carryhere.xyz/3955L239j5AV7Ja13z15a91gF4a44s21YFv4GIf4rxvs4FhIHEsvZ11GRunKKSmo297ttyC1i06QJjcYz/Williamson-declined" style=
+=3D"border-width: 0px; border-style: solid; width: 69%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance produ=
+cts and services through its licensed insurance agency, SelectQuote Insuran=
+ce Services, LLC. SelectQuote Insurance Services is not an insurance compan=
+y. We represent trusted insurance companies, and receive commissions ? and =
+possibly other performance-based compensation ? for our services. Products =
+and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10-y=
+ear policy for under a $1 a day. Example policy is for $23 a month. Policy =
+is a United of Omaha : Term Life Answers 10 is a non-participating term lif=
+e insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwri=
+tten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premiu=
+m is guaranteed to stay the same for the 10 year period. Minimum issue amou=
+nt is $100,000. Premiums include a $62.50 annual policy fee. Forms and plan=
+ provisions may vary by state. Plan is available in all states except New Y=
+ork. Suicide and other limits may apply. The most favorable rate classes (a=
+nd lowest rates) are generally intended for those who can meet strict healt=
+h/lifestyle criteria. All rates subject to underwriting qualifications. Rat=
+es effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous review=
+ and subject to change and/or affirmation. For the latest Best' s Credit Ra=
+tings? and Best' s Credit Reports (which include Best' s Credit Ratings? ),=
+ visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Rat=
+ings? for explanation of use and charges.? ? Best' s Credit Ratings? reprod=
+uced herein appear under license from A.M. Best and do not constitute, eith=
+er expressly or impliedly, an endorsement of SelectQuote or its recommendat=
+ions, formulas, criteria or comparisons to any other ratings, rating scales=
+ or rating organizations which are published or referenced herein. A.M. Bes=
+t is not responsible for transcription errors made in presenting Best' s Cr=
+edit Ratings? . Best' s Credit Ratings? are proprietary and may not be repr=
+oduced or distributed without the express written permission of A.M. Best C=
+ompany.? A Best' s Financial Strength Rating opinion addresses the relative=
+ ability of an insurer to meet its ongoing insurance obligations. It is not=
+ a warranty of a company' s financial strength and ability to meet its obli=
+gations to policyholders. View our Important Notice: Best' s Credit Ratings=
+ for a disclaimer notice and complete details at <a href=3D"http://www.carryhere.xyz/persists-therapist/7566r2X3m95lGQ8617o15oalg8GxeR4a44X21lFv4GIf4rxvs4FhIHEsvZ11rRunKKSmo296ky1M0r5aqcYp">=
+http://www.carryhere.xyz/persists-therapist/7566r2X3m95lGQ8617o15oalg8GxeR4a44X21lFv4GIf4rxvs4FhIHEsvZ11rRunKKSmo296ky1M0r5aqcYp</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 6800=
+ W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote b=
+y a third-party marketing company. You are receiving email from this third-=
+party marketing company because you have expressed your interest in receivi=
+ng commercial email through a site or sites associated with them.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email contains i=
+nformation regarding products and services offered by SelectQuote. If you d=
+o not wish to receive email messages from SelectQuote that are advertising =
+or promotional in nature, pleas</span>e<a href=3D"http://www.carryhere.xyz/maddening-limply/ef46V239uj5Uzm8612B15a8fp4a44u21LFv4GIf4rxvs4FhIHEsvZ11BRunKKSmo297Mm1itq05i1UcY"> unsubscribe =
+here.</a></span></span></p>=20
+      </div> &nbsp; Remove <a href=3D"http://www.carryhere.xyz/peripheries-bidding/e046dS239X5PN8V912e15a90m4a44Z21fFv4GIf4rxvs4FhIHEsvZ11lRunKKSmo296Q10Xvi6w2z@cY">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font face="beatnik"><big></big></font><style style="assassinates"></style><style></style><style size="successive"><span><span></span></span></style><span></span> =20
+ <img src=3D"http://www.carryhere.xyz/2c36R2k39q5S8LC513P1i5a92B4a44y21KFv4GIf4rxvs4FhIHEsvZ11WRunKKSmo296k1T0sp6uWcJYy/fatness-Holmes" alt=3D""/></body>
+</html>
+
+------=_Part_907_1961452200.1617559980270--
+

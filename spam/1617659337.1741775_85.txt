@@ -1,0 +1,75 @@
+Return-Path: <renewal.by.andersen.lowe-bruce=untroubled.org@carryshere.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1185603 invoked from network); 4 Apr 2021 14:36:20 -0000
+Received: (qmail 159290 invoked by uid 222); 4 Apr 2021 14:36:20 -0000
+Return-Path: <renewal.by.andersen.lowe-bruce=untroubled.org@carryshere.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 159287 invoked from network); 4 Apr 2021 14:36:20 -0000
+Received: from mail.carryshere.xyz ([69.94.155.164])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 14:36:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=carryshere.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal.by.andersen.lowe@carryshere.xyz;
+ bh=vsGFTKwtJO4Z418A7l7wRjLShyc=;
+ b=ZS+JisC8YkUyw/rb3SRt9oKR9sYyFnro/2Fr3iiPzbSG935zraXDg0MhIPDYGXpdWVX52HpIxAH6
+   iJuwhkqMRxzw7/38Z/e4L0x55WIjeouhymMue0mfrA97ECBbVuk45KXn6LcoJL0GN3Z0wa2VMObT
+   v5SjYapXPnCTI8wtEhw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=carryshere.xyz;
+ b=PTppVNkjudw3ImubtDGf5X6sGSZfZsV1uViWKu5NGRHzjMFOq25i6dR3TA73SXu4IRfs6jek1Ex4
+   qo9deWm4CrTR4bTmgMB3lyBgKcOvWnPCO59HlCDvRU0DYjXJsgXHj178mbXVt6swbtxL58a0lkRg
+   iPTHwCR7IrjrV0uM1CY=;
+Received: by mail.carryshere.xyz id hd77e60001g5 for <bruce@untroubled.org>; Sun, 4 Apr 2021 10:31:22 -0400 (envelope-from <renewal.by.andersen.lowe-bruce=untroubled.org@carryshere.xyz>)
+Date: Sun, 4 Apr 2021 10:31:22 -0400
+From: "Renewal By Andersen LowE" <renewal.by.andersen.lowe@carryshere.xyz>
+To:   <bruce@untroubled.org>
+Subject: Welcome To Autumn Window Savings
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_808_1995745099.1617546676416"
+List-Unsubscribe: <http://www.carryshere.xyz/second-wreathed/4686p239yy5w8B9H13gsp11hJK4a3dS21kFv4GIf4rxvs4FhIHEsvZ8gRvnKKR97aX10wjP6Y3cY0l>
+Message-ID: <0.0.0.59.1D7295F2F3D4FCE.6F3FBD@mail.carryshere.xyz>
+Content-Length: 3434
+
+------=_Part_808_1995745099.1617546676416
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>imprints</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.carryshere.xyz/7af6M2n39t5II86x13i15a6q9s4a3dH21eFv4GIf4rxvs4FhIHEsvZ8yRvnKKR96U1Mr0k5vJ3cY/underplayed-compatibly"><img alt="Renewal By Andersen Window" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 676px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:tahoma,geneva,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.carryshere.xyz/second-wreathed/cf66q2o3u95vxH8617CA1w5ahV6ap_4a3dU21fFv4GIf4rxvs4FhIHEsvZ8hRvnKKR95eV1W05V2c1Y">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.carryshere.xyz/initiating-finessing/8be6P2lK395p8j6u17Yp1M5Zva6bXI4a3dw21VFv4GIf4rxvs4FhIHEsvZ8zRvnKKR95y1DZ05lLzcY">here.</a></b></span></span></p> <span style="font-family:tahoma,geneva,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Leave<a href="http://www.carryshere.xyz/da95z23F95l8WH917k1BJ5azsN6cj4a3dY21jFv4GIf4rxvs4FhIHEsvZ8pRvnKKR96CCLg105t2c@Y/shapeless-Brian"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <span size="converge"><big></big></span><small></small><style><span class="wearying"><span id="asymmetric"></span><style></style></span></style><style lang="Tijuana"></style>  
+ <img src="http://www.carryshere.xyz/bc96I2Nj395p8FU513D15aD6dB4a3dz21LFv4GIf4rxvs4FhIHEsvZ8PRvnKKR95U1Dx05SkzcY/ready-platitude" alt=""/></body>
+</html>
+
+------=_Part_808_1995745099.1617546676416--
+

@@ -1,0 +1,347 @@
+Return-Path: <bounces+17430347-ee4f-bruceg=untroubled.org@em4937.fdc-k.co.ke>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3013351 invoked from network); 19 Apr 2021 05:24:33 -0000
+Received: (qmail 19461 invoked by uid 222); 19 Apr 2021 05:24:32 -0000
+Return-Path: <bounces+17430347-ee4f-bruceg=untroubled.org@em4937.fdc-k.co.ke>
+Delivered-To: virtmail-bruceg@untroubled.org
+Received: (qmail 19458 invoked from network); 19 Apr 2021 05:24:32 -0000
+Received: from o50316379.outbound-mail.sendgrid.net (o50316379.outbound-mail.sendgrid.net [50.31.63.79])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 05:24:32 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fdc-k.co.ke; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject:list-unsubscribe; 
+	s=s1; bh=yD24a/t5jowz/+ICHMv2FN+V5XFyHbSx0NQjm1O9OUE=; b=VmymsAk
+	YqIazov2yCGc+oweppZVocPfqXaCH61BAklLTK6O3fcxNjZJJvPZPvoii60GGjOb
+	Ev4EIyUrVcDUYbA07vXSeuivrngh4kJ3y94HuuVSV1dkLlrBgfmHAmnbmO30eNa+
+	FChQUht1mK5ef1v7XBP3qDoZYLNsTCGZjUoU=
+Received: by filter1130p1iad2.sendgrid.net with SMTP id filter1130p1iad2-30403-607D13D6-2C
+        2021-04-19 05:23:34.993969834 +0000 UTC m=+287970.891280490
+Received: from MTc0MzAzNDc (unknown)
+	by ismtpd0045p1las1.sendgrid.net (SG) with HTTP id 84JF3ZFAR4ydxPzVTJP3WQ
+	Mon, 19 Apr 2021 05:23:34.531 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 19 Apr 2021 05:24:31 +0000 (UTC)
+From: "Jackson From FDC-K Africa" <Jackson@fdc-k.co.ke>
+Mime-Version: 1.0
+To: bruceg@untroubled.org
+Message-ID: <84JF3ZFAR4ydxPzVTJP3WQ@ismtpd0045p1las1.sendgrid.net>
+Subject: Invitation to Project Appraisals and Impact Evaluations Workshop
+List-Unsubscribe: <mailto:unsubscribe@em4937.fdc-k.co.ke?subject=http://url6478.fdc-k.co.ke/wf/unsubscribe*q*upn=HDaZ-2BF-2BCH86L1W8zeY0HrQV9mG81ZHu-2B3KbpvIVCfHJsqVBERMoXwjz6s-2BY-2BSDjWEZsZvqdgE-2BVXKHhK1eiY7-2BAdox-2BK9VSuGtEZnM7Jg7sAGy5zLIz-2FshpoPgtTvCnQ7mKHuJ8M35uRth-2BWP3c80eK6szyrMkbElphgg6T00cyvQHkJrrRj0u7y4WKtN0Zai14OpyS2Scszgkp6qcKJZApxCIEzUxf4xq0zakEW-2Blk-3D>
+X-SG-EID: dmgl6xt8Qa03cvJ0y7P2sPcJ/+tnUwl2UetOURBU/jghgadgSkV6zjei6jbtlptEq/CwOpTxyCmqgy
+ PZUWh8wMR+hPu9U6otLlT4f/giZIL8poxYi49GniTt7YtjybilDUuo5aWJao77ogpi2KiPsCV+3pA2
+ tHJO9s1qR83t8m5V6mFNPbsVqrUp8cQ5fUSwhyIB5hqA/t5cgu17pQf4myK3F6cuupjlgrv8lKmHA3
+ MFlEXi/J3SqT2nDNCQp0br
+X-Entity-ID: lgZohGoWIjvYsKzlUpYsxA==
+Content-Length: 22187
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"" clas=
+s=3D" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation=
+ postmessage websqldatabase indexeddb hashchange history draganddrop websoc=
+kets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshado=
+w textshadow opacity cssanimations csscolumns cssgradients cssreflections c=
+sstransforms csstransforms3d csstransitions fontface generatedcontent video=
+ audio localstorage sessionstorage webworkers no-applicationcache svg inlin=
+esvg smil svgclippaths js csstransforms csstransforms3d csstransitions resp=
+onsejs "><head>
+        <title>Invitation to Project Appraisals and Impact Evaluations Work=
+shop</title>
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0" />
+        <style type=3D"text/css" media=3D"only screen and (max-width: 480px=
+)">
+            /* Mobile styles */
+            @media only screen and (max-width: 480px) {
+                [class=3D"w320"] {
+                    width: 320px !important;
+                }
+                [class=3D"mobile-block"] {
+                    width: 100% !important;
+                    display: block !important;
+                }
+            }
+        </style>
+                                      </head>
+    <body style=3D"margin:0" class=3D"ui-sortable">
+        <div data-section-wrapper=3D"1">
+            <center>
+                <table data-section=3D"1" style=3D"width: 600;" width=3D"60=
+0" cellspacing=3D"0" cellpadding=3D"0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div data-slot-container=3D"1" style=3D"min=
+-height: 30px" class=3D"ui-sortable">
+                                    <div data-slot=3D"text" data-param-padd=
+ing-top=3D""><div data-empty=3D"true"><img class=3D"fr-dib" src=3D"http://i=
+nfo.fdc-k.co.ke/media/images/cfa2339650bd7b95b8999b3698cf402e.png" width=3D=
+"792" height=3D"122" /></div><div data-empty=3D"true"><br /></div><div data=
+-empty=3D"true">Project Appraisals and Impact Evaluations Workshop-May 17 t=
+o May 28,2021 for 10 Days</div><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"0"><tbody><tr><td valign=3D"bottom" width=3D"1049"><di=
+v data-empty=3D"true"><br /></div></td></tr></tbody></table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1049"><tbody><tr><td va=
+lign=3D"bottom" width=3D"1049"><div data-empty=3D"true"><a href=3D"http://u=
+rl6478.fdc-k.co.ke/ls/click?upn=3DGLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUYA-2F7kA=
+umHSwJyqRkQUTlyVjQTZHyqjgrNjlyEh9sv-2FSL2V3P8mP8jokZ6Wyi3mot9TuRxaT-2Bm6THZ=
+yrKTJhUa-2B9lU7wNAxH5zEoTwQsnq8sZAG5g4knGs9LX6Ljq05ahJ35oyVsvAuacHGvpmS7VDZ=
+mvcbBhBcuooXLSsEZPb-2F95PCRYq4vZ-2BH6m-2FuhyS1jxmsCYOn0zP9NxH5MELcJUxFMXzZ6=
+41tBe-2ByY2NRxSRyFER39LhewCVMPAj-2B0oTf6kvrHqq9N0qg9oqbAhyMjyH8NJmoNlr3BXq9=
+7kpBsS0hUgsoyfsJxp3FyQibh9YyWYBh3fD01wIq-2BW9PRStSRgLxf4SZMKF4efxQ0xhTl0Ipl=
+KQObSbYWcs8oC7qxLTlfQWBgl2Q8tVZa0wV-2BT5QK-2BrDuX1aFqzich0fasEY2THzjsa-2Bmt=
+Bnggm9-2BnY3gxqnBjosGt2uo-2B8EQM-3D4yM9_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dbl=
+ma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk9wQiH4d0nyDlsBS8off0eIOR62ZWBXrnubbHuVbUDc=
+mLDUj1PpRyTAnemcyQi5yUkvkQ-2BEs3PJcWnmc2EsOQYwM9-2BHtpIigcIAuwgNEM7z1h1nX-2=
+Fs5mkJIIaVkrtZFDSNEews0clVJCQ739eW81EAEJC5jR3kFYeZ8SU1AZCw3src-3D" rel=3D"n=
+oopener noreferrer" target=3D"_blank"><br /></a></div></td></tr></tbody></t=
+able><a href=3D"http://url6478.fdc-k.co.ke/ls/click?upn=3DGLS-2FYQ6u7dEKmj0=
+uSKpqemz299sgWAUYA-2F7kAumHSwLJHF5PE6HpO7SIWxAac86S3YAu06jZy45ixjx0cSGW6Xyx=
+3WWhyg8DQX5jWICDylWqFNlJX7YHeDWugQ5x-2F0RP-2FYKqzSSRLo0ztivSptKy6xGOuQdWp6s=
+6O-2FQ0V1McqMVUiamEgy5Iiql7bDr9ilD-2FAt-2FlKYfWfV2FJspEFM3kcmSOxnjZVtTgKgja=
+tvU3cKYpcuILjT4BU35FWGjPQyTj1cS-2BAFSBbNZx0PjDyfg4jNh-2BGIwxTJhdlSibl7pcksa=
+4O2auVSkiSUyFUN5AU-2BIhTsQrx1t3k1aZ2N-2B0zVzDFFziN5V17GjV3dcees6LHa99ljBhTE=
+5hpdT3-2FdJSfVh4XdmUTT1dlloYGX2tbKFLcppnpAK3SJ0h9lcjY0HtX4BHgwHftpojx0G6Ib-=
+2BZR-2FlOTi87IkJQhiGtEBrc3OY75HsClhPzR2xvcyPRuBYe6pk-3DjEaR_3MCoT47S7Woq4Am=
+yI-2F4d2bZA-2Bud1dblma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk9wGj-2FmNcDKB5jTyc09Cp=
+DW83eGJL-2BCbMNbaXH-2BhGSr-2BN3v-2FIwSVFvdZO6feVX93qS1ZatyspkQeTdph6GIwgjkv=
+ab6z17sxN4NDl-2F0bMSzWEo3gpzfxVexb6anL-2BXWntTr1p-2Ft7nuShws-2BsWlgNBjveEe3=
+c4Ph-2FM17aaOqG32YsEs-3D" rel=3D"noopener noreferrer" target=3D"_blank">=C2=
+=A0Register =C2=A0for online attendance Workshop=C2=A0</a><div data-empty=
+=3D"true"><br /></div><a href=3D"http://url6478.fdc-k.co.ke/ls/click?upn=3D=
+GLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUYA-2F7kAumHSwKGz-2BSQ6dLK164cCRg-2B98UaM6z=
+af3dEzBSowoGFEaFre-2FBvHT1Sm7iti-2BHFpMR9kdOQV3vCP8XsukmKB4hdok3tO2XRNTYBKq=
+zZ9EUvB8cN70lbKcfIdTR7lTQYda1UewZrRq8yRcHsoPNexkLYZfT3h-2B7i6Pb4ZgJi6BmvVhL=
+U-2FT6-2FoUQRz-2B0-2BTDtb1FAknbyQqLZ73p67r3Fmye3-2FVo7ud5Y-2BjIhtQJp1Q1F-2F=
+nJUWYgAq2zTj4oMQKCd-2F4yi15Whdp-2Fbm18WvSh-2BfalBiLdTTV2eedZ8Q9W-2BVQ4Lj3X-=
+2FXWIL6T1wlYzBds-2FOU-2Fb8-2F1bLNBXzPgTxnKKAiSkSmhW7n7ndv-2FtsA1auB5SP4DyDM=
+QvYoUpedQeSTS1QbBSlYXm4GILEGGCi3w-2BvkRnIrAOLihMPAvAXVrSiu0Sm9qyRoAyAq8V-2B=
+FD5r5Rarc-2FsvkZms-3D3Kol_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dblma5zzQBNvgkbc0=
+-2BvuXjkkcYwhnpnfkk9w4n9Xp9WH63tF3bzgcGQ3Ga8VaedhEcgMoCIpyQhzk7hbgPVEOlLFlU=
+ZzaUOzAmIzKaK-2F3Te2WGip-2F9qkVrxqcK-2FPoX4Gv4ndylRbtJUv7TGEtknICs-2FjEk4a3=
+cWOHe6FbwyIVtFEB8Trvzx3ahBGBQ397LSY3ca5GHJBCIJPG0c-3D" rel=3D"noopener nore=
+ferrer" target=3D"_blank"><strong>Register=C2=A0</strong><strong>Normal att=
+endance=C2=A0</strong>workshop</a><div data-empty=3D"true"><br /></div><str=
+ong><a href=3D"http://url6478.fdc-k.co.ke/ls/click?upn=3DGLS-2FYQ6u7dEKmj0u=
+SKpqemz299sgWAUYA-2F7kAumHSwJx4FqhJwIcP8hYMxCTeZyQCLuXzWFLJznUhzD6bGkSH8prR=
+Gqn8YPxneOMGvVEQtN-2BYF31CcUB-2Fz1K7J7yRqOx1JOU8LWo3dn2uu4m0fNu-2BVWPjN1KPv=
+YEVbli7TJGn8t4pmwHmz01XMCQTXXhZ3ncF-2FmaysSul6MhhLav9svoKGVs7goNKFzvtokpHU4=
+-2Fll-2B5lMZXbVvBgCDVIxMbHBkMs5FFofZzGfWkj71wX45I08Z8fRQWJN1kj30KwZrNgQOZCK=
+pXGO4eDtMBroTCRStSoBO-2F8khR1h7bxhoscg2n1Ud7OZmwHHg7G9q-2BkY8dYp3O31I-2BwoN=
+2ClOVNTlxIg0QaJsjdDt4z11f9K6Dg66bcfe-2BxanDra5m-2BDvYSjbJEqI46KaRtmguBTA0CA=
+3ZnEyIfdAOwpPTPFyrqfAwtczv-2B0WMZr-2BrmySOTMc9RSTyjAE-3Df2gj_3MCoT47S7Woq4A=
+myI-2F4d2bZA-2Bud1dblma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk9w6nz74Rd5P8CcKvx9g4l=
+ymmF-2BOXv1CAqiT4w0E9pD7a-2BZqWDbQcA6Jus7eTE7nCIkT2dpGZ-2Fa956yIibupGWz50g-=
+2F8t3p5RGztGsqOPzDpa0q6n71C4ChIUKv-2FsCCggLr2HX8i-2Bkr2tnngKcBX80AE270N86T0=
+SUwQiUkw1oWffU-3D" rel=3D"noopener noreferrer" target=3D"_blank">=C2=A0Regi=
+ster as a group workshop=C2=A0</a></strong><div data-empty=3D"true"><br /><=
+/div><div data-empty=3D"true"><br /></div><a href=3D"http://url6478.fdc-k.c=
+o.ke/ls/click?upn=3DGLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUYA-2F7kAumHSwKpgncldBX=
+tcstiGWqNCileIu-2BBX-2FNlhGKOxjq8VjLeOkebuWlbyYueWnQBiSP-2Fk0U3wagdaE3-2BuO=
+zSfo-2FboP8FtOj-2FFHsyLnRDQP6TtkStmANnzy9ggaQo1qIqgMBDayGQRY5wJJiRwA1guAIU-=
+2F1hHpJof40dg-2BssHCJU9Nh17cMjHYMYbs-2FfADrOW6BCAlD-2BqUKkaW1a-2Bo8jj9vHgNc=
+DbIbHAClBIk9CYK-2FUrTofR4NqKBAYQktRWFsO-2FAd9IWQWufjPFxynsqEzSxQQkc3EgFBIFi=
+7XyLnNUQ-2FhRtcZ3upZjtkHN8s-2FUlgeim-2Fjga2Ap-2FGk1AIS5Msq9E-2FIA2TUPlaDwqZ=
+5d7uXI0N0CeBek90n72Fou6ZE-2BxWqtUJQdw8ugjNK6MCE1W-2BLlDT90-2BFOuVLCrwOEJeHh=
+MpomUiZ3h7xO1yFp7b1otdgf6MMp3Tz4-3DIYBk_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dbl=
+ma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk9ws-2BoZbENcS0C2FuXg7OimS75HJhzw7z6YEv8YaU=
+6ompH-2BEDKd1l9mQu2SethN4lsTO-2FoZVBvg9Jo9azeGN9nkiiZ3MvpPJ6FWHQR41nerDe-2F=
+i6iJ5GxA2Dzvf3h58DT2d8HgXaOeifpx-2BPfUXpwi0XgX0oGmNQJStPCiXk96OLDo-3D" rel=
+=3D"noopener noreferrer" target=3D"_blank">Download PDF Calendar 2021 <stro=
+ng>Workshops</strong></a><br /><a href=3D"http://url6478.fdc-k.co.ke/ls/cli=
+ck?upn=3DGLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUYA-2F7kAumHSwKpgncldBXtcstiGWqNCi=
+leIu-2BBX-2FNlhGKOxjq8VjLeOkebuWlbyYueWnQBiSP-2Fk0U3wagdaE3-2BuOzSfo-2FboP8=
+FtOj-2FFHsyLnRDQP6TtkStmANnzy9ggaQo1qIqgMBDayGQRY5wJJiRwA1guAIU-2F1hHpJof40=
+dg-2BssHCJU9Nh17cMjHYMYbs-2FfADrOW6BCAlD-2BqUKkaW1a-2Bo8jj9vHgNcDbIbHAClBIk=
+9CYK-2FUrTofR4NqKBAYQktRWFsO-2FAd9IWQWufjPFxynsqEzSxQQkc3EgFBIFi7XyLnNUQ-2F=
+hRtcZ3upZjtkHN8s-2FUlgeim-2Fjga2Ap-2FGk1AIS5Msq9E-2FIA2TUPlaDwqZ5d7uXI0N0Ce=
+Bek90n72Fou6ZE-2BxWqtUJQdw8ugjNK6MCE1W-2BLlDT90-2BFOuVLCrwOEJeHhMpomUiZ3h7x=
+O1yFp7b1otdgf6MMp3Tz4-3DfULX_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dblma5zzQBNvgk=
+bc0-2BvuXjkkcYwhnpnfkk9wPcvvtBnUZxZt0s6lCz0Aj8zZ9Gb-2BhF1obFfATt1RWFE0Tzz0a=
+7ZaFzTAUz6EA-2BmQlPDDFbFmpLtJ8Xjc5iPFmLRLv7cfSMU2gP3UDbepVHFb32XbRddVzBbpj-=
+2FQq0m5Poc-2BKVcGrwnfYPH5gZAQZ0tr1YlXFQsuAHMD8YFhlRdA-3D" rel=3D"noopener n=
+oreferrer" target=3D"_blank"><br /></a><strong>OFFICIAL EMAIL ADDRESS</stro=
+ng>: <strong>training@fdc-k.org</strong><div data-empty=3D"true"><br /></di=
+v><strong>Office Telephone: +254712260031</strong><div data-empty=3D"true">=
+<br /></div><div data-empty=3D"true"><br /></div><span style=3D"font-size: =
+14px;"><b style=3D"color: rgb(97, 189, 109); font-family: Tahoma, Geneva, s=
+ans-serif;">Register as a group of =C2=A0 5 =C2=A0or more participants and =
+get 40% discount on course=C2=A0</b><span style=3D"color: rgb(97, 189, 109)=
+;"><strong>fee. Send</strong></span><b style=3D"color: rgb(97, 189, 109); f=
+ont-family: Tahoma, Geneva, sans-serif;"><span style=3D"color: rgb(97, 189,=
+ 109);">=C2=A0</span>us email to training@fdc-k.org or call +254712260031</=
+b></span><div data-empty=3D"true"><br /></div><b style=3D"color: rgb(97, 18=
+9, 109); font-family: Tahoma, Geneva, sans-serif;">TRAINING FOR ONLINE AND =
+NORMAL ATTENDANCE AVAILABLE</b><div data-empty=3D"true"><br /></div><strong=
+>Introduction</strong><br />This course will provides you with the essentia=
+l knowledge and skills to effectively appraise and analyse projects. It pro=
+vides you with the latest tools and techniques to manage project risks and =
+uncertainties to ensure profit margins and sustainability in uncertain time=
+s. It will in more advanced level cover econometric impact evaluation theor=
+y and empirical methods for measuring the impact of development programs (i=
+ncluding randomization, difference-in-differences, regression discontinuity=
+, and propensity score matching). It will combine theory and practice. The =
+primary objectives of the course is =C2=A0to provide participants with the =
+skills to understand the value and practice of impact evaluation within dev=
+elopment economics, design and implement impact evaluations and act as crit=
+ical consumers of impact evaluations.<br /><strong>Duration</strong><br />1=
+0 Days<br /><strong>Course Objective:</strong><br />=C2=B7 Undertake, Techn=
+ical, Economic, Financial & Risk Analysis to select Projects to meet Nation=
+al and Organisational Objectives<br />=C2=B7 Undertake Financial Analysis u=
+sing Payback, NPV & IRR<br />=C2=B7 Identifying & Measuring Risk & Uncertai=
+nties<br />=C2=B7 Evaluate and Manage Risks using the latest tools & techni=
+ques<br />=C2=B7 Manage Uncertainties using Decisions Trees, Programming Te=
+chniques =E2=80=93 Gannt Charts, Network & Critical Path Analysis, Manpower=
+ Planning, Contingency Planning & Earned<br />=C2=B7 Identifying if project=
+ is working or not, impact evaluation will assist accountability function. =
+This course is aligned with results based management and monitoring.<br /><=
+strong>Who should attend?</strong><br />This course targets Project Managem=
+ent Officials from NGO=E2=80=99s, National Statistics Offices, Education Re=
+searchers, Government ministries, National Institutes and Planning Ministri=
+es, Central banks, and University Researchers among others.<br /><strong>Th=
+e Course Content</strong><br /><strong>Module One: Project Appraisal & Anal=
+ysis</strong><ul><li>=C2=B7 The Investment Criteria & The Investment Planni=
+ng Process</li><li>=C2=B7 Identifying Technical, Logistical & Environmental=
+ Risks</li><li>=C2=B7 Economic Risk Analysis</li><li>=C2=B7 Market Risk Ana=
+lysis</li><li>=C2=B7 Selecting Projects to meet Organisational Objectives</=
+li></ul><strong>Module Two: Financial Analysis</strong><ul><li>=C2=B7 Estim=
+ating Income, Cashflows & Durations</li><li>=C2=B7 Identifying Risks from t=
+he Projected Cashflow</li><li>=C2=B7 Calculating the Cost of Finance =E2=80=
+=93 WACC, CAPM & Arbitrage Pricing</li><li>=C2=B7 Capital Investment Apprai=
+sal Techniques - Payback; ARR, NPV, IRR etc.</li><li>=C2=B7 Financial Appra=
+isal using Spreadsheet Skills</li></ul><strong>Module Three: Project Risk &=
+ Uncertainties</strong><ul><li>=C2=B7 Measuring Risk & Uncertainties</li><l=
+i>=C2=B7 Project Constraints</li><li>=C2=B7 Balancing Scope, Time, Quality =
+& Cost</li><li>=C2=B7 Evaluating the Risks & Uncertainties =E2=80=93 Their =
+Likelihood & Impact</li><li>=C2=B7 Risk Response Planning & Reporting</li><=
+/ul><strong>Module Four: Risk Management</strong><ul><li>=C2=B7 The Risk Ma=
+nagement Process at various levels of an organization and throughout the Pr=
+oject Life Cycle</li><li>=C2=B7 The Project Manager=E2=80=99s Roles and Res=
+ponsibilities</li><li>=C2=B7 Qualitative & Quantitative Risk Analysis</li><=
+li>=C2=B7 Financial Risk Management & Derivatives</li><li>=C2=B7 Sensitivit=
+y Analysis & Monte Carlo Simulation Analysis</li></ul><strong>Module Five: =
+Managing Uncertainties</strong><ul><li>=C2=B7 Decisions Trees to Manage Unc=
+ertainties and make Strategic Decisions</li><li>=C2=B7 Programming Techniqu=
+es =E2=80=93 Gannt Charts, Network & Critical Path Analysis</li><li>=C2=B7 =
+Manpower Planning and Resource Smoothing & Levelling</li><li>=C2=B7 Project=
+ Contingency Planning</li><li>=C2=B7 Earned Value Analysis =E2=80=93 Contro=
+lling Cost & Schedule Variances</li></ul><strong>Module six:Cost benefit an=
+alysis</strong><ul><li>=C2=B7 The effect on decision-making of more intangi=
+ble benefits</li><li>=C2=B7 Cost benefit analysis</li><li>=C2=B7 Ensuring c=
+osts are genuine</li><li>=C2=B7 Measuring intangible benefits</li><li>=C2=
+=B7 Environmental issues</li><li>=C2=B7 Consideration of intangible benefit=
+s in the appraisal decision-making process</li></ul><strong>Module seven:De=
+veloping appropriate models</strong><ul><li>=C2=B7 Developing models =E2=80=
+=93 examples of spreadsheet models and measures for many different situatio=
+ns</li><li>=C2=B7 Modelling investment opportunities =E2=80=93 summarising =
+outcomes</li><li>=C2=B7 Sensitivity analysis =E2=80=93 identifying, quantif=
+ying and taking out risk</li></ul><strong>Module eight:Developing an apprai=
+sal process</strong><ul><li>=C2=B7 The process =E2=80=93 managing risk from=
+ the outset</li><li>=C2=B7 Using the process in risk management, negotiatin=
+g and project management</li><li>=C2=B7 Take out risk by thoroughly knowing=
+ your project =E2=80=93 developing your own process</li></ul><strong>Module=
+ Nine: Introduction to impact evaluation</strong><ul><li>=C2=B7 Introductio=
+n</li><li>=C2=B7 Counterfactual</li><li>=C2=B7 Purpose of impact evaluation=
+</li><li>=C2=B7 When to undertake =C2=A0impact evaluation</li></ul><strong>=
+Module Ten: Evaluation Design</strong><ul><li>=C2=B7 Establishing the progr=
+am theory</li><li>=C2=B7 Selecting the evaluation approach</li><li>=C2=B7 D=
+esigning the baseline survey</li><li>=C2=B7 Options when there is no baseli=
+ne</li><li>=C2=B7 Impact evaluation using secondary data</li><li>=C2=B7 The=
+ role of qualitative information</li><li>=C2=B7 Triangulation</li><li>=C2=
+=B7 Generalizations from specific impact evaluations</li></ul><strong>Modul=
+e Eleven: Managing and Implimenting Impact Evaluation</strong><ul><li>=C2=
+=B7 Terms of reference</li><li>=C2=B7 Data sources</li><li>=C2=B7 Time and =
+cost</li></ul><div data-empty=3D"true"><br /></div><strong>General Notes</s=
+trong><ul><li>All our courses can be Tailor-made to participants needs</li>=
+<li>The participant must be conversant with English</li><li>Presentations a=
+re well guided, practical exercise, web based tutorials and group work. Our=
+ facilitators are expert with more than 10years of experience.</li><li>Upon=
+ completion of training the participant will be issued with Foscore develop=
+ment center certificate (FDC-K)</li><li>Training will be done at Foscore de=
+velopment center (FDC-K) center in Nairobi Kenya. We also offer more than f=
+ive participants training at requested location within Kenya, more than ten=
+ participant within east Africa and more than twenty participant all over t=
+he world.</li><li>Course duration is flexible and the contents can be modif=
+ied to fit any number of days.</li></ul><strong><u>OTHER =C2=A0UPCOMING WOR=
+KSHOPS (CLICK =C2=A0ON THE COURSE TO VIEW COURSE OUTLINE AND REGISTER TO AT=
+TEND)</u></strong><div data-empty=3D"true"><br /></div><ul><li><a href=3D"h=
+ttp://url6478.fdc-k.co.ke/ls/click?upn=3DGLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUY=
+A-2F7kAumHSwKX2ytY32P5fMtEN6ibVOQX-2FqYFNXXQHbLNUC3knB2ESyzNJF5OmjnhQk4GvZT=
+HoJKukpM2OoWWWSCcKfIXAJeisG-2FxDjN-2BqV93y6MGvLLrGdLCeWD8taZBdCDCAIyfOeGk4t=
+VpIpBdGeg1rWsIiV7wrZ3SgiCr4eSzXsJjjMYQbuU0YTIqipwkaM77HtIPprGH4TIEn3oZ1BgRv=
+5ipMLUsqmzqjLIU7NTGAk8eYwzrNJQF4VXpVCoTQcQRqRy2y2vw-2BE0IPgVJL4XjGiARh-2BYd=
+Z3B2Gdc6H8WVTEhYnlSOQomRe60C136v4nc-2BejzNJ8LbWiAEWnYC5sCUnrDs4ooxNP3B8x7gC=
+TZKXCrLP5O4TUhJtN8mPfu9cTJxmtw77GdPHTC9vq6hksjCnj0rkVApnMTMDT1dGc-2FBUCIJqe=
+reFXdBJikG9pQrBXoexkQiI1I-3DSlNh_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dblma5zzQB=
+Nvgkbc0-2BvuXjkkcYwhnpnfkk9wRxXDqKjz9owXsZhClMM4dXg7tww0SYUXQ9mvXB-2FYMTsk4=
+uDDPdztTDRww3JcZB5N2Dghl2UmoUKOzCJeuU7ruSNMIFoCIWcP1E-2FlmGjfkmk9oeJZFE8pfD=
+MAtDyE8Fv4K5RWVCu4jpiEKHj7gDQqfAsNEVMEz-2FagrKM5wTZJcU4-3D" rel=3D"noopener=
+ noreferrer" target=3D"_blank">Office Management And Effective Administrati=
+on Workshop</a></li></ul><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"732"><tbody><tr height=3D"20"><td height=3D"20" width=3D"73=
+2"><ul><li><a href=3D"http://url6478.fdc-k.co.ke/ls/click?upn=3DGLS-2FYQ6u7=
+dEKmj0uSKpqemz299sgWAUYA-2F7kAumHSwIHzlgcULLeac1HuWOWRuIZKtrjUZ2Mrvpov6MK6z=
+sZjCvy4FLepDX-2BgVFgYcFM3iS2ew2OGkDQfSXxejp66SXxXn-2FNKqmX1NCQtqrhYMYZKd-2F=
+kLaVXu3NYyirSDD13GfBWcDOVYk33KtItQRKsDxTMvqw7mbp1eV2BkI-2FWUSWcm0Xr1Lg7l-2F=
+F89R5j7VBsywFVDxfncwDgSkpSluOrL2C6euleDfqlnN7U-2BAUCoOYaKt1FQwNCviYfK9Z2XOZ=
+8k9vKkl5BylpxQoyT0cSNJj9vbadS-2BC9rvRm-2BkXVQpPFwVRXgShXkwwUh0olE5GOp6HMHkS=
+i73f3nmDCkKZm-2BmCnyECQQ-2FIZ1MlapILsv-2BtA0s-2ByC5fSiScpK3B7On5pS1Uythhhng=
+ECWGO2AB1kZWDw2FC5CHOgIr0yQvCixFk7Ea6XuvIcZl0EJt0YwqavfiZ8-3D82Ic_3MCoT47S7=
+Woq4AmyI-2F4d2bZA-2Bud1dblma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk9wXkpqNFTeZ4hjtG=
+hfnC2DwiLECdvO1Y1ohIyUBFQ-2B4w-2Bsa7f10gryGaL-2BS7VwttTW1dkk8BBIqabE5Jqz1sE=
+ruMkiAqMK6bRBnxFvLXNib6ucuh-2F5ascgkrhqecOgC69hCzvkHbrhmN6qaKEH7jGnPLq6pZib=
+uk6DXxhWV-2FSK3YI-3D" rel=3D"noopener noreferrer" target=3D"_blank">Communi=
+ty Development Training Workshop</a></li></ul><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"732"><tbody><tr height=3D"20"><td heigh=
+t=3D"20" width=3D"732"><ul><li><a href=3D"http://url6478.fdc-k.co.ke/ls/cli=
+ck?upn=3DGLS-2FYQ6u7dEKmj0uSKpqemz299sgWAUYA-2F7kAumHSwLCxAC8vuN33dmoaOrw71=
+3Y3cU8BfOovSM3Og9zTkIxPAqmZD-2F6X1HewB2vEAW9DEHFFHqveMqfjZ58z9-2FlrjyzX6wNF=
+EAu7DaD87uWDnkUI8V36u0fE2DcDESv-2BMzYNf9s75h-2BIMda21wrGZQ2AAegLPLbTLa4qRjz=
+4nGdh7HHd0GtE-2FIpLqW-2Bna0yQT7u1OSTbac6XNR5HBDRHx7whFToraXNyNZU3auzPcNiSAx=
+PU-2F2LvQs5UYv0MwWNbqni-2BqOsB5Ly7MtY2ZAY9bLz5h6P0-2FvcGjZiTPMdci7IFs33XYSy=
+mWgvmTYqXOXOfjH9hMQ93fkmKOjmRjDTp0eSEje-2B17rIXbsNWvXoKJnxSa8ZZA2fhsbQG9CxQ=
+aoEb0DaKeStyNkU8yZHO0iMHCmRRZ7wsn0JZVeIxvjzj5kFLBPMwAFZxTXuR2fTXVkCFcAj1YQ-=
+3DfmVd_3MCoT47S7Woq4AmyI-2F4d2bZA-2Bud1dblma5zzQBNvgkbc0-2BvuXjkkcYwhnpnfkk=
+9wsbWUNjF3lUEsl6dDcrzpi04ivJgqzHYueUnxMWgfu2LUEfYEdqlNIyNN-2F7Wtd2pYWs-2BvR=
+CTc-2FC7807eNhnoOBLvz3JO4CpOyD9Y6esxjRVg0cgYPIigYa8HdJcdCfzvXbaAExeWR5iv-2B=
+20WyWPStOtFF9o6qIljEFemmjHSYrmc-3D" rel=3D"noopener noreferrer" target=3D"_=
+blank">Information Security and Data Management =C2=A0Workshop</a></li></ul=
+></td></tr></tbody></table><div data-empty=3D"true"><br /></div></td></tr><=
+/tbody></table><div data-empty=3D"true"><br /></div><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"0"><tbody><tr><td valign=3D"botto=
+m" width=3D"708"><div data-empty=3D"true"><br /></div></td></tr></tbody></t=
+able>Looking forward to your registration and attendance.<br />FDC Result B=
+ased skills Development<br />Regards,<div data-empty=3D"true"><br /></div><=
+div data-empty=3D"true"><br /></div>Jackson Munene<div data-empty=3D"true">=
+<br /></div>Training Coordinator<br />Telephone office: +254712260031<br />=
+Personal No: +254729262303<div data-empty=3D"true"><br /></div>Email: jacks=
+on@fdc-k.co.ke<div data-empty=3D"true"><br /></div><img src=3D"http://info.=
+fdc-k.co.ke/media/images/51a4337c8cef42c13752f96b79a3593e.png" class=3D"fr-=
+fic fr-dib" style=3D"width: 944px; height: 92.4891px;" width=3D"944" height=
+=3D"92.4891" /><div data-empty=3D"true"><br /></div><strong>You can opt out=
+ of future communications about our services by clicking on the unsubscribe=
+ link below.Thank you</strong></div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </center>
+        </div>
+<img height=3D"1" width=3D"1" src=3D"http://info.fdc-k.co.ke/email/607d13ce=
+69268825302851.gif" alt=3D"" />
+If you'd like to unsubscribe and stop receiving these emails <a href=3D"htt=
+p://url6478.fdc-k.co.ke/wf/unsubscribe?upn=3DHDaZ-2BF-2BCH86L1W8zeY0HrQV9mG=
+81ZHu-2B3KbpvIVCfHJsqVBERMoXwjz6s-2BY-2BSDjWJVBXEAdRKzZ0y1zSd7uuYjegfTtkuln=
+Dt7JwdP2qmnn-2Bjbw3apLxINjXV5T7-2F8ZB-2FpKRqrbPDp6dI3I4GcIalH7BX3Zu7gDLG8K6=
+I1HNcm9TQuwxEMKFnk0T49a3d-2Bt2vPCQ-2FekhZxZeW1kcg-2FfZDJ8TvRuWiCk7yPdXx6SR-=
+2BjE-3D">click here</a>.
+<img src=3D"http://url6478.fdc-k.co.ke/wf/open?upn=3DHDaZ-2BF-2BCH86L1W8zeY=
+0HrQV9mG81ZHu-2B3KbpvIVCfHJsqVBERMoXwjz6s-2BY-2BSDjW8-2FNNC02wFv-2Bxh-2Bf3z=
+pLIiBf1pCjUsaKgyg7rB3BIqGRfcqKhOCLqXTTfs9j33fZQ4e-2FrITHwzmsOLcPwbnKTUiibuu=
+krG1xon04ksTT-2F7rw0kgPcyODidL6dDjbIim-2F5QCfbfdCO9-2FlcW6cK0HIy1hK3MHPJwS9=
+JfSl4HyPi7co-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;"/>
+</body></html>

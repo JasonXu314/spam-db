@@ -1,0 +1,78 @@
+Return-Path: <mysenior-perks-bruce=untroubled.org@tspeed22.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3456164 invoked from network); 23 Apr 2021 15:13:12 -0000
+Received: (qmail 18805 invoked by uid 222); 23 Apr 2021 15:13:11 -0000
+Return-Path: <mysenior-perks-bruce=untroubled.org@tspeed22.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 18802 invoked from network); 23 Apr 2021 15:13:11 -0000
+Received: from mail.tspeed22.cloud ([208.187.244.214])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 15:13:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed22.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mysenior-perks@tspeed22.cloud;
+ bh=bGLE974GNCN2u+njt5+EZCe/0+s=;
+ b=XdTj85C6ulzTgGo1stoSgDfofqgaEuUq4P7XH2ZkmKbKTNeCQoPdPB/qFtyBmwIf3fantBHk4Tcz
+   v1EmNmDNo2Qdm/bSWptbcBKJDGuZ0VWxaIt/SNnvaLiOgAy4Kly0gbxcNr0Ciu2zzOJH78byvlcZ
+   iZOJlFywRGnDRv2ILnA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed22.cloud;
+ b=fTZ5obC+EHxB2vQIJOpwUmFkU2n588CDEm9XC8eqdBI9VBAvwGlhvPl3hOrnafp2XOhHBlA5+xs6
+   G6MR8lBEH9RVxHotELzT+b++tz47PfNyhdzMOJoncvtlGkT8Kt58TCb+L6SUZyLjMjlX/HnwNscx
+   IkaG7vmueueNiYD6Qug=;
+Received: by mail.tspeed22.cloud id hgbi080001g1 for <bruce@untroubled.org>; Fri, 23 Apr 2021 11:05:55 -0400 (envelope-from <mysenior-perks-bruce=untroubled.org@tspeed22.cloud>)
+Date: Fri, 23 Apr 2021 11:05:55 -0400
+From: "MySenior Perks" <mysenior-perks@tspeed22.cloud>
+To:   <bruce@untroubled.org>
+Subject: Here are 18 of the latest top senior discounts
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_691_1762999508.1619190340871"
+List-Unsubscribe: <http://www.tspeed22.cloud/Pomeranian-legitimate/1f26nD2K395t8PD912Lz11i_y4b5bK21BFv4GIf4rxvs4FhIHEsvZ11WRHomoRooz97JoB1kx06ojcYj@>
+Message-ID: <0.0.0.4C.1D7385228FF6D70.DFC9A@mail.tspeed22.cloud>
+Content-Length: 2970
+
+------=_Part_691_1762999508.1619190340871
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>recurrently</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.tspeed22.cloud/gusto-lunches/6Pc6dR239u5E86rX12C16065k4b5bn21oFv4GIf4rxvs4FhIHEsvZ11gRHomoRooz96z1xr0K6blcALY">A Seceret way for seniors to save a lot of money</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.tspeed22.cloud/gusto-lunches/6Pc6dR239u5E86rX12C16065k4b5bn21oFv4GIf4rxvs4FhIHEsvZ11gRHomoRooz96z1xr0K6blcALY"><img alt="senior s" src="http://www.tspeed22.cloud/syllogistic-aspirants/b526Xx239H5az7Ra17XYC1606r8swG4b5bq21NFv4GIf4rxvs4FhIHEsvZ11vRHomoRooz97HH1WK0L6dqWcjY" style="border-width: 0px; border-style: solid; height: 1217px; width: 650px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed22.cloud/dialects-connect/7924u2395qq8m612z16066h4b5bX21hFv4GIf4rxvs4FhIHEsvZ11QRHomoRooz95qn1o06Nj0JcY"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.tspeed22.cloud/gusto-lunches/6Pc6dR239u5E86rX12C16065k4b5bn21oFv4GIf4rxvs4FhIHEsvZ11gRHomoRooz96z1xr0K6blcALY"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed22.cloud/9356a23I9y5QC8g912e16067B4b5bu21rFv4GIf4rxvs4FhIHEsvZ11zRHomoRooz96pz1F0l6vJkcpY/blackbird-fastenings">&nbsp; Quit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <big></big><span></span><font></font><style lang="clinical"><big><font title="spiders"><span></big></font></span><big><span lang="Princeton"></big></style></span><span color="Navona"></span>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed22.cloud/c7d5Q23Y95i_8g512e16069w4b5bw21gFv4GIf4rxvs4FhIHEsvZ11XRHomoRooz95Bz_105W@cYy/Pomeranian-legitimate" alt=""/></body>
+</html>
+
+------=_Part_691_1762999508.1619190340871--
+

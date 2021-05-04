@@ -1,0 +1,917 @@
+Return-Path: <jackson=fdc-k.africa@events.fdc-k.co.ke>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2194757 invoked from network); 11 Apr 2021 21:11:45 -0000
+Received: (qmail 13458 invoked by uid 222); 11 Apr 2021 21:11:45 -0000
+Return-Path: <jackson=fdc-k.africa@events.fdc-k.co.ke>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 13455 invoked from network); 11 Apr 2021 21:11:44 -0000
+Received: from mail88.elasticemail.info (mail88.elasticemail.info [178.33.84.88])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Apr 2021 21:11:44 -0000
+DKIM-Signature: v=1; a=rsa-sha256; d=fdc-k.africa; s=api; c=relaxed/simple;
+	t=1618175501; h=from:date:subject:reply-to:to:list-unsubscribe:mime-version;
+	bh=GsW/pkHBCOI634k1EkQvNBQgJqoRbDRqtMoVFMa4dcs=;
+	b=Sb+gSzy1QcXNiEEwvJi+TvGl2oG2plU8oPt8fE9HywlJOgPCgPotsQ6B1l5IqdovZu+21SH81ht
+	jeMkADPT8dApAkYUK3xoZldL2e6B0wOeOz936Sr5Wsxdvfytj2Ipv578IejJZwqlTnaYZII2hOfw4
+	D7GseOicNQdDe6qRrhM=
+DKIM-Signature: v=1; a=rsa-sha256; d=elasticemail.com; s=api;
+	c=relaxed/simple; t=1618175501;
+	h=from:date:subject:reply-to:to:list-unsubscribe;
+	bh=GsW/pkHBCOI634k1EkQvNBQgJqoRbDRqtMoVFMa4dcs=;
+	b=UsganIIwJtqE6jlfjDz1c+1V9CMd4XpQfKt+4gnpLxAX2yHsv22kOri3Jv7Dr60LKaFMeRLa1Md
+	5N8weevDdiMXVg+1cEFPI6LQ/ZxilvJDtQl9stUoTjy7AJ2nuT2TFuNY8tk7DM09Vd+2EA1cEaNVe
+	QAcjmry9hxP/Ej0LUWw=
+From: Jackson <jackson@fdc-k.africa>
+Date: Sun, 11 Apr 2021 21:11:41 +0000
+Subject: RE: Grant management Workshop
+Message-Id: <4udg9eorsavy.rpDY1FE1J-u8ZsOwxCV1VQ2@tracking.fdc-k.africa>
+Reply-To: jackson@fdc-k.africa
+Sender: jackson@fdc-k.africa
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+List-Unsubscribe: 
+ =?us-ascii?q?=3Cmailto=3Aunsubscribe+rpDY1FE1J-u8ZsOwxCV1VQ2=40bounces=2Eelasticem?=
+ =?us-ascii?q?ail=2Enet=3Fsubject=3Dunsubscribe=3E=2C?=
+ =?us-ascii?q?_=3Chttp=3A=2F=2Ftracking=2Efdc-k=2Eafrica=2Ftracking=2Funsubscribe=3Fmsgid=3DrpDY?=
+ =?us-ascii?q?1FE1J-u8ZsOwxCV1VQ2&c=3D1381354295101971505=3E?=
+X-Msg-EID: rpDY1FE1J-u8ZsOwxCV1VQ2
+Disposition-Notification-To: jackson@fdc-k.africa
+Return-Receipt-To: <jackson@fdc-k.africa>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=-eZCfFnLxx3TqApa0J9x3UzruxRxB468T/XWKzQ=="
+Content-Length: 51517
+
+--=-eZCfFnLxx3TqApa0J9x3UzruxRxB468T/XWKzQ==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+R3JhbnQgbWFuYWdlbWVudCB1c2luZyBTdW4gYWNjb3VudGluZyBzeXN0ZW0gDQpjb3Vyc2Ut
+TWF5IDAzIHRvIE1heSAxNCwyMDIxIGZvciAxMCBEYXlzwqANCjxodHRwOi8vdHJhY2tpbmcu
+ZmRjLWsuYWZyaWNhL3RyYWNraW5nL2NsaWNrP2Q9U1hLOTNKTnBERjd5SVVLbldvdkxPcUVj
+Umo4N0dXdkpfclVLdDNNZ0pQaE5GSnByWmh3TjctMllOWEc0dHJoU1BSVV9DSi1sZ1VYMXV1
+amhXQTdGSW1tRXN4dzZzQXlVT0xYTW5wMzRlUXlfOHZQTmNKMEctV2xpN3VXMVNrR09UN3ho
+UFJfWDRkdllVTWRiV3FUTmp4ZHdqVkNSN3FWYkp3dkFTX2FKa0FlT3M1dzcya1BiaDVTSWFM
+anRQLTFWNWkxQzBIQXJ4Z2ROR2pjUXhZcTljZmJjMDNISUlvZFotcFFBMndVbThIS2xubWRh
+RWFPc0o0ZG1oTlh3WTA3dmZ3M3Nnd3BsM05aVTYtLTdpQVVabFd4NnhCc1B2allfOE9OZjRX
+d185ZnhlREFUbk9YLUpnTUpJLXF5TGlEX3NldzI+DQoNCg0KPGh0dHA6Ly90cmFja2luZy5m
+ZGMtay5hZnJpY2EvdHJhY2tpbmcvY2xpY2s/ZD1kTWlqS2ZzOUVJVjlMWl91VUNZQkwtS2Fy
+MlJDdGliY3VMS1MzazVfb0gwTkRfem80MzFCRXdsQnBIcjBaaGpIRWpqTzRsX0NZVnN0SzJF
+eTlhWXVGekVrNmZDbjJia2k1eVQ4amh2ZFlTRzdvamwxVnJjSTR5TnZhLVFpTm1JWnhWczNt
+VjJnWVhkMGJ0QnBYMjd3Yl9rSVczQk1NR3A3TXlLSWJUY3hvaUtZazc2NjE3MXc2Nm12U2dy
+ZDd2ZGpLWUxwMnFjemNjWDJIM2doZUhsNFJlOHdBOTZJTDRVUmRIQTlHNXNydjFMbDFVbTRx
+Mm1ySXEtZ1IyTk04UzZTSXcyPg0KwqANCjxodHRwOi8vdHJhY2tpbmcuZmRjLWsuYWZyaWNh
+L3RyYWNraW5nL2NsaWNrP2Q9cFVVUnl2TmlpcnYyY1c0eVdVRXVyRlFNcWJEMV92Q2taemw4
+MWxDM21zR01oakp0dWUwTWNaeGYySlRtakFaRy1IOTY3YXMybG9DQVgtck9uRE1lMlRtTXdk
+dnRWNHd4eXlTam15REFXR1N3cmJHck5vQTRaU3FOVnFOb2NNbkJFZGlEVnc4RWhCRUNDN3Jk
+aDgyTWlZTWx1ZWZhWTY3UW02eUJHMEQ4QlRRQ25JRmZKanlPbmpXTFhKbDBxblRNZDlnekVC
+VkhKU1EtTkNod3YyQ0p2QUVNcHVaRE9HdS1QaUxVODNJeTY2UkJsWFZQQng1MmYtZkgxNF9v
+dGdvMnRnMj4NCkNsaWNrIEhlcmUgDQp0b8KgUmVnaXN0ZXIgwqBmb3Igb25saW5lIA0KYXR0
+ZW5kYW5jZSBjb3Vyc2UgZmVlIG9yIE5vcm1hbCBhdHRlbmRhbmNlIGFzIGluZGl2aWR1YWwg
+b3IgZ3JvdXANCg0KPGh0dHA6Ly90cmFja2luZy5mZGMtay5hZnJpY2EvdHJhY2tpbmcvY2xp
+Y2s/ZD1xcWlmUGcxQU84QUNWWElxaXFWTEl6cDZtdVNkUWVfVndVV1VieHJkTzhIeWtEaUJW
+NUNFMDRDZW1MRThtcndkS0EwRHBHY0JyVGJ4dnFub2VqQ0QwSmVsMTJCQVRqRWRyUWdLTTZX
+Vkh1dmlySXJMTGwzNjVTbU4ycWR6MXIwZEhZa1hVQjdOU2dwNnJyOGFwQjhKZERWSmRRMHQt
+SHpRSlZiRy1rRVl3SnFKSzZWWEdTUFhmbGd4WGtneTU2MEhIZzI+DQpEb3dubG9hZCBQREYg
+DQpDYWxlbmRhcsKgMjAyMQ0KDQo8aHR0cDovL3RyYWNraW5nLmZkYy1rLmFmcmljYS90cmFj
+a2luZy9jbGljaz9kPXFxaWZQZzFBTzhBQ1ZYSXFpcVZMSXpwNm11U2RRZV9Wd1VXVWJ4cmRP
+OEh5a0RpQlY1Q0UwNENlbUxFOG1yd2RLQTBEcEdjQnJUYnh2cW5vZWpDRDBKZWwxMkJBVGpF
+ZHJRZ0tNNldWSHV1X3BIQXU1dmhLQXF0dTRBQndKWUJOa2pDVHV0S2hkdmdOY0FMMHNSZDdN
+OHdfY3ZhQWVJSmZNOVhaQzJXbjdDb0R5TTZyWmVlRE5vcmMwY1picXdyWE5BMj4NCg0KT0ZG
+SUNJQUwgDQpFTUFJTCBBRERSRVNTOsKgdHJhaW5pbmdAZmRjLWsub3JnDQpPZmZpY2UgDQpU
+ZWxlcGhvbmU6ICsyNTQ3MTIyNjAwMzENClJlZ2lzdGVyIA0KYXMgYSBncm91cCBvZiDCoCA1
+IMKgb3IgbW9yZSBwYXJ0aWNpcGFudHMgYW5kIGdldCA0MCUgZGlzY291bnQgb24gDQpjb3Vy
+c2XCoGZlZS4gU2VuZMKgdXMgZW1haWwgdG8gDQp0cmFpbmluZ0BmZGMtay5vcmcgb3IgY2Fs
+bCArMjU0NzEyMjYwMDMxDQpUUkFJTklORyANCkZPUiBPTkxJTkUgQU5EIE5PUk1BTCBBVFRF
+TkRBTkNFIEFWQUlMQUJMRQ0KwqBDT1VSU0UgT1VUTElORQ0KwqANCkludHJvZHVjdGlvbg0K
+VGhpcyANCmNvdXJzZSBpcyBkZXNpZ25lZCB0byBlbmFibGUgdGhvc2UgaW52b2x2ZWQgd2l0
+aCBncmFudCBtYW5hZ2VtZW50IHRvIGJlY29tZSANCmVmZmljaWVudCBhbmQgZWZmZWN0aXZl
+IGluIHRoZSBhY3F1aXNpdGlvbiBhbmQgdXRpbGl6YXRpb24gb2YgZnVuZHMgZm9yIA0KZGV2
+ZWxvcG1lbnQgcHVycG9zZXMsIHVzaW5nIGFwcHJvcHJpYXRlIHRlY2huaXF1ZXMgYW5kIGFw
+cGxpY2F0aW9uIG9mIGFjY291bnRpbmcgDQphbmQgZmluYW5jZSBwcmluY2lwbGVzLg0KRHVy
+YXRpb24NCjEwIA0KZGF5cw0KV2hvIA0Kc2hvdWxkIGF0dGVuZD8NCkZpbmFuY2UgDQpEaXJl
+Y3RvcnMsIEZpbmFuY2UgTWFuYWdlcnMsIFByb2N1cmVtZW50IERpcmVjdG9ycywgUHJvY3Vy
+ZW1lbnQgbWFuYWdlcnMsIA0KUHJvY3VyZW1lbnQgb2ZmaWNlcnMsIEFkbWluaXN0cmF0b3Jz
+LCBQcm9qZWN0IG9mZmljZXJzLCBCdWRnZXQgQWNjb3VudGFudHMsIA0KQXVkaXRvcnMsIENo
+aWVmIEFjY291bnRhbnRzLCBDcmVkaXQgQ29udHJvbGxlcnMNCkNvdXJzZSANCk9iamVjdGl2
+ZToNCiAgICBJZGVudGlmeSBhbmQgYXNzZXNzIHRoZSBjcml0aWNhbCB0ZXJtcyBhbmQgDQog
+IGNvbmRpdGlvbnMgb2YgZ3JhbnQgYWlkIGZvciBkb25vci1mdW5kZWQgcHJvamVjdHMNCiAg
+ICBFbnN1cmUgY29tcGxpYW5jZSB3aXRoIGRvbm9yIHRlcm1zIGFuZCANCiAgY29uZGl0aW9u
+cw0KICAgIFByb3ZpZGluZyBzdXBwb3J0aW5nIGRvY3VtZW50cw0KICAgIHByb2N1cmVtZW50
+IG9mIGdvb2RzIGFuZCBzZXJ2aWNlczsgYW5kIA0KICBtZWV0aW5nIGZpbmFuY2lhbCByZXBv
+cnRpbmcgcmVxdWlyZW1lbnRzDQogICAgVXNlIGEgZ3JhbnQgc2NoZWR1bGUgdG8gbWFuYWdp
+bmcgDQogIG11bHRpcGxlLWZ1bmRlZCBwcm9ncmFtbWVzDQogICAgUHJlcGFyZSBhIGRvbm9y
+IGZpbmFuY2lhbCByZXBvcnQgdG8gbWF0Y2ggDQogIHdpdGggYSBwcm9qZWN0IG5hcnJhdGl2
+ZSByZXBvcnQuDQogICAgRGVzY3JpYmUgdGhlIGZvdXIgcGhhc2VzIGluIHRoZSBncmFudCAN
+CiAgbWFuYWdlbWVudCBjeWNsZQ0KICAgIENsYXJpZnkga2V5IHJlc3BvbnNpYmlsaXRpZXMg
+YW5kIHJvdXRpbmVzIA0KICBuZWVkZWQgZm9yIHN1Y2Nlc3NmdWwgZ3JhbnQgbWFuYWdlbWVu
+dA0KICAgIERlc2NyaWJlIHRoZSBpbXBhY3Qgb2YgZm9yZWlnbiBleGNoYW5nZSBvbiANCiAg
+Z3JhbnQgbWFuYWdlbWVudA0KICAgIElkZW50aWZ5IHRoZSByZXF1aXJlbWVudHMgZm9yIGNs
+b3Npbmcgb2ZmIGEgDQogIGRvbm9yIGdyYW50Lg0KICAgIFVzZSBvZiBzdW4gc3lzdGVtIMKg
+YW5kIEV4Y2VsIGluIA0KICBtYW5hZ2VtZW50IG9mIGdyYW50Q291cnNlIA0KY29udGVudA0K
+ICAgIEtleSBjaGFsbGVuZ2VzIGluIGdyYW50IG1hbmFnZW1lbnQNCiAgICBUaGUgZ3JhbnQg
+bWFuYWdlbWVudCBsaWZlIGN5Y2xlDQogICAgUmVzcG9uc2liaWxpdGllcyBhbmQgcm91dGlu
+ZXMgaW4gZ3JhbnQgDQogIG1hbmFnZW1lbnQNCiAgICBUaGUgZmxvdyBvZiBkb25vciBmdW5k
+cw0KICAgIEFzc2Vzc2luZyB0aGUgdGVybXMgYW5kIGNvbmRpdGlvbnMgaW4gZ3JhbnQgDQog
+IGFncmVlbWVudHMNCiAgICBIb3cgZ3JhbnQgYWdyZWVtZW50cyBpbXBhY3Qgb24gYWNjb3Vu
+dGluZyANCiAgYW5kIHByb2N1cmVtZW50IHN5c3RlbXMNCiAgICBDb21wbHlpbmcgd2l0aCBk
+b25vciByZXBvcnRpbmcgDQogIHJlcXVpcmVtZW50cw0KICAgIE1hbmFnaW5nIG11bHRpcGxl
+LWRvbm9yIGZ1bmRlZCANCnByb2plY3RzDQogICAgTWFuYWdpbmcga2V5IHJlbGF0aW9uc2hp
+cHMgZm9yIHN1Y2Nlc3NmdWwgDQogIGdyYW50IG1hbmFnZW1lbnQNCiAgICBBZHZhbmNlIHN1
+biBzeXN0ZW0gaW4gZ3JhbnQgbWFuYWdlbWVudA0KICAgIEFkdmFuY2VkIGV4Y2VsIGZvcm11
+bGFzIGFuZCBmdW5jdGlvbnMgZm9yIA0KICBncmFudCBtYW5hZ2VtZW50DQogICAgwqBFeGNl
+bCBjaGFydCBpbiBkZXB0aCBmb3IgZ3JhbnQgDQogIHByZXNlbnRhdGlvbg0KR2VuZXJhbCAN
+Ck5vdGVzDQogICAgQWxsIG91ciBjb3Vyc2VzIGNhbiBiZSBUYWlsb3ItbWFkZSB0byANCiAg
+cGFydGljaXBhbnRzIG5lZWRzDQogICAgVGhlIHBhcnRpY2lwYW50IG11c3QgYmUgY29udmVy
+c2FudCB3aXRoIA0KICBFbmdsaXNoDQogICAgUHJlc2VudGF0aW9ucyBhcmUgd2VsbCBndWlk
+ZWQsIHByYWN0aWNhbCANCiAgZXhlcmNpc2UsIHdlYiBiYXNlZCB0dXRvcmlhbHMgYW5kIGdy
+b3VwIHdvcmsuIE91ciBmYWNpbGl0YXRvcnMgYXJlIGV4cGVydCB3aXRoIA0KICBtb3JlIHRo
+YW4gMTB5ZWFycyBvZiBleHBlcmllbmNlLg0KICAgIFVwb24gY29tcGxldGlvbiBvZiB0cmFp
+bmluZyB0aGUgcGFydGljaXBhbnQgDQogIHdpbGwgYmUgaXNzdWVkIHdpdGggRm9zY29yZSBk
+ZXZlbG9wbWVudCBjZW50ZXIgY2VydGlmaWNhdGUgKEZEQy1LKQ0KICAgIFRyYWluaW5nIHdp
+bGwgYmUgZG9uZSBhdCBGb3Njb3JlIA0KICBkZXZlbG9wbWVudCBjZW50ZXIgKEZEQy1LKSBj
+ZW50ZXIgaW4gTmFpcm9iaSBLZW55YS4gV2UgYWxzbyBvZmZlciBtb3JlIHRoYW4gDQogIGZp
+dmUgcGFydGljaXBhbnRzIHRyYWluaW5nIGF0IHJlcXVlc3RlZCBsb2NhdGlvbiB3aXRoaW4g
+S2VueWEsIG1vcmUgdGhhbiB0ZW4gDQogIHBhcnRpY2lwYW50IHdpdGhpbiBlYXN0IEFmcmlj
+YSBhbmQgbW9yZSB0aGFuIHR3ZW50eSBwYXJ0aWNpcGFudCBhbGwgb3ZlciB0aGUgDQogIHdv
+cmxkLg0KICAgIENvdXJzZSBkdXJhdGlvbiBpcyBmbGV4aWJsZSBhbmQgdGhlIA0KICBjb250
+ZW50cyBjYW4gYmUgbW9kaWZpZWQgdG8gZml0IGFueSBudW1iZXIgb2YgZGF5cy5PVEhFUiBV
+UENPTUlORyBXT1JLU0hPUFMgKENMSUNLIMKgT04gVEhFIA0KQ09VUlNFIFRPIFZJRVcgQ09V
+UlNFIE9VVExJTkUgQU5EIFJFR0lTVEVSIFRPIEFUVEVORCkNCg0KDQo8aHR0cDovL3RyYWNr
+aW5nLmZkYy1rLmFmcmljYS90cmFja2luZy9jbGljaz9kPXJXN2t2OWFlM1JJWkdOTEVKUEFt
+YkdvSXpiYXhXT2dlS29kUTJwcUFVSlF6aHZZU2s5NGZBYTRiYU1Xd2Y5NnF3RlIyRmJTVDA4
+a3FmTWxuMTIxTXpTSFBrRk5OcVNTU0J2cFhlLWY0bmhOYU9GR2VaTnJSVS1iMnVidHp0N1d4
+RURHOU1SZG15clY2dDdPU2dqUk13U2o3QWNOcTQ3MHZjZ1dvTU03Qk53TlFZbUdRRTZ2SzNH
+Qm1jT2VaX3lfMThERkdiUEgtNTBNbUlHSEV2MFlCNUh4dGV1N1ZVMHgzU3VxNjZ6eGRpd05p
+b0pJOVhPUzhTRGxpa2pLLXRZMkNzZzI+DQpJbnZlbnRvcnkgQ29udHJvbCBBbmQgV2FyZWhv
+dXNlIA0KICBNYW5hZ2VtZW50IENvdXJzZQ0KDQo8aHR0cDovL3RyYWNraW5nLmZkYy1rLmFm
+cmljYS90cmFja2luZy9jbGljaz9kPXNTX18wZXJlcGpHejduTldMS29PLUFocEpBM0UtS19a
+T2g3dHppS19lN1FlNC1LcUFOU3cxeWJUMW54N21EX0M3Mk5HcFJpSndfc055QjY5UzNMRVRi
+MFJEdEk3YURzY2hfaE1zM0VpT01nUExmTlpQb3R0WEZKYUcwSXplTmsxWm9fTC1yNllodHRD
+emdRalZiQ3I0RFFxSl9Ka1o3aDZ1bFI1MlJqN2toV242Tmk5REVMSDl6MWl6MmdKMFhDMjd3
+MHp2VlNiWTRYQmtYemw2c2NXODREaW1VdzlvdkJMTWFZckY5WWtwN0pkMD4NCkVudHJlcHJl
+bmV1cnNoaXAgYW5kIElubm92YXRpb24gDQogICAgICAgIENvdXJzZQ0KDQo8aHR0cDovL3Ry
+YWNraW5nLmZkYy1rLmFmcmljYS90cmFja2luZy9jbGljaz9kPU5IOUV4djZkQS01aS1ya2lv
+eFFSakJ6cWVyS0ctWXZDaVB6WWNiLXFlb2ZrSmI0VEoySjh4SHdPVW8xX1drTDFiY3g0WGhB
+eGtkX2lHQ2xCcUpLR1pLMkJheE81YUNrTEtZRVI5eFl2Wldjd3MyVzV3N3JRYUlrZDYyWU1j
+dkt1YXR1aVhxNmJKQjdfVjk5WnNRbWptWUQzY19aVTR0ak9ScWZyZ0kxYXNxajVmOElvTVdQ
+eEZ4OVNOUlR6MVE3ZGY2aUx5Q1U4cUwxS1dxV212dGEyb1BlMkNGT1FKZ2xCcmZwcXRkMVBL
+U0VFWV9Jam5VeXFob3gtU0FUTFplNlVDZzI+DQpPZmZpY2UgSUNUIEJhc2ljIFNraWxscyAN
+CiAgICAgICAgICAgICAgVHJhaW5pbmcgQ291cnNlDQpMb29raW5nIA0KZm9yd2FyZCB0byB5
+b3VyIHJlZ2lzdHJhdGlvbiBhbmQgYXR0ZW5kYW5jZS5SZXN1bHQgQmFzZWQgc2tpbGxzIA0K
+RGV2ZWxvcG1lbnQNClJlZ2FyZHMsDQpGREMgDQpUcmFpbmluZyBUZWFtDQpUZWxlcGhvbmUg
+DQpvZmZpY2U6ICsyNTQ3MTIyNjAwMzENCkVtYWlsIA0KdHJhaW5pbmdAZmRjLWsub3JnDQo8
+aHR0cDovL3RyYWNraW5nLmZkYy1rLmFmcmljYS90cmFja2luZy91bnN1YnNjcmliZT9kPS1M
+dWFwNy1YdGd1RnZWaUFfVDVyUEVfM3pPck1rNjBWejdUMzhvWUlzYjAtQ3NHc2JjVVdjRXlT
+N3JaSWsxRnJWQXk4d3JYenpCNmhMRWR2cDBGdmpYRVRpbXBYcWVhMm0xb0VTSlY5OF9BejA+
+DQpVTlNVQlNDUklCRQ==
+
+--=-eZCfFnLxx3TqApa0J9x3UzruxRxB468T/XWKzQ==
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dunicode" http-equiv=3DContent-Ty=
+pe>
+<META name=3DGENERATOR content=3D"MSHTML 6.00.6000.16546"></HEAD>
+<BODY>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><STRONG>Grant management using Sun accounting syst=
+em=20
+course-May 03 to May 14,2021 for 10 Days</STRONG></DIV>
+<TABLE=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: c=
+ollapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FO=
+NT-STYLE: normal; BORDER-SPACING: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-S=
+PACING: normal; BACKGROUND-COLOR: rgb(255,255,255); font-variant-ligat=
+ures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial;=
+ text-decoration-color: initial'=20
+cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY style=3D"BOX-SIZING: border-box">
+  <TR style=3D"BOX-SIZING: border-box; user-select: none">
+    <TD=20
+    style=3D"BOX-SIZING: border-box; PADDING-BOTTOM: 0px; PADDING-TOP:=
+ 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; user-select: text"=20
+    vAlign=3Dbottom width=3D1049>
+      <DIV style=3D"BOX-SIZING: border-box"=20
+  data-empty=3D"true">&nbsp;</DIV></TD></TR></TBODY></TABLE>
+<TABLE=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: c=
+ollapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FO=
+NT-STYLE: normal; BORDER-SPACING: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-S=
+PACING: normal; BACKGROUND-COLOR: rgb(255,255,255); font-variant-ligat=
+ures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial;=
+ text-decoration-color: initial'=20
+cellSpacing=3D0 cellPadding=3D0 width=3D1049 border=3D0>
+  <TBODY style=3D"BOX-SIZING: border-box">
+  <TR style=3D"BOX-SIZING: border-box; user-select: none">
+    <TD=20
+    style=3D"BOX-SIZING: border-box; PADDING-BOTTOM: 0px; PADDING-TOP:=
+ 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; user-select: text"=20
+    vAlign=3Dbottom width=3D1049>
+      <DIV style=3D"BOX-SIZING: border-box" data-empty=3D"true"><A=20
+      style=3D"BOX-SIZING: border-box; TEXT-DECORATION: none; BACKGROU=
+ND: none transparent scroll repeat 0% 0%; COLOR: rgb(78,93,157); user-=
+select: auto"=20
+      href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DSXK93JNp=
+DF7yIUKnWovLOqEcRj87GWvJ_rUKt3MgJPhNFJprZhwN7-2YNXG4trhSPRU_CJ-lgUX1uu=
+jhWA7FImmEsxw6sAyUOLXMnp34eQy_8vPNcJ0G-Wli7uW1SkGOT7xhPR_X4dvYUMdbWqTN=
+jxdwjVCR7qVbJwvAS_aJkAeOs5w72kPbh5SIaLjtP-1V5i1C0HArxgdNGjcQxYq9cfbc03=
+HIIodZ-pQA2wUm8HKlnmdaEaOsJ4dmhNXwY07vfw3sgwpl3NZU6--7iAUZlWx6xBsPvjY_=
+8ONf4Ww_9fxeDATnOX-JgMJI-qyLiD_sew2"=20
+      rel=3D"noopener noreferrer" target=3D_blank><BR=20
+      style=3D"BOX-SIZING: border-box"></A></DIV></TD></TR></TBODY></T=
+ABLE><A=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; TEXT-DECORATION: non=
+e; FONT-FAMILY: "Times New Roman"; BACKGROUND: rgb(255,255,255); WHITE=
+-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: =
+400; COLOR: rgb(78,93,157); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2;=
+ LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: nor=
+mal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; user-s=
+elect: auto'=20
+href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DdMijKfs9EIV9LZ=
+_uUCYBL-Kar2RCtibcuLKS3k5_oH0ND_zo431BEwlBpHr0ZhjHEjjO4l_CYVstK2Ey9aYu=
+FzEk6fCn2bki5yT8jhvdYSG7ojl1VrcI4yNva-QiNmIZxVs3mV2gYXd0btBpX27wb_kIW3=
+BMMGp7MyKIbTcxoiKYk766171w66mvSgrd7vdjKYLp2qczccX2H3gheHl4Re8wA96IL4UR=
+dHA9G5srv1Ll1Um4q2mrIq-gR2NM8S6SIw2"=20
+rel=3D"noopener noreferrer" target=3D_blank><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">&nbsp;</STRONG></A=
+><A=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; TEXT-DECORATION: non=
+e; FONT-FAMILY: "Times New Roman"; BACKGROUND: rgb(255,255,255); WHITE=
+-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: =
+400; COLOR: rgb(78,93,157); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2;=
+ LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: nor=
+mal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; user-s=
+elect: auto'=20
+href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DpUURyvNiirv2cW=
+4yWUEurFQMqbD1_vCkZzl81lC3msGMhjJtue0McZxf2JTmjAZG-H967as2loCAX-rOnDMe=
+2TmMwdvtV4wxyySjmyDAWGSwrbGrNoA4ZSqNVqNocMnBEdiDVw8EhBECC7rdh82MiYMlue=
+faY67Qm6yBG0D8BTQCnIFfJjyOnjWLXJl0qnTMd9gzEBVHJSQ-NChwv2CJvAEMpuZDOGu-=
+PiLU83Iy66RBlXVPBx52f-fH14_otgo2tg2"=20
+rel=3D"noopener noreferrer" target=3D_blank><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">Click Here=20
+to&nbsp;</STRONG><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">Register &nbsp;for=
+ online=20
+attendance course fee or Normal attendance as individual or group</STR=
+ONG></A>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><A=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; TEXT-DECORATION: non=
+e; FONT-FAMILY: "Times New Roman"; BACKGROUND: rgb(255,255,255); WHITE=
+-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: =
+400; COLOR: rgb(78,93,157); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2;=
+ LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: nor=
+mal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; user-s=
+elect: auto'=20
+href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DqqifPg1AO8ACVX=
+IqiqVLIzp6muSdQe_VwUWUbxrdO8HykDiBV5CE04CemLE8mrwdKA0DpGcBrTbxvqnoejCD=
+0Jel12BATjEdrQgKM6WVHuvirIrLLl365SmN2qdz1r0dHYkXUB7NSgp6rr8apB8JdDVJdQ=
+0t-HzQJVbG-kEYwJqJK6VXGSPXflgxXkgy560HHg2"=20
+rel=3D"noopener noreferrer" target=3D_blank><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">Download PDF=20
+Calendar&nbsp;2021</STRONG></A><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><A=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; TEXT-DECORATION: non=
+e; FONT-FAMILY: "Times New Roman"; BACKGROUND: rgb(255,255,255); WHITE=
+-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: =
+400; COLOR: rgb(78,93,157); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2;=
+ LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: nor=
+mal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; user-s=
+elect: auto'=20
+href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DqqifPg1AO8ACVX=
+IqiqVLIzp6muSdQe_VwUWUbxrdO8HykDiBV5CE04CemLE8mrwdKA0DpGcBrTbxvqnoejCD=
+0Jel12BATjEdrQgKM6WVHuu_pHAu5vhKAqtu4ABwJYBNkjCTutKhdvgNcAL0sRd7M8w_cv=
+aAeIJfM9XZC2Wn7CoDyM6rZeeDNorc0cZbqwrXNA2"=20
+rel=3D"noopener noreferrer" target=3D_blank><BR=20
+style=3D"BOX-SIZING: border-box"></A><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>OFFICIAL=20
+EMAIL ADDRESS</STRONG><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>:<SPAN>&nbsp;</SPAN></SPAN><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>training@fdc-k.org</STRONG>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><STRONG=
+=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Office=20
+Telephone: +254712260031</STRONG>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><SPAN=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 14px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><B=20
+style=3D"BOX-SIZING: border-box; FONT-FAMILY: Tahoma, Geneva, sans-ser=
+if; FONT-WEIGHT: bold; COLOR: rgb(97,189,109)">Register=20
+as a group of &nbsp; 5 &nbsp;or more participants and get 40% discount=
+ on=20
+course&nbsp;</B><SPAN=20
+style=3D"BOX-SIZING: border-box; COLOR: rgb(97,189,109)"><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">fee. Send</STRONG>=
+</SPAN><B=20
+style=3D"BOX-SIZING: border-box; FONT-FAMILY: Tahoma, Geneva, sans-ser=
+if; FONT-WEIGHT: bold; COLOR: rgb(97,189,109)"><SPAN=20
+style=3D"BOX-SIZING: border-box; COLOR: rgb(97,189,109)">&nbsp;</SPAN>=
+us email to=20
+training@fdc-k.org or call +254712260031</B></SPAN>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><B=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: Tahoma,=
+ Geneva, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRAN=
+SFORM: none; FONT-WEIGHT: bold; COLOR: rgb(97,189,109); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR:=
+ rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; f=
+ont-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decorat=
+ion-thickness: initial; text-decoration-style: initial; text-decoratio=
+n-color: initial">TRAINING=20
+FOR ONLINE AND NORMAL ATTENDANCE AVAILABLE</B>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box">&nbsp;</DIV><=
+U=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px'><STRONG=20
+style=3D"BOX-SIZING: border-box; FONT-WEIGHT: bold">COURSE OUTLINE</ST=
+RONG></U><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>&nbsp;</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Introduction</STRONG><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>This=20
+course is designed to enable those involved with grant management to b=
+ecome=20
+efficient and effective in the acquisition and utilization of funds fo=
+r=20
+development purposes, using appropriate techniques and application of =
+accounting=20
+and finance principles.</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Duration</STRONG><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>10=20
+days</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Who=20
+should attend?</STRONG><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>Finance=20
+Directors, Finance Managers, Procurement Directors, Procurement manage=
+rs,=20
+Procurement officers, Administrators, Project officers, Budget Account=
+ants,=20
+Auditors, Chief Accountants, Credit Controllers</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Course=20
+Objective:</STRONG>
+<UL=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; MARGIN-BOTTOM: 9px; =
+FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(=
+0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: nor=
+mal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-varian=
+t-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-wi=
+dth: 0px; text-decoration-thickness: initial; text-decoration-style: i=
+nitial; text-decoration-color: initial'>
+  <LI style=3D"BOX-SIZING: border-box">Identify and assess the critica=
+l terms and=20
+  conditions of grant aid for donor-funded projects</LI>
+  <LI style=3D"BOX-SIZING: border-box">Ensure compliance with donor te=
+rms and=20
+  conditions</LI>
+  <LI style=3D"BOX-SIZING: border-box">Providing supporting documents<=
+/LI>
+  <LI style=3D"BOX-SIZING: border-box">procurement of goods and servic=
+es; and=20
+  meeting financial reporting requirements</LI>
+  <LI style=3D"BOX-SIZING: border-box">Use a grant schedule to managin=
+g=20
+  multiple-funded programmes</LI>
+  <LI style=3D"BOX-SIZING: border-box">Prepare a donor financial repor=
+t to match=20
+  with a project narrative report.</LI>
+  <LI style=3D"BOX-SIZING: border-box">Describe the four phases in the=
+ grant=20
+  management cycle</LI>
+  <LI style=3D"BOX-SIZING: border-box">Clarify key responsibilities an=
+d routines=20
+  needed for successful grant management</LI>
+  <LI style=3D"BOX-SIZING: border-box">Describe the impact of foreign =
+exchange on=20
+  grant management</LI>
+  <LI style=3D"BOX-SIZING: border-box">Identify the requirements for c=
+losing off a=20
+  donor grant.</LI>
+  <LI style=3D"BOX-SIZING: border-box">Use of sun system &nbsp;and Exc=
+el in=20
+  management of grant</LI></UL><STRONG=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>Course=20
+content</STRONG>
+<UL=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; MARGIN-BOTTOM: 9px; =
+FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(=
+0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: nor=
+mal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-varian=
+t-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-wi=
+dth: 0px; text-decoration-thickness: initial; text-decoration-style: i=
+nitial; text-decoration-color: initial'>
+  <LI style=3D"BOX-SIZING: border-box">Key challenges in grant managem=
+ent</LI>
+  <LI style=3D"BOX-SIZING: border-box">The grant management life cycle=
+</LI>
+  <LI style=3D"BOX-SIZING: border-box">Responsibilities and routines i=
+n grant=20
+  management</LI>
+  <LI style=3D"BOX-SIZING: border-box">The flow of donor funds</LI>
+  <LI style=3D"BOX-SIZING: border-box">Assessing the terms and conditi=
+ons in grant=20
+  agreements</LI>
+  <LI style=3D"BOX-SIZING: border-box">How grant agreements impact on =
+accounting=20
+  and procurement systems</LI>
+  <LI style=3D"BOX-SIZING: border-box">Complying with donor reporting=20
+  requirements</LI>
+  <LI style=3D"BOX-SIZING: border-box">Managing multiple-donor funded=20
+projects</LI>
+  <LI style=3D"BOX-SIZING: border-box">Managing key relationships for =
+successful=20
+  grant management</LI>
+  <LI style=3D"BOX-SIZING: border-box">Advance sun system in grant man=
+agement</LI>
+  <LI style=3D"BOX-SIZING: border-box">Advanced excel formulas and fun=
+ctions for=20
+  grant management</LI>
+  <LI style=3D"BOX-SIZING: border-box">&nbsp;Excel chart in depth for =
+grant=20
+  presentation</LI></UL>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><STRONG=
+=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'>General=20
+Notes</STRONG>
+<UL=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; MARGIN-BOTTOM: 9px; =
+FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(=
+0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: nor=
+mal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-varian=
+t-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-wi=
+dth: 0px; text-decoration-thickness: initial; text-decoration-style: i=
+nitial; text-decoration-color: initial'>
+  <LI style=3D"BOX-SIZING: border-box">All our courses can be Tailor-m=
+ade to=20
+  participants needs</LI>
+  <LI style=3D"BOX-SIZING: border-box">The participant must be convers=
+ant with=20
+  English</LI>
+  <LI style=3D"BOX-SIZING: border-box">Presentations are well guided, =
+practical=20
+  exercise, web based tutorials and group work. Our facilitators are e=
+xpert with=20
+  more than 10years of experience.</LI>
+  <LI style=3D"BOX-SIZING: border-box">Upon completion of training the=
+ participant=20
+  will be issued with Foscore development center certificate (FDC-K)</=
+LI>
+  <LI style=3D"BOX-SIZING: border-box">Training will be done at Foscor=
+e=20
+  development center (FDC-K) center in Nairobi Kenya. We also offer mo=
+re than=20
+  five participants training at requested location within Kenya, more =
+than ten=20
+  participant within east Africa and more than twenty participant all =
+over the=20
+  world.</LI>
+  <LI style=3D"BOX-SIZING: border-box">Course duration is flexible and=
+ the=20
+  contents can be modified to fit any number of days.</LI></UL><STRONG=
+=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS:=
+ 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,2=
+55); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:=
+ initial; text-decoration-style: initial; text-decoration-color: initi=
+al'><U=20
+style=3D"BOX-SIZING: border-box">OTHER UPCOMING WORKSHOPS (CLICK &nbsp=
+;ON THE=20
+COURSE TO VIEW COURSE OUTLINE AND REGISTER TO ATTEND)</U></STRONG>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV>
+<UL=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; MARGIN-BOTTOM: 9px; =
+FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(=
+0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: nor=
+mal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-varian=
+t-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-wi=
+dth: 0px; text-decoration-thickness: initial; text-decoration-style: i=
+nitial; text-decoration-color: initial'>
+  <LI style=3D"BOX-SIZING: border-box"><A=20
+  style=3D"BOX-SIZING: border-box; TEXT-DECORATION: none; BACKGROUND: =
+none transparent scroll repeat 0% 0%; COLOR: rgb(78,93,157); user-sele=
+ct: auto"=20
+  href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DrW7kv9ae3RIZ=
+GNLEJPAmbGoIzbaxWOgeKodQ2pqAUJQzhvYSk94fAa4baMWwf96qwFR2FbST08kqfMln12=
+1MzSHPkFNNqSSSBvpXe-f4nhNaOFGeZNrRU-b2ubtzt7WxEDG9MRdmyrV6t7OSgjRMwSj7=
+AcNq470vcgWoMM7BNwNQYmGQE6vK3GBmcOeZ_y_18DFGbPH-50MmIGHEv0YB5Hxteu7VU0=
+x3Suq66zxdiwNioJI9XOS8SDlikjK-tY2Csg2"=20
+  rel=3D"noopener noreferrer" target=3D_blank>Inventory Control And Wa=
+rehouse=20
+  Management Course</A></LI></UL>
+<TABLE=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: c=
+ollapse; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FO=
+NT-STYLE: normal; BORDER-SPACING: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-S=
+PACING: normal; BACKGROUND-COLOR: rgb(255,255,255); font-variant-ligat=
+ures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial;=
+ text-decoration-color: initial'=20
+cellSpacing=3D0 cellPadding=3D0 width=3D732 border=3D0>
+  <TBODY style=3D"BOX-SIZING: border-box">
+  <TR style=3D"BOX-SIZING: border-box; user-select: none" height=3D20>
+    <TD=20
+    style=3D"BOX-SIZING: border-box; PADDING-BOTTOM: 0px; PADDING-TOP:=
+ 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; user-select: text"=20
+    height=3D20 width=3D732>
+      <UL style=3D"BOX-SIZING: border-box; MARGIN-BOTTOM: 9px; MARGIN-=
+TOP: 0px">
+        <LI style=3D"BOX-SIZING: border-box"><A=20
+        style=3D"BOX-SIZING: border-box; TEXT-DECORATION: none; BACKGR=
+OUND: none transparent scroll repeat 0% 0%; COLOR: rgb(78,93,157); use=
+r-select: auto"=20
+        href=3D"http://tracking.fdc-k.africa/tracking/click?d=3DsS__0e=
+repjGz7nNWLKoO-AhpJA3E-K_ZOh7tziK_e7Qe4-KqANSw1ybT1nx7mD_C72NGpRiJw_sN=
+yB69S3LETb0RDtI7aDsch_hMs3EiOMgPLfNZPottXFJaG0IzeNk1Zo_L-r6YhttCzgQjVb=
+Cr4DQqJ_JkZ7h6ulR52Rj7khWn6Ni9DELH9z1iz2gJ0XC27w0zvVSbY4XBkXzl6scW84Di=
+mUw9ovBLMaYrF9Ykp7Jd0"=20
+        rel=3D"noopener noreferrer" target=3D_blank>Entrepreneurship a=
+nd Innovation=20
+        Course</A></LI></UL>
+      <TABLE=20
+      style=3D"BOX-SIZING: border-box; BORDER-COLLAPSE: collapse; BORD=
+ER-SPACING: 0px; BACKGROUND-COLOR: transparent"=20
+      cellSpacing=3D0 cellPadding=3D0 width=3D732 border=3D0>
+        <TBODY style=3D"BOX-SIZING: border-box">
+        <TR style=3D"BOX-SIZING: border-box; user-select: none" height=
+=3D20>
+          <TD=20
+          style=3D"BOX-SIZING: border-box; PADDING-BOTTOM: 0px; PADDIN=
+G-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; user-select: text"=20
+          height=3D20 width=3D732>
+            <UL=20
+            style=3D"BOX-SIZING: border-box; MARGIN-BOTTOM: 9px; MARGI=
+N-TOP: 0px">
+              <LI style=3D"BOX-SIZING: border-box"><A=20
+              style=3D"BOX-SIZING: border-box; TEXT-DECORATION: none; =
+BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: rgb(78,93,157=
+); user-select: auto"=20
+              href=3D"http://tracking.fdc-k.africa/tracking/click?d=3D=
+NH9Exv6dA-5i-rkioxQRjBzqerKG-YvCiPzYcb-qeofkJb4TJ2J8xHwOUo1_WkL1bcx4Xh=
+Axkd_iGClBqJKGZK2BaxO5aCkLKYER9xYvZWcws2W5w7rQaIkd62YMcvKuatuiXq6bJB7_=
+V99ZsQmjmYD3c_ZU4tjORqfrgI1asqj5f8IoMWPxFx9SNRTz1Q7df6iLyCU8qL1KWqWmvt=
+a2oPe2CFOQJglBrfpqtd1PKSEEY_IjnUyqhox-SATLZe6UCg2"=20
+              rel=3D"noopener noreferrer" target=3D_blank>Office ICT B=
+asic Skills=20
+              Training Course</A></LI></UL></TD></TR></TBODY></TABLE>
+      <DIV style=3D"BOX-SIZING: border-box" data-empty=3D"true"><BR=20
+      style=3D"BOX-SIZING: border-box"></DIV></TD></TR></TBODY></TABLE=
+>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>Looking=20
+forward to your registration and attendance.Result Based skills=20
+Development</SPAN></DIV>
+<DIV=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'=20
+data-empty=3D"true"><BR style=3D"BOX-SIZING: border-box"></DIV><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>Regards,</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>FDC=20
+Training Team</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>Telephone=20
+office: +254712260031</SPAN><BR=20
+style=3D'BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: "Times =
+New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,25=
+5); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l'><SPAN=20
+style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman"; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial'>Email=20
+training@fdc-k.org</SPAN></BODY></HTML>
+
+<img src=3D"http://tracking.fdc-k.africa/tracking/open?msgid=3DrpDY1FE=
+1J-u8ZsOwxCV1VQ2&c=3D1381354295101971505" style=3D"width:1px;height:1p=
+x" alt=3D"" /><div style=3D"text-align:center; background-color:#fff;p=
+adding-top:10px;padding-bottom:10px;font-size:8pt;font-family:sans-ser=
+if;"><a href=3D"http://tracking.fdc-k.africa/tracking/unsubscribe?d=3D=
+-Luap7-XtguFvViA_T5rPE_3zOrMk60Vz7T38oYIsb0-CsGsbcUWcEyS7rZIk1FrVAy8wr=
+XzzB6hLEdvp0FvjXETimpXqea2m1oESJV98_Az0" style=3D"text-align:center;te=
+xt-decoration:none;color:#666;">UNSUBSCRIBE</a></div>
+--=-eZCfFnLxx3TqApa0J9x3UzruxRxB468T/XWKzQ==--

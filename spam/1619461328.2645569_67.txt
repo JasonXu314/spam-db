@@ -1,0 +1,148 @@
+Return-Path: <vivint-home-security-provider-bruce=untroubled.org@tspeed8.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3562445 invoked from network); 24 Apr 2021 19:38:40 -0000
+Received: (qmail 31769 invoked by uid 222); 24 Apr 2021 19:38:39 -0000
+Return-Path: <vivint-home-security-provider-bruce=untroubled.org@tspeed8.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 31766 invoked from network); 24 Apr 2021 19:38:39 -0000
+Received: from mail.tspeed8.cloud ([208.187.244.145])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Apr 2021 19:38:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed8.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint-home-security-provider@tspeed8.cloud;
+ bh=UAcUsPIK5G4mGOvWR7JTg1ruHuA=;
+ b=PwiQPEsYzFl9gKVeyyHM/UnnMGxIwXIkaDi9f1gB0JGLR4Qa5YaRJB/5LXwp127d9deAh+BiivZu
+   JG9KOsrK/tpOo0WGwY6T6YgVGqcy0sRhkM73vnGUoLuu7BsOvrtLy9oY/87GxmcZfjpvTHWku7pn
+   7iTmilfyUexb6dVmpPw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed8.cloud;
+ b=0Ea2XBQlGQTIHeeWNw7Kv67pIb8d2U/fW9DfxBX2Ra12Zfz69orDrHzGdAViAnZG6ZwOuB9amJln
+   smrZT7cZ7GRjuwrp8HsM3LANbXxzAVu5GvMLSZdEsi/9g9GQ9Rz9y3RpFfqNmQnHxzHSEqDFF7pY
+   gGMnWQXFsZ0MlQlft5w=;
+Received: by mail.tspeed8.cloud id hghprk0001gn for <bruce@untroubled.org>; Sat, 24 Apr 2021 15:25:04 -0400 (envelope-from <vivint-home-security-provider-bruce=untroubled.org@tspeed8.cloud>)
+Date: Sat, 24 Apr 2021 15:25:04 -0400
+From: "Vivint Home Security Provider" <vivint-home-security-provider@tspeed8.cloud>
+To:   <bruce@untroubled.org>
+Subject: Your offer from Vivint
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_469_225776009.1619292276056"
+List-Unsubscribe: <http://www.tspeed8.cloud/rupture-pretext/40e4B2395mT8o912jhm1X1B4b6ck21uFv4GIf4rxvs4FhIHEsvZ8yRTomoem7zK1oH0q6kBM1cY>
+Message-ID: <0.0.0.35.1D7393F8721BF14.1361F4@mail.tspeed8.cloud>
+Content-Length: 7792
+
+------=_Part_469_225776009.1619292276056
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Carolinian</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-size:18px; "><span style=3D"font-family:arial,helvet=
+ica,sans-serif; "><a href=3D"http://www.tspeed8.cloud/rupture-pretext/9724j2395hi86V13b160bdPw4b6cF21lFv4GIf4rxvs4FhIHEsvZ8SRTomoem5QZL105I3zcY">Home protection is need more than =
+ever.&nbsp; NO COST install and activation</a></span></span>
+  </div>=20
+  <br />=20
+  <titleMilton< title=3D"">=20
+  </titlecoarsest<>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.tspeed8.cloud/rupture-pretext/9724j2395hi86V13b160bdPw4b6cF21lFv4GIf4rxvs4FhIHEsvZ8SRTomoem5QZL105I3zcY" style=3D"text-decoration: none; "><img alt=3D"viv" src=3D"http://www.tspeed8.cloud/6a16eHD2395q7DaZ13o160c3UC4b6cw21lFv4GIf4rxvs4FhIHEsvZ8pRTomoem7bp1zP0C5kX1cY/merry-rusticating=
+" style=3D"width: 610px; max-width: 600px; background-color: rgb(255, 255, =
+255); font-family: sans-serif; font-size: 15px; line-height: 15px; color: r=
+gb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-sty=
+le: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "> <p=
+><span style=3D"font-family:georgia,serif; "><span style=3D"font-size:10px;=
+ "><strong>Offer Details</strong></span></span></p> <p><span style=3D"font-=
+family:georgia,serif; "><span style=3D"font-size:10px; ">Qualifying system =
+purchase requires minimum $599.99 equipment purchase, professional installa=
+tion and applicable services agreement. DIY system purchases and reactivati=
+ons of previously-installed systems not eligible for offer. Click <a href=
+=3D"http://www.tspeed8.cloud/spirally-prosecution/a806zg23S95S8pj612P160bet4b6cD21zFv4GIf4rxvs4FhIHEsvZ8zRTomoem6U10GPJ5VA2cY" style=3D"text-decoration: none; ">here</a> for monthly serv=
+ice plan prices. Equipment purchase may be financed subject to an agreement=
+ with one of Vivint' s financing partners. Offer not available in all state=
+s or provinces. Monthly $1.48 cellular network maintenance fee applies. Tax=
+es and local permit fees may apply. New Vivint Customers only.</span></span=
+></p> &nbsp; <p><span style=3D"font-family:georgia,serif; "><span style=3D"=
+font-size:10px; "><strong>Financing Options Available</strong></span></span=
+></p> <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-si=
+ze:10px; ">Financing eligibility and terms subject to credit approval. Fina=
+ncing options require a service agreement coterminous with applicable finan=
+cing agreement. Month-to-month service agreement available when equipment i=
+s purchased upfront. Additional equipment may be purchased and financed.</s=
+pan></span></p> <span style=3D"font-family:georgia,serif; "><span style=3D"=
+font-size:10px; ">&nbsp; </span></span> <p><span style=3D"font-family:georg=
+ia,serif; "><span style=3D"font-size:10px; "><strong>Vivint Systems &amp; S=
+ervices</strong></span></span></p> <p><span style=3D"font-family:georgia,se=
+rif; "><span style=3D"font-size:10px; ">System supports up to six cameras s=
+ubject to sufficient WiFi speeds. Without a Vivint services plan, product a=
+nd system functionality is limited (including loss of remote connectivity).=
+ Speak to a Vivint representative at the phone number in this offer for com=
+plete equipment, services, and package details, including pricing and finan=
+cing details. Products and services in Louisiana provided by Vivint Louisia=
+na Commercial Certificate #58280. See Vivint license numbers <a href=3D"=
+http://www.tspeed8.cloud/eb76m23Nn95dX8x612d160bfm4b6cn21JFv4GIf4rxvs4FhIHEsvZ8KRTomoem6j1nP0D5YJpcY/merry-rusticating" style=3D"text-decoration: none; ">here</a>.</span></span></p> <br =
+/> <span style=3D"font-family:georgia,serif; "><span style=3D"font-size:10p=
+x; ">&nbsp; If you do not wish to receive future messages click here to <sp=
+an class=3D"unstyle-auto-detected-links"><a href=3D"http://www.tspeed8.cloud/2695M239P5nA86A17e1YV6SR0c0pk4b6cn21zFv4GIf4rxvs4FhIHEsvZ8eRTomoem7Y1Jxv0o6D3M@cY/utility-Statler" style=3D"te=
+xt-decoration: underline !important; border-bottom-width: 0px !important; c=
+ursor: default !important; color: rgb(153, 153, 153); font-size: 10px; font=
+-family: sans-serif; font-weight: inherit !important; line-height: 14px; ">=
+unsubscribe</a></span><br /> <br /> We respect your right to privacy -<span=
+ class=3D"unstyle-auto-detected-links"><a href=3D"http://www.tspeed8.cloud/r6b5f23B95c8G6R17K1KmM60cuV1G4b6cF21XFv4GIf4rxvs4FhIHEsvZ8cRTomoem7fJ1H0DS5fpcYU/twirled-Lenten" style=3D"text=
+-decoration: underline !important; border-bottom-width: 0px !important; cur=
+sor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-f=
+amily: sans-serif; font-weight: inherit !important; line-height: 14px; text=
+-align: center; "> View our policy</a><br /> <span class=3D"unstyle-auto-de=
+tected-links"><a href=3D"http://www.tspeed8.cloud/rupture-pretext/9724j2395hi86V13b160bdPw4b6cF21lFv4GIf4rxvs4FhIHEsvZ8SRTomoem5QZL105I3zcY" style=3D"text-decoration: underline !i=
+mportant; border-bottom-width: 0px !important; cursor: default !important; =
+color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-w=
+eight: inherit !important; line-height: 14px; text-align: center; ">Vivint.=
+SmartHome</a>&nbsp; |&nbsp; 4931 N 300 W, Provo, UT 84604 </span></span></s=
+pan><br /> <br /> <br /> Leave <a href=3D"http://www.tspeed8.cloud/c9b6EV239G5do_8917jWO1z60wck2J4b6cp21oFv4GIf4rxvs4FhIHEsvZ8NRTomoem5Q1Gg05XPjcY/liberty-Moroccan">Here</a><br /=
+> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span><br =
+/> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <font dir="Loire"><style></font></style><span id="silvery"></span><style></style> =20
+ <img src=3D"http://www.tspeed8.cloud/6655CQ2395W85xZ12Y160c4Y4b6cG21NFv4GIf4rxvs4FhIHEsvZ8iRTomoem6E1qg0I5z1cYl/merry-rusticating" alt=3D""/></body>
+</html>
+
+------=_Part_469_225776009.1619292276056--
+

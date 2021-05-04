@@ -1,0 +1,103 @@
+Return-Path: <inferno_insurance_savings-bruce=untroubled.org@oevg.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1319211 invoked from network); 7 Apr 2021 19:04:41 -0000
+Received: (qmail 214725 invoked by uid 222); 7 Apr 2021 19:04:40 -0000
+Return-Path: <inferno_insurance_savings-bruce=untroubled.org@oevg.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 214722 invoked from network); 7 Apr 2021 19:04:40 -0000
+Received: from mail.oevg.us ([70.102.103.59])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 19:04:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=oevg.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=inferno_insurance_savings@oevg.us;
+ bh=wU/Ex9s/gB4p+AltkJpyH7bGh+A=;
+ b=V4MzgrCFQCzyZfmeGQ3PiBniyRpkTAo/X9m6dp/xEzuDfR6dZnKxU/e0R7XWAoDIsbY0EeLQ84OM
+   amGVDX60qM30tpN4FuqPp0on1tYSsLdXaSds5asNJvUbYSVIZ96/p/NYdCJzO8qN1sWqbSxSpUB/
+   0RUqLuQHqjHZSvHt7Eo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=oevg.us;
+ b=gHcFqPzYSi0+2DgDj2QqsRF0UkTqpvKAs/0VMWxemrznJeBN1saTBrL0eOnOI++yuiMrDFfvNqPD
+   S0HjvLbvsV7tlLBNy4Un8ft1+aXWAuCK6cFkJsklPlFZoM11tzlCKkLIsGexSgfLz0T13xSfXy6J
+   dZJwIAFFc+DvnZo/q9E=;
+Received: by mail.oevg.us id hdo14g0001g0 for <bruce@untroubled.org>; Wed, 7 Apr 2021 14:57:21 -0400 (envelope-from <inferno_insurance_savings-bruce=untroubled.org@oevg.us>)
+Date: Wed, 7 Apr 2021 14:57:21 -0400
+From: "Inferno Insurance Savings" <inferno_insurance_savings@oevg.us>
+To:   <bruce@untroubled.org>
+Subject: Compare Quotes From Top Auto Insurance Companies
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_943_1917133792.1617821826303"
+List-Unsubscribe: <http://www.oevg.us/1975Q23_95CFD8913y_yN11QV4a74B21FFv4GIf4rxvs4FhIHEsvZ8uR5ommnK7wx1XD0p5jTcjY/installations-adamantly>
+Message-ID: <0.0.0.68.1D72BDFD6D9174A.B6EB9@mail.oevg.us>
+Content-Length: 4383
+
+------=_Part_943_1917133792.1617821826303
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>dens</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255);"><a href=3D"=
+http://www.oevg.us/7915Yl2395o8DI612Q15b8ao4a74U21RFv4GIf4rxvs4FhIHEsvZ8QR5ommnK7hgKo1X06c3cYU@/annulling-representationally" style=3D"text-decoration: none;"><img alt=3D"" src=3D"http://www.oevg.us/Woolworth-Africans/4eF4l2395n7UXa12j15b8dN4a74w21NFv4GIf4rxvs4FhIHEsvZ8SR5ommnK5eJ1u06I@cUYU" sty=
+le=3D"width: 600px; max-width: 600px; background-color: rgb(255, 255, 255);=
+ font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(85=
+, 85, 85); margin: auto; display: block; border-width: 0px; border-style: s=
+olid;" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153);">&nbs=
+p;If you do not wish to receive future messages click here to <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.oevg.us/c235n23Z95dz86y17e1k5PnYqb8bM4a74Z21YFv4GIf4rxvs4FhIHEsvZ8nR5ommnK6tW10CN5sWcLY/installations-adamantly" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px;">unsubscri=
+be</a></span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a h=
+ref=3D"http://www.oevg.us/7915Yl2395o8DI612Q15b8ao4a74U21RFv4GIf4rxvs4FhIHEsvZ8QR5ommnK7hgKo1X06c3cYU@/annulling-representationally" style=3D"text-decoration: underline !important; border-b=
+ottom-width: 0px !important; cursor: default !important; color: rgb(153, 15=
+3, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !im=
+portant; line-height: 14px; text-align: center;">Inferno Insurance</a>&nbsp=
+;|&nbsp; 23638 W. Lyons Avenue #468 | Newhall, CA 91321</span><br /> <br />=
+ <br /> <a href=3D"http://www.oevg.us/Woolworth-Africans/4a46t2g39Q5fkn8913e1h5b8cC4a74z21EFv4GIf4rxvs4FhIHEsvZ8gR5ommnK7uZ1Yps05nUPcY">Unsubscribe Here</a><br /> 6547 N Ac=
+ademy Boulevard #1170<br /> 80918 Colorado Springs CO<br /> &nbsp;</td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <span dir="indirection"><small></span></small><span></span><style dir="moderated"><span></span></style><font id="disordered"></font><span class="principals"><big><style size="Marshalled"></style><style dir="propelling"></style></big></span> =20
+ <img src=3D"http://www.oevg.us/1d34H2395CB8Y513o15Cb8ei4a74n21yFv4GIf4rxvs4FhIHEsvZ8rR5ommnK6z1sG0x6vMWcqY/installations-adamantly" alt=3D""/></body>
+</html>
+
+------=_Part_943_1917133792.1617821826303--
+

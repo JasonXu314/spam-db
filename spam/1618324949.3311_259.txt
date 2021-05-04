@@ -1,0 +1,190 @@
+Return-Path: <allan@weboptimizes.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2331590 invoked from network); 13 Apr 2021 10:26:08 -0000
+Received: (qmail 43768 invoked by uid 222); 13 Apr 2021 10:26:07 -0000
+Return-Path: <allan@weboptimizes.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 43765 invoked from network); 13 Apr 2021 10:26:07 -0000
+Received: from mail-il1-x145.google.com (mail-il1-x145.google.com [IPv6:2607:f8b0:4864:20::145])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 13 Apr 2021 10:26:07 -0000
+Received: by mail-il1-x145.google.com with SMTP id h1so6584119ils.16
+        for <bruce@untroubled.org>; Tue, 13 Apr 2021 03:26:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=weboptimizes.com; s=google;
+        h=mime-version:reply-to:message-id:date:subject:from:to;
+        bh=swusPWb3itwps5jay8f/+rk1LgsrPE4uo7Q0u80hUKY=;
+        b=ItggV9aFYEeONc1XXLBt4/oEYVbumWVSpPnfUgK1NDpih/srquge+8tYatCm/7Oc6m
+         KqkFkA0oemBUfwzU/Sfzf7ESexz8CN3oEHbV+8Mf+sD/BhlCGMEWseRjYl0JfO3cuWVV
+         IEjJK6l6WQjXKpAc6Cw6oiATVdrmZBcxP5ZTA=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:message-id:date:subject
+         :from:to;
+        bh=swusPWb3itwps5jay8f/+rk1LgsrPE4uo7Q0u80hUKY=;
+        b=FoJ727HFAAc6UmJAQLIJ3E45V6EMxeWsy0NwlwaAqzepW0qNvmYZyNFFC8v0N10LV1
+         dwOF+SnrA1kb3AutCFSveY2XWnftw6EdC5DulCYCr0fB9+NQjjiYdaHbF1iZ0Hom4Ico
+         gimpBDj6KgFAU197WLhNzBWXAnbw8yrIr1m97ZEm2Xicdn5kA7mgXgkKIzB5PrNvIN6A
+         ufZmHL9wUyLDznr08jvFcMfgw9+u+0k5Uzu4UiZItjWH13ew51K6oWkKgveBelX7NKEh
+         WqUWNgQXgg/75MaM1JazCY35apfl7BrcmtwwQv8WawAjDwVRHYNcrF5KB2/6Gese23Sq
+         6IgA==
+X-Gm-Message-State: AOAM531McIUMKq/yMXuAHJk0OOmrio2/2xMEwdVaWI906Rnt+xBr7l2j
+	lcbeAv98+p4CjXC3ESZ/iUIT8TCBtkc4
+X-Google-Smtp-Source: ABdhPJwl6e++v/Ns2709jGKJtRr8cWkt91Xq4/arTeOqXNssR6ncpTk1ueMSPw6Ru1d3Zy15W6bo94PNww==
+MIME-Version: 1.0
+X-Received: by 2002:a92:130c:: with SMTP id 12mr26420152ilt.279.1618309566562;
+ Tue, 13 Apr 2021 03:26:06 -0700 (PDT)
+Reply-To: allan@weboptimizes.com
+Message-ID: <000000000000da0a2205bfd80ed0@google.com>
+Date: Tue, 13 Apr 2021 10:26:06 +0000
+Subject: For Your  untroubled.org  Issues
+From: Allan <allan@weboptimizes.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary="000000000000da0a1405bfd80ecc"
+Content-Length: 6724
+
+--000000000000da0a1405bfd80ecc
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+<p class="MsoNormal" style="margin:0in 0in 10pt;line-height:115%"><font  
+face="georgia, serif"><font color="#000000">Hy</font><b style="color:  
+rgb(0, 0, 0);">&nbsp;</b><b><font  
+color="#ff00ff">untroubled.org&nbsp;</font></b></font></p><p  
+class="MsoNormal" style="margin:0in 0in 10pt;line-height:115%"><font  
+face="georgia, serif"><font color="#000000">Not sure if you knew this but
+
+</font><b><font color="#ff00ff">untroubled.org</font><font  
+color="#000000">&nbsp;</font></b><font color="#000000">
+
+  has some problems
+that you might want to consider looking into. I spent 2-3 minutes looking
+around and found:</font></font></p><p class="MsoNormal" style="margin:0in  
+0in 10pt;line-height:115%"><b><font face="georgia, serif"  
+style="background-color: rgb(255, 255, 0);" color="#ff0000">- It doesn't  
+work properly on Mobile Phones, at all (which
+is how people browse the web these days).</font></b></p><p  
+class="MsoNormal" style="margin:0in 0in 10pt;line-height:115%"><b><font  
+face="georgia, serif" style="background-color: rgb(255, 255, 0);"  
+color="#ff0000">- It doesn't adjust properly when you resize the screen
+(Google recommends RESPONSIVE Websites rather than  
+ADAPTIVE)</font></b></p><p class="MsoNormal" style="margin:0in 0in  
+10pt;line-height:115%"><b><font face="georgia, serif"  
+style="background-color: rgb(255, 255, 0);" color="#ff0000">- It's hard to  
+read on larger displays</font></b></p><p class="MsoNormal"  
+style="margin:0in 0in 10pt;line-height:115%"><b><font face="georgia, serif"  
+style="background-color: rgb(255, 255, 0);" color="#ff0000">- The design  
+looks really, really dated compared to some of
+your competitors.</font></b></p><p class="MsoNormal" style="margin:0in 0in  
+10pt;line-height:115%"><font face="georgia, serif" color="#000000"><b>If  
+you would like</b>, </font><font face="georgia, serif"  
+style="background-color: rgb(0, 255, 0);" color="#ff0000">I can send you  
+some of our previous work
+samples.</font></p><p class="MsoNormal" style="margin:0in 0in  
+10pt;line-height:115%"><font face="georgia, serif" color="#000000">We can  
+develop the website on a more advanced platform at an
+affordable price. That price also includes making it complete mobile  
+responsive
+which will support all modern devices including all ranges of screen  
+sizes.</font></p><p class="MsoNormal" style="margin:0in 0in  
+10pt;line-height:115%"><font face="georgia, serif" color="#000000">Is that  
+something <b>you'd be interested in?</b></font></p><p class="MsoNormal"  
+style="margin: 0in 0in 10pt; line-height: 115%;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNormal" style="margin:0in 0in 10pt;line-height:115%"><font  
+face="georgia, serif" color="#000000"><b>Regards,<br></b><span  
+style="font-weight: bold;">Allan Parker |</span><b>&nbsp;Senior Web  
+Consultant</b><b><br></b>------------------------------<wbr>------------------------------<wbr>------------------------------<wbr>----<br><b>P.S:  
+This is a one time email and you may ask us to
+"REMOVE" you from our mailing list</b>.</font></p>
+
+--000000000000da0a1405bfd80ecc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%"><font=
+ face=3D"georgia, serif"><font color=3D"#000000">Hy</font><b style=3D"color=
+: rgb(0, 0, 0);">&nbsp;</b><b><font color=3D"#ff00ff">untroubled.org&nbsp;<=
+/font></b></font></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;li=
+ne-height:115%"><font face=3D"georgia, serif"><font color=3D"#000000">Not s=
+ure if you knew this but=20
+
+</font><b><font color=3D"#ff00ff">untroubled.org</font><font color=3D"#0000=
+00">&nbsp;</font></b><font color=3D"#000000">
+
+ has some problems
+that you might want to consider looking into. I spent 2-3 minutes looking
+around and found:</font></font></p><p class=3D"MsoNormal" style=3D"margin:0=
+in 0in 10pt;line-height:115%"><b><font face=3D"georgia, serif" style=3D"bac=
+kground-color: rgb(255, 255, 0);" color=3D"#ff0000">- It doesn't work prope=
+rly on Mobile Phones, at all (which
+is how people browse the web these days).</font></b></p><p class=3D"MsoNorm=
+al" style=3D"margin:0in 0in 10pt;line-height:115%"><b><font face=3D"georgia=
+, serif" style=3D"background-color: rgb(255, 255, 0);" color=3D"#ff0000">- =
+It doesn't adjust properly when you resize the screen
+(Google recommends RESPONSIVE Websites rather than ADAPTIVE)</font></b></p>=
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%"><b><f=
+ont face=3D"georgia, serif" style=3D"background-color: rgb(255, 255, 0);" c=
+olor=3D"#ff0000">- It's hard to read on larger displays</font></b></p><p cl=
+ass=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%"><b><font f=
+ace=3D"georgia, serif" style=3D"background-color: rgb(255, 255, 0);" color=
+=3D"#ff0000">- The design looks really, really dated compared to some of
+your competitors.</font></b></p><p class=3D"MsoNormal" style=3D"margin:0in =
+0in 10pt;line-height:115%"><font face=3D"georgia, serif" color=3D"#000000">=
+<b>If you would like</b>, </font><font face=3D"georgia, serif" style=3D"bac=
+kground-color: rgb(0, 255, 0);" color=3D"#ff0000">I can send you some of ou=
+r previous work
+samples.</font></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line=
+-height:115%"><font face=3D"georgia, serif" color=3D"#000000">We can develo=
+p the website on a more advanced platform at an
+affordable price. That price also includes making it complete mobile respon=
+sive
+which will support all modern devices including all ranges of screen sizes.=
+</font></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:=
+115%"><font face=3D"georgia, serif" color=3D"#000000">Is that something <b>=
+you'd be interested in?</b></font></p><p class=3D"MsoNormal" style=3D"margi=
+n: 0in 0in 10pt; line-height: 115%;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%"><=
+font face=3D"georgia, serif" color=3D"#000000"><b>Regards,<br></b><span sty=
+le=3D"font-weight: bold;">Allan Parker |</span><b>&nbsp;Senior Web Consulta=
+nt</b><b><br></b>------------------------------<wbr>-----------------------=
+-------<wbr>------------------------------<wbr>----<br><b>P.S: This is a on=
+e time email and you may ask us to
+"REMOVE" you from our mailing list</b>.</font></p><img src=3D"https://ssl.g=
+oogle-analytics.com/collect?v=3D1&t=3Devent&tid=3DUA-10351017-8&cid=3D6e9a0=
+d84-7b4f-4ddd-8b33-bfa6f1be4f23&ec=3DMmSMTP - For Your  untroubled.org  Iss=
+ues&ea=3DBruce@untroubled.org%20is%20opening%20the%20email" style=3D"displa=
+y:none"/>
+--000000000000da0a1405bfd80ecc--

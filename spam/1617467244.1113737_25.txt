@@ -1,0 +1,67 @@
+Return-Path: <senior.savings.by.wallet.guru-bruce=untroubled.org@cargo-4.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1112981 invoked from network); 3 Apr 2021 15:43:51 -0000
+Received: (qmail 151396 invoked by uid 222); 3 Apr 2021 15:43:50 -0000
+Return-Path: <senior.savings.by.wallet.guru-bruce=untroubled.org@cargo-4.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 151393 invoked from network); 3 Apr 2021 15:43:50 -0000
+Received: from mail.cargo-4.com ([70.102.103.120])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 15:43:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cargo-4.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=senior.savings.by.wallet.guru@cargo-4.com;
+ bh=i1wev5i70NAR5duuqGhPNQT8srA=;
+ b=eOnLgpEnq6knlINviJsJ1kxG1cfO+zUVHRsYA0FfjwJVgt2022T9Vwrf5okzoC38JsI8sTo6H1H4
+   gYcIvmeYqM+lroaOlZky0dROzk7oUNpoC5yuY4PQSw358ojHrVGmBQwjqHt+Rx5DIpiuWZnE+qKM
+   egp8WREZr17h5i+r6RQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cargo-4.com;
+ b=kq+ZWR5yjMOCF6xOE3g2z0LDjj0RYmnFD3uenno4/0OEWYXNya9hh9Sy9eTG4DvA9/GCXalm9oaK
+   bvA2FSHLNXrmVBLISDoGmiZzoxqgXspAXRXw17eZGPqToJ5IV4nTXnQnU2G6H25cohB2neFpCpXz
+   lpDq7yhmXNwkk7wUBn0=;
+Received: by mail.cargo-4.com id hd26j80001gi for <bruce@untroubled.org>; Sat, 3 Apr 2021 11:36:36 -0400 (envelope-from <senior.savings.by.wallet.guru-bruce=untroubled.org@cargo-4.com>)
+Date: Sat, 3 Apr 2021 11:36:36 -0400
+From: "Senior Savings By Wallet Guru" <senior.savings.by.wallet.guru@cargo-4.com>
+To:   <bruce@untroubled.org>
+Subject: Born Before 1964? Claim These Senior Rebates Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_958_784991923.1617464191941"
+List-Unsubscribe: <http://www.cargo-4.com/foundations-sclerotic/1204m2395h89Fx13YG1AMo1Y4a2dw21fFv4GIf4rxvs4FhIHEsvZ8zRNnKKdS7QOV1T0W6XNczY1>
+Message-ID: <0.0.0.69.1D7289F21E260F0.1A6470@mail.cargo-4.com>
+Content-Length: 2174
+
+------=_Part_958_784991923.1617464191941
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Bentham</title> 
+ </head> 
+ <body> 
+  <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+   <tbody> 
+    <tr> 
+     <td align="center" class="preview-mid" colspan="2" valign="middle"><a href="http://www.cargo-4.com/onset-stadium/e7c4d2395SC8F613Qq15a15Z4a2dC21bFv4GIf4rxvs4FhIHEsvZ8aRNnKKdS7Y1B0ljU5JTLcY">15 amazing Senior Discounts</a> 
+      <center>
+       <a href="http://www.cargo-4.com/onset-stadium/e7c4d2395SC8F613Qq15a15Z4a2dC21bFv4GIf4rxvs4FhIHEsvZ8aRNnKKdS7Y1B0ljU5JTLcY"><img alt="" src="http://www.cargo-4.com/6656a23R9I5Wu7aL13v15av18h4a2dy21tFv4GIf4rxvs4FhIHEsvZ8WRNnKKdS5p10QX6RycjYz/crewcut-Jupiter" style="border-width: 0px; border-style: solid; width: 653px; " /></a>
+      </center> 
+      <div align="center">
+       <br /> 
+       <br /> 
+       <br /> 
+       <br /> 
+       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.cargo-4.com/relinquished-pliant/9cc5Ij2395DZ86D13A15ap16m4a2dM21JFv4GIf4rxvs4FhIHEsvZ8uRNnKKdS7bKJ1OP06mMUclY"><font color="#666666">Unsubscribe Here</font></a>.<br /> Azrieli Center | 26 Harokmim Street | Holon, Israel</font>
+       <br /> 
+       <br /> 
+       <span style="font-size:12px; "><a href="http://www.cargo-4.com/Greentree-portability/6cC6e2B3U95mWs8917l15yzag1q7CS4a2dn21QFv4GIf4rxvs4FhIHEsvZ8PRNnKKdS7dwy10LT5C2zcY">Unsubscribe Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span>
+       <br /> &nbsp; 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> <span class="robustness"><big></span></big><big><style></style></big>  
+ <img src="http://www.cargo-4.com/relinquished-pliant/4fe4s2395j8w5w17i1HyS5za1Y9H4a2dG21FFv4GIf4rxvs4FhIHEsvZ8WRNnKKdS7Xs1jA0O6CLLclY" alt=""/></body>
+</html>
+
+------=_Part_958_784991923.1617464191941--
+

@@ -1,0 +1,234 @@
+Return-Path: <virginia.adams@optinprospects.tech>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1500084 invoked from network); 8 Apr 2021 16:09:12 -0000
+Received: (qmail 4705 invoked by uid 222); 8 Apr 2021 16:09:11 -0000
+Return-Path: <virginia.adams@optinprospects.tech>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 4702 invoked from network); 8 Apr 2021 16:09:11 -0000
+Received: from IND01-MA1-obe.outbound.protection.outlook.com (mail-eopbgr1380093.outbound.protection.outlook.com [40.107.138.93])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 16:09:11 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=SsSweIvf1kbdAfCyTbSb5S2c8/H8X1iATMx5Qj2JwSSCoCKocAreKWKZDf8lg9/HXO3Sk34cnyoRhAmi7W0a07Nmiihvbz0NSkTA0a6pj2Oc7iay4hD1VjuTmF3lwZhtyUXLuZFvWoaqS9baqCFBx2wOjdsyagOblFH+b9JLygEuK50VuUcsQAVVafEZFT83BOYO1n0Q7WMBfy+Of/eWmFC6dccvVNqRNWf8xHAz9BRlqkj+KUmOON7X1GnSEcvD8SZkQ4+0uFu6/CCsaZOpLrIYgS4ZohnvQ0/gzeWzMNBxI312khlJiZ1AEriJGptWE/ZkyHnDtBeXblK4EHtZXA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=xfbnTkjmOkrugASAQzJzgqybJC2yS8T5rmunlQIvsOE=;
+ b=WOtMk6/ByZW17hAqf0HppxG7lqgignePJFSkWsso+oKJ4cRVENtm+iG5WagS/+C1gvEJK5kI4BG79qugbBaxtbxsWBOyqq6QaHDDLdnhDBGpNJWHmqdsh8BfoDfpR/YnM0dGZ54BO5GHdrYHHVQ0z3kY6J2Zv16B1ugAPnyvVA7Ek0nZfpmDZZqlgFkTppo+7stYC92vBh6JxpirFhebMIUCD1m8N9TTEbxkJlst5IcuUQzlvYKhq3XiJzGuyCm59Xu4btjfQTpUmMdogiJgt4al+IBnKcAZfiQAZCmfnJiXyDMoETVkHYzDAoqTfTw0oQ8p6mZb+8qZShGEuHWmbw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=optinprospects.tech; dmarc=pass action=none
+ header.from=optinprospects.tech; dkim=pass header.d=optinprospects.tech;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=NETORG6483761.onmicrosoft.com; s=selector1-NETORG6483761-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=xfbnTkjmOkrugASAQzJzgqybJC2yS8T5rmunlQIvsOE=;
+ b=s55Uw2aAChHqXBj4q9BmV/50Z3//WJj1DWLRNLinfiiySjs44WuTLwNxX2wVqFHlcw1GpUz0qErhxGZjbanbY2BTS8NhvSGFU1ulEPChPlJOPDI7wTBIN1W2dB11WdiJWoyDGEpJhTLh6uCXSxn6lDbIoXmda0zRkvz9xAL6f1HLSBZDQ3sp/qvRPRGQXSzE/NVctS+4q6p5OIyL4K4xxDH8+iozHOHtpE/yHAuHYU+pD62S60ZD4XRrbhaPmjRzjaXsb4/SRyz9ByaC5UT2b07UwdfhrXhXZRNdpHeHsh/pcyMMr5mr3W+SaFUKphZAqpU/3yJsRbbTlfjrcg8i1Q==
+Received: from PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:33::12)
+ by PN1PR01MB0976.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c00:3::19) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Thu, 8 Apr
+ 2021 16:09:06 +0000
+Received: from PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::848c:6d32:e91a:8e3e]) by PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::848c:6d32:e91a:8e3e%6]) with mapi id 15.20.3999.035; Thu, 8 Apr 2021
+ 16:09:06 +0000
+From: Virginia Adams <virginia.adams@optinprospects.tech>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+Subject: Dedicated Servers Customers Contact List
+Thread-Topic: Dedicated Servers Customers Contact List
+Thread-Index: AdcskT+o+cjOb14oQjKciGbbSz0gzA==
+Disposition-Notification-To: Virginia Adams
+	<virginia.adams@optinprospects.tech>
+Return-Receipt-To: <virginia.adams@optinprospects.tech>
+Date: Thu, 8 Apr 2021 16:08:35 +0000
+Message-ID:
+ <PNZPR01MB47197DD4EDE8060373762B1C9C749@PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: untroubled.org; dkim=none (message not signed)
+ header.d=none;untroubled.org; dmarc=none action=none
+ header.from=optinprospects.tech;
+x-originating-ip: [103.214.62.90]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: e8313601-86c0-4646-617e-08d8faa8a2de
+x-ms-traffictypediagnostic: PN1PR01MB0976:
+x-microsoft-antispam-prvs:
+ <PN1PR01MB09764FD86C236D11AF9042D79C749@PN1PR01MB0976.INDPRD01.PROD.OUTLOOK.COM>
+x-ms-oob-tlc-oobclassifiers: OLM:3826;
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 2D+0ezh0ZHkSPKq4B8fykc5zDfyKC3MsQ5YZrziNb1d0PrOprFGQH43FZwKWXNQPU5+I4qaa05BVS38EiKDJB0Uc8f2N09liCfBwQ40jM9QiYlFIz3kRT5Nq5zXSNr8S25lZoYkM0862VLmkkDi4S1vLqx4QvZWmUqjMwk6+kQ3LiujPXTgs0ineTfKlijBg052Tpx7ewllObV5+WP7WAVxGuEhrrM7+X0Ii7a9HiQq9d07RizQXkQpIqVqTx45Rpj1IwUh53Js1sUxpS0hlBZzyoOSnvc0EZOWBkpDgu48LTPmM+cepkMi9+swAZbsOGPuKsF8IFUwXSF23wyMQTb4ZOY2YwJeIPO+QjVHZUW7Q/5tiYuyoo7EL+kxtrPl/A4EL5T/0HJ2uTT+bevJuMFnJdHXcgp30l2j3d1d5esJE0DrSawte3Ij+55pT7gvJAvaKBIuA6DTUEzg/NzK7PSfrExuOf9n9Fe68t/c3pD2bOKwAq1N427Gj2/Jgu7H7+AIJyW9EXO+j5souBo/lxVI4lR/R/zOZ94SUZ3Cli1Q1MYCWABQMJc9beMCw3ikoIJeO8Rj7yScsOILWnbEMn+471bk0iV2FeYBVBQtNhLmrZ3YZihdMvtLFXeWe2fKbH/i7H3Z89TxKX3q+BCUnPZ5HPC2srcFWvdJj0pgQvQ24tT+bBEa47pu7OBC+0FhgLYhMWtQkGoA+dXRPfpWbjQ==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(346002)(136003)(366004)(376002)(39830400003)(396003)(55016002)(71200400001)(186003)(8676002)(316002)(7696005)(6506007)(86362001)(26005)(6916009)(9326002)(38100700001)(8936002)(66946007)(76116006)(52536014)(4744005)(2906002)(44832011)(478600001)(66476007)(64756008)(66556008)(66446008)(33656002)(5660300002)(6666004)(9686003)(26710200004)(13332003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata:
+ =?us-ascii?Q?Tuwn6zNpaFkJevi4Old15uyYZaSR7KttLSFgiiIy2dE2HUiWYs1kRQypWBRR?=
+ =?us-ascii?Q?HLkIO5PGSgJ+ARbHL61n/t18BoiDgBaaQyhMEwTsqtD1A2FtcuhZVbxYl0yQ?=
+ =?us-ascii?Q?LV00iksO7+vXKI84RnQm3asm+bw+M9Bkmms1WarhCUSDbzqwcPgArmeg6Oyk?=
+ =?us-ascii?Q?/A5DxxggIVO0O5e7jnU6QuuUOTsh51HO29hJV41Mswgq63FJvUiHuQzycYi/?=
+ =?us-ascii?Q?Wfn21B9woHO04biwRvMaam1ghd0dY0hs88FpwcUvkpGtwYSnb+65IGdw1w6r?=
+ =?us-ascii?Q?0XHkWM6r8yrG64H1wFP/VEy6Acoh51zIzNLLLoYhofdICtoZYadq8BZiM41H?=
+ =?us-ascii?Q?btkgGelN9qP08+OTDoqWB7b7UO7Szaa7MqugnAEBATYKQrHN9WDZnO4gDe3g?=
+ =?us-ascii?Q?Vfyh6K3NnfGlkMg8Am0PzMbRWnmhBhjKHtf8gQxOdRmMM4wUm7igLs7hlX8j?=
+ =?us-ascii?Q?nf87MHFTKmE4gv4/Mv92xjbYwFJKVyHY5i5zi5F7/nTOonW5wEdq/IQMYvv2?=
+ =?us-ascii?Q?oXc+6e1YSFt+YMj9PAV3uW2Zgi9K9DhneCx44hr+58+tzvhSIqu0qj75GUXy?=
+ =?us-ascii?Q?iMCZEqW4xdnUTLznNIjMDz2CxKSF1AG6UTf0Uo6IWvJz5OmzXJrlPbXYHdsZ?=
+ =?us-ascii?Q?WfEf9ERIw0E6HzdmSY2v3OIaUT6GW7q6UpfA//RdizzsVoCX4CRbAsC3SLbT?=
+ =?us-ascii?Q?cLj7IcswoxXkSCE6ORKUWle8Ij6ioZZm3qOGxAPSn/OmC+jSdVM9oNfY8Ggb?=
+ =?us-ascii?Q?eLOANfYAA8/17Jkyv+DNUoHb9RsgY490mmEgcqdAErXgJs7widnKAxd6s8oi?=
+ =?us-ascii?Q?bp5kRG94x3oUMIpIl1m3X/1RfvXti1L2uiW7W0UpnkkuIxx3bWMKT2ouQkFa?=
+ =?us-ascii?Q?LPo8SNUz2ovot05eBClbOdlULN41MK65y3S6epIXZEyv/1JYVwdrdTtyuPBX?=
+ =?us-ascii?Q?vPeViGaxDRGv+K4eEsmmgQY1afVJ8axrASNvThHLGK0BxlvBOvwYk/CKss/U?=
+ =?us-ascii?Q?Hzg0orAKw9vnIXcAOloPkqQbns0lKrCwhYr0BS0hQPVD2ZP3lz+wDXF40XA+?=
+ =?us-ascii?Q?/YhujsRGdmiC8eoWMecivjePcfruq8ja2kFmtImHDgBHG4BKagtzbAwSd/hn?=
+ =?us-ascii?Q?pE9U89V59iPYgiq+tpVZM3Wt9lrHAH7qRLO9Vh/751nLHvxP2vG9Q1eORvgb?=
+ =?us-ascii?Q?uQdduD/5mmx5b2OS/i4K5wGgT6N6FRPF853+zKy5FHuDl2n0u4qNSbRVZjiU?=
+ =?us-ascii?Q?3MjReMgTH95B68IxXAXvb/hS8pZxdVmtIB7m2Rb4jesyBR0s1q7wHXbNiRaT?=
+ =?us-ascii?Q?e7A=3D?=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_PNZPR01MB47197DD4EDE8060373762B1C9C749PNZPR01MB4719INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: optinprospects.tech
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PNZPR01MB4719.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: e8313601-86c0-4646-617e-08d8faa8a2de
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Apr 2021 16:08:35.8555
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 31fde1cb-f1cf-4b42-9015-4257ff7ba837
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: BzewfT9X9uV0mJjoptvVFraflnVDLBHoj2dnL7wZW6hJmasZTmfbFuonaGmr8eFg5Cg2iBxqmDsIVnuqxVLmY+OeR2b+W6vO9ipgCzWNACFF/kZUnbFXUTJAT0yeQ/F+
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PN1PR01MB0976
+Content-Length: 4249
+
+--_000_PNZPR01MB47197DD4EDE8060373762B1C9C749PNZPR01MB4719INDP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+
+
+Hope you are doing Well.
+
+
+
+Would you be interested in Companies that are Currently Using Dedicated Ser=
+vers with complete details?
+
+
+
+Information fields: Names, Title, Email, Phone, Company Name, Company URL, =
+Company physical address, SIC Code, Industry and Specialty (Revenue and Emp=
+loyee).
+
+
+Please let me know your target geography so that i will get back to you wit=
+h the counts, Pricing and more information.
+
+
+
+Best Regards,
+
+Virginia Adams
+
+Demand Generation
+
+To opt out, please response Outs.
+
+
+--_000_PNZPR01MB47197DD4EDE8060373762B1C9C749PNZPR01MB4719INDP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US">
+<div class=3D"WordSection1">
+<p class=3D"MsoNoSpacing">Hi,<o:p></o:p></p>
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNoSpacing">Hope you are doing Well.</p>
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNoSpacing">Would you be interested in Companies that are Cur=
+rently Using
+<b><u>Dedicated Servers</u></b><span style=3D"font-size:12.0pt"> <em><span =
+style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black;background:=
+white;font-style:normal">with
+</span></em></span>complete details?<b><u><span style=3D"font-size:12.0pt;c=
+olor:black;background:white"><o:p></o:p></span></u></b></p>
+<p class=3D"MsoNoSpacing"><b><u><span style=3D"font-size:12.0pt;color:black=
+;background:white"><o:p><span style=3D"text-decoration:none">&nbsp;</span><=
+/o:p></span></u></b></p>
+<p class=3D"MsoNoSpacing"><b><u>Information fields</u>:</b> Names, Title, E=
+mail, Phone, Company Name, Company URL, Company physical address, SIC Code,=
+ Industry and Specialty (Revenue and Employee).</p>
+<p class=3D"MsoNormal"><u><o:p><span style=3D"text-decoration:none">&nbsp;<=
+/span></o:p></u></p>
+<p class=3D"MsoNoSpacing">Please let me know your target geography so that =
+i will get back to you with the counts, Pricing and more information.</p>
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNoSpacing">Best Regards,</p>
+<p class=3D"MsoNoSpacing"><b>Virginia Adams <o:p></o:p></b></p>
+<p class=3D"MsoNoSpacing"><b>Demand Generation<o:p></o:p></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"color:#F2F2F2"><o:p>&nbsp;</o:p></=
+span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;line-height:105%;colo=
+r:#F2F2F2">To opt out, please response Outs.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;line-height:105%;colo=
+r:#A6A6A6"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_PNZPR01MB47197DD4EDE8060373762B1C9C749PNZPR01MB4719INDP_--

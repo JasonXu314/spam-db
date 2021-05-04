@@ -1,0 +1,113 @@
+Return-Path: <fijishowerspacom_savings-bruce=untroubled.org@speed81.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3169388 invoked from network); 20 Apr 2021 18:02:25 -0000
+Received: (qmail 57149 invoked by uid 222); 20 Apr 2021 18:02:25 -0000
+Return-Path: <fijishowerspacom_savings-bruce=untroubled.org@speed81.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57146 invoked from network); 20 Apr 2021 18:02:25 -0000
+Received: from mail.speed81.cloud ([208.187.244.188])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 18:02:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed81.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fijishowerspacom_savings@speed81.cloud;
+ bh=Krha5zzNlI17DCSNrYEnjSOG6cA=;
+ b=DwY+4KyN2ok8wUi2sPG0fdI1dM8gxgHMn+pP9ezbENVvzg95fgKxYG+h//z5Ob1MQHoknktMM9sN
+   J/1FSJd9JmFr2M7IHYuWBWSxTwhc7gSr3YSuVhFuEfFU9AztPXtQbSzXzcQuGzEKAL4EadZnmiSB
+   JRuokdalwoFJCTvswXA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed81.cloud;
+ b=ftlAwmn4C39gCIJJhaWllY2Nzl0q3owgyQ1+iMKihRWam8MFO3SdBXBybijh3LsV3XnoxmdJ0RZm
+   dsbrbo1ADTfBCtaOXB0DRCSmHo6JJO4umI0OURK10qPMtmKdRPncdB1IEGtn5+slNk68qM6ihu4D
+   GBlyCzJVLVG5AFQKtm4=;
+Received: by mail.speed81.cloud id hfsbis0001gm for <bruce@untroubled.org>; Tue, 20 Apr 2021 13:51:45 -0400 (envelope-from <fijishowerspacom_savings-bruce=untroubled.org@speed81.cloud>)
+Date: Tue, 20 Apr 2021 13:51:45 -0400
+From: "FijiShowerSpa.com Savings" <fijishowerspacom_savings@speed81.cloud>
+To:   <bruce@untroubled.org>
+Subject: Welcome To Staying Clean - Limited Time
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_889_331046944.1618941095044"
+List-Unsubscribe: <http://www.speed81.cloud/c234y2395z8L9J11RS1Y1K4b34Z21vFv4GIf4rxvs4FhIHEsvZ8fRIomoom6Vh10Wm6JLNTcY/Murphy-petitioned>
+Message-ID: <0.0.0.62.1D7360DD47FF4CC.7B579B@mail.speed81.cloud>
+Content-Length: 4875
+
+------=_Part_889_331046944.1618941095044
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>negative</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><a=
+ class=3D"unstyle-auto-detected-links" href=3D"http://www.speed81.cloud/sponger-night/a806t2A3L95cx8C612l15f88K4b34W21aFv4GIf4rxvs4FhIHEsvZ8zRIomoom7blzHD105zWqcY" style=3D"text-de=
+coration: none !important; font-family: sans-serif; font-size: 18px; line-h=
+eight: 20px; text-align: center; color: rgb(153, 153, 153); ">Americas best=
+ rated spa shower head </a></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed81.cloud/sponger-night/a806t2A3L95cx8C612l15f88K4b34W21aFv4GIf4rxvs4FhIHEsvZ8zRIomoom7blzHD105zWqcY" style=3D"text-decoration: none; "><img alt=3D"shower" src=3D"=
+http://www.speed81.cloud/11f5G23J95l7OaU13l15Af8bh4b34B21mFv4GIf4rxvs4FhIHEsvZ8ERIomoom7Y1KkgM06fkc@JY/sponger-night" style=3D"width: 621px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; height: 707px; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; If you do not =
+wish to receive future messages click here to <span class=3D"unstyle-auto-d=
+etected-links"><a href=3D"http://www.speed81.cloud/b6f5j23D95aD8I612N15f89Q4b34W21GFv4GIf4rxvs4FhIHEsvZ8zRIomoom7w1KZ0Fo5M1BcY/nanostore-Fishkill" style=3D"text-decoration: underline !=
+important; border-bottom-width: 0px !important; cursor: default !important;=
+ color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-=
+weight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br =
+/> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed81.cloud/sponger-night/a806t2A3L95cx8C612l15f88K4b34W21aFv4GIf4rxvs4FhIHEsvZ8zRIomoom7blzHD105zWqcY=
+" style=3D"text-decoration: underline !important; border-bottom-width: 0px =
+!important; cursor: default !important; color: rgb(153, 153, 153); font-siz=
+e: 10px; font-family: sans-serif; font-weight: inherit !important; line-hei=
+ght: 14px; text-align: center; ">FijiShowerSpa.com</a>&nbsp; |&nbsp; 23638 =
+W. Lyons Avenue #468 - Newhall, CA 91321</span><br /> <br /> Leave&nbsp; <a=
+ href=3D"http://www.speed81.cloud/Pentateuch-proprietors/eb84p2395i8u9V17yuj15BfP8awG4b34O21MFv4GIf4rxvs4FhIHEsvZ8qRIomoom7k1DxN0X6OXcpYB"> Here</a><br /> <br /> 6547 N Academy Boulevar=
+d #1170<br /> 80918 Colorado Springs CO</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br /> <style><style><style><small></small></style></style></style> =20
+ <img src=3D"http://www.speed81.cloud/20f5S23T95Mw8L512W15f8cn4b34h21uFv4GIf4rxvs4FhIHEsvZ8fRIomoom6z10Puh6QJcYlB/Murphy-petitioned" alt=3D""/></body>
+</html>
+
+------=_Part_889_331046944.1618941095044--
+

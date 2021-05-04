@@ -1,0 +1,256 @@
+Return-Path: <new_brain_blueprint-bruce=untroubled.org@tox5.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1581305 invoked from network); 10 Apr 2021 20:23:21 -0000
+Received: (qmail 36796 invoked by uid 222); 10 Apr 2021 20:23:20 -0000
+Return-Path: <new_brain_blueprint-bruce=untroubled.org@tox5.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36793 invoked from network); 10 Apr 2021 20:23:20 -0000
+Received: from mail.tox5.us ([69.94.138.248])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Apr 2021 20:23:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox5.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=new_brain_blueprint@tox5.us;
+ bh=1l0pSqxmdc6YEJWtUq36Smcs2bM=;
+ b=gT8RWL/sHtfOyZ9dh8HVzCZLrP5ulurmzFighon4HgKfDbeqG1522s2Bp5MBfayy/hSG6Nz70Ye/
+   YUcPE+uLmmZSCJyG8fd53Ir8EjnSM9QfRksddPJZqCdIqzqoVtpRyppdzSvxgMst90kzIDh1J2O3
+   XVuhuW2Xy/Ik7a4mcyU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox5.us;
+ b=Q0Q/ObIIM1mOxRV41aHOdIID08PzIxJkC2dBi+xJ9VIkwrR3pkUdUFzQDlHsko5pk2i4W9w8A2mW
+   aYefrtSYPwC74Brp4TQOLuO3W2JFMNKelfkO3ZCqRBaPl3v+StmwEyd4Xm2bh6qJxkXz627LvoKM
+   YZumM0MW6KDH1PMeUQw=;
+Received: by mail.tox5.us id he84j80001gp for <bruce@untroubled.org>; Sat, 10 Apr 2021 16:18:41 -0400 (envelope-from <new_brain_blueprint-bruce=untroubled.org@tox5.us>)
+Date: Sat, 10 Apr 2021 16:18:41 -0400
+From: "New Brain Blueprint" <new_brain_blueprint@tox5.us>
+To:   <bruce@untroubled.org>
+Subject: The food that saves your brain
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_133_1542345868.1618085916437"
+List-Unsubscribe: <http://www.tox5.us/eb74X2395ISR8913zD1Upz1S4aa1C21tFv4GIf4rxvs4FhIHEsvZ11LRPommRQo596eo1Xs06Jy1lcY/Loveland-fiercest>
+Message-ID: <0.0.0.E.1D72E46B2AF5CD0.3692B7@mail.tox5.us>
+Content-Length: 16072
+
+------=_Part_133_1542345868.1618085916437
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>visibly</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:georgia,serif; "><span class=3D"unstyle-auto-detec=
+ted-links" style=3D"text-decoration: none !important; font-size: 18px; line=
+-height: 20px; text-align: center; color: rgb(153, 153, 153); ">Unlock </sp=
+an><a class=3D"unstyle-auto-detected-links" href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" style=3D"te=
+xt-decoration: none !important; font-family: sans-serif; font-size: 18px; l=
+ine-height: 20px; text-align: center; color: rgb(153, 153, 153); ">your Bra=
+ins Blueprint</a></span> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(=
+0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; fo=
+nt-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; "><span style=3D"font-family:georgia,serif; ">A new study from Har=
+vard Scientists has revealed<br /> that <a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" target=3D"_b=
+lank">ONE of the following foods</a> is linked to combating<br /> Alzheimer=
+' s and dementia. Can you guess which it is?</span></p>=20
+      <div>
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>1. </span><a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-style: normal; font-variant-caps: normal; font-weight: norm=
+al; letter-spacing: normal; orphans: auto; text-align: start; text-indent: =
+0px; text-transform: none; white-space: normal; widows: auto; word-spacing:=
+ 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " tar=
+get=3D"_blank">Red wine</a><span style=3D"caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: no=
+rmal; font-weight: normal; letter-spacing: normal; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; display: inline !important; float: none; "> </span><br style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica=
+, sans-serif; font-style: normal; font-variant-caps: normal; font-weight: n=
+ormal; letter-spacing: normal; orphans: auto; text-align: start; text-inden=
+t: 0px; text-transform: none; white-space: normal; widows: auto; word-spaci=
+ng: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -=
+moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; display: inline !important; float: none; ">2. </span><a href=3D"=
+http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" style=3D"font-family: Arial, Helvetica, sans-serif; font-style: no=
+rmal; font-variant-caps: normal; font-weight: normal; letter-spacing: norma=
+l; orphans: auto; text-align: start; text-indent: 0px; text-transform: none=
+; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-a=
+djust: auto; -webkit-text-stroke-width: 0px; " target=3D"_blank">Fish</a><s=
+pan style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: med=
+ium; font-style: normal; font-variant-caps: normal; font-weight: normal; le=
+tter-spacing: normal; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; text-decoration: none; display: inline !imp=
+ortant; float: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); colo=
+r: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: nor=
+mal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal=
+; orphans: auto; text-align: start; text-indent: 0px; text-transform: none;=
+ white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <sp=
+an style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medi=
+um; font-style: normal; font-variant-caps: normal; font-weight: normal; let=
+ter-spacing: normal; text-align: start; text-indent: 0px; text-transform: n=
+one; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; text-decoration: none; display: inline !impo=
+rtant; float: none; ">3. </span><a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; " target=3D"_blank">Avocados</a><span style=3D"caret-color:=
+ rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; text-decoration: none; display: inline !important; float: none; "> <=
+/span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fam=
+ily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; orphans: auto; text-ali=
+gn: start; text-indent: 0px; text-transform: none; white-space: normal; wid=
+ows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-=
+stroke-width: 0px; text-decoration: none; " /> <span style=3D"caret-color: =
+rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; f=
+ont-variant-caps: normal; font-weight: normal; letter-spacing: normal; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width:=
+ 0px; text-decoration: none; display: inline !important; float: none; ">4. =
+</span><a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-style: normal; font-variant-caps: normal; font-weight: normal; =
+letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px;=
+ text-transform: none; white-space: normal; widows: auto; word-spacing: 0px=
+; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target=
+=3D"_blank">Clams</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0=
+, 0, 0); font-size: medium; font-style: normal; font-variant-caps: normal; =
+font-weight: normal; letter-spacing: normal; text-align: start; text-indent=
+: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; display: inline !important; float: none; "> </span></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&=
+nbsp; </p>=20
+      <div>
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>Select your answer to find out...</span></span>
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: auto; word-sp=
+acing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; ">
+       <span style=3D"font-family:georgia,serif; "><a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" t=
+arget=3D"_blank"><img alt=3D"alzheimers and sleep" src=3D"http://www.tox5.us/musical-suspension/22e5nn2395v7Vga17H1s5oc8B7C_A4aa1W21CFv4GIf4rxvs4FhIHEsvZ11URPommRQo597Ml10jQi6P0Mc1Y" styl=
+e=3D"max-width: 40%; height: 227px; width: 401px; " title=3D"alzheimers and=
+ sleep" /></a></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><=
+span style=3D"font-family:georgia,serif; "><strong><a href=3D"http://www.tox5.us/8456j23vK95tM8o617Q1Oz5NcN83ii4aa1w21XFv4GIf4rxvs4FhIHEsvZ11NRPommRQo595Yg10N5mXcYk/venison-implementer" t=
+arget=3D"_blank">Or click HERE to see the answer &gt; &gt; &gt; &gt; </a></=
+strong></span></p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, =
+0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent=
+: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; "><span style=3D"font-family:georgia,serif; ">To your health,</span></p>=
+ <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: A=
+rial, Helvetica, sans-serif; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transf=
+orm: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: a=
+uto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style=
+=3D"font-family:georgia,serif; ">Dr. Will Mitchell, DOM, MS Nutrition</span=
+></p>=20
+      <div>
+       &nbsp;=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not wish to receive=
+ future messages click here to <span class=3D"unstyle-auto-detected-links">=
+<a href=3D"http://www.tox5.us/bc95Ki2395Qyq8612f15c84T4aa1w21fFv4GIf4rxvs4FhIHEsvZ11RRPommRQo597cyy10WV5wTcqY/congenital-Persia" style=3D"text-decoration: underline !important; bord=
+er-bottom-width: 0px !important; cursor: default !important; color: rgb(153=
+, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit=
+ !important; line-height: 14px; ">unsubs</a><span style=3D"text-decoration:=
+ underline !important; border-bottom-width: 0px !important; cursor: default=
+ !important; color: rgb(153, 153, 153); font-size: 10px; font-family: sans-=
+serif; font-weight: inherit !important; line-height: 14px; "> here</span></=
+span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.tox5.us/a255S23u95cs86T13y15c85XZ4aa1h21hFv4GIf4rxvs4FhIHEsvZ11eRPommRQo597Lnp1Xp06bkcPUY/Loveland-fiercest" style=3D"text-decoration: underline !important; border-bottom-wi=
+dth: 0px !important; cursor: default !important; color: rgb(153, 153, 153);=
+ font-size: 10px; font-family: sans-serif; font-weight: inherit !important;=
+ line-height: 14px; text-align: center; ">New Brain Blueprint</a>&nbsp; |&n=
+bsp; 321 N Central Expressway Suite 351 - McKinney, TX 75070</span><br /> <=
+br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:georgia,serif; "><span style=3D"font-size:12p=
+x; "><a href=3D"http://www.tox5.us/d4f4p2395z89vp12a15c86H4aa1y21zFv4GIf4rxvs4FhIHEsvZ11WRPommRQo596w1nST06IycXYl/basil-positional">Leave Here</a><br /> 6547 N Academy Bou=
+levard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <span></span><style></style><span><font color="atypically"><style></style></font></span> =20
+ <img src=3D"http://www.tox5.us/a9d5W23o95Q8Bt512l15c88V4aa1U21NFv4GIf4rxvs4FhIHEsvZ11gRPommRQo596aM10Ct5lLcYj/planoconvex-mechanical" alt=3D""/></body>
+</html>
+
+------=_Part_133_1542345868.1618085916437--
+

@@ -1,0 +1,78 @@
+Return-Path: <my-senior-perks-american-seniors-bruce=untroubled.org@speed26.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3047099 invoked from network); 19 Apr 2021 17:48:52 -0000
+Received: (qmail 35019 invoked by uid 222); 19 Apr 2021 17:48:52 -0000
+Return-Path: <my-senior-perks-american-seniors-bruce=untroubled.org@speed26.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 35016 invoked from network); 19 Apr 2021 17:48:52 -0000
+Received: from mail.speed26.cloud (stick.bestroomremodels.com [170.130.120.74])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 17:48:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed26.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my-senior-perks-american-seniors@speed26.cloud;
+ bh=/QuFM3ZnyGkqrAJMgPuabzlIfpA=;
+ b=GegBznbf8a7ocNGBQmV8WsskaD6w35RTeREHU+4AOxpC8M2tDgE0nyKkA1qPR7CMcHs/zA//e5WU
+   7WKF0InqGLfPByXBwOe6uLkKB+bgfxWTGRjGKMRIs14CKFn58pujvzlqB8tzfEM3G3EWWr2LhW73
+   5q5NTkdVFWFNmSRSiqU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed26.cloud;
+ b=tfgHsaq/uSoWEKeaPegq4WiQtuER/6R1+uNjM2tTIX6QiTigMxTI+p2eAEr3e/Ocvnv6EnYtpq3h
+   Y2uwMIGCaXho3pOstiWWZIRN1f2/ik2UVoUhstaOSyqIohwVSUidaBV8LXgga1r9icVV8oPy+lT7
+   XiCGZ9w7ojPLUktWWE8=;
+Received: by mail.speed26.cloud id hfn1880001gp for <bruce@untroubled.org>; Mon, 19 Apr 2021 13:40:41 -0400 (envelope-from <my-senior-perks-american-seniors-bruce=untroubled.org@speed26.cloud>)
+Date: Mon, 19 Apr 2021 13:40:41 -0400
+From: "My Senior Perks American Seniors" <my-senior-perks-american-seniors@speed26.cloud>
+To:   <bruce@untroubled.org>
+Subject: Seniors, you can save big
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_322_1052705594.1618854034805"
+List-Unsubscribe: <http://www.speed26.cloud/15b4N2395tS89x11vxD11P4b25w21hFv4GIf4rxvs4FhIHEsvZ11JRbomom9oW97zHwQl105M@NcY/metropolitan-policed>
+Message-ID: <0.0.0.23.1D735431E03CB26.32764@mail.speed26.cloud>
+Content-Length: 2972
+
+------=_Part_322_1052705594.1618854034805
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Cadillac</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.speed26.cloud/Randall-Faulknerian/31e4S2395Dj86r17N15fZOYoo39P4b25Y21iFv4GIf4rxvs4FhIHEsvZ11YRbomom9oW96J10gsw6i@PcYz">Top ways for seniors to save a lot money</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.speed26.cloud/Randall-Faulknerian/31e4S2395Dj86r17N15fZOYoo39P4b25Y21iFv4GIf4rxvs4FhIHEsvZ11YRbomom9oW96J10gsw6i@PcYz"><img alt="senior " src="http://www.speed26.cloud/standard-vagary/4686B23xR95sHo7a12v15f3c_4b25r21SFv4GIf4rxvs4FhIHEsvZ11IRbomom9oW96BWnn105LAkcY" style="border-width: 0px; border-style: solid; height: 1208px; width: 645px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:verdana,geneva,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.speed26.cloud/8bd6R2F39g5hRt8612f15f3aJ4b25w21iFv4GIf4rxvs4FhIHEsvZ11SRbomom9oW97w1TX0rR5zLcY2/metropolitan-policed"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.speed26.cloud/Randall-Faulknerian/31e4S2395Dj86r17N15fZOYoo39P4b25Y21iFv4GIf4rxvs4FhIHEsvZ11YRbomom9oW96J10gsw6i@PcYz"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.speed26.cloud/11f5p23u95j89wC13X15f3PbG4b25w21QFv4GIf4rxvs4FhIHEsvZ11kRbomom9oW95v1_U06oW@UcY/standard-vagary">&nbsp; Exit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <font id="relaxations"></font><small></small><span style="derived"><font><style><font></style><span></font></span><span face="upturning"></font></span><font color="fashionable"></font></span>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.speed26.cloud/abb6lKq2395Qu85n17Or15zf3JHwdU4b25H21zFv4GIf4rxvs4FhIHEsvZ11iRbomom9oW97gP1l0jJ5E0czY/gulled-intersecting" alt=""/></body>
+</html>
+
+------=_Part_322_1052705594.1618854034805--
+

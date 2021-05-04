@@ -1,0 +1,640 @@
+Return-Path: <easyplunger-bruce=untroubled.org@stephanieonlyfans.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1113898 invoked from network); 3 Apr 2021 16:30:10 -0000
+Received: (qmail 151684 invoked by uid 222); 3 Apr 2021 16:30:09 -0000
+Return-Path: <easyplunger-bruce=untroubled.org@stephanieonlyfans.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 151681 invoked from network); 3 Apr 2021 16:30:09 -0000
+Received: from mail.stephanieonlyfans.com ([195.88.25.207])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 16:30:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=stephanieonlyfans.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=easyplunger@stephanieonlyfans.com;
+ bh=MRepk8n/DIq7/In0mIt1Lj9oRxA=;
+ b=P//E7OYuquWrVX6Bk5/3y92JiefG7AnTH5Q3D23oHTY5k3NbftLrDeU8heQjOZOWhp6BMgrLMh9O
+   8+HnnF5huCOqrIXiSxF8a4Yi5CoLV25qezR2bVXbl2CioFuBS2B0A3pCfSmJJHjPGqST/slDEQGp
+   qc7fIoebeuYCDbnFMqE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=stephanieonlyfans.com;
+ b=GM8BOVYZoggMgKr0uwvfWoHfaL+o9MV0CUhaFYq64i2i1yETTsTgR+xSUrDPy8jC0WwCLdQfpDdX
+   uWMn8/DszpPkrlRHKuGq9sr2qoddmIMCa7U15Sc574J77mO5sMii2p2fkdveXRPFJwvT4XdmjgF0
+   7UU67Tkwlimpt90GiDY=;
+Received: by mail.stephanieonlyfans.com id hd2c8m0001gt for <bruce@untroubled.org>; Sat, 3 Apr 2021 12:29:56 -0400 (envelope-from <easyplunger-bruce=untroubled.org@stephanieonlyfans.com>)
+Date: Sat, 3 Apr 2021 12:29:56 -0400
+From: EasyPlunger <easyplunger@stephanieonlyfans.com>
+To:   <bruce@untroubled.org>
+Subject: This One Tool Will Eliminate Every Having To Call Another Plumber
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_217_1499092508.1617467247605"
+List-Unsubscribe: <http://www.stephanieonlyfans.com/Tompkins-slides/5d04h2395v8hP911Gg1hp1H488s21KFv4GIf4rxvs4FhIHEsvZ7zQPnnSm7E10CsZY5f@Tsv>
+Message-ID: <0.0.0.24.1D728A69526100A.20E10D@mail.stephanieonlyfans.com>
+Content-Length: 32552
+
+------=_Part_217_1499092508.1617467247605
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+The All New High Pressure Plunger Unclogs toilets, sinks, and floor drains!
+
+The drain blaster uses the power of high-pressure, compressed air to blast away the toughest clogs in your drains in seconds.  Just pump the drain blaster and squeeze the trigger, and the clog is cleared instantly. 
+
+This plunger works much faster than traditional plungers and snakes. 
+
+Get the Plunger Up To 60% Off! ->  http://www.stephanieonlyfans.com/Anderson-incidence/d8c4I2395lO86O12N1gSdd6X488p21YFv4GIf4rxvs4FhIHEsvZ7mQPnnSm7jgTo1j05INXsv
+
+
+
+
+
+
+
+4323 South Warren Rd, Huntington, IN 46750-9219. 
+Maxwell & Steiger Professional Tech Group
+Click here to be excluded.  http://www.stephanieonlyfans.com/e994A2395W8F6Q11d1ddB2J488y21UFv4GIf4rxvs4FhIHEsvZ7aQPnnSm5W10Gg5k2slv/patrician-rumply
+
+
+
+------=_Part_217_1499092508.1617467247605
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <center>=20
+   <table id=3D"bodyTable" style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0; mso-table-rspace: 0; table-layout: auto; padding: 0; background-co=
+lor: #fff; height: 100%; margin: 0; width: 100%;" border=3D"0" width=3D"100=
+%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=20
+    <tbody>=20
+     <tr>=20
+      <td id=3D"bodyCell" style=3D"border-collapse: collapse; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; table-layout: auto; border-top: 0; height: 100=
+%; margin: 0; width: 100%; padding: 50px 20px 20px 20px;" align=3D"center" =
+valign=3D"top">=20
+       <!-- [if !mso]><!-->=20
+       <div class=3D"templateContainer" style=3D"border: 0 none #AAA; backg=
+round-color: #fff; border-radius: 0; display: table; width: 600px;">=20
+        <table style=3D"border-collapse: collapse; mso-table-lspace: 0; mso=
+-table-rspace: 0; table-layout: fixed;" border=3D"0" width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0">=20
+         <tbody>=20
+          <tr>=20
+           <td style=3D"border-collapse: collapse; mso-table-lspace: 0; mso=
+-table-rspace: 0; table-layout: fixed;" align=3D"center" valign=3D"top">=20
+            <table class=3D"templateRow" style=3D"border-collapse: collapse=
+; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" border=3D=
+"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+             <tbody>=20
+              <tr>=20
+               <td class=3D"rowContainer kmFloatLeft" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" valign=3D"top">=20
+                <table class=3D"kmTextBlock" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" borde=
+r=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                 <tbody class=3D"kmTextBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmTextBlockInner" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" =
+valign=3D"top">&nbsp;</td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmImageBlock" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; min-w=
+idth: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+">=20
+                 <tbody class=3D"kmImageBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmImageBlockInner" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+padding: 9px; padding-right: 9; padding-left: 9; padding-bottom: 20px;" val=
+ign=3D"top">=20
+                    <table class=3D"kmImageContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layou=
+t: fixed; min-width: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"left">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td class=3D"kmImageContent" style=3D"border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;=
+ padding: 0px 9px 13px 9px; font-size: 0; text-align: center;" valign=3D"to=
+p"><a style=3D"word-wrap: break-word; max-width: 100%; color: #a9a9a9; font=
+-weight: normal; text-decoration: underline;" href=3D"http://www.stephanieonlyfans.com/nitrous-cocktail/3b44H2395P86lY11Q1dd1wH488q21BFv4GIf4rxvs4FhIHEsvZ7nQPnnSm5ig1X06b21s@v" target=3D=
+"_self"> <img class=3D"kmImage" style=3D"border: 0; height: auto; line-heig=
+ht: 100%; outline: none; text-decoration: none; max-width: 240px; padding-b=
+ottom: 0; display: inline; vertical-align: top; font-size: 12px; width: 100=
+%; padding: 0; border-width: 0;" src=3D"http://www.stephanieonlyfans.com/1016Em23s95X7Cau12RR1dPd4v488S21WFv4GIf4rxvs4FhIHEsvZ7uQPnnSm6f1BIW05nLsvW/patrician-rumply" alt=3D"HPP" width=3D"2=
+00" align=3D"center" /> </a></td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table> </td>=20
+              </tr>=20
+             </tbody>=20
+            </table> </td>=20
+          </tr>=20
+          <tr>=20
+           <td style=3D"border-collapse: collapse; mso-table-lspace: 0; mso=
+-table-rspace: 0; table-layout: fixed;" align=3D"center" valign=3D"top">=20
+            <table class=3D"templateRow" style=3D"border-collapse: collapse=
+; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" border=3D=
+"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+             <tbody>=20
+              <tr>=20
+               <td class=3D"rowContainer kmFloatLeft" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" valign=3D"top">=20
+                <table class=3D"kmImageBlock" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; min-w=
+idth: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+">=20
+                 <tbody class=3D"kmImageBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmImageBlockInner" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+padding: 0px; padding-right: 0px; padding-left: 0px;" valign=3D"top">=20
+                    <table class=3D"kmImageContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layou=
+t: fixed; min-width: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"left">=20
+                     <tbody>=20
+                      <tr align=3D"center">=20
+                       <td class=3D"kmImageContent" style=3D"border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;=
+ padding: 0; font-size: 0;" valign=3D"top"><a style=3D"word-wrap: break-wor=
+d; max-width: 100%; color: #a9a9a9; font-weight: normal; text-decoration: u=
+nderline;" href=3D"http://www.stephanieonlyfans.com/nitrous-cocktail/3b44H2395P86lY11Q1dd1wH488q21BFv4GIf4rxvs4FhIHEsvZ7nQPnnSm5ig1X06b21s@v" target=3D"_self"> <img class=3D"kmImage" sty=
+le=3D"border: 0; height: auto; line-height: 100%; outline: none; text-decor=
+ation: none; max-width: 500px; padding-bottom: 0; display: inline; vertical=
+-align: top; font-size: 12px; width: 100%; margin-right: 0; padding: 0; bor=
+der-width: 0;" src=3D"http://www.stephanieonlyfans.com/icosahedra-richer/26a6Iv23y95Ey7Ua12E1LYdd5U488u21qFv4GIf4rxvs4FhIHEsvZ7MQPnnSm5yp10U6APkzsv" alt=3D"in the sink" width=3D"500" align=
+=3D"center" /> </a></td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmDividerBlock" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; bac=
+kground-color: #ffffff;" border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                 <tbody class=3D"kmDividerBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmDividerBlockInner" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed=
+; padding-top: 20px;">=20
+                    <table class=3D"kmDividerContent" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0; mso-table-rspace: 0; table-layout: fixed;">&nbsp;</td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmImageBlock" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; min-w=
+idth: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+">=20
+                 <tbody class=3D"kmImageBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmImageBlockInner" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+padding: 0px; padding-right: 9; padding-left: 9;" valign=3D"top">=20
+                    <table class=3D"kmImageContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layou=
+t: fixed; min-width: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"left">=20
+                     <tbody>=20
+                      <tr align=3D"center">=20
+                       <td class=3D"kmImageContent" style=3D"border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;=
+ font-size: 24px; font-family: opens sans,arial,helvetica,sans-serif; font-=
+weight: bold; color: #2a2a2a; text-decoration: none;" valign=3D"top">Unclog=
+s toilets, sinks, and floor drains</td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmDividerBlock" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; bac=
+kground-color: #ffffff;" border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                 <tbody class=3D"kmDividerBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmDividerBlockInner" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed=
+; padding-top: 20px;">=20
+                    <table class=3D"kmDividerContent" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0; mso-table-rspace: 0; table-layout: fixed;">&nbsp;</td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmTextBlock" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" borde=
+r=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                 <tbody class=3D"kmTextBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmTextBlockInner" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" =
+valign=3D"top">=20
+                    <table class=3D"kmTextContentContainer" style=3D"border=
+-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout=
+: fixed;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"left">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td class=3D"kmTextContent" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+color: #204399; font-family: Arial; font-size: 14px; line-height: 1.3; lett=
+er-spacing: 0; text-align: left; max-width: 100%; word-wrap: break-word; pa=
+dding: 0px 18px 0px 18px;" valign=3D"top"> <p style=3D"margin: 0; padding-b=
+ottom: 1em; text-align: center;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif;"><span style=3D"font-size: 16px;"><span style=3D"color: #0000=
+00; white-space: pre-wrap; text-decoration: none;">The drain blaster uses t=
+he power of high-pressure, compressed air to blast away the toughest clogs =
+in your drains in seconds. Just pump the drain blaster and squeeze the trig=
+ger, and the clog is cleared instantly.</span></span></span></p> <p style=
+=3D"margin: 0; padding-bottom: 0; text-align: center;"><span style=3D"font-=
+family: arial,helvetica,sans-serif;"><span style=3D"font-size: 16px;"><span=
+ style=3D"text-decoration: none; color: #000000;">This plunger works much f=
+aster than traditional plungers and snakes.</span></span></span></p> </td>=
+=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmDividerBlock" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" bo=
+rder=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                 <tbody class=3D"kmDividerBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmDividerBlockInner" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed=
+; padding-top: 30px;">=20
+                    <table class=3D"kmDividerContent" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0; mso-table-rspace: 0; table-layout: fixed;">&nbsp;</td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmButtonBlock" style=3D"border-collapse: co=
+llapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; widt=
+h: 100% !important;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0">=20
+                 <tbody class=3D"kmButtonBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmButtonBlockInner" style=3D"border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;=
+ min-width: 60px; padding: 0px 18 0px 18;" align=3D"center" valign=3D"top">=
+=20
+                    <table class=3D"kmButtonContentContainer" style=3D"bord=
+er-collapse: separate; mso-table-lspace: 0; mso-table-rspace: 0; table-layo=
+ut: fixed; border-top-left-radius: 5px; border-top-right-radius: 5px; borde=
+r-bottom-right-radius: 5px; border-bottom-left-radius: 5px; background-colo=
+r: #14258b; border-radius: 5px;" border=3D"0" width=3D"" cellspacing=3D"0" =
+cellpadding=3D"0">=20
+                     <tbody>=20
+                      <tr>=20
+                       <!-- [if !mso]><!-->=20
+                       <td class=3D"kmButtonContent" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed=
+; color: #ffffff; font-family: 'Helvetica Neue', Arial; font-size: 16px; le=
+tter-spacing: 0px; font-weight: normal;" align=3D"center" valign=3D"middle"=
+><a style=3D"word-wrap: break-word; max-width: 100%; font-weight: normal; l=
+ine-height: 100%; text-align: center; text-decoration: none; color: #ffffff=
+; font-family: 'Helvetica Neue', Arial; font-size: 16px; display: inline-bl=
+ock; letter-spacing: 1px; padding: 15px;" href=3D"http://www.stephanieonlyfans.com/nitrous-cocktail/3b44H2395P86lY11Q1dd1wH488q21BFv4GIf4rxvs4FhIHEsvZ7nQPnnSm5ig1X06b21s@v" target=3D"_se=
+lf">Get the Plunger</a></td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmDividerBlock" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; bac=
+kground-color: #ffffff;" border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">=20
+                 <tbody class=3D"kmDividerBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmDividerBlockInner" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed=
+;">=20
+                    <table class=3D"kmDividerContent" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixe=
+d;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"border-bottom: 1px solid #e9e9e9; ;mso-=
+table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; font-size: 0px;"=
+ height=3D"120">&nbsp;</td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmImageBlock" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; min-w=
+idth: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+">=20
+                 <tbody class=3D"kmImageBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmImageBlockInner" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+padding-right: 9; padding-left: 9;" valign=3D"top">=20
+                    <table class=3D"kmImageContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layou=
+t: fixed; min-width: 100%;" border=3D"0" width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"left">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td class=3D"kmImageContent" style=3D"border-top: 1p=
+x solid #999999; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fi=
+xed; font-size: 12px; text-align: center; color: #5a5a5a; padding: 50px 9px=
+ 0 9px;" valign=3D"top">4323 South Warren Rd, Huntington, IN 46750-9219.<br=
+ />Maxwell &amp; Steiger Professional Tech Group<br /> <a style=3D"color: #=
+1c1e23;" href=3D"http://www.stephanieonlyfans.com/9534p2395z8S6P12Dy1ddk2j488o21HFv4GIf4rxvs4FhIHEsvZ7QQPnnSm5m1JO05ilMsv/enqueues-shoeing" target=3D"_blank" rel=3D"noopener">Click here =
+to be removed.</a></td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table>=20
+                <table class=3D"kmTextBlock" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" borde=
+r=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+                 <tbody class=3D"kmTextBlockOuter">=20
+                  <tr>=20
+                   <td class=3D"kmTextBlockInner" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;" =
+valign=3D"top">=20
+                    <table class=3D"kmTextContentContainer" style=3D"border=
+-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout=
+: fixed;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"left">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td class=3D"kmTextContent" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; =
+color: #204399; font-family: Arial; font-size: 14px; line-height: 1.5; lett=
+er-spacing: 0; text-align: center; max-width: 100%; word-wrap: break-word; =
+padding: 0px 18px 0px 18px;" valign=3D"top"> <p>&nbsp;</p>=20
+                        <div class=3D"el__leafmedia el__leafmedia--sourced-=
+paragraph">=20
+                         <p class=3D"zn-body__paragraph speakable" data-par=
+agraph-id=3D"paragraph_DF7AB30B-DD4F-D1AB-8853-72BBBD3452DA" data-act-id=3D=
+"paragraph_0"><span style=3D"color: #ffffff;"><cite class=3D"el-editorial-s=
+ource">London (CNN Business)</cite>These are dangerous times for people wit=
+h chronic health conditions. They often need to visit hospitals for treatme=
+nt or to collect medication, but during the pandemic that means increased r=
+isk of<strong>&nbsp;</strong>exposure to coronavirus.</span></p>=20
+                        </div>=20
+                        <div class=3D"zn-body__paragraph" data-paragraph-id=
+=3D"paragraph_121899C9-104C-566D-5457-791B4DC6B916" data-act-id=3D"paragrap=
+h_1">
+                         <span style=3D"color: #ffffff;">In Africa, a US st=
+artup says it is reducing that risk by using drones to deliver medical supp=
+lies to local clinics, and freeing up hospital beds in the process.</span>
+                        </div>=20
+                        <div class=3D"zn-body__paragraph" data-paragraph-id=
+=3D"paragraph_737D3A8F-6D9D-BB72-2A42-791B4DC711D1" data-act-id=3D"paragrap=
+h_2">
+                         <span style=3D"color: #ffffff;">Zipline, based in =
+San Francisco, has used drones to deliver blood and medical products to hos=
+pitals and health centers in Rwanda since 2016. Last year, it expanded to G=
+hana and now it wants to accelerate plans to begin deliveries in the United=
+ States.</span>
+                        </div>=20
+                        <div class=3D"zn-body__paragraph" data-paragraph-id=
+=3D"paragraph_E0F6896C-68D0-FE9F-2DAB-9741588D97EB" data-act-id=3D"paragrap=
+h_3">=20
+                         <h3><span style=3D"color: #ffffff;">Air drop</span=
+></h3>=20
+                        </div>=20
+                        <div class=3D"ad ad--epic ad--tablet" data-ad-text=
+=3D"show">
+                         <span style=3D"color: #ffffff;">&nbsp;</span>
+                        </div>=20
+                        <div class=3D"ad ad--epic ad--desktop" data-ad-text=
+=3D"show">
+                         <span style=3D"color: #ffffff;">&nbsp;</span>
+                        </div>=20
+                        <div class=3D"zn-body__paragraph" data-paragraph-id=
+=3D"paragraph_665340FB-30F9-7DE6-E117-791B4DC820C5" data-act-id=3D"paragrap=
+h_4">
+                         <span style=3D"color: #ffffff;">Zipline has two di=
+stribution centers in Rwanda and four in Ghana, built to speed up the trans=
+port of medical supplies in areas with poor roads and a lack of refrigerate=
+d vehicles.</span>
+                        </div>=20
+                        <div class=3D"zn-body__read-all">=20
+                         <div class=3D"zn-body__paragraph" data-paragraph-i=
+d=3D"paragraph_FDE5B86B-7381-F68D-5704-791B4DCA3B30" data-act-id=3D"paragra=
+ph_5">
+                          <span style=3D"color: #ffffff;">Doctors order pro=
+ducts from their phones and drones make the deliveries within a 50-mile ran=
+ge, in an average of 30 minutes, according to Zipline. The drones can carry=
+ packages weighing almost 4 pounds (1.8 kilos) and drop them to a designate=
+d area on the ground using a simple paper parachute.</span>
+                         </div>=20
+                         <div id=3D"bx-campaign-1334631" class=3D"bxc bx-ba=
+se bx-custom bx-active-step-1    bx-campaign-1334631  bx-brand-17034 bx-wid=
+th-default bx-type-agilityzone  bx-has-close-x-1 bx-has-close-inside bx-fx-=
+fade bx-impress" aria-hidden=3D"false" aria-labelledby=3D"bx-campaign-ally-=
+title-1334631">=20
+                          <div class=3D"bx-slab">=20
+                           <div class=3D"bx-align">=20
+                            <div id=3D"bx-creative-1334631" class=3D"bx-cre=
+ative bx-creative-1334631">=20
+                             <div class=3D"bx-wrap">=20
+                              <div id=3D"bx-campaign-ally-title-1334631" cl=
+ass=3D"bx-ally-title">
+                               <span style=3D"color: #ffffff;">Enter your e=
+mail to receive CNN's nightcap newsletter.</span>
+                              </div>=20
+                              <div class=3D"bx-ally-label">
+                               <span style=3D"color: #ffffff;">close dialog=
+</span>
+                              </div>=20
+                              <div id=3D"bx-step-1334631-1" class=3D"bx-ste=
+p bx-step-1 bx-active-step bx-step-If6vq3I bx-step-1334631-1 bx-tail-placem=
+ent-hidden" data-close-placement=3D"inside">=20
+                               <form id=3D"bx-form-1334631-step-1" tabindex=
+=3D"0" action=3D"https://api.bounceexchange.com/capture/submit" method=3D"p=
+ost" aria-labelledby=3D"bx-campaign-ally-title-1334631">=20
+                                <div id=3D"bx-group-1334631-3EEWyi6" class=
+=3D"bx-group bx-group-default bx-group-1334631-3EEWyi6 bx-group-3EEWyi6">=
+=20
+                                 <div id=3D"bx-element-1334631-GCtdzI1" cla=
+ss=3D"bx-row bx-row-image bx-row-image-default  bx-row-GCtdzI1 bx-element-1=
+334631-GCtdzI1">
+                                  &nbsp;
+                                 </div>=20
+                                </div>=20
+                                <div id=3D"bx-group-1334631-ZEoAbMC" class=
+=3D"bx-group bx-group-default bx-group-1334631-ZEoAbMC bx-group-ZEoAbMC">=
+=20
+                                 <div id=3D"bx-element-1334631-3bKsKxs" cla=
+ss=3D"bx-row bx-row-text bx-row-text-subheadline  bx-row-3bKsKxs bx-element=
+-1334631-3bKsKxs">=20
+                                  <div>
+                                   <span style=3D"color: #ffffff;">We read =
+all day so you don't have to.</span>
+                                  </div>=20
+                                 </div>=20
+                                 <div id=3D"bx-element-1334631-PQSiIV9" cla=
+ss=3D"bx-row bx-row-text bx-row-text-subheadline  bx-row-PQSiIV9 bx-element=
+-1334631-PQSiIV9">=20
+                                  <div>
+                                   <span style=3D"color: #ffffff;">Get our =
+nightly newsletter for all the top business stories you need to know.<span =
+style=3D"letter-spacing: 0px;">&nbsp;U</span></span>
+                                  </div>=20
+                                 </div>=20
+                                </div>=20
+                                <div id=3D"bx-group-1334631-Dlk5gMF" class=
+=3D"bx-group bx-group-default bx-group-1334631-Dlk5gMF bx-group-Dlk5gMF">=
+=20
+                                 <div id=3D"bx-element-1334631-mEu5qqS" cla=
+ss=3D"bx-row bx-row-text bx-row-text-sosumi  bx-row-mEu5qqS bx-element-1334=
+631-mEu5qqS">=20
+                                  <div>
+                                   <span style=3D"color: #ffffff;">By subsc=
+ribing you agree to our</span>
+                                  </div>=20
+                                 </div>=20
+                                 <div id=3D"bx-element-1334631-hAM7jVH" cla=
+ss=3D"bx-row bx-row-text bx-row-text-sosumi  bx-row-hAM7jVH bx-element-1334=
+631-hAM7jVH">=20
+                                  <div>
+                                   <span style=3D"color: #ffffff;"><u>priva=
+cy policy.</u></span>
+                                  </div>=20
+                                 </div>=20
+                                </div>=20
+                               </form>=20
+                              </div>=20
+                             </div>=20
+                            </div>=20
+                           </div>=20
+                          </div>=20
+                         </div>=20
+                         <div class=3D"zn-body__paragraph" data-paragraph-i=
+d=3D"paragraph_BB2A4384-14A7-579A-5F7E-5A6D8DBDCF40" data-act-id=3D"paragra=
+ph_6">
+                          <span style=3D"color: #ffffff;">Zipline says that=
+ it has already delivered over 60,000 units of blood, critical medicines an=
+d vaccines for measles, polio and other diseases. Now the company is workin=
+g with the governments of Rwanda and Ghana to support their coronavirus res=
+ponse efforts, explains Zipline co-founder and CEO Keller Rinaudo.</span>
+                         </div>=20
+                         <div class=3D"zn-body__paragraph" data-paragraph-i=
+d=3D"paragraph_FE9C8312-8F64-2C4A-7F0B-5A6D8DC02AB5" data-act-id=3D"paragra=
+ph_7">
+                          <span style=3D"color: #ffffff;">In Ghana, Zipline=
+'s distribution centers hold stocks of emergency personal protective equipm=
+ent (PPE), allowing health authorities to target their distribution. It has=
+ also started delivering Covid-19 test samples from hospitals in rural Ghan=
+a to laboratories in the cities of Accra and Kumasi.</span>
+                         </div>=20
+                         <div class=3D"el__embedded el__embedded--standard"=
+>=20
+                          <div class=3D"el__storyelement--standard el__arti=
+cle--embed">=20
+                           <div class=3D"el__article--teaseimage">=20
+                            <br />=20
+                            <div class=3D"img__preloader">
+                             <span style=3D"color: #ffffff;">&nbsp;</span>
+                            </div>=20
+                           </div>=20
+                           <div class=3D"media__caption el__storyelement__t=
+itle">
+                            <span class=3D"el__storyelement__header" style=
+=3D"color: #ffffff;"><a style=3D"color: #ffffff;" href=3D"http://www.stephanieonlyfans.com/Tompkins-slides/3f05a239t5QM8p611i1dd3Ss488X21rFv4GIf4rxvs4FhIHEsvZ7NQPnnSm5A10GL6mBP@sv">Flyin=
+g cellphone towers: Could drones bring internet coverage to remote areas?</=
+a></span>
+                           </div>=20
+                          </div>=20
+                         </div>=20
+                         <div class=3D"el__leafmedia el__leafmedia--myfinan=
+ce">
+                          <span style=3D"color: #ffffff;">&nbsp;</span>
+                         </div>=20
+                         <div class=3D"zn-body__paragraph" data-paragraph-i=
+d=3D"paragraph_76F0C732-F787-143E-B8D1-97205EAC7C36" data-act-id=3D"paragra=
+ph_8">
+                          <span style=3D"color: #ffffff;">&quot;We are stoc=
+king a whole bunch of Covid-19 products and delivering them to hospitals an=
+d health facilities, whenever they need them instantly,&quot; Rinaudo told =
+CNN Business.</span>
+                         </div>=20
+                         <div class=3D"zn-body__paragraph" data-paragraph-i=
+d=3D"paragraph_B04F0FEA-48B7-A20F-5313-79210AB687DC" data-act-id=3D"paragra=
+ph_9">
+                          <span style=3D"color: #ffffff;">Vaccines and test=
+ kits will be added to Zipline's inventory when available.</span>
+                         </div>=20
+                        </div> </td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table> </td>=20
+                  </tr>=20
+                 </tbody>=20
+                </table> </td>=20
+              </tr>=20
+             </tbody>=20
+            </table> </td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+        <!-- [if !mso]><!-->=20
+       </div>=20
+       <!--<![endif]-->=20
+       <!-- [if mso]>
+                  </td>
+                  </tr>
+                  </tbody>
+                  </table>
+                  <![endif]--> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+  </center>=20
+ <img src=3D"http://www.stephanieonlyfans.com/Moses-flattest/8465e23t95JpZ8512e1GCdd7M488A21jFv4GIf4rxvs4FhIHEsvZ7RQPnnSm5RF1Y06MA@sLv" alt=3D""/></body>
+</html>
+
+------=_Part_217_1499092508.1617467247605--
+

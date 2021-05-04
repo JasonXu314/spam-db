@@ -1,0 +1,84 @@
+Return-Path: <abuse@scriptgain.live>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 174905 invoked from network); 28 Apr 2021 10:03:35 -0000
+Received: (qmail 82656 invoked by uid 222); 28 Apr 2021 10:03:34 -0000
+Return-Path: <abuse@scriptgain.live>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 82653 invoked from network); 28 Apr 2021 10:03:33 -0000
+Received: from sc.scriptgain.live (sc.scriptgain.live [45.95.168.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Apr 2021 10:03:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=scriptgain.live;
+ h=Reply-To:From:To:Subject:Date:Message-ID:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=info@scriptgain.live;
+ bh=sDNu8EYjtVroZavUWWHseytTgPU=;
+ b=bAcQ0BEREjWVaoBdpxzLofaOAoLYLFH8NeQ4npfa0kdMZOJ838WckdmlweuLKqAHPbnWsFvICGPo
+   cMRrojySTCx/qY86QHkEDY2EPRmP4Wo+lCW/57I0Th8SVb29SXBjjjoysXjviKS22roseHCm910m
+   pA5YrD8MK4KSsa9EtN4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=scriptgain.live;
+ b=XgyHXJFC6TQygV9u5HlSQX4cDQcga77vqDU1l+v8QDDCATo7MC4b0BWkY1faQXLQjRaYrXPovaki
+   QiXmIDWufTriOt0HksjnSioxiCcjZHKB1QlD4id2sFg7OFzBgzYJdlV/tMqFMKssKZJKqXPuzmfe
+   A08c8wL3b/jnJa5HCKY=;
+Reply-To: richardzunaga6@gmail.com
+From: Richard<info@scriptgain.live>
+To: bruce@untroubled.org
+Subject: From Richard.
+Date: 28 Apr 2021 06:03:28 -0400
+Message-ID: <20210428060328.5BBEF25E9D6D516D@scriptgain.live>
+MIME-Version: 1.0
+List-Unsubscribe: <mailto:abuse@scriptgain.live>
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 2400
+
+Greetings,
+=20
+In appreciation of your esteemed contact received through a=20
+reliable source and the choice of your country I wish to=20
+introduce myself, My name is Richard Zunaga the SON of late Mr=20
+Anthony Zunaga of Zimbabwe.
+=20
+Our father late Mr Anthony Zunaga was murdered in the land=20
+dispute in Zimbabwe alongside with my mother Carol Zunaga on=20
+their way to church on a Sunday morning by some Government=20
+instigated assassins. My Parents were among the few blacks=20
+Zimbabwe rich farmers murdered in cold blood by the agents of the=20
+ruling government of President Late Robert Mugabe for his alleged=20
+support and sympathy of the Zimbabwean opposition party=20
+controlled by the whites.
+=20
+This land problem arose when President Robert Mugabe introduce a=20
+new land act which wholly affects the rich white farmers and some=20
+blacks vehemently condemned the modus operadi adopted by the=20
+government that resulted to rampant killings and mob action by=20
+the war veterans and some political thugs, precisely more than=20
+sixty one (61) people have were killed. Heads of government from=20
+Western World especially Britain and United States of America=20
+have voice their condemnation of Mugabe's plans.
+Please log on here to see for yourself:
+=20
+http://www.bbc.co.uk/news/world-africa-28152477
+=20
+Before his death, my late father informed me of (Seventy five=20
+Million dollars United States Dollars) he deposited in an=20
+internationally affiliated diplomatic vault, as if he foresaw the=20
+looming danger in Zimbabwe. The money was deposited as a=20
+diplomatic consignment in the diplomatic vault to avoid detection=20
+and consification, This money was meant for the purchase of new=20
+machinery farm tools and establishment of a new farm in=20
+Swaziland.
+=20
+Since our life is in great danger, we fled to UK (LONDON) as=20
+asylum seekers it is against this background that I am seeking=20
+for a VERY HONEST AND TRUSTWORTHY person that can assist me with=20
+taking delivery of the funds ($75 Million) and having the funds=20
+properly invested, who will also be compensated with an agreed=20
+percentage of the funds.
+=20
+I will give you further details you might like to know regarding=20
+this transaction once I receive your approval to assist us,I hope=20
+to hear from you soon on my private email=20
+address:(richardzunaga6@gmail.com)
+=20
+Best Regards,
+Richard Zunaga.

@@ -1,0 +1,109 @@
+Return-Path: <boabfburklnarfaso@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1228119 invoked from network); 5 Apr 2021 19:01:50 -0000
+Received: (qmail 177948 invoked by uid 222); 5 Apr 2021 19:01:49 -0000
+Return-Path: <boabfburklnarfaso@gmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 177945 invoked from network); 5 Apr 2021 19:01:49 -0000
+Received: from mail-lf1-x130.google.com (mail-lf1-x130.google.com [IPv6:2a00:1450:4864:20::130])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 05 Apr 2021 19:01:49 -0000
+Received: by mail-lf1-x130.google.com with SMTP id n138so18874592lfa.3
+        for <bruce@untroubled.org>; Mon, 05 Apr 2021 12:01:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=fkRe0h1YHH/P77J/F/muGfxndzQaKjcym/WYwK3CRUs=;
+        b=rqIqvaLmM0pSeLGTrWIOGouhn2WyqzPNFpk4GSdwq3TTaGigMnvijyLt50jIXz63MK
+         R8X7eiTBOxciRt99Q2v5nPyR3Cax4AuX1BCGsrgwsMbsR/sWC2dEiQV1gCKYcRgK1mYn
+         Rm4Xc8lX7LviwQtnjco9WARPL2O6Zt3rFkWFt9+9SBKj2kyyAaex7Dwyc7oOXx4HAMcT
+         KLyvojoPGba6Jix+/DKJkWiJPWwBw0UEZyQIA4k/973OVM/e7m/nNJQx3//FMwDjbP7A
+         1yhGINuUFYaena2Hpo38Vq4FAy3p2yrW6owAftIWxYjaYFlrVxXtC3IH5p3LmnA0zeEe
+         12NA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=fkRe0h1YHH/P77J/F/muGfxndzQaKjcym/WYwK3CRUs=;
+        b=DfyQZ7Be9npsQxXWrSh4Yb+TxneOQerYWELAKP/zjNPXIlKMxXdtT9FFP1ndN/rHKo
+         sgKmeL5Z1t/fIR8s47Gnjwfx+7nXF0fcPkRFImTPWvZitJZfcKqpoO8kyReA6Dm/uIbL
+         JQCx75Aeyc6DLuot8MWLAXXK096jeUuK3YFrKlEuIIuq7BfQuG5Egw2OoCncNSL+WFhK
+         AsJs2zmGyTew+vWEiwtD4kH5gP/xFQUK/h2ymOFe3pcbii/r2RgRGCX8qD6REqWXVxsD
+         S8ACLYdyhRq6axaskzqqZpWxyHSrE2mqWVecVlbepHM6i6AA04g5CFrjwtZojA7JtOEu
+         svkA==
+X-Gm-Message-State: AOAM530I5J4vaQFpi7+HQVyiEoHVbPEx6PqZ8SfyYddfgTQlEYoOLyza
+	ZQ/yHGwckk9ezHZUnen2P6tcvtiH1IRoBxPIZ5o=
+X-Google-Smtp-Source: ABdhPJxOw0pJAI1pTRGpN2YkKU0OSMvaaK6u8hDNActNeF9/aLV7HbHabZrrCPWuku3VG8SryT1RyZwq/ABFOh/+54U=
+X-Received: by 2002:a19:c3c3:: with SMTP id t186mr17812755lff.596.1617649307581;
+ Mon, 05 Apr 2021 12:01:47 -0700 (PDT)
+MIME-Version: 1.0
+Reply-To: mrsaishaalgaddafi1976@gmail.com
+From: Aisha Al-Qaddafi <aishaalqaddafi2@gmail.com>
+Date: Mon, 5 Apr 2021 19:01:19 +0000
+Message-ID: <CAGuOSpGqCkutBns53crAPkzVY=2D1k15mWRXbaD3UMCwF7_mLA@mail.gmail.com>
+Subject: Inquiry for Investment.
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="0000000000005980f605bf3e5470"
+Bcc: bruce@untroubled.org
+Content-Length: 2899
+
+--0000000000005980f605bf3e5470
+Content-Type: text/plain; charset="UTF-8"
+
+Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh.
+
+Inquiry for Investment.
+
+Dear Friend,
+
+I came across your e-mail contact prior to a private search while in need
+of your assistance. I am pleased to use this medium to open a mutual
+communication with you and to ask for your permission and acceptance to
+partner with you to invest in your country.
+
+My name is Aisha Gaddafi, a single Mother and a Widow with three Children.
+I am the only biological Daughter of late Libyan President (Late Colonel
+Muammar Gaddafi).
+
+I have an investment fund worth Twenty Seven Million Five Hundred Thousand
+United States Dollar ($27,500,000.00 ) which I want to entrust to you for
+investment project assistance in your country, May be from there, we can
+build a business relationship in the near future.
+
+I am willing to negotiate an investment/business profit sharing ratio with
+you based on the future investment earning profits.
+
+If you are willing to handle this project on my behalf I shall appreciate
+your urgent response to provide you more details to proceed further. Kindly
+get back to me at my discreet Email ( mrsaishaalgaddafi1976@gmail.com ) for
+further discussion.
+
+Best Regards
+Mrs Aisha Gaddafi
+mrsaishaalgaddafi1976@gmail.com
+
+--0000000000005980f605bf3e5470
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh.<br><br>Inqu=
+iry for Investment.<br><br>Dear Friend,<br><br>I came across your e-mail co=
+ntact prior to a private search while in need of your assistance. I am plea=
+sed to use this medium to open a mutual communication with you and to ask f=
+or your permission and acceptance to partner with you to invest in your cou=
+ntry.<br><br>My name is Aisha Gaddafi, a single Mother and a Widow with thr=
+ee Children. I am the only biological Daughter of late Libyan President (La=
+te Colonel Muammar Gaddafi).<br><br>I have an investment fund worth Twenty =
+Seven Million Five Hundred Thousand United States Dollar ($27,500,000.00 ) =
+which I want to entrust to you for investment project assistance in your co=
+untry, May be from there, we can build a business relationship in the near =
+future.<br><br>I am willing to negotiate an investment/business profit shar=
+ing ratio with you based on the future investment earning profits.<br><br>I=
+f you are willing to handle this project on my behalf I shall appreciate yo=
+ur urgent response to provide you more details to proceed further. Kindly g=
+et back to me at my discreet Email ( <a href=3D"mailto:mrsaishaalgaddafi197=
+6@gmail.com">mrsaishaalgaddafi1976@gmail.com</a> ) for further discussion.<=
+br><br>Best Regards<br>Mrs Aisha Gaddafi<br><a href=3D"mailto:mrsaishaalgad=
+dafi1976@gmail.com">mrsaishaalgaddafi1976@gmail.com</a></div>
+
+--0000000000005980f605bf3e5470--

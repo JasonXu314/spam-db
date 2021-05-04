@@ -1,0 +1,119 @@
+Return-Path: <national.family.assurance.offer-bruce=untroubled.org@getzpaid.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1041779 invoked from network); 1 Apr 2021 21:25:58 -0000
+Received: (qmail 129202 invoked by uid 222); 1 Apr 2021 21:25:58 -0000
+Return-Path: <national.family.assurance.offer-bruce=untroubled.org@getzpaid.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 129199 invoked from network); 1 Apr 2021 21:25:58 -0000
+Received: from mail.getzpaid.xyz ([208.187.164.18])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 21:25:55 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=getzpaid.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=national.family.assurance.offer@getzpaid.xyz;
+ bh=5aO9DFTLAsg6jNsUveUkO8ws55Y=;
+ b=oGkcsmuZbgURIwuOzmGoeUdhWaaq4pWDc3NTBisqb0APmxINt6F2xiMDE7Ul+6sAoraNN74DyAZ/
+   3R+riEq2tGlImWyK4u3kYk0QY0RgmapKZ4g5hsFLLhdBJDRO1Tv6e2fuZyZAeEYhkBk2Y61FMAE6
+   LqrKflmbSciKAcyz45A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=getzpaid.xyz;
+ b=MwtvXxFYB8GXUh3CCNjBvQut0vZZ2nObjH0Ydyp5jFSlgk4F3xHqT14AkpyhVkqm6Bgdr5iQRvc9
+   ncacDDXtL8FjgY4zaMS3hotE19ZhtJPvXhWD5Bk5gYGadlPCu9cGss+2VuN2qkUAI/uAzkqKFhzc
+   urCnturo2W5augQuACA=;
+Received: by mail.getzpaid.xyz id hcot680001g7 for <bruce@untroubled.org>; Thu, 1 Apr 2021 17:06:43 -0400 (envelope-from <national.family.assurance.offer-bruce=untroubled.org@getzpaid.xyz>)
+Date: Thu, 1 Apr 2021 17:06:43 -0400
+From: "National Family Assurance Offer" <national.family.assurance.offer@getzpaid.xyz>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 in coverage for only $1 a day - Approved up to age 65
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_181_1223439629.1617311176996"
+List-Unsubscribe: <http://www.getzpaid.xyz/converging-pains/b8e6M239JJ5f89zl13o1Hx1hOW4a1aT21pFv4GIf4rxvs4FhIHEsvZ8QRXnKKo96r10hvC5y0UcY>
+Message-ID: <0.0.0.16.1D7273AEB1B0BC2.20A4D1@mail.getzpaid.xyz>
+Content-Length: 5157
+
+------=_Part_181_1223439629.1617311176996
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>reasonings</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.getzpaid.xyz/contracting-gusty/1f26F2j39q5tNB8612J159b0m4a1ao21BFv4GIf4rxvs4FhIHEsvZ8yRXnKKo95m1AB06n0J@cY">Protect your family with the best prices possible=
+</a>
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.getzpaid.xyz/contracting-gusty/1f26F2j39q5tNB8612J159b0m4a1ao21BFv4GIf4rxvs4FhIHEsvZ8yRXnKKo95m1AB06n0J@cY" style=3D"text-decoration: none; "><img alt=3D"happy wife " src=3D"=
+http://www.getzpaid.xyz/poking-evolved/2c45t239X5Rv7aC17i159bR3qOrHC4a1aF21bFv4GIf4rxvs4FhIHEsvZ8jRXnKKo96z10PqF6Dl0c@Y" style=3D"width: 655px; max-width: 600px; background-color: rgb(25=
+5, 255, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; =
+color: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; bo=
+rder-style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; If you do not wish to receive future messages click here to <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.getzpaid.xyz/3b36aN23H95zl86H12t159b1x4a1ay21fFv4GIf4rxvs4FhIHEsvZ8iRXnKKo96UD1O0L5gk0cY/poking-evolved" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px; ">unsubscr=
+ibe</a></span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.getzpaid.xyz/contracting-gusty/1f26F2j39q5tNB8612J159b0m4a1ao21BFv4GIf4rxvs4FhIHEsvZ8yRXnKKo95m1AB06n0J@cY" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; text-align: center; ">National Family Assuranc=
+e</a>&nbsp; |&nbsp; 113 Cherry Street #88030, Seattle, WA 98104-2205</span>=
+<br /> <br /> <a href=3D"http://www.getzpaid.xyz/deductive-tickles/8a05j23J95OD89r13B1T59b2s4a1aA21jFv4GIf4rxvs4FhIHEsvZ8KRXnKKo97Sj10qrm5dOzcY">Unsubscribe Here</a><br /> 654=
+7 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO<br /> &nbsp; </=
+td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <span style=3D"color:#F0F8FF; ">he White House is billing the proposal, d=
+ubbed the American Jobs Plan, as a domestic&nbsp; investment not seen in th=
+e U.S. since the construction of the interstate highways in the 1950s and&n=
+bsp; the Space Race&nbsp; a decade later.Biden wants to raise&nbsp; taxes o=
+n corporations to pay for the eight-year spending package, according to an =
+administration official.&nbsp; He will propose increasing the corporate tax=
+ rate to 28% ? resetting to the&nbsp; level before passage of President Don=
+ald Trump' s tax cuts in 2017&nbsp; ? and overhauling&nbsp; how the U.S. ta=
+xes</span>
+  <br />=20
+  <br /> <font class="mover"><font class="propos"></font></font><style></style><font></font><style></style> =20
+ <img src=3D"http://www.getzpaid.xyz/3ef4C2395OS8P513X159b4Tx4a1au21KFv4GIf4rxvs4FhIHEsvZ8CRXnKKo96Jn1Pt05eNcTY/unguided-complexes" alt=3D""/></body>
+</html>
+
+------=_Part_181_1223439629.1617311176996--
+

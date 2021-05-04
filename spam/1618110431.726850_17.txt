@@ -1,0 +1,112 @@
+Return-Path: <shop.fijishowerspacom-bruce=untroubled.org@tox8.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1579347 invoked from network); 10 Apr 2021 18:38:49 -0000
+Received: (qmail 36048 invoked by uid 222); 10 Apr 2021 18:38:48 -0000
+Return-Path: <shop.fijishowerspacom-bruce=untroubled.org@tox8.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36045 invoked from network); 10 Apr 2021 18:38:48 -0000
+Received: from mail.tox8.us ([208.187.244.141])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Apr 2021 18:37:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox8.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=shop.fijishowerspacom@tox8.us;
+ bh=KRv+EI77PnlnB+CA4Rrt6TzkLoA=;
+ b=ZnC/4Nx0ooYLKbYISmdT86jiefuCnzXKRHgXACcWPXPIMGyOhwRYB9NW8TgsD9Wi2/x28Co092uC
+   ymjgmxJpBKAtMmr24pnTUBj/6Vy3fpL1PUlteM6x9vFoi9W7tZdR+ZEUwtrZZWXhohRYV5Qjpo9A
+   wLsTgussg5Elq/R4c+8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox8.us;
+ b=cSr9smNXDvshvOiKiIRiHVF8yAs/5FE8EuLPSM6KGDYEZs3Y9ZZ3SNJ5Ek15CgfV9SnJOPKiNe3f
+   jxNiJvVA1ayBZiMtXP7AQ9EaiVurPEOTgIexFd63bGuoi9/BoGxz/GP+JOHi/OUQCIe0QnMHi8JE
+   cjKEXvWqmtunJ2yt9eE=;
+Received: by mail.tox8.us id he7o640001gj for <bruce@untroubled.org>; Sat, 10 Apr 2021 14:23:53 -0400 (envelope-from <shop.fijishowerspacom-bruce=untroubled.org@tox8.us>)
+Date: Sat, 10 Apr 2021 14:23:53 -0400
+From: "Shop FijiShowerSpa.com" <shop.fijishowerspacom@tox8.us>
+To:   <bruce@untroubled.org>
+Subject: Welcome To Loving Your Hygiene - 50 % Off While Supplies Last
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_640_223469090.1618079019700"
+List-Unsubscribe: <http://www.tox8.us/4dX4X2395O89QG12gg1Uz1M4a9dW21UFv4GIf4rxvs4FhIHEsvZ8IRCommRn6aD10OH5kTcYX/Archibald-polls>
+Message-ID: <0.0.0.46.1D72E36A98182A6.40BB1B@mail.tox8.us>
+Content-Length: 4950
+
+------=_Part_640_223469090.1618079019700
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>chillers</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><a=
+ class=3D"unstyle-auto-detected-links" href=3D"http://www.tox8.us/neurons-directly/15c6Q23gk95R86Or12g15c6fN4a9dV21JFv4GIf4rxvs4FhIHEsvZ8bRCommRn6iT1Y0C5z0cY1" style=3D"text-de=
+coration: none !important; font-family: sans-serif; font-size: 18px; line-h=
+eight: 20px; text-align: center; color: rgb(153, 153, 153); ">Fiji Shower S=
+pa just perfect for mom</a></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.tox8.us/neurons-directly/15c6Q23gk95R86Or12g15c6fN4a9dV21JFv4GIf4rxvs4FhIHEsvZ8bRCommRn6iT1Y0C5z0cY1" style=3D"text-decoration: none; "><img alt=3D"shower" src=3D"=
+http://www.tox8.us/Archibald-polls/1204k2395c7aPL17e1x5gcMg72Sk4a9dq21MFv4GIf4rxvs4FhIHEsvZ8zRCommRn7m1RQRC06HBBc1Y" style=3D"width: 605px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; If you do not =
+wish to receive future messages click here to <span class=3D"unstyle-auto-d=
+etected-links"><a href=3D"http://www.tox8.us/navigation-conformal/3d25w2j395P8yQ612P15c70I4a9dG21zFv4GIf4rxvs4FhIHEsvZ8aRCommRn7e10orWl5j1cYN" style=3D"text-decoration: underline !=
+important; border-bottom-width: 0px !important; cursor: default !important;=
+ color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-=
+weight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br =
+/> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.tox8.us/neurons-directly/15c6Q23gk95R86Or12g15c6fN4a9dV21JFv4GIf4rxvs4FhIHEsvZ8bRCommRn6iT1Y0C5z0cY1=
+" style=3D"text-decoration: underline !important; border-bottom-width: 0px =
+!important; cursor: default !important; color: rgb(153, 153, 153); font-siz=
+e: 10px; font-family: sans-serif; font-weight: inherit !important; line-hei=
+ght: 14px; text-align: center; ">FijiShowerSpa.com</a>&nbsp; |&nbsp; 23638 =
+W. Lyons Avenue #468 - Newhall, CA 91321</span><br /> <br /> Halt&nbsp; <a =
+href=3D"http://www.tox8.us/navigation-conformal/ef45C23P95E8l9o12X15c71U4a9dm21lFv4GIf4rxvs4FhIHEsvZ8RRCommRn5fi10o6ypAcYl"> Here</a><br /> <br /> 6547 N Academy Boulevard=
+ #1170<br /> 80918 Colorado Springs CO</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style><style><span id="computability"></span></style></style><span color="limitability"></span><style><big><span></big><small><span id="deposed"></style></small></span><font></span></font><big></big> =20
+ <img src=3D"http://www.tox8.us/7556w23k9k5Et8u513M15cJ73l4a9dQ21QFv4GIf4rxvs4FhIHEsvZ8cRCommRn7arrWK105Kj1cY/Minnie-postcard" alt=3D""/></body>
+</html>
+
+------=_Part_640_223469090.1618079019700--
+

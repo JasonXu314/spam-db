@@ -1,0 +1,64 @@
+Return-Path: <canvas-prints-partner-bruce=untroubled.org@scritpznow.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1112261 invoked from network); 3 Apr 2021 14:57:40 -0000
+Received: (qmail 151100 invoked by uid 222); 3 Apr 2021 14:57:39 -0000
+Return-Path: <canvas-prints-partner-bruce=untroubled.org@scritpznow.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 151097 invoked from network); 3 Apr 2021 14:57:39 -0000
+Received: from mail.scritpznow.xyz ([91.228.101.6])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 14:57:38 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=scritpznow.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas-prints-partner@scritpznow.xyz;
+ bh=4TQcZa+ZNfIyV7YdPx2mHpTG7xo=;
+ b=IeQ44cOjklhDCPRpu7JmTil/Q/MMxj//7T/2HBXsLlPck6BqyFyDvnpMNd1zhSslOFhjVa8s0tc1
+   1RMV6xA8+j07Es8xTnVbryAo+W9CVNNOrl5ZQpvrIVhfJajYDigKYgRWKW58SXuHy+qrahm7S3IN
+   2Dro9FnC2nhc8O5EmWw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=scritpznow.xyz;
+ b=QIXrbhfnM4ucWhKLUPHZTKBlRigfQlXQtq1uZ7IuPJTwwhlvWTVEriaVojOGyOhpOMGwpwBKIjdp
+   NzXRNtA03psopSej6bB0fPeBVLBPh4x2bluDlyf+ALZt1+QPC2/6i1QGvXvfUKAgqqUtNgHXPL4n
+   wNwpXyM+OSZqERg35K4=;
+Received: by mail.scritpznow.xyz id hd21660001ge for <bruce@untroubled.org>; Sat, 3 Apr 2021 10:44:41 -0400 (envelope-from <canvas-prints-partner-bruce=untroubled.org@scritpznow.xyz>)
+Date: Sat, 3 Apr 2021 10:44:41 -0400
+From: "Canvas Prints Partner" <canvas-prints-partner@scritpznow.xyz>
+To:   <bruce@untroubled.org>
+Subject: UNLIMITED 16x20 Custom Canvas Prints for Just $14.99
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49_1368438034.1617461074514"
+List-Unsubscribe: <http://www.scritpznow.xyz/1974j2395j8Og913gY1L1qSN4a2cY21JFv4GIf4rxvs4FhIHEsvZ11ARVnKKdRoi95Qoh106kzcp3Y/Swinburne-elaborateness>
+Message-ID: <0.0.0.5.1D72897E12C665C.AD883@mail.scritpznow.xyz>
+Content-Length: 2708
+
+------=_Part_49_1368438034.1617461074514
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>bodyguard</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.scritpznow.xyz/Corinthians-spectrogram/9ea5S2Q395n8S6x17ET1v5aTR10qB4a2ck21uFv4GIf4rxvs4FhIHEsvZ11ERVnKKdRoi96M1YH0l5bqlcY"><span style="font-size:18px; ">Last day for our Spring Sale</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.scritpznow.xyz/Corinthians-spectrogram/9ea5S2Q395n8S6x17ET1v5aTR10qB4a2ck21uFv4GIf4rxvs4FhIHEsvZ11ERVnKKdRoi96M1YH0l5bqlcY"><img src="http://www.scritpznow.xyz/abb5so2395Vn7aO17H15aQWhG13IQ4a2cH21iFv4GIf4rxvs4FhIHEsvZ11vRVnKKdRoi97L_C1sp06gA0XcY/helpless-composes" style="width: 650px; height: 755px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.scritpznow.xyz/24b6H239OT5Mul8612C15a11O4a2cz21NFv4GIf4rxvs4FhIHEsvZ11rRVnKKdRoi96R1BUR05zNc1Y/Corinthians-spectrogram"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> end<a href="http://www.scritpznow.xyz/e7b5F2N395dy8o912z15a12u4a2cM21zFv4GIf4rxvs4FhIHEsvZ11ORVnKKdRoi96B1qk0X6qMcYll/Quichua-Kampuchea"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <font title="petitioning"></font><big></big><small></small><small></small>
+  </center>   
+ <img src="http://www.scritpznow.xyz/blankness-negative/ed64Q2395LnQ8517L1xU5a14ATYM4a2cK21jFv4GIf4rxvs4FhIHEsvZ11ARVnKKdRoi96zl10mo5vlcY1" alt=""/></body>
+</html>
+
+------=_Part_49_1368438034.1617461074514--
+

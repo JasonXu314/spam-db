@@ -1,0 +1,79 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2202646 invoked from network); 12 Apr 2021 04:33:43 -0000
+Received: (qmail 16156 invoked by uid 222); 12 Apr 2021 04:33:40 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 16153 invoked from network); 12 Apr 2021 04:33:39 -0000
+Received: from vger.kernel.org (vger.kernel.org [23.128.96.18])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Apr 2021 04:33:39 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S229574AbhDLEcn (ORCPT <rfc822;bruce@untroubled.org>);
+        Mon, 12 Apr 2021 00:32:43 -0400
+Received: from avas10dua.indosat.net.id ([219.83.54.102]:53803 "EHLO
+        avas10dua.indosat.net.id" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S229448AbhDLEck (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 12 Apr 2021 00:32:40 -0400
+IronPort-SDR: ETDo7ppAHYYHfWMf0kdOxhSQ2cj+3H9hV0HfgI72khCRdA55oKSuslwCfOPkJaQrdhm7fdE0Ls
+ AJebZv7oycoaejUEXH/2coOHot0FG3yRA9A16vKh0aXp4FojrTmndbNHx1w0pWWpI/rikG6VWz
+ /bClIUhtZHxVszjlKNYoP0VWSmXNmAA5NEqryWUjeuuIcsDSEgtAjn4lS9DPUeNran9yIdhskX
+ 0pqO8GHgu9yK5eJus6jeoeSZhLBVxQrPD7ZnrlHrXD/YKpoQ/748twZd9SumpCxqdHPSQ7u3i6
+ AX8=
+X-IronPort-AV: E=Sophos;i="5.82,214,1613408400"; 
+   d="pdf'?jpg'145?scan'145,208,145";a="176967435"
+Received: from im2mailps01.indosat.net.id ([202.155.50.151])
+  by avas11dua.indosat.net.id with ESMTP; 12 Apr 2021 11:29:33 +0700
+Received: from (180.241.68.46) by webmail.indosat.net.id;  Mon, 12 Apr 2021 11:31:23 +0700
+Message-ID: <4876828.39181618201883116.JavaMail.defaultUser@defaultHost>
+Date: Mon, 12 Apr 2021 11:31:23 +0700 (WIT)
+From: Vloans Business <info@vlb.com>
+Reply-To: applicationdoccs@tutanota.com
+Subject: Re; Attention
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+        boundary="----=_Part_2057_3566635.1618201883006"
+To: unlisted-recipients:; (no To-header on input)
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1001
+
+------=_Part_2057_3566635.1618201883006
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Good day,
+
+At Vloans Business, we provide you with the best possible interest 
+rate 
+for business and personal loans
+
+We Provide credits for all kinds of loan that suits your needs.
+
+For application requirements, please see our flier.
+
+Advert Unit
+
+
+------=_Part_2057_3566635.1618201883006
+Content-Type: message/external-body; access-type=x-deleted; length=125206
+
+
+Content-Type: IMAGE/JPEG; name="Vloans Business Flier.jpg"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Vloans Business Flier.jpg"; 
+	size=92684
+
+------=_Part_2057_3566635.1618201883006
+Content-Type: message/external-body; access-type=x-deleted; length=1000858
+
+
+Content-Type: APPLICATION/PDF; name="Vloans Business Flier.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Vloans Business Flier.pdf"; 
+	size=740893
+
+------=_Part_2057_3566635.1618201883006--
+

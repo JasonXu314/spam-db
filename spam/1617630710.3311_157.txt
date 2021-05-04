@@ -1,0 +1,94 @@
+Return-Path: <nowellcarlo67@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1213816 invoked from network); 5 Apr 2021 12:46:33 -0000
+Received: (qmail 172941 invoked by uid 222); 5 Apr 2021 12:46:33 -0000
+Return-Path: <nowellcarlo67@gmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 172938 invoked from network); 5 Apr 2021 12:46:33 -0000
+Received: from mail-pj1-x102d.google.com (mail-pj1-x102d.google.com [IPv6:2607:f8b0:4864:20::102d])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 05 Apr 2021 12:46:33 -0000
+Received: by mail-pj1-x102d.google.com with SMTP id ep1-20020a17090ae641b029014d48811e37so539513pjb.4
+        for <bruce@untroubled.org>; Mon, 05 Apr 2021 05:46:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=ZdpzTahCVcB8eJEQp0QTLuOBXqnd+/cg58ETtU5CmjU=;
+        b=AcRLZKt3ZhOs3fiB5/2bHyEgUyaKB/kibT8wfS08Ie80lGf6Z3cWAuCYVogBwCKX7S
+         olpbKb0fLznwpMEF8qN+8Yy5eAqLetE2csOFR/IAMbp2DrnNjJbuHQIQ+2ZVzkHB1zsU
+         se7n4X7QWsRmSnhGNKox770/WrC+KrXVi7ZozHWvVyXbpXv9ZiXEDyd2jjFYGsFTb0Zm
+         FE0Ut0dfRVOwfK5ek0Wcm+colr5vMPHG0uhkNKM2gDwK8tppizOZxnL5OlZT886YnIwq
+         1p5S5GbhqecX+/U3NFUTj7syS4OMrCdSeArOYsRo9LLyfD4kWoDthXQlXtSwjAhvlZMn
+         Tp1w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=ZdpzTahCVcB8eJEQp0QTLuOBXqnd+/cg58ETtU5CmjU=;
+        b=mESAJfqvwuxkKuKTjLdgO/Bk1XqKCPkwgT+4VYm7Ir64HACEUKAesPICcFKI8a0bs0
+         MKXk+mq4AAVw6b23eLVsPDEetfHkfXoN5pi6Pe9Rw6ZKo6Oi8CklopiiDsh5cPVIGiql
+         eXYKhMeYHC/fjx7NzUfQjENNh9QczKbRSh954dCcqlCcrZTkdnJdZw+wxQQ8stmDauqF
+         1FNFxQzKDqm2uva2Y1YGEOBr01EHFJONkawQiVsUABYwPInW3oc33nb4jw9aAA1nTTF7
+         TrjItD0sDiTIiGkBhkddlLaXVzHTb2XGOJLHBTzE35/DIAXUMc0kHtL4yUa/Mwp+luyP
+         fevg==
+X-Gm-Message-State: AOAM532x6xTGXkoShBPHwOWVW6KTgMOIyTKB9t9RUFNi57L9OoQtkR7F
+	hjyiGSOYdyFHIZaLkq8Oun8VxuoWou8=
+X-Google-Smtp-Source: ABdhPJy74lL9ZzjLDpfulpTcui2mC/tynNwFy2+t/leT4B3B1WDh0z3R9TdTaQwUBD0EDbiKxLHo8Q==
+X-Received: by 2002:a17:902:bf92:b029:e6:bc0:25ac with SMTP id v18-20020a170902bf92b02900e60bc025acmr24266142pls.49.1617626791782;
+        Mon, 05 Apr 2021 05:46:31 -0700 (PDT)
+Return-Path: <nowellcarlo67@gmail.com>
+Received: from EC2AMAZ-AVM65LF (ec2-13-208-139-176.ap-northeast-3.compute.amazonaws.com. [13.208.139.176])
+        by smtp.gmail.com with ESMTPSA id p25sm15987927pfe.100.2021.04.05.05.46.31
+        for <bruce@untroubled.org>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Mon, 05 Apr 2021 05:46:31 -0700 (PDT)
+Message-ID: <606b06a7.1c69fb81.e5010.74d3@mx.google.com>
+Date: Mon, 05 Apr 2021 05:46:31 -0700 (PDT)
+X-Google-Original-Date: 5 Apr 2021 12:46:31 +0000
+MIME-Version: 1.0
+From: "Beau" <nowellcarlo67@gmail.com>
+To: bruce@untroubled.org
+Subject: #IN_Voice Number: #5272115681.....!!!!!
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Content-Length: 2514
+
+PFA+RGVhciBicnVjZUB1bnRyb3VibGVkLm9yZzwvUD4NCjxQPiZuYnNwOzwvUD4NCjxQ
+Pk91ciBBZGRyZXNzPC9QPg0KPFA+MTI5MyBTLiBCcm9hZHdheSBBdmU8L1A+DQo8UD5V
+bml0IDI8L1A+DQo8UD5EZW52ZXIsIENPIDgwMjExIDwvUD4NCjxQPk9mZmljZSBIUTwv
+UD4NCjxQPjEyOTMgUy4gQnJvYWR3YXkgQXZlPC9QPg0KPFA+VW5pdCAyPC9QPg0KPFA+
+RGVudmVyLCBDTyA4MDIxMTwvUD4NCjxQPiZuYnNwOzwvUD4NCjxQPk9yZGVyJm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICMjTjBSVDBOIyMgQW50aVZpcnVzTGlmZXRpbWVQ
+YWNrPC9QPg0KPFA+QW1vdW50Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICQyNTkuMDA8L1A+DQo8UD5QUk9EVUNU
+IElEOiBXaW4wOTgzMDk4IDwvUD4NCjxQPkZlZSZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAkMjAuMDA8L1A+DQo8UD5SRU5FV0VE
+IE9OOiBBcHJpbCAwNSwgMjAyMTwvUD4NCjxQPlRSQU5TQUNUSU9OIFNUQVRVUzogQXV0
+byBEZWJpdGVkPC9QPg0KPFA+VG90YWwmbmJzcDsmbmJzcDsgJDI3OS4wMDwvUD4NCjxQ
+PiZuYnNwOzwvUD4NCjxQPldlIGFyZSBnbGFkIHRoYXQgYSBsb3lhbCBjdXN0b21lciBs
+aWtlIHlvdSBoYXMgZGVjaWRlZCB0byByZW5ldyBvdXIgc2VydmljZSBmb3IgeWV0IGFu
+b3RoZXIgdGVybS4gSXQgaXMgYSBwbGVhc3VyZSBmb3IgdXMgdG8gdGFrZSB0aGlzIGpv
+dXJuZXkgdG9nZXRoZXIgd2l0aCB5b3UuIDwvUD4NCjxQPldlIGFyZSBvcGVuIHRvIGNv
+bnN0cnVjdGl2ZSBjcml0aWNpc20gZnJvbSBvdXIgdmFsdWVkIGN1c3RvbWVycy4gSWYg
+eW91IHdpc2ggdG8gcmVwb3J0IGFueSBraW5kIG9mIG1hbGZ1bmN0aW9uIG9yIGV2ZW4g
+aWYgeW91IHdhbnQgdG8gZGlzY29udGludWUgb3VyIHNlcnZpY2VzLCBwbGVhc2UgY29u
+c2lkZXIgY29udGFjdGluZyB1cyBhdCBAICsxICg4MDApIDczMS05MDg2LiBXZSBoYXZl
+IGFscmVhZHkgbWFkZSB5b3VyIG5lZWRzIG91ciBwcmlvcml0eSBhbmQgaW4gY2FzZSB5
+b3UgcmVxdWlyZSBhbnkgbW9yZSBzZXJ2aWNlIG9yIGluZm9ybWF0aW9uLCB3ZSBhcmUg
+YXQgeW91ciBhc3Npc3RhbmNlLiA8L1A+DQo8UD5XZSBzaG91bGQgaW5mb3JtIHlvdSB0
+aGF0IHlvdXIgcmVxdWVzdCBmb3IgYWNjb3VudCByZW5ld2FsIGhhcyBiZWVuIHJlY2Vp
+dmVkIGZyb20gYSBkaWZmZXJlbnQgZGV2aWNlIGFuZCBsb2NhdGlvbi4gSWYgeW91IGFy
+ZSB3b3JyaWVkIHRoYXQgc29tZW9uZSBlbHNlIGlzIHVzaW5nIHlvdXIgYWNjb3VudCB3
+aXRob3V0IHlvdXIga25vd2xlZGdlLCB3ZSBhZHZpc2UgeW91IHRvIGNvbnRhY3Qgb3Vy
+IHRlY2huaWNhbCBhZG1pbmlzdHJhdG9ycyBpbW1lZGlhdGVseS4gT3VyIHRlYW0gb2Yg
+c2VjdXJpdHkgaXMgZXh0cmVtZWx5IHByb2Zlc3Npb25hbCBhbmQgZGlzY3JlZXQuIFlv
+dSBjYW4gaGVscCB0byB0cmFjZSB0aGUgZGlnaXRhbCBmb290cHJpbnQgb2YgdGhlIGNy
+aW1pbmFsIGFuZCByZWdhaW4gaW5kaXZpZHVhbCBhY2Nlc3MgdG8geW91ciBhY2NvdW50
+IHdpdGggaGVscCBvZiByZWNlaXB0cyB0aGF0IGhhdmUgYmVlbiBnZW5lcmF0ZWQgc28g
+dGhhdCBubyBvbmUgZWxzZSB1c2VzIGl0LiZuYnNwOyA8L1A+DQo8UD5QYXN0ZSAxMjM0
+IFMuIEJyb2Fkd2F5IFN0LiBDaXR5LCBTdGF0ZSAxMjM0NTwvUD4NCjxQPsKpIDIwMjAg
+V2VIdWIsIEluYy48QlI+PC9QPg==
+

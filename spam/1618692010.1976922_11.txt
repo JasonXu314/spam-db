@@ -1,0 +1,110 @@
+Return-Path: <mortgages.mutual.of.omaha-bruce=untroubled.org@speed43.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2751395 invoked from network); 16 Apr 2021 17:09:39 -0000
+Received: (qmail 108156 invoked by uid 222); 16 Apr 2021 17:09:38 -0000
+Return-Path: <mortgages.mutual.of.omaha-bruce=untroubled.org@speed43.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 108153 invoked from network); 16 Apr 2021 17:09:38 -0000
+Received: from mail.speed43.cloud ([70.102.102.75])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 17:09:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed43.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mortgages.mutual.of.omaha@speed43.cloud;
+ bh=wTV4AYNSI69ZWiIi92Igv3zSkvE=;
+ b=rvpI6iKoh8wsxBtW4Y3NTxDpJgO95raFLF9V01uD7/rWBZ57pmFsLe0UHzvxfmTjplfnCariRZJi
+   CrjYhGyZ1x7vZDeZz81fOypau6azmcq0Dicy+8HlG+DngbkVNamVAk0eGdf7sqUnPxhBMVAfGdEX
+   PNu7/l/bWlKAXMtl3Nw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed43.cloud;
+ b=C7eRSwahxudwJG2wrjCKtKqCIJgLG5XCTxJd4zpj/RgodIzl+lH817+Gq2oQV/E0tXQL+LkasC/1
+   kbfegObsMKgQoaoz1xWxLXjDpFfQnn5zrrZCzUPRCFHy+oirNEglPhg6/swjo8+w3dQCXCRiGNhn
+   q8+6qUfqn13DZREd5Io=;
+Received: by mail.speed43.cloud id hf72cu0001go for <bruce@untroubled.org>; Fri, 16 Apr 2021 12:58:02 -0400 (envelope-from <mortgages.mutual.of.omaha-bruce=untroubled.org@speed43.cloud>)
+Date: Fri, 16 Apr 2021 12:58:02 -0400
+From: "Mortgages Mutual Of Omaha" <mortgages.mutual.of.omaha@speed43.cloud>
+To:   <bruce@untroubled.org>
+Subject: Confirmed: Low mortgage rates available in your area
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_532_1861312225.1618592265741"
+List-Unsubscribe: <http://www.speed43.cloud/officer-benignly/8644b2395Q8qx912e1FR1DS4af6r21bFv4GIf4rxvs4FhIHEsvZ8rRDomnQQ6h1A0oH5ePcTY>
+Message-ID: <0.0.0.3C.1D732E1A95055C8.13275E@mail.speed43.cloud>
+Content-Length: 4710
+
+------=_Part_532_1861312225.1618592265741
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>defunct</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-size:18px; "><a href=3D"http://www.speed43.cloud/baton-passage/f304f2395Xlo8617nV15e4WO1ThW4af6_21wFv4GIf4rxvs4FhIHEsvZ8zRDomnQQ6qLR1h06gJAcjY">Todays rates are=
+ the lowest dont miss out lock yours in now</a></span>
+   <br /> &nbsp;=20
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed43.cloud/baton-passage/f304f2395Xlo8617nV15e4WO1ThW4af6_21wFv4GIf4rxvs4FhIHEsvZ8zRDomnQQ6qLR1h06gJAcjY" style=3D"text-decoration: none; "><img alt=3D"" src=3D"http://www.speed43.cloud/51b6S239zV5H7SJa17fFG15e4qT4l_4af6L21zFv4GIf4rxvs4FhIHEsvZ8pRDomnQQ6pwWh105lJqcY/baton-passage" s=
+tyle=3D"width: 606px; max-width: 600px; background-color: rgb(255, 255, 255=
+); font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(=
+85, 85, 85); margin: auto; display: block; border-width: 0px; border-style:=
+ solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; <span style=3D=
+"font-family:verdana,geneva,sans-serif; "> If you do not wish to receive fu=
+ture messages click here to <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.speed43.cloud/2694W2395d86AM12a15e42H4af6M21cFv4GIf4rxvs4FhIHEsvZ8iRDomnQQ7Bu10SZq6YMcYJ2/there-registry" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span cl=
+ass=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed43.cloud/baton-passage/f304f2395Xlo8617nV15e4WO1ThW4af6_21wFv4GIf4rxvs4FhIHEsvZ8zRDomnQQ6qLR1h06gJAcjY" style=3D"text-de=
+coration: underline !important; border-bottom-width: 0px !important; cursor=
+: default !important; color: rgb(153, 153, 153); font-size: 10px; font-fami=
+ly: sans-serif; font-weight: inherit !important; line-height: 14px; text-al=
+ign: center; ">Mutual of Omaha</a>&nbsp; |&nbsp; 3131 Camino Del Rio N., St=
+e 1100 - San Diego, CA 92108</span><br /> <br /> Quit <a href=3D"=
+http://www.speed43.cloud/hindrances-psych/4fe4n2395WI89O13op15e43T4af6y21lFv4GIf4rxvs4FhIHEsvZ8GRDomnQQ5q10Pi6CMPLcY">Here</a><br /> <br /> 6547 N Academy Boulevard #1170<br /> 80918 =
+Colorado Springs CO</span></span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <font id="gyroscopes"><span face="blurt"></span><font><small></font></font></small><span id="nontransparent"></span> =20
+ <img src=3D"http://www.speed43.cloud/d6d5q23B95S8k5v17tqn15He45LJk4af6L21fFv4GIf4rxvs4FhIHEsvZ8sRDomnQQ5Y10sA6zXycYJ/there-registry" alt=3D""/></body>
+</html>
+
+------=_Part_532_1861312225.1618592265741--
+

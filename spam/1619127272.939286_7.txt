@@ -1,0 +1,203 @@
+Return-Path: <kelly_robbins-bruce=untroubled.org@tiktocktake.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3424077 invoked from network); 22 Apr 2021 19:27:35 -0000
+Received: (qmail 3880 invoked by uid 222); 22 Apr 2021 19:27:35 -0000
+Return-Path: <kelly_robbins-bruce=untroubled.org@tiktocktake.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 3877 invoked from network); 22 Apr 2021 19:27:35 -0000
+Received: from mail.tiktocktake.com (205-236-248-33.serversto.com [205.236.248.33])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 19:27:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tiktocktake.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=kelly_robbins@tiktocktake.com;
+ bh=4Qyo4Z+OtlKpdw1h9AplpT089M0=;
+ b=LUSiUl5F0LX6RO+iF/x/qBhl+v/Vh2uM6rd1KUsSiRAjsOskxue9kabkj2cCXzLMeQ1+yY3ryQjq
+   6ucMFo4R3p1LzDSTHu8TJISNl6wI16ns00+ed1xhqTIl8hA9xS4dN4iOr9wuEpiNK7x3fzVD1M3q
+   E6mlW2XfvMPaTXYKEfQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tiktocktake.com;
+ b=yrvVKK9M0PHHIKLD0WMPOaz0SghvjkGoP5ebyJiXDeqcPCcoXzHpzHJ63xJY/wWokUe3Zx7wQ2db
+   2LiYmvAg4x0b8QFYDCDOhTubLJ/xBKC+EGsBfw4yH5PN9VOVdy9nr/bsooT1futJZyNpJt8o+d/q
+   Yz+ZS35nlPrj+jsZPE4=;
+Received: by mail.tiktocktake.com id hg77960001gv for <bruce@untroubled.org>; Thu, 22 Apr 2021 15:24:05 -0400 (envelope-from <kelly_robbins-bruce=untroubled.org@tiktocktake.com>)
+Date: Thu, 22 Apr 2021 15:24:05 -0400
+From: "Kelly Robbins" <kelly_robbins@tiktocktake.com>
+To:   <bruce@untroubled.org>
+Subject: Energy efficient, mini-cooler. Cool just one room at a time!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_568_249649951.1619119312447"
+List-Unsubscribe: <http://www.tiktocktake.com/9174L2395DP89r12BvKZ1H1v4fdN21aFv4GIf4rxvs4FhIHEsvZ7wQWnoK96X1UCU05WMLsv/synthesized-omnibus>
+Message-ID: <0.0.0.5E.1D737AD0F3A3046.9CD3DC@mail.tiktocktake.com>
+Content-Length: 12121
+
+------=_Part_568_249649951.1619119312447
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 3-in-1 Portable Air Cooler **
+----------------------------------
+
+Create your own personal microclimate!
+
+This 3-in-1 evaporative air cooler cools, humidifies, and purifies the air around you.  Ideal for nightstands, desktops, camping tents, or dorm rooms.   In the summer months, the inside temperature of your home can be too much to bear.  With the sun beaming in and no respite in sight, it's all too easy to decide to front up a ton of money to install air conditioning.  However, who can afford the sky high electric bills that go with it? Instead of shelling out a fortune for an appliance you can neither afford nor need at every time of the year, it might be time to look for something a little less invasive.  This CoolAir device could be the answer!
+
+
+GET 50% OFF and FREE SHIPPING -> http://www.tiktocktake.com/unaltered-confederations/b706R23Fl95K86iC12Q2n1KabI4fdv21IFv4GIf4rxvs4FhIHEsvZ7KQWnoK95m_10y5hpqsv
+
+
+
+
+
+Click or mail Anderson Vault Data Transfer http://www.tiktocktake.com/89f6q2m3I95pkh8611bH21a6Q4fdB21JFv4GIf4rxvs4FhIHEsvZ7rQWnoK95uu10V6i1Usvz/flavors-dequeues to set preferences. 
+1444 N 91st Street.  Scottsdale, AZ.  85260-7036. 
+
+------=_Part_568_249649951.1619119312447
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table width="100%" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#ffffff" width="100%"> 
+      <div style="line-height: 5px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width88 hauto" width="166"><img class="width88 hauto" style="display: block; border: 0;" src="http://www.tiktocktake.com/viewed-nonterminating/de65O23s95o7aVH11q2v1a7C4fdD21kFv4GIf4rxvs4FhIHEsvZ7QQWnoK95Q1mP05NUsvN" alt="" width="127" height="auto" /></td> 
+         <td class="width232 hauto" align="right" valign="bottom" width="434">&nbsp;</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix line8" style="line-height: 15px;">
+       &nbsp;
+      </div> 
+      <table class="width320 hauto" border="0" width="600" cellspacing="0" cellpadding="0" bgcolor="#eeeeee"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 2px;" align="center" valign="middle"> 
+          <div style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decoration: none; padding-top: 10px;">
+           <img src="http://www.tiktocktake.com/8bd6m23s9O5W7aoz11i21a8qg4fdo21nFv4GIf4rxvs4FhIHEsvZ7NQWnoK97rw1x0xz6Q@svWU/fastener-explosions" width="350" />
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <!--?In my mind the police arrival was his trigger to blow everyone up. I shouted something to the effect of ?I?ve got his hands, he can?t kill anyone else?. I just kept trying to hold his hands away from the belt and away from me,? he said. 
+Frost said he also wanted to prevent the police from shooting Khan. ?I didn?t want him to be shot because his statement made me believe that he wanted to die. And I had seen the chaos he had caused in the hall. And I didn?t want him to have the satisfaction of his choice when he took away others?.?
+
+Frost said he eventually got off Khan when he had doubts about the suicide vest. ?I had a moment of hesitation thinking that maybe the bomb is fake. And maybe I should let go ? I thought I was risking getting shot in the head.? Moments later Khan was shot dead by the police. 
+The coroner, Mark Lucraft QC, thanked Frost for what he called his ?amazing bravery?. 
+Crilly, in a statement to the police read to the inquest, described seeing Khan standing with two large knives, shouting and jumping about. ?He was going nuts, he was shouting Allahu Akbar,? he said.---> 
+         <td class="width320" width="600"> 
+          <table cellspacing="0" cellpadding="0"> 
+           <tbody> 
+            <tr> 
+             <td class="width320" style="padding: 20px;" align="center" valign="top" bgcolor="#eeeeee" width="600"><a href="http://www.tiktocktake.com/bab5Ez2395w8HQ612BL21Ia4h4fdm21EFv4GIf4rxvs4FhIHEsvZ7sQWnoK97fM1rDz06kXTs2v/Janis-Hiatt"><img style="display: block; font-family: arial, sans serif; font-size: 20px; color: #ffffff;" src="http://www.tiktocktake.com/4c15zy2395w7jVa10D21a9X4fdQ21rFv4GIf4rxvs4FhIHEsvZ7CQWnoK96v1j0AD6WWsLUv/viewed-nonterminating" width="100%" height="auto" border="0" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" align="center" width="600"> 
+          <div class="lhfix line12" style="line-height: 14px;">
+           &nbsp;
+          </div> 
+          <table class="width280" border="0" width="540" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 12px;" align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text-decoration: none;">
+               <a style="color: #832d98; text-decoration: none; font-weight: bold;" href="http://www.tiktocktake.com/89f6l2U39S5KAX8610Q21a5p4fds21tFv4GIf4rxvs4FhIHEsvZ7yQWnoK96py10Wh6kqqNsv/softest-entrance">CoolAir</a> is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp; &nbsp;
+              </div> </td> 
+            </tr> 
+            <tr align="center"> 
+             <td style="padding-top: 16px;"><a href="http://www.tiktocktake.com/bab5Ez2395w8HQ612BL21Ia4h4fdm21EFv4GIf4rxvs4FhIHEsvZ7sQWnoK97fM1rDz06kXTs2v/Janis-Hiatt"><img src="http://www.tiktocktake.com/8275qm2395RYN7a12qh21amaK4fdG21hFv4GIf4rxvs4FhIHEsvZ7nQWnoK96JU1_Q05WlsvW/synthesized-omnibus" alt="main image" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table cellspacing="0" cellpadding="0" bgcolor="#fff"> 
+           <tbody> 
+            <tr> 
+             <td class="width20" width="31">&nbsp;</td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix" style="line-height: 30px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 19px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="border-top: 1px solid #B7B7B7; line-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="center" width="560"> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fargo, ND 58103/2931 
+           <a href="http://www.tiktocktake.com/de55m2l395qL86p10X21a6T4fdz21mFv4GIf4rxvs4FhIHEsvZ7kQWnoK95QJ1W05j@@sv/synthesized-omnibus">Want to stop future messages?</a>
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">The convicted terrorist Usman Khan threatened to set off a suicide vest as a bystander confronted him with a narwhal tusk at London's Fishmongers' Hall, an inquest has heard.</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Darryn Frost, a civil servant, poked the tusk into Khan's stomach after he had stabbed Jack Merritt, 25, and Saskia Jones, 23, at a prisoner rehabilitation event in the hall on 29 November 2019.</span></p> 
+           <p id="sign-in-gate"><span style="color: #ffffff;">&nbsp;</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Giving evidence at an inquest into their deaths, Frost described the subsequent standoff with Khan. He said: ?He still held the knives above him, but he glanced down at the narwhal tusk, and he glanced back up at me, and he kind of paused for a while. He seemed puzzled or a bit defeated by having this long object pointed at his belly.?</span></p> 
+           <div id="dfp-ad--inline1" class="js-ad-slot ad-slot ad-slot--inline ad-slot--inline1 ad-slot--rendered" data-link-name="ad slot inline1" data-name="inline1" aria-hidden="true" data-mobile="1,1|2,2|300,197|300,250|300,274|fluid" data-phablet="1,1|2,2|300,197|300,250|300,274|620,350|550,310|fluid" data-desktop="1,1|2,2|300,250|300,274|620,1|620,350|550,310|fluid" data-google-query-id="CM7-sMzFkvACFRPWKAUdCHAGKw"> 
+            <div class="ad-slot__label">
+             <span style="color: #ffffff;">Advertisement</span>
+            </div> 
+            <div id="google_ads_iframe_/59666047/theguardian.com/uk-news/article/ng_0__container__" class="ad-slot__content">
+             &nbsp;
+            </div> 
+           </div> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">At this point Khan threatened to set off a suicide vest that later turned out be a fake device. ?He said to me: ?I'm not here for you. I'm here for the police,'? Frost recalled. ?The attacker motioned downwards with his head and he said ?I've got a bomb'. I could see what looked like an explosive device around his waist.?</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Moments later Steve Gallant, a prisoner on day release, threw a heavy mahogany chair at Khan, Frost said. Still holding the tusk to Khan's stomach, Frost then passed the makeshift weapon to Gallant.</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Frost went to fetch a second tusk while Gallant used the first tusk to ?whack? Khan until it broke into pieces, the inquest was told.</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Later, Khan was chased out of the building and towards London Bridge by Frost, Gallant and John Crilly, a former prisoner who had been helped by Learning Together, the organisation hosting the event.</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Khan stumbled and fell after Frost hit him with the second tusk, and Crilly sprayed him with a fire extinguisher, the inquest heard. Crilly then hit Khan in the head and hand with the extinguisher and managed to take one of the knives from him, the inquest jury was told.</span></p> 
+           <p class="css-1yqigsj"><span style="color: #ffffff;">Frost said he tried to pin down Khan by lying on top of him and tried to prevent his hands from reaching the vest.</span></p> 
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           &nbsp;
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.tiktocktake.com/cherries-Syria/80a4P2395VtS8512oZR21acP4fdA21VFv4GIf4rxvs4FhIHEsvZ7kQWnoK95OK1L06M2P1sv" alt=""/></body>
+</html>
+
+------=_Part_568_249649951.1619119312447--
+

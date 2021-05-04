@@ -1,0 +1,1902 @@
+Return-Path: <bounces+2031169-e904-bruce=untroubled.org@sendgrid.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2756941 invoked from network); 16 Apr 2021 21:00:19 -0000
+Received: (qmail 110661 invoked by uid 222); 16 Apr 2021 21:00:19 -0000
+Return-Path: <bounces+2031169-e904-bruce=untroubled.org@sendgrid.net>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 110658 invoked from network); 16 Apr 2021 21:00:19 -0000
+Received: from o1.ia.advisorstream.com (o1.ia.advisorstream.com [192.254.116.199])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 21:00:18 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-type:from:mime-version:reply-to:to:subject:list-unsubscribe; 
+	s=smtpapi; bh=G6MeRvN263aywSuWtesxebemIMNR/UdeIxZsZvBSrl0=; b=nm
+	EsED+U5mcCPmw5aiUhfOu9mpznw0YFxddAaLNdpiXx95tuG0/ye3gIYOelmRiOGm
+	MonuTsb4YVfIv4PBQWwtt/4uYVKoKPD5s4a2Pggf07WREtbfjt2RG3FFBHcOMPUj
+	mZRfauV8ZvPRLmo7wUPQpGS0l2CV5NzyCijSC1064=
+Received: by filter2704p1mdw1.sendgrid.net with SMTP id filter2704p1mdw1-23848-6079FADC-60
+        2021-04-16 21:00:12.883896131 +0000 UTC m=+83035.334793348
+Received: from MjAzMTE2OQ (unknown)
+	by ismtpd0161p1mdw1.sendgrid.net (SG) with HTTP id cSowltv_TseA_XVoTcsaAQ
+	Fri, 16 Apr 2021 21:00:12.875 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=40b35c01ff7e456f424175b590fa950901acb3d032db0b0a19557ea90d64
+Date: Fri, 16 Apr 2021 21:00:14 +0000 (UTC)
+From: "Wealth Advisory Team" <wealthadvisory@affinitywealth.advisorstream.com>
+Mime-Version: 1.0
+Reply-to: wealthadvisory@affinitywealth.ca
+To: "Bruce Nathan Guenter" <bruce@untroubled.org>
+Message-ID: <cSowltv_TseA_XVoTcsaAQ@ismtpd0161p1mdw1.sendgrid.net>
+Subject: Buying? Selling? Refinancing?
+List-Unsubscribe: <mailto:remove-3746115-3677446-8kC6TDLfwdFEldnTM42q7DGvhJ0@unsubscribe.advisorstream.com>, <https://my.advisorstream.com/prefs/3746115/8kC6TDLfwdFEldnTM42q7DGvhJ0/3677446/>
+X-SG-EID: eWf0Lwp+ejwMdn7+NnIwhz1E98lw+69+RqfdBMsNrlJwOQUPA9JGqqV6TnbbG1BYNMuBsErDYi4Odi
+ r/nxHqhYUTPQ1nmjLOBGCpLEsf7Yu1WVk3ItAqcxQgZM4tU6T46vYroGrHDu16e9lK2hIKWJ9eMh05
+ wHBYgzpojG1dONQ7pCz2Zov/a4OEZuxi91PFS9g9WoSgTqbIJSLSZerjgVH/upLC1yTQPduWh41x8x
+ DJHHMiXIgAgto1eP41jO3IilOsRkla5NBW4o7EvRiavg==
+X-SG-ID: Mce9YV7iEqv1JMOhFee8zAmBhyWyreShyrQyg9P+o6+ruXfi8qsUwobJTxMKh6LDSD2xx8txTDttQj
+ JAvCkutAYgsiXyxrVQYtILlRT9Jcc51H2CQcwXarKZO4izpGlX
+X-Entity-ID: eZBusjPCM3t/QBJ40OlcrQ==
+Content-Length: 106162
+
+--40b35c01ff7e456f424175b590fa950901acb3d032db0b0a19557ea90d64
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+|  |  |  ![Credential Asset Management Inc. / Affinity Wealth
+Management](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce=
+1OqqL6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIozMJ=
+0YRHNouIDVfplrebF1kv3IEoCNoaSt6a33VtdJNw1Rmp2Po-2BjZiOFx-2FoOR6Cw-3D-3Dybyz=
+_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYd=
+aYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K9=
+8ledAQTLPAG-2B5a5wvGs0y3zK2BXkDYbwmrdrIPo-2BTX5Y9sRGUsddmQPalF6qStYCJZzBBdA=
+B2JP3Nt-2F4sYk1DCwVyoaz6mcauLxNvCKhWCk8GbhwoeLRGfsCViB3RxqMpKjYnj17UByXNw-2=
+FpvNlkI9dhm8OrLrkt9rkwGT2Xn8eIy-2BtqaT3flgtyD1-2B3F48iBtZN8Ig-3D-3D=20=20
+---=20=20
+|  |  |  |
+
+#  Buying? Selling? Refinancing?
+
+Hey Bruce Nathan,
+
+**Mortgages 101**=20=20
+
+With housing values on the rise and mortgage rates at record lows, many are
+wondering how they can make the most of it!=20=20
+
+Is now a good time to sell and buy something new? Refinance and pay off deb=
+t?
+Harness your home to help fund your retirement?=20=20
+
+If you're scratching your head at these questions, you're not alone!=20=20
+
+Join us for our upcoming live virtual session  **Mortgages 101** on
+**Wednesday, April 28** at  **12 pm (CST)**. You'll hear from experts Adelle
+Harrison, Personal Banker with Affinity Credit Union, as well as Tim
+McGillivray and Bandish Sharma, Financial Planners with Affinity Wealth
+Management.
+
+ **In this session, you'll learn:**
+
+ **=20=20
+**
+
+=C2=B7        what you need to know about buying a cabin or building a new =
+home
+
+=C2=B7       if it's worth paying a penalty to transfer your mortgage
+
+=C2=B7       how you can use your home's equity to invest in the future
+
+=C2=B7       how you can use your home to supplement your income during ret=
+irement
+
+ **=20=20
+**
+
+ **[Register
+today!](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1Oqt=
+oqPhEMaWZkRkEyE3ut7NlEkU9J3cjtOpdHfqp-2FPqti0RCPEZUaxNoWGkYuDdQPKU0XwpfChBr=
+V-2BOHnk260tPkSpjVOiqP-2BX-2BLZpiA2Re1qjW4WtoVpEsRHINRvpE-2B5oA-3D-3DiDIz_P=
+lY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaY=
+ZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98l=
+edAQeXFRH8iIUHQIRNInBfzfPm5fg-2FbGJ-2FsctyQOy1k7hmIRuwI-2B1zPaemEJzzBhSSCgd=
+r00BYb6CJcOCc9XsVZjHK7Lathc18fkTuwIrgJHautUEbqy1tpfusXR8nrWp7gi4mIuXzmz6zGH=
+9Gx2I1kf7eddyLMECDVtYn9nWVlWUvvEwTvWkdUhptZeetusfx9sw-3D-3D
+tUNDlBWFVMN0ZSODFCVE9TTVhXTUhVTEFEVS4u)**
+
+=20=20
+
+Thank you,
+
+Wealth Advisory Team=20=20
+=20=20
+---=20=20
+|  |  ![Wealth Advisory Team profile
+picture](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1Oq=
+qL6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIvw7t8Nc=
+F4rIMbc-2BdPAZnS-2BlPeIG8snxRguUVigym98gay-2BguAgaA8vijQtAMaH7LpF8n5rxEI5eS=
+bz3N0cDcjudcnNILc6QLfg-2F5FzejdHdUUes_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX0=
+1dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz=
+0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQWRNBTeeFwmzWczj533kMZJJwztOgXDIW=
+KeDwcql3AXzSC2VT7C1Hm3dmwTtiGtjx3t-2F0y9dqLMp8iRD1B7unOkQFDJ0ZrCUCVSsSpap9G=
+M9jaMdUDMnPbTp-2B2TfV4SCbYvcnN7VGp2BChxSymeBThpBbwrhc3IEAGB6-2FqCiWAjdJ1KQx=
+GKSkllM7urI0-2B3ASA-3D-3D=20=20
+---=20=20
+|  **Wealth Advisory Team**=20=20
+=20=20
+**Credential Asset Management Inc. / Affinity Wealth Management**=20=20
+Office : [18662722521](tel:18662722521)=20=20
+[wealthadvisory@affinitywealth.ca](mailto:wealthadvisory@affinitywealth.ca)=
+=20=20
+[ www.affinitycu.ca/wealth ](http://ia.advisorstream.com/ls/click?upn=3DSoW=
+hRs79yT-2FOXeG9Ce1OqhUsAXLZGfvW5Mxx0k1H53f-2FvlibuTEbHe30vHeewumcM7XW_PlY-2=
+FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5=
+pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQ=
+ftnlinx-2FIsVX3DXJCa792rgO5mdzC5gbeAA5eGfz2h1Wu-2FqvPjBCgwXsEWHnmf6SYJcUwQn=
+M-2BG537M4BdDbbA-2BPtihLe3SqIazhxnUxKL-2B6M-2BgaURO8Ere-2Fce8H9mCQLr64i548-=
+2B9Zz4uB0zL0peaCjOczUs-2BiTK8lALkoSVSIhfX0DhOu3EWKWm4I76haM2A-3D-3D=20=20
+=20=20
+---=20=20
+|  [
+![](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqtVDFj=
+oWuBcI67IdbPQT8sMomVuRqkOa-2BLnkQt90lLb9RvClGhMJT5K43IfxHa-2FD7Q0IYyQnUg8fY=
+msmWF-2Bu7Fc0uXbrqIZKV985zlMTRd3bRIYg_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX0=
+1dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz=
+0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQRidn0QwnMqAJZqBncq3jc9xJewrOHPFV=
+R2zT0SHJUSd7Eqz5tlnTm8rF4g9e2NfqwACe3YQlqH1l5xSoYNj-2FKxruxJDUHy2dlZJ5GZjFo=
+g34cZxfqrLWdB8pLvl47jIbpxe7gebpH2dUs3p6j06q7KF2Rvjlu83qcEeM8JhTJoGRoCrCbvV7=
+Cf1CE-2BFUWApXQ-3D-3D
+](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqrQqpn4r=
+lopj4LhGpGsVpPCvHxoVrdOqIq0xPZm0aaqJYgdZAJiNCq5-2F2UFaGim2lw-3D-3Ddy3S_PlY-=
+2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj=
+5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledA=
+QYUdfOZlUmyv81omiV5EH5qx-2FVyLlmo5eUWI2GWF8yx0rGFPCJepB1FOUG-2BVNozEDTgE403=
+gOyFe-2BhsFR8R-2B3-2FExsc4iDiYLd-2FngqKt87PTvCOVK9kTWRuIR2xTGh-2FITY36Bf2gx=
+mHaZGY0JQ5jghryEZ-2BrR9V0VdFQBrseXAcgH0YaOVKcsaBsHMCtrxg7D-2BQ-3D-3D=20=20
+---=20=20
+[Contact Now](mailto:wealthadvisory@affinitywealth.ca?subject=3DContact Now=
+)=20=20
+|  |  |  |  [
+![What](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1Oqq=
+L6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIspE2wE6T=
+4ARXlw-2F-2F3F6Q9W0JsUE3Ww3U8gnfPsPfz-2BUvWTd_PlY-2FBeaHTBsRoTkCfSa8KvFzhdl=
+AgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMia=
+pjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQWdMMzH0nq9Qh-2BW5q88w5iJ=
+EuO50rgyJx7YF8TFPCp0zFHhU5Ime-2Blrg8C8AeoJs-2FxrCd1W6Wr-2BQ2EXx9UP4pTykjbhw=
+ssDkSghhf0OhBaUsmvHlzpmw-2F1ciGzMzdr4d0sDwfKbNDBiAH0qvkczK5yCKmXxduMHg-2Fjh=
+NOW9E18XRkXnC-2BDHblojhwuQ1D-2FIKvA-3D-3D
+images-
+ra3ck68Wi_y9ULSCNCUVRIOkT5c-40781-width-500-iStock-689401442.jpg.300x205_q8=
+5_crop-
+smart.jpg) ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-=
+2BRY49nQ4l0ZcFWbLn1LGqND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu5fa0PybW49e=
+vMT3615BK9ug9TRj5xI0ULK-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL9SPf5lpF2Ct=
+ziXTKBc4nG19BG2uwFuzBwa1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCYRKHwrkIwV7o=
+NiDNh8e6EpAvo3kJss3W9RkS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJkJQpcZzCpKDe=
+nz5WNqkM10efT2Mkr93RJlQNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82LY-2BzmjbhsW=
+KjMsmfoMOn5vSKK3zBK3KKrDDw156T7GoT2GPvtCaKBpYWs84-3D3TWq_PlY-2FBeaHTBsRoTkC=
+fSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMr=
+YyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQYuAIY6hoKaBTA=
+lz04caTgwj9c3L1vCJYaacQ8KMGnwSOVwvA27qlE2MYGPA7c1bB8hiqztKTCMVam9m-2BAAm2X7=
+Gr-2BRGti-2FhpsOSzwkO3t2LopEVh4xauP0lfqy6NJLst0UDHNkrBJaRqc8QoeHpaI09J0W-2F=
+eScfUm9aST3I3Dko3JursXmy01uVo0DfpuO3ag-3D-3D=20=20
+---=20=20
+|  What the stress test change actually means for you as a mortgage shopper=
+=20=20
+---=20=20
+April 10, 2021=20=20
+|
+![](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqqL6X2=
+b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRGcbmNE1KzL0o18lydog6NqJachxTT2pdq-2=
+B5oaL2py4oojLUKGBtJKY2IQdl5mwIxMN1H_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01d=
+z7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0P=
+PI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQZE4-2FMEuajJOP-2FHldCH60N-2FqdCGxi=
+EInjrHOKqSQ-2FMbqFbvCi46OdD3uWJUksHTMDs3k-2Btc2NAxJITX0wwkaEIQDj8NsyER7FGKn=
+R-2BQZFSUqO-2BOJKW6l0QbJ2I9WvnRAchQNCeXozFh4bX0sjuV64DE-2FTZp6ZyQS9LVN7kXYz=
+BsGgCovVSnrVgjTvwm5N3r-2FLA-3D-3D
+|  Getting approved for a mortgage will get trickier thanks to proposed str=
+ess
+test changes from our...=20=20
+---|---=20=20
+|  |  [ **Read more** ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWK=
+GI1tq55HYB-2BRY49nQ4l0ZcFWbLn1LGqND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu=
+5fa0PybW49evMT3615BK9ug9TRj5xI0ULK-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL=
+9SPf5lpF2CtziXTKBc4nG19BG2uwFuzBwa1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCY=
+RKHwrkIwV7oNiDNh8e6EpAvo3kJss3W9RkS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJk=
+JQpcZzCpKDenz5WNqkM10efT2Mkr93RJlQNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82L=
+Y-2BzmjbhsWKjMsmfoMOn5vSKK3zBK3KKrDDw156T7GoT2GPvtCaKBpYWs84-3DNFVV_PlY-2FB=
+eaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pU=
+EpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQc7=
+5htyAImq14qP8JtakAxNbjZjfP51Mjb388go2rmdhCH5fHeitPLoL1fbITtkz2ka9z7SjGPxHzu=
+LZdF4KOO0TAdTf4A0ELVnDY1zfT47SLTYsxUnZsgITVamg4OJ-2BFz7MndM1ht1Jz5Xb6xQ-2Bv=
+tztqrTULoyWMJZFOL3xTX1kq-2FoJ3hHkeYrKWhiYef660A-3D-3D [ ** ->** ](http://ia=
+.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFWbLn1LGq=
+ND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu5fa0PybW49evMT3615BK9ug9TRj5xI0UL=
+K-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL9SPf5lpF2CtziXTKBc4nG19BG2uwFuzBw=
+a1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCYRKHwrkIwV7oNiDNh8e6EpAvo3kJss3W9R=
+kS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJkJQpcZzCpKDenz5WNqkM10efT2Mkr93RJl=
+QNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82LY-2BzmjbhsWKjMsmfoMOn5vSKK3zBK3KK=
+rDDw156T7GoT2GPvtCaKBpYWs84-3D-2O3_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz=
+7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PP=
+I-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQcyy2yHY6f8NzQdBBvIl2dA5xkWBQGD1LfBv=
+KAIe9tlmzNF67Y68OMp9cHS00gM-2F-2FLZj8GsizFSJS68OSb0v631mX7Q44jiOGPId5OpVkP6=
+n5nCHBgdafPNZsAhSZixNgU2xjavpfWTIw-2BwNW7zxNtR-2BZu0xuLuWndJ87Ov8KVwWnyo6CJ=
+zNuKnbbA-2BF0xrQrA-3D-3D=20=20
+---=20=20
+|  |  |  [
+![Watch](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1Oq=
+qL6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIsp8b9Nh=
+GxnNLk1ObU06Oy-2FtTpkEAQDNTb1SwjSbw9qqlC1bqWOQMKr4mMiwqEMuuw-3D-3DbVYD_PlY-=
+2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj=
+5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledA=
+QeQ-2BNxObMlLCXwGCmTVQohk3MaKVNtreEtsvyIqgZMb8i5CzBMK7uV8Wpp1NvxVXP27PF7NFT=
+dg7VbuyeK11mXV7yOM7ofEMhHOOAgYyT56AFfp3zf8EUCEtrKUHIBrAMwtGpPaM7jg8bvRLcVvJ=
+-2BGcfLUZZa5VKmkKLUUApHFTpIOo3Wwzqn4EDRIx7d4QIdg-3D-3D
+rss-8618aeb3-c6ce-4e68-a383-fc8bfc8d3bfb-4f7bf4eb-09ab-4bb9-82d3-383987d2e5=
+ef-20210407090444-6ee2dfe58537a50cb3dbab5f7650a7b767e0a4931105be894c76b_hr1=
+7fRQ.jpg.300x205_q85_crop-
+smart.jpg) ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-=
+2BRY49nQ4l0ZcFWbLn1LGqND70QxMUjW6WLpXgqlyXHFtbhTzAPgtaYSPmGETwXwec2LUoXVThy=
+VJ7XFG30mkMRBVL4-2B1N6wMCshmQ9RNJ26ld3DU1xfae7KH7CJJbvTgYRHNAB7m6Mr75GIiWf-=
+2BFnSisp7Y0QdM0AmhMu62XLKlqtN01pesTlr7zBvQXV2PF55LLwjSWwSo-2Fa08YWs-2FZDnf-=
+2FLC6b9sDmEwNCdv4PcM4wxFexTFy4rRMgCfzZWAMVSHJrHDyL4ujVsa2GnhEWqMx8Pl-2Frs1F=
+Lt5t2kCqQM3vIhlRUSFeGKSd2nJULgC6jiJVErAR7DoupOU-2FUAI85ilQYFZdJS-2FNQeLWVll=
+92iB5blC1Jz9VQ6Xta7zb6EOftFiL5jCoIyDONjo5cTMFxVftNOPvmF8ghc9ngjLTpczNogcR3y=
+y8pTtYeKSSVzXeGpQ7w-3D-3D29B-_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl=
+-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2Bo=
+EExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQQzcKsktaB6crb-2BvvVgiRx9yeXQw9oK1MaM9SHd=
+hV7b1OHaZzWdeuo-2FZque-2BY0Ogt-2BkYTDN2T3x-2BScdImJzBVhBg-2FWhnpYqPnJ6MWJCk=
+4IMaq-2F3AUihoEFMYBEky5Eocxs2XVAirvLsDm-2FdIBTngf-2Fa2YV10EeV7mV7bM8bXgTZZf=
+DPBW8TZkaVGCCD7H56e1g-3D-3D=20=20
+---=20=20
+|  Watch the details to help avoid financial headaches when filing your ret=
+urn=20=20
+---=20=20
+April 8, 2021=20=20
+|
+![](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqqL6X2=
+b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRGcbmNE1KzL0o18lydog6Nq0X9bgM0nvTQcg=
+7nL6qMH4-3DaysM_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAd=
+WgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1=
+Jv63xSMJyORR5K98ledAQR8AAy38OABvaO3c1Exl2-2B6inIQXk5jT20-2FbyXjx1o7eY4vecwh=
+XYWYSSERHE6-2Fub9xWObC9tb1RUp3pElsPWnv1lqJkONXrKPNGMgRyMAoSRd4Bj50ncUurhBxn=
+9CvWVcCzu6Kazv9vlOPrX9ecsRmTvK6RG-2FhiS38JgVcWRGnSzxRkjeWaYzzda5PNo75Hqg-3D=
+-3D
+_Small_Logo.jpg) |  As the filing deadline at the end of the month approach=
+es,
+experts say paying attention to the...=20=20
+---|---=20=20
+|  |  [ **Read more** ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWK=
+GI1tq55HYB-2BRY49nQ4l0ZcFWbLn1LGqND70QxMUjW6WLpXgqlyXHFtbhTzAPgtaYSPmGETwXw=
+ec2LUoXVThyVJ7XFG30mkMRBVL4-2B1N6wMCshmQ9RNJ26ld3DU1xfae7KH7CJJbvTgYRHNAB7m=
+6Mr75GIiWf-2BFnSisp7Y0QdM0AmhMu62XLKlqtN01pesTlr7zBvQXV2PF55LLwjSWwSo-2Fa08=
+YWs-2FZDnf-2FLC6b9sDmEwNCdv4PcM4wxFexTFy4rRMgCfzZWAMVSHJrHDyL4ujVsa2GnhEWqM=
+x8Pl-2Frs1FLt5t2kCqQM3vIhlRUSFeGKSd2nJULgC6jiJVErAR7DoupOU-2FUAI85ilQYFZdJS=
+-2FNQeLWVll92iB5blC1Jz9VQ6Xta7zb6EOftFiL5jCoIyDONjo5cTMFxVftNOPvmF8ghc9ngjL=
+TpczNogcR3yy8pTtYeKSSVzXeGpQ7w-3D-3D1OV6_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxj=
+mX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq3=
+4vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQSiCI9JHjnlb471OZt3Y7RpZg-2BGF=
+NqtO-2FemrdQ4UDjGNxt9uWaGjUJLj3ZPhjtTlUuaFGJi0uONMRP335k7k6iKskLLlGQ-2FlH62=
+-2BupSqvvr3gHTYFXfuErSKfKmbKJakS3m0U-2BXsy-2FbdObi5E48zpFFP-2BOXWCfY0PBArAZ=
+UfYboGcsNavDvNHtKPcQKKg07jjQ-3D-3D [ ** ->** ](http://ia.advisorstream.com/=
+ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFWbLn1LGqND70QxMUjW6WLpXgqly=
+XHFtbhTzAPgtaYSPmGETwXwec2LUoXVThyVJ7XFG30mkMRBVL4-2B1N6wMCshmQ9RNJ26ld3DU1=
+xfae7KH7CJJbvTgYRHNAB7m6Mr75GIiWf-2BFnSisp7Y0QdM0AmhMu62XLKlqtN01pesTlr7zBv=
+QXV2PF55LLwjSWwSo-2Fa08YWs-2FZDnf-2FLC6b9sDmEwNCdv4PcM4wxFexTFy4rRMgCfzZWAM=
+VSHJrHDyL4ujVsa2GnhEWqMx8Pl-2Frs1FLt5t2kCqQM3vIhlRUSFeGKSd2nJULgC6jiJVErAR7=
+DoupOU-2FUAI85ilQYFZdJS-2FNQeLWVll92iB5blC1Jz9VQ6Xta7zb6EOftFiL5jCoIyDONjo5=
+cTMFxVftNOPvmF8ghc9ngjLTpczNogcR3yy8pTtYeKSSVzXeGpQ7w-3D-3DF92v_PlY-2FBeaHT=
+BsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAa=
+EEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQbhGnMi=
+XvaEi5T-2FS1Be-2BlbSxx2YhtdJibFi6umYv2D6f3TZ78himrEN5YY2lA-2FZIdBWFbjXUK36Y=
+iUWWazpkZTEYQJ6wH81-2BvEK2L4tdgymQQn2-2Fh8g5hNeC5i4aT0rZ1sEKS1-2BBrkTBXaWHp=
+lVTcM94RAr5hzcDdoFsBe2HqFFpxrhrlInnqb-2FmgIYx8aa-2FDw-3D-3D=20=20
+---=20=20
+|  |  |  |  [
+![Liberals](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce=
+1OqqL6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIspE2=
+wE6T4ARXlw-2F-2F3F6Q9W0JsUE3Ww3U8gnfPsPfz-2BUDxyc_PlY-2FBeaHTBsRoTkCfSa8KvF=
+zhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmR=
+oMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQVUQD9-2B2mBd1DZ4HUff=
+CUhG03-2FZZYGnivVuJrV5bJI7tMi-2FtMxPp9HWzoiZ8qmjZQKqyihBpNIRatOhHpQJDmmT4Ah=
+CINcZL5J76-2F1P-2B7VoR1VYwNt-2FiK1vFQ-2Bb12I7BcR3S2ydoiGEUA4j8-2BIympwsnO3o=
+fyPVf1wqTC5RwaeSjQcwiguCUGRUsmz5JojD75Q-3D-3D
+images-zLuvJJ2e8J1saNUWdbTzQv-
+rF8o-40492-width-500-iStock-604055814.jpg.300x205_q85_crop-smart.jpg)
+](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0=
+ZcFWbLn1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7vwDZea8CvKjDxUZSW30bYp=
+oT1phDf1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQEEV3Oa1jdMWNCvOhNvVNU3w=
+OTQ9tutGk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4XBlXE6WOFY-2Fx-2ByywdNy=
+Xfcw8K1q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQGytd7jRSUECy4Uw6hNaZmrt=
+1GE9mgWF3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE-2BpMDx8h1T4qEITiN-2B9=
+My4BhgyBzEUXy-2F9GQlTn3fw-3D-3DM5f4_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01d=
+z7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0P=
+PI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQYxWQP6wmE6CKXj923Z9uGVjgKA3K03c1Ja=
+pqIIBMVMSXHrovcegwkQYwlG-2BUspLgx6n84xJZQQ2yA0KEmd-2BK1G78PbYLHZISxdmwTQoQ-=
+2Fco2fe9F6NZGEN8yfnRaYMoBJEZZRAQs-2BAcEXowKuZ5C1eUM1ZrKDu96ZXCtgvsSia4KyCLy=
+TWqoYmjJaOCImJjdQ-3D-3D=20=20
+---=20=20
+|  Liberals to unveil federal budget on April 19=20=20
+---=20=20
+April 2, 2021=20=20
+|
+![](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqqL6X2=
+b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRGcbmNE1KzL0o18lydog6Nq0X9bgM0nvTQcg=
+7nL6qMH4-3DWh1__PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAd=
+WgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1=
+Jv63xSMJyORR5K98ledAQb8thAKy2T0oesldelkdzJ6fX4cse5eR-2B3tPsOnhbGcYtxhRyuCho=
+sSL7V6QAJPmJeFcog5J4JCOrf178LerftU0GA3Yzz0GJfsUmAHTzJoWR-2FH2FZHqH-2FpEfPpN=
+-2BTSscdkBTVwDWUf6xWv9j3a-2Frfz3faiLO8o-2FuY5RA-2B267o-2FskvjZNQyKYKrovE7Ib=
+NR2bQ-3D-3D
+_Small_Logo.jpg) |  The federal government will release a highly anticipated
+budget in about three weeks, giving...=20=20
+---|---=20=20
+|  |  [ **Read more** ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWK=
+GI1tq55HYB-2BRY49nQ4l0ZcFWbLn1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7=
+vwDZea8CvKjDxUZSW30bYpoT1phDf1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQE=
+EV3Oa1jdMWNCvOhNvVNU3wOTQ9tutGk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4X=
+BlXE6WOFY-2Fx-2ByywdNyXfcw8K1q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQG=
+ytd7jRSUECy4Uw6hNaZmrt1GE9mgWF3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE=
+-2BpMDx8h1T4qEITiN-2B9My4BhgyBzEUXy-2F9GQlTn3fw-3D-3DWqBY_PlY-2FBeaHTBsRoTk=
+CfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvM=
+rYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQcLpAYW4GBpr5=
+wWPH2fqxf-2FUp2tuDw71p-2Fowkv-2FKTurz61-2B7wfFObhjMNBx-2B-2Fs6FMD22CD0FtJat=
+hzGmjEc-2FVJx14-2FC2vHDOzReqKptgWV7rsAv19EhtXCIAn9yPRwTNkWlHnCq2VzHAzOJ3-2F=
+SFZotbyZ0jwiaMxLhX2cMmQypK7X0QVxO-2FCUFliHLakGRD55A-3D-3D [ ** ->** ](http:=
+//ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFWbLn=
+1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7vwDZea8CvKjDxUZSW30bYpoT1phDf=
+1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQEEV3Oa1jdMWNCvOhNvVNU3wOTQ9tut=
+Gk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4XBlXE6WOFY-2Fx-2ByywdNyXfcw8K1=
+q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQGytd7jRSUECy4Uw6hNaZmrt1GE9mgW=
+F3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE-2BpMDx8h1T4qEITiN-2B9My4Bhgy=
+BzEUXy-2F9GQlTn3fw-3D-3D-sKH_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-=
+2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoE=
+ExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQblPPqypRu07-2FINqtx2Q6Sl6NCQ66sJ-2BpnA7QX=
+Nx7058z9SeXzk0wv1fLn-2B8iT8GxbyPOChLKjQRcAKAEUzcmd2wrAPq7n7sURJlFrCPOsLtt1q=
+by8eVj2r2IRkc0py2lbG84XRLwZv1RHg4C43AJrDtyb1YtUsOlPFTj5MA8ygAgfm9yLLkGCHVby=
+CMDL85dQ-3D-3D=20=20
+---=20=20
+|  |  |  [
+![Weekly](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1O=
+qqL6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRNOssXpjPTcJAmilp4-2FRLIspE2wE=
+6T4ARXlw-2F-2F3F6Q9W0JsUE3Ww3U8gnfPsPfz-2BUJzp1_PlY-2FBeaHTBsRoTkCfSa8KvFzh=
+dlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoM=
+iapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQTz0tMLfDUYpqfAYY09zfsW=
+DAuIaTFdrbjJCQxK-2BcelENLh-2B1ZcSNLoF058H2PSY6htFbB279sxjkn1H92gAhjVAmqOA89=
+2StRBaAmsyFALloxWyVj5eFDLwqcBlNRJ6ZfK6-2Bm0YP8WMHJjL46Bu2SByb3orNX91y04YSub=
+UiXG5YaI3MMs7-2FRl698gnB7fiSA-3D-3D
+images-9eQQmXMIsi-Czk6bfmIJ4NI-
+Uqs-36594-width-500-AvisoWealth_image_AdvisorStream_new_LgYIwK0_OwqLM5K.jpg=
+.300x205_q85_crop-
+smart.jpg) ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-=
+2BRY4lAVzlV1f1ws59c59xECZKUpx9lRlcvNk5FGG7F5noUgMn9bZRg7zkRrU9rpVt9pirHlP0S=
+3QhFI0JuLORUq5qFUMMIiK6O5OyVhqjbCRE668ANlCAtN3BeTK-2FIf-2Bj7qFABeaNbUSWBVE9=
+GMWpUAxiLo6XTGvvUfUAC0V-2BpdfDizbuAknQ3nlRYHOo6ypHAfR1npVb-2Bywqsku-2B3ICG6=
+pzkcRd9QUqTw6jqlWC2Mm0o6qOoA5pQk9S6A2UAWnq2xVoRayuprtfBZOy4Iy0D4cJHCACQrFd3=
+k4f9AljrIuzWEEh4MVn8v2-2FLpXM4k5BtKebjvElOEIhgknQhW2ve5bQO0doZNYiMCsu-2BkUL=
+NZlgXtN-2BiL4grsATliYLi7AjcVZg-3D-3Dsru9_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxj=
+mX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq3=
+4vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQeWGWiOpXusF1-2BVzVdqteXnwNtyS=
+ZpKqqHbNQdglr8pTpl5kvtUbaOqbkgTp6KZSISQ2WkvHlhzb6gDNRDEbG25-2FMPY98ryHzpPxW=
+U-2FGu1sCWKIqWo4VN-2BhvYykpG2bqp1JRkjNaDWl-2FpTt4RxFE2TB5x4Q2oEPKUWqygI78Zm=
+295ywOfooprLSig5-2BDh1VmOQ-3D-3D=20=20
+---=20=20
+|  Weekly Market Pulse: Week ending April 1, 2021=20=20
+---=20=20
+April 5, 2021=20=20
+|  ![](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqqL=
+6X2b2io3aj8-2Bupn0t9Dv0C7AQK0QcHzwgb6G7LlnRe09A7dcI-2FOyLgboOjJ5It6sNnAw52e=
+WHamVx5J-2Bm9h0-3Dlsra_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv=
+0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUM=
+Ze01Ts1Jv63xSMJyORR5K98ledAQddiZS4PsVzbcCz8FLotnsXejU5oXJ6M-2BB8XdnPOEjIRGT=
+IC3sg-2FPDhgCb5KMXubRQ422-2BwGc2u2V099I6sNG32AzQFL994MtmU1a1gJkoFXHz6LQ2Dv6=
+hMOU-2FpoWmSipfq6LuJVj0K-2FG7d-2F6XFwven7ThsSvStiwO3TxGGvUsZRBXg-2FrC48xsN6=
+49QV-2FLm-2B1g-3D-3D
+squarelogo-1546974766458_nxemqOc.png) |  The S&P 500 rallied to an all-time
+high for a second straight week as U.S. President Joe Biden...=20=20
+---|---=20=20
+|  |  [ **Read more** ](http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWK=
+GI1tq55HYB-2BRY4lAVzlV1f1ws59c59xECZKUpx9lRlcvNk5FGG7F5noUgMn9bZRg7zkRrU9rp=
+Vt9pirHlP0S3QhFI0JuLORUq5qFUMMIiK6O5OyVhqjbCRE668ANlCAtN3BeTK-2FIf-2Bj7qFAB=
+eaNbUSWBVE9GMWpUAxiLo6XTGvvUfUAC0V-2BpdfDizbuAknQ3nlRYHOo6ypHAfR1npVb-2Bywq=
+sku-2B3ICG6pzkcRd9QUqTw6jqlWC2Mm0o6qOoA5pQk9S6A2UAWnq2xVoRayuprtfBZOy4Iy0D4=
+cJHCACQrFd3k4f9AljrIuzWEEh4MVn8v2-2FLpXM4k5BtKebjvElOEIhgknQhW2ve5bQO0doZNY=
+iMCsu-2BkULNZlgXtN-2BiL4grsATliYLi7AjcVZg-3D-3DPLVf_PlY-2FBeaHTBsRoTkCfSa8K=
+vFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurt=
+mRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQcndZJtRTuiHwAvmUFe=
+e0pCCJ6cQxbEMTtYUygmyrhP9UWnGu7QwzVx3AwN5nWCsuTm1ee5-2Bj6QSY6JIKRqQwOJeU4-2=
+BCLAEkM3h7u6csGUA-2BGcYrCVlGsaM1LPXl15ItwtHP9IO-2BNrrm81AsvD9rRbc1MGdbRF95C=
+ZHSU-2F7MTnOy0bMzoKutrUMeW2pAmQYqVg-3D-3D [ ** ->** ](http://ia.advisorstre=
+am.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY4lAVzlV1f1ws59c59xECZKUpx9lRlc=
+vNk5FGG7F5noUgMn9bZRg7zkRrU9rpVt9pirHlP0S3QhFI0JuLORUq5qFUMMIiK6O5OyVhqjbCR=
+E668ANlCAtN3BeTK-2FIf-2Bj7qFABeaNbUSWBVE9GMWpUAxiLo6XTGvvUfUAC0V-2BpdfDizbu=
+AknQ3nlRYHOo6ypHAfR1npVb-2Bywqsku-2B3ICG6pzkcRd9QUqTw6jqlWC2Mm0o6qOoA5pQk9S=
+6A2UAWnq2xVoRayuprtfBZOy4Iy0D4cJHCACQrFd3k4f9AljrIuzWEEh4MVn8v2-2FLpXM4k5Bt=
+KebjvElOEIhgknQhW2ve5bQO0doZNYiMCsu-2BkULNZlgXtN-2BiL4grsATliYLi7AjcVZg-3D-=
+3D_Y81_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8w=
+zbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJy=
+ORR5K98ledAQS-2BczwZBZMElsnvzN4tHNHyX5iYEV93HeqqqY44fcz2z6quuvmRScY6-2B7JTU=
+Ha7SYm3eCY5E6v-2B-2BZf5K-2BP3dSwgk-2BhKLOahfTQF5Kf3TuNjblvSQTBs2Zlpvqzg1CN5=
+r4DfULbs8RwAMHpylb9aGnklUS0lVvGmnkqEQacef59JnXxAJl-2BXWx2KtJFSdeOOMkA-3D-3D=
+=20=20
+---=20=20
+|  |
+
+1515 20th Street W - Saskatoon, SK S7M 0Z5
+
+Mutual funds and related financial planning are offered through Credential
+Asset Management Inc. The information contained in this email was obtained
+from sources believed to be reliable; however, we cannot guarantee that it =
+is
+accurate or complete and it should not be considered personal taxation advi=
+ce.
+We are not tax advisors and we recommend that clients seek independent advi=
+ce
+from a professional advisor on tax related matters. This email is provided =
+as
+a general source of information and should not be considered personal
+investment advice or a solicitation to buy or sell any mutual funds and oth=
+er
+securities.=20=20
+
+=20=20
+=20=20
+If you no longer wish to receive this newsletter, unsubscribe [ here.
+](http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqtVDFjoW=
+uBcI67IdbPQT8sPpbcWhH3-2FoGKIEcMWTm4hpuzGFhrZBNRf8CMOPIcAnSFPU9nwwcz3D8imin=
+Z4cWKdKVfm7w87bJ-2BWQdEepefjusaXG_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7=
+iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI=
+-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQXZ-2FjiJBW7j3sU8dY-2BLLnqCsA4G0rES-2=
+Fllx8zxNy-2BUwP63m2CGqZ5d8WrY8onYKpWMKwHUK5xpeW3SjioIWl1iOGdz9jkWwpomOp0dqs=
+evtVpxE1NIm-2FRf9Y6BTSK17MRqh-2FXHR1zYAbHP2Vlhqfd0XrPeWtxuzRJDBRI3u6WMnMpXg=
+OjC5kUf6dRun0tB9YkQ-3D-3D=20=20
+---
+
+
+--40b35c01ff7e456f424175b590fa950901acb3d032db0b0a19557ea90d64
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+  <html>
+    <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    </head>
+
+
+<style type=3D"text/css">
+.ReadMsgBody{ width: 100%;} /* Forces Hotmail to display emails at full wid=
+th */
+.ExternalClass { width: 100%;} /*Hotmail table centering fix*/
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;}  /* Forces Hotm=
+ail to display normal line spacing*/
+p { margin: 1em 0;} /*Yahoo paragraph fix*/
+table td { border-collapse: collapse;}  /*This resolves the Outlook 07, 10,=
+ and Gmail td padding issue fix*/
+/*This resolves the issue when iphone puts links on dates, etc.*/
+.applelinks a {color:#51544b; text-decoration:none;}
+.applelinksgreen a {color:#707764; text-decoration:none;}
+/* Media query triggers alternate styles when the file is displayed on a de=
+vice with a maximum width lower than the assigned pixel dimension. The defa=
+ult max width setting for max-width should be 480px to trigger on mobile de=
+vices. */
+.header {
+  color:#ffffff !important;
+}
+
+@-ms-viewport{
+    width: device-width;
+}
+@media only screen and (max-width: 480px) {
+	body[yahoo]{
+		background-color:#ffffff !important;
+	}
+	body[yahoo] .email_container{
+		width:100% !important;
+	}
+	body[yahoo] .mobile-hidden{
+		display:none !important;
+	}
+	body[yahoo] .photo{
+		width:100% !important;
+		height:auto !important;
+	}
+	body[yahoo] .show{
+		display: block !important;
+		margin:0 !important;
+		padding:0 !important;
+		overflow: visible !important;
+		width: auto !important;
+		max-height:inherit !important;
+	}
+	body[yahoo] .remove-lr-padding{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	body[yahoo] .footer{
+		padding: 20px 0 20px 0 !important;
+		text-align:left !important;
+	}
+
+}
+</style>
+
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+
+  <body bgcolor=3D"#ffffff" style=3D"margin: 0px; padding:0px; -webkit-text=
+-size-adjust:none; -ms-text-size-adjust: none;" yahoo=3D"fix">
+
+    <table bgcolor=3D"#ffffff" width=3D"100%" class=3D"preview-2col-framed"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+      <tbody>
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+      <tr>
+        <td valign=3D"top" align=3D"center">
+          <table align=3D"center" class=3D"email_container" width=3D"695" b=
+gcolor=3D"#f2f2f2" border=3D"0" cellpadding=3D"0" cellspacing=3D"15">
+            <tbody>
+            <tr>
+              <td valign=3D"top" align=3D"left" bgcolor=3D"#ffffff">
+                <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">
+                  <tbody>
+                  <tr>
+                    <td valign=3D"top" align=3D"left" bgcolor=3D"#ffffff">
+                      <table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+                        <tbody>
+                        <tr>
+                          <td width=3D"100%" valign=3D"top" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <a href=3D"#">
+                              <img src=3D"https://advisorstream.s3.amazonaw=
+s.com/media/easythumbs/logos/AffinityWM_CAM.jpg.645x400_q85.jpg" alt=3D"Cre=
+dential Asset Management Inc. / Affinity Wealth Management" border=3D"0" st=
+yle=3D"display:block;width:auto;height:auto;margin:10px 10px 10px 10px;curs=
+or: default;"  class=3D"photo" />
+                            </a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                          </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                        </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign=3D"top" align=3D"left">
+                      <table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+                        <tbody>
+                        <tr>
+                          <td valign=3D"top" align=3D"left" style=3D"paddin=
+g: 20px 15px 0px 15px;">
+                            <table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                              <tbody>
+                              <tr>
+                                <td valign=3D"top" align=3D"left">
+                                  <!--[if mso]>
+                                    <table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+                                        <tr>
+                                            <td valign=3D"top" align=3D"lef=
+t">
+                                  <![endif]-->
+                                  <table class=3D"email_container" width=3D=
+"335" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                    <tbody>
+                                    <tr>
+                                      <td valign=3D"top" align=3D"left" sty=
+le=3D"padding-right:35px;">
+                                        <table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                          <tbody>
+                                          <tr>
+                                            <td valign=3D"top" align=3D"lef=
+t" style=3D"font-family: Verdana, sans-serif; font-size:14px; line-height:1=
+8px; color:#666666; padding-bottom:14px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+<h1 style=3D"text-align:left;margin: 0; padding: 0;font-family: Georgia, se=
+rif;line-height: 1.1;margin-bottom: 15px;color: #454545;font-weight: 900;fo=
+nt-size: 18px;">
+=20=20
+  Buying? Selling? Refinancing?
+=20=20
+</h1>
+
+
+=20=20
+    <p>Hey Bruce Nathan,</p>
+=20=20
+
+
+
+  <p><b style=3D"font-size: 1rem;"><span style=3D"font-size: 10pt; font-fam=
+ily:
+Verdana, sans-serif;">Mortgages 101</span></b><br></p><p><span
+style=3D"font-family: Verdana, sans-serif; font-size: 10pt;">With housing v=
+alues
+on the rise and
+mortgage rates at record lows, many are wondering how they can make the most
+of
+it!</span><br></p><p><span style=3D"font-family: Verdana, sans-serif; font-=
+size:
+10pt;">Is now a good time to sell and buy
+something new? Refinance and pay off debt? Harness your home to help fund y=
+our
+retirement?</span><br></p><p style=3D""><span style=3D'font-size: 10.0pt;
+font-family: "Verdana",sans-serif;'></span></p><p><span style=3D"font-famil=
+y:
+Verdana, sans-serif; font-size: 10pt;">If you're scratching your head at th=
+ese
+questions, you're not alone!</span><br></p><p><span style=3D"font-size: 10p=
+t;
+font-family: Verdana, sans-serif;">Join us for our upcoming live virtual
+session&nbsp;<b>Mortgages 101</b> on&nbsp;<b>Wednesday, April 28</b>
+at&nbsp;<b>12 pm (CST)</b>.
+You'll hear from experts Adelle Harrison, Personal Banker with Affinity Cre=
+dit
+Union, as well as&nbsp;</span><span style=3D"font-size: 10pt; font-family:
+Verdana, sans-serif;">Tim McGillivray and Bandish
+Sharma, Financial Planners with Affinity Wealth Management.</span></p><p
+style=3D""><b><span style=3D'font-size: 10.0pt; font-family:
+"Verdana",sans-serif;'>In this session, you'll learn:</span></b></p><p
+style=3D""><b><span style=3D'font-size: 10.0pt; font-family:
+"Verdana",sans-serif;'><br></span></b></p><p style=3D""><!--[if
+!supportLists]--><span style=3D"font-size: 10.0pt; font-family: Symbol;"><s=
+pan
+style=3D"">=C2=B7<span style=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style=3D'font-size: 10.0pt; font-f=
+amily:
+"Verdana",sans-serif;'>what you need to know about buying a cabin or
+building a new home</span></p><p style=3D""><!--[if !supportLists]--><span
+style=3D"font-size: 10.0pt; font-family: Symbol;"><span style=3D"">=C2=B7<s=
+pan
+style=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style=3D'font-size: 10.0pt; font-f=
+amily:
+"Verdana",sans-serif;'>if
+it's worth paying a penalty to transfer your mortgage</span></p><p
+style=3D""><!--[if !supportLists]--><span style=3D"font-size: 10.0pt; font-=
+family:
+Symbol;"><span style=3D"">=C2=B7<span style=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;
+</span></span></span><!--[endif]--><span style=3D'font-size: 10.0pt; font-f=
+amily:
+"Verdana",sans-serif;'>how
+you can use your home's equity to invest in the future</span></p><p
+style=3D""><!--[if !supportLists]--><span style=3D"font-size: 10.0pt; font-=
+family:
+Symbol;"><span style=3D"">=C2=B7<span style=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;
+</span></span></span><!--[endif]--><span style=3D'font-size: 10.0pt; font-f=
+amily:
+"Verdana",sans-serif;'>how
+you can use your home to supplement your income during retirement</span></p=
+><p
+style=3D""><b><span style=3D'font-size: 10.0pt; font-family:
+"Verdana",sans-serif;'><br></span></b></p><p style=3D""><b><span
+style=3D'font-size: 10.0pt; font-family: "Verdana",sans-serif;'><a
+href=3D"http://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1Oqt=
+oqPhEMaWZkRkEyE3ut7NlEkU9J3cjtOpdHfqp-2FPqti0RCPEZUaxNoWGkYuDdQPKU0XwpfChBr=
+V-2BOHnk260tPkSpjVOiqP-2BX-2BLZpiA2Re1qyFY1kz54u9qvmZBO-2FHJuCOsl-2FdUMFyZ4=
+8h9VbBx7TAjNDu44F4T4wrqrL9RzIffUQO4x_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01=
+dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0=
+PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQQqFUVXc4xgyOMYOO-2BTZy1bBp-2Bf2rq=
+SbxCCxvOs8upa1zgXMGpDzspF7ez-2FGCIgStl83htZRT654GjmN0i6DtMydyuzpZpAgW-2FNmW=
+pZq-2Bx4tBm5TqyudSU4R4iS2TAuJq-2F6R-2FW1A-2F69PcIVSznZ2XTvN963U5aUnYqejzoHR=
+hqx8UxdF8lQFXqi2mbu-2B5u3FSA-3D-3D">Register
+today!</a></span></b></p><br>
+  <p>Thank you,&nbsp;</p>
+
+<p>Wealth Advisory Team</p>
+
+
+                                            </td>
+                                          </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    </tbody>
+                                  </table>
+                                  <!--[if mso]>
+                                    </td>
+                                    <td valign=3D"top" align=3D"left">
+                                  <![endif]-->
+                                  <table class=3D"email_container" width=3D=
+"300" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                    <tbody>
+                                    <tr>
+                                      <td valign=3D"top" align=3D"left">
+                                        <table class=3D"email_container" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                          <tbody>
+                                          <tr>
+                                            <td valign=3D"top" align=3D"cen=
+ter">
+                                              <table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td valign=3D"top" alig=
+n=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20
+                                                        <a href=3D"#">
+                                                          <img src=3D"https=
+://advisorstream.s3.amazonaws.com/media/easythumbs/profile_photos/Stonebrid=
+geReopening-2_hTdF7G0.jpg.300x0_q85.jpg.300x0_q85.jpg" border=3D"0" style=
+=3D"cursor: default;" alt=3D"Wealth Advisory Team profile picture"/>
+                                                        </a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                  <td valign=3D"top" align=
+=3D"left">
+                                                    <table width=3D"100%" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                      <tbody>
+                                                      <tr>
+                                                        <td valign=3D"top" =
+align=3D"left" style=3D"font-family: Arial, Helvetica, sans-serif; font-siz=
+e:12px; color:#000000; padding: 12px 0px 6px;">
+                                                          <strong>Wealth Ad=
+visory Team</strong><br>
+                                                          <br>
+                                                          <strong>Credentia=
+l Asset Management Inc. / Affinity Wealth Management</strong><br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                                                            Office : <a hre=
+f=3D"tel:18662722521">18662722521</a> <br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                                                          <a href=3D"mailto=
+:wealthadvisory@affinitywealth.ca">wealthadvisory@affinitywealth.ca</a><br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqhUsAXLZGfvW=
+5Mxx0k1H53cv-2FlOTVTteNmu3pgA8U6Nfd_GM_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX=
+01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34v=
+z0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQR-2FPG15BBc9nZjV5mBZVzkpTHmLOod=
+L4vxN9W3LR-2FhzVDXgpiOsNIo61efTpAd07Of9gtI9ff1sADmMLQiQYIDtlcch3Ov3-2FRJt5P=
+jjwn-2BT3ZJmQKK2dh74qF6ysmghR4DxvGFJkMORm4wpfseGK-2BYlt4j97G5GZOeWBzt3hMOAJ=
+z4dfMWayZZyjNfTqhSXVNQ-3D-3D" target=3D"_blank">
+                                                                www.affinit=
+ycu.ca/wealth
+                                                              </a>
+                                                              <br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                                                        </td>
+                                                      </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td valign=3D"top" align=
+=3D"left">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0">
+                                                      <tbody>
+                                                      <tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding:0px;">
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqrQqpn4rlopj=
+4LhGpGsVpPCvHxoVrdOqIq0xPZm0aaqJOJAGgz4cboWW74l4KsxSBQ-3D-3DBd5t_PlY-2FBeaH=
+TBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpA=
+aEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQcbFbV=
+CI9ceanvEQcHXvJEB9z3JUeQaB-2BhXFC-2BaNvj9rNQza9FS-2BQC-2Bs0zv8zTsBGLIdQpmKL=
+b0Eulbk13Dnynxi-2FBJVurVIdJ3DZv319DsAmTMwQ4c5rRqcoAM5VsMmodO7glwoftPSxtHYoc=
+CSMgqlRPOAy-2BaedMx7SSr-2FM6cNNND83DXQOBO5iv7PI2rQYg-3D-3D" target=3D"_blan=
+k">
+                                                                <img src=3D=
+"https://my.advisorstream.com/static/images/social/icon_newsltr_linkedin.pn=
+g" height=3D"20" alt=3D"" border=3D"0" style=3D"display:block;">
+                                                              </a>
+                                                            </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+                                                      </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                <tr>
+                                                  <td align=3D"left" style=
+=3D"padding-top: 15px; padding-bottom: 15px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20
+
+
+  <a href=3D"mailto:wealthadvisory@affinitywealth.ca?subject=3DContact Now"=
+  style=3D"display: inline-block; text-align: center; font-size: 16px; font=
+-family: Arial, Helvetica, sans-serif; text-decoration: none; padding: 8px =
+12px; border-radius: 4px; cursor: pointer; background-color: #96c93d; color=
+: #eeeeee;">Contact Now</a>
+
+
+                                                  </td>
+                                                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    </tbody>
+                                  </table>
+                                  <!--[if mso]>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  <![endif]-->
+                                </td>
+                              </tr>
+                              <tr>
+                                <td valign=3D"top" align=3D"left">
+                                  <!--[if mso]>
+                                    <table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                    <td valign=3D"top" align=3D"left">
+                                  <![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <table class=3D"email_container new=
+sletter-article" width=3D"335" align=3D"left" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <tbody>
+                                        <tr>
+                                          <td valign=3D"top" align=3D"left">
+                                            <table class=3D"email_container=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                              <tbody>
+                                              <tr>
+                                                <td valign=3D"top" align=3D=
+"center" style=3D"padding-bottom:0px;">
+                                                  <table width=3D"300" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                    <tbody>
+                                                    <tr>
+                                                      <td valign=3D"top" >
+                                                        <table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                          <tbody>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFW=
+bLn1LGqND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu5fa0PybW49evMT3615BK9ug9TR=
+j5xI0ULK-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL9SPf5lpF2CtziXTKBc4nG19BG2=
+uwFuzBwa1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCYRKHwrkIwV7oNiDNh8e6EpAvo3k=
+Jss3W9RkS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJkJQpcZzCpKDenz5WNqkM10efT2M=
+kr93RJlQNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82LY-2BzmjbhsWKjMsmfoMOn5vSKK=
+3zBK3KKrDDw1zyCK6wBBYmvm-2BuvwDmpPrM-3Dl031_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAg=
+IxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapj=
+Fq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQX-2FtjRws3ARj6yvgixZCa0pXP=
+t7QL-2B-2Ftb2Q8u-2Bmnf9RTOfSF94Dhu6tswNNRQskCymgziWRv7lX8tkeI0-2BOgc5GhX7LE=
+601uCAxDifrRuPkIaQlpHn-2Ba27QHVN8uBZd7OiIn6X5qTPK5HEBp3wul1Fn0LPscmcr6wFtqs=
+s3D7UazAVeq24-2FiKn9o9NwMF-2F1HMQ-3D-3D" target=3D"_blank">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  <img src=
+=3D"https://advisorstream.s3.amazonaws.com/media/easythumbs/articles/www.ad=
+visorstream.com-images-ra3ck68Wi_y9ULSCNCUVRIOkT5c-40781-width-500-iStock-6=
+89401442.jpg.300x205_q85_crop-smart.jpg" alt=3DWhat the stress test change =
+actually means for you as a mortgage shopper border=3D"0" style=3D"display:=
+block;" width=3D"300" height=3D"205"/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 10px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Georgia, serif; font-size:=
+18px; color:#454545; text-align:left; font-weight:bold;">
+                                                                    What th=
+e stress test change actually means for you as a mortgage shopper
+                                                                  </td>
+                                                                </tr>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size:12px; color:#878787; text-align:left; padding-top:5px;">
+                                                                    April 1=
+0, 2021
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"padding-top: 5px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                      <img =
+src=3D"https://advisorstream.s3.amazonaws.com/media/publishers/Globe_and_Ma=
+il_New_small.png" width=3D"50" alt=3D"" border=3D"0" style=3D"display:block=
+;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  </td>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"font-family: Verdana, Helvetica, sans-ser=
+if; font-size:14px; line-height:21px; color:#878787; padding-left: 10px;">
+                                                                    Getting=
+ approved for a mortgage will get trickier thanks to proposed stress test c=
+hanges from our...
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 25px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                      <tbod=
+y>
+                                                                      <tr>
+                                                                        <td=
+ valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size:16px; color:#af0b1c;">
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu5fa0PybW49evMT=
+3615BK9ug9TRj5xI0ULK-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL9SPf5lpF2CtziX=
+TKBc4nG19BG2uwFuzBwa1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCYRKHwrkIwV7oNiD=
+Nh8e6EpAvo3kJss3W9RkS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJkJQpcZzCpKDenz5=
+WNqkM10efT2Mkr93RJlQNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82LY-2BzmjbhsWKjM=
+smfoMOn5vSKK3zBK3KKrDDw1zyCK6wBBYmvm-2BuvwDmpPrM-3DzO75_PlY-2FBeaHTBsRoTkCf=
+Sa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrY=
+yurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQY73gPmHpi1kKR3=
+DWBpDNIQ2tOea0Isxu9Eo1qfeIS1F5FoWR7XbIaW609ldnbCo-2B6ePHrIR8aCk7u18vvW-2FhI=
+gGftt3EidzodXv6dU1chf8MCwvExg8jZ-2FsYFpfvjyoRZ7bRddVa3c5Cs3jjkNjxkpHzdBORbe=
+zPBSFtMik2dZDVmNlJOXnXoJMHMU-2F-2FGdAsw-3D-3D" target=3D"_blank" style=3D"c=
+olor:#96c93d;">
+                                                                           =
+ <b>Read more</b>
+                                                                          <=
+/a>
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND73IEc6x1jGeBWiCaz4RAMyP-2B0alsBQZ6kbCGfu5fa0PybW49evMT=
+3615BK9ug9TRj5xI0ULK-2BLPVkzaZIoHRtA8aJsTvILgd4Ka58-2FNkb1jiL9SPf5lpF2CtziX=
+TKBc4nG19BG2uwFuzBwa1HSbhJvupgbRW51aYA0UXP4wX1qLuiFmxTUZbWLCYRKHwrkIwV7oNiD=
+Nh8e6EpAvo3kJss3W9RkS5UM-2B2V14ku4afmA5hqVS1UhwnBtNugnWl-2BJkJQpcZzCpKDenz5=
+WNqkM10efT2Mkr93RJlQNG1nM-2FNVZ3ocYEnrtvXM9kwzRUfRv7inZMmr82LY-2BzmjbhsWKjM=
+smfoMOn5vSKK3zBK3KKrDDw1zyCK6wBBYmvm-2BuvwDmpPrM-3D9I-n_PlY-2FBeaHTBsRoTkCf=
+Sa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrY=
+yurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQbUhR3Ht5y0rVHf=
+vhwlq4hB86ENaMAZePFYe1cNFncIj0-2F7w-2BrF0QSY4eT5yH5T7qNi6VaifBi2rTqEgamNVmM=
+8oxZbqp9MsN7ULBdvEGAOGnVDvGsY-2BTcCXuRHyFAFO9CmknoRKzZ3snUQrgMdP1K3Y-2F6c0x=
+iIfQklIIl9pWPo3TQAMHxat-2FyXdZ3DOx4Qo6g-3D-3D" target=3D"_blank" style=3D"t=
+ext-decoration:none; color:#96c93d;">
+                                                                           =
+ <span ><b> &#8594;</b></span>
+                                                                          <=
+/a>
+                                                                        </t=
+d>
+                                                                      </tr>
+                                                                      </tbo=
+dy>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                    </tbody>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                        </td>
+                                        <td valign=3D"top" align=3D"left">
+                                      <![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <table class=3D"email_container new=
+sletter-article" width=3D"300" align=3D"left" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <tbody>
+                                        <tr>
+                                          <td valign=3D"top" align=3D"left">
+                                            <table class=3D"email_container=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                              <tbody>
+                                              <tr>
+                                                <td valign=3D"top" align=3D=
+"center" style=3D"padding-bottom:0px;">
+                                                  <table width=3D"300" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                    <tbody>
+                                                    <tr>
+                                                      <td valign=3D"top" >
+                                                        <table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                          <tbody>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFW=
+bLn1LGqND70QxMUjW6WLpXgqlyXHFtbhTzAPgtaYSPmGETwXwec2LUoXVThyVJ7XFG30mkMRBVL=
+4-2B1N6wMCshmQ9RNJ26ld3DU1xfae7KH7CJJbvTgYRHNAB7m6Mr75GIiWf-2BFnSisp7Y0QdM0=
+AmhMu62XLKlqtN01pesTlr7zBvQXV2PF55LLwjSWwSo-2Fa08YWs-2FZDnf-2FLC6b9sDmEwNCd=
+v4PcM4wxFexTFy4rRMgCfzZWAMVSHJrHDyL4ujVsa2GnhEWqMx8Pl-2Frs1FLt5t2kCqQM3vIhl=
+RUSFeGKSd2nJULgC6jiJVErAR7DoupOU-2FUAI85ilQYFZdJS-2FNQeLWVll92iB5blC1Jz9VQ6=
+Xta7zb6EOftFiL5jCoIyDONjo5cTMFxVftNOPvmF8ghc9ngjLTpczNogcU3Zc_PlY-2FBeaHTBs=
+RoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEE=
+udvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQQ9zpQfEf=
+SysmLCtdWYHdz97V1msVdyHIHNzeccXl24BZEb-2BInx3fB13IeCIF5CnjXuj-2FRG9ZL6o2sup=
+25ihmhqBC8xCpkl3bcTghvuuZWa9i50wqAnSg9E8IEiNhSbyMaf6888QAqddFI9ll4ZW-2FdKiD=
+b1U9U3KDdXV0rDt6X4S-2FOyW7y5GrU4s4DkFT-2BUr0w-3D-3D" target=3D"_blank">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  <img src=
+=3D"https://advisorstream.s3.amazonaws.com/media/easythumbs/articles/syndic=
+ation.thecanadianpress.com-rss-8618aeb3-c6ce-4e68-a383-fc8bfc8d3bfb-4f7bf4e=
+b-09ab-4bb9-82d3-383987d2e5ef-20210407090444-6ee2dfe58537a50cb3dbab5f7650a7=
+b767e0a4931105be894c76b_hr17fRQ.jpg.300x205_q85_crop-smart.jpg" alt=3DWatch=
+ the details to help avoid financial headaches when filing your return bord=
+er=3D"0" style=3D"display:block;" width=3D"300" height=3D"205"/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 10px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Georgia, serif; font-size:=
+18px; color:#454545; text-align:left; font-weight:bold;">
+                                                                    Watch t=
+he details to help avoid financial headaches when filing your return
+                                                                  </td>
+                                                                </tr>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size:12px; color:#878787; text-align:left; padding-top:5px;">
+                                                                    April 8=
+, 2021
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"padding-top: 5px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                      <img =
+src=3D"https://advisorstream.s3.amazonaws.com/media/publishers/Canadian_Pre=
+ss_-_Small_Logo.jpg" width=3D"50" alt=3D"" border=3D"0" style=3D"display:bl=
+ock;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  </td>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"font-family: Verdana, Helvetica, sans-ser=
+if; font-size:14px; line-height:21px; color:#878787; padding-left: 10px;">
+                                                                    As the =
+filing deadline at the end of the month approaches, experts say paying atte=
+ntion to the...
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 25px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                      <tbod=
+y>
+                                                                      <tr>
+                                                                        <td=
+ valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size:16px; color:#af0b1c;">
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND70QxMUjW6WLpXgqlyXHFtbhTzAPgtaYSPmGETwXwec2LUoXVThyVJ7=
+XFG30mkMRBVL4-2B1N6wMCshmQ9RNJ26ld3DU1xfae7KH7CJJbvTgYRHNAB7m6Mr75GIiWf-2BF=
+nSisp7Y0QdM0AmhMu62XLKlqtN01pesTlr7zBvQXV2PF55LLwjSWwSo-2Fa08YWs-2FZDnf-2FL=
+C6b9sDmEwNCdv4PcM4wxFexTFy4rRMgCfzZWAMVSHJrHDyL4ujVsa2GnhEWqMx8Pl-2Frs1FLt5=
+t2kCqQM3vIhlRUSFeGKSd2nJULgC6jiJVErAR7DoupOU-2FUAI85ilQYFZdJS-2FNQeLWVll92i=
+B5blC1Jz9VQ6Xta7zb6EOftFiL5jCoIyDONjo5cTMFxVftNOPvmF8ghc9ngjLTpczNogckyKS_P=
+lY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaY=
+ZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98l=
+edAQQiZ5Fxnx9j6uRFKmuv-2FGolfrpZZiGcuUUqjCxzA4iv8BJcqB1ytTjf4TzZU-2Br1jdy2y=
+58UG8ylZwdpFRQH6TqaaXvCtF2hgOYTnz2gwSv-2BdWMJb1iXfV5P0U6Mko04ddqKbQbhCGQl3E=
+GVEk64svJoCZgBVsCfa3uDhJrbEuQnCOub9oHEmYPOFRMf86G1Tcw-3D-3D" target=3D"_bla=
+nk" style=3D"color:#96c93d;">
+                                                                           =
+ <b>Read more</b>
+                                                                          <=
+/a>
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND70QxMUjW6WLpXgqlyXHFtbhTzAPgtaYSPmGETwXwec2LUoXVThyVJ7=
+XFG30mkMRBVL4-2B1N6wMCshmQ9RNJ26ld3DU1xfae7KH7CJJbvTgYRHNAB7m6Mr75GIiWf-2BF=
+nSisp7Y0QdM0AmhMu62XLKlqtN01pesTlr7zBvQXV2PF55LLwjSWwSo-2Fa08YWs-2FZDnf-2FL=
+C6b9sDmEwNCdv4PcM4wxFexTFy4rRMgCfzZWAMVSHJrHDyL4ujVsa2GnhEWqMx8Pl-2Frs1FLt5=
+t2kCqQM3vIhlRUSFeGKSd2nJULgC6jiJVErAR7DoupOU-2FUAI85ilQYFZdJS-2FNQeLWVll92i=
+B5blC1Jz9VQ6Xta7zb6EOftFiL5jCoIyDONjo5cTMFxVftNOPvmF8ghc9ngjLTpczNogceQw-_P=
+lY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaY=
+ZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98l=
+edAQXkOxdtQmvcGnsJjgP-2BTaCZGButrA07iJK8ceNp3KrmQhxit0yWHqvbEyYb3ytaQtpHT4-=
+2BL-2BksQn-2BRCKNsovCBzEEF7LDAxDXbdYs5lIcnLCvfghzvxzAXwBAeArz3myZqxDupYb2k9=
+ZvIyBADNKyYNqSzJZ5-2Fdzn9vddsKvsuP6zjyqM44jrK8021-2Bxytuxtg-3D-3D" target=
+=3D"_blank" style=3D"text-decoration:none; color:#96c93d;">
+                                                                           =
+ <span ><b> &#8594;</b></span>
+                                                                          <=
+/a>
+                                                                        </t=
+d>
+                                                                      </tr>
+                                                                      </tbo=
+dy>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                    </tbody>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                        </td>
+                                        <td valign=3D"top" align=3D"left">
+                                      <![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                         </td>
+                                       </tr>
+                                       <tr>
+                                         <td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <table class=3D"email_container new=
+sletter-article" width=3D"335" align=3D"left" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <tbody>
+                                        <tr>
+                                          <td valign=3D"top" align=3D"left">
+                                            <table class=3D"email_container=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                              <tbody>
+                                              <tr>
+                                                <td valign=3D"top" align=3D=
+"center" style=3D"padding-bottom:0px;">
+                                                  <table width=3D"300" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                    <tbody>
+                                                    <tr>
+                                                      <td valign=3D"top" >
+                                                        <table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                          <tbody>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY49nQ4l0ZcFW=
+bLn1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7vwDZea8CvKjDxUZSW30bYpoT1p=
+hDf1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQEEV3Oa1jdMWNCvOhNvVNU3wOTQ9=
+tutGk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4XBlXE6WOFY-2Fx-2ByywdNyXfcw=
+8K1q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQGytd7jRSUECy4Uw6hNaZmrt1GE9=
+mgWF3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE-2BpMDx8h1T4qEITiN-2B9MuaC=
+JgRufNulVx1q9Ev5WMQ-3D-3DsJ30_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl=
+-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2Bo=
+EExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQSZGYeYaUIvVBdGX6hCCMcPFzA7oTAbSHOVsLcVfo=
+6ByZ-2FtDy77YctQSwaZemCoSEOevvdTVKJHqL8N6Bx8-2BxMk95oxZCxH915t7WEZN2hX5sYBu=
+VjNa8lwuz6IvOquazgI51yT5ape7DPrQePCNQe3H07owuDNEdU90eSP-2FvPmDwQESOF72RklAY=
+cxyt5EzMw-3D-3D" target=3D"_blank">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  <img src=
+=3D"https://advisorstream.s3.amazonaws.com/media/easythumbs/articles/www.ad=
+visorstream.com-images-zLuvJJ2e8J1saNUWdbTzQv-rF8o-40492-width-500-iStock-6=
+04055814.jpg.300x205_q85_crop-smart.jpg" alt=3DLiberals to unveil federal b=
+udget on April 19 border=3D"0" style=3D"display:block;" width=3D"300" heigh=
+t=3D"205"/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 10px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Georgia, serif; font-size:=
+18px; color:#454545; text-align:left; font-weight:bold;">
+                                                                    Liberal=
+s to unveil federal budget on April 19
+                                                                  </td>
+                                                                </tr>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size:12px; color:#878787; text-align:left; padding-top:5px;">
+                                                                    April 2=
+, 2021
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"padding-top: 5px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                      <img =
+src=3D"https://advisorstream.s3.amazonaws.com/media/publishers/Canadian_Pre=
+ss_-_Small_Logo.jpg" width=3D"50" alt=3D"" border=3D"0" style=3D"display:bl=
+ock;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  </td>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"font-family: Verdana, Helvetica, sans-ser=
+if; font-size:14px; line-height:21px; color:#878787; padding-left: 10px;">
+                                                                    The fed=
+eral government will release a highly anticipated budget in about three wee=
+ks, giving...
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 25px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                      <tbod=
+y>
+                                                                      <tr>
+                                                                        <td=
+ valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size:16px; color:#af0b1c;">
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7vwDZea8CvKjDxU=
+ZSW30bYpoT1phDf1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQEEV3Oa1jdMWNCvO=
+hNvVNU3wOTQ9tutGk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4XBlXE6WOFY-2Fx-=
+2ByywdNyXfcw8K1q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQGytd7jRSUECy4Uw=
+6hNaZmrt1GE9mgWF3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE-2BpMDx8h1T4qE=
+ITiN-2B9MuaCJgRufNulVx1q9Ev5WMQ-3D-3Dx5so_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIx=
+jmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq=
+34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQVQ8j6jS0qeBjvklBFeej3zJJ7K-2=
+F8L-2FobmhGA00vvwaeQ7TRZD3xtrqR6HIZiktnqC60bIKvCyXbl9c18hd1Vn-2BoBlk3DzQdjq=
+eHGozTlhNDfO0mMTHeHYUAuzIFjNoFiSWNZ32qOZZLaxz2JgYjwNRQKvfbVirNatWB2QOYGbSi3=
+P1-2BlFxSkL1vNlhOxw53xg-3D-3D" target=3D"_blank" style=3D"color:#96c93d;">
+                                                                           =
+ <b>Read more</b>
+                                                                          <=
+/a>
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y49nQ4l0ZcFWbLn1LGqND70fNRDHa16CM-2Bsvi3bKk9-2FPRcIaw0pn7lcx7vwDZea8CvKjDxU=
+ZSW30bYpoT1phDf1qvlNSEZJ47D-2FbdxhVjstOFXZLklsiNnOEYEVclFCjQEEV3Oa1jdMWNCvO=
+hNvVNU3wOTQ9tutGk4ZIUbrWOWw6jsu69PJhIS-2BMmUgv3HmOvCXXuJvBF4XBlXE6WOFY-2Fx-=
+2ByywdNyXfcw8K1q2wA0DsKul9ELiEnGjLR3DxN-2FPmCnF4lJHRXPt9kAWQGytd7jRSUECy4Uw=
+6hNaZmrt1GE9mgWF3WS6sL72T8f0-2F55SvybeiScy96Cxdhcq2kPliTnXQUE-2BpMDx8h1T4qE=
+ITiN-2B9MuaCJgRufNulVx1q9Ev5WMQ-3D-3D4xOl_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIx=
+jmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq=
+34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQdCEUxN55Kwf9o28k3VLofKQNfExz=
+D-2FK0-2F8UTtt8R2s-2FyNeeGF1aWba7hbEIjmSJBqpFujRShKscxN2mbZpNha-2BD2O45kqCo=
+zPl8rvsimOcSDW2YWsg9zAjEQUzZ8obOPCh3VeXHOb8LA8IzsDzRUPYPSsktjT6cC82XlXjeI30=
+fP9gsW3NlhV-2FTBjQzhpJDOw-3D-3D" target=3D"_blank" style=3D"text-decoration=
+:none; color:#96c93d;">
+                                                                           =
+ <span ><b> &#8594;</b></span>
+                                                                          <=
+/a>
+                                                                        </t=
+d>
+                                                                      </tr>
+                                                                      </tbo=
+dy>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                    </tbody>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                        </td>
+                                        <td valign=3D"top" align=3D"left">
+                                      <![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <table class=3D"email_container new=
+sletter-article" width=3D"300" align=3D"left" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <tbody>
+                                        <tr>
+                                          <td valign=3D"top" align=3D"left">
+                                            <table class=3D"email_container=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                              <tbody>
+                                              <tr>
+                                                <td valign=3D"top" align=3D=
+"center" style=3D"padding-bottom:0px;">
+                                                  <table width=3D"300" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                    <tbody>
+                                                    <tr>
+                                                      <td valign=3D"top" >
+                                                        <table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                          <tbody>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <a href=3D"ht=
+tp://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BRY4lAVzlV1f1w=
+s59c59xECZKUpx9lRlcvNk5FGG7F5noUgMn9bZRg7zkRrU9rpVt9pirHlP0S3QhFI0JuLORUq5q=
+FUMMIiK6O5OyVhqjbCRE668ANlCAtN3BeTK-2FIf-2Bj7qFABeaNbUSWBVE9GMWpUAxiLo6XTGv=
+vUfUAC0V-2BpdfDizbuAknQ3nlRYHOo6ypHAfR1npVb-2Bywqsku-2B3ICG6pzkcRd9QUqTw6jq=
+lWC2Mm0o6qOoA5pQk9S6A2UAWnq2xVoRayuprtfBZOy4Iy0D4cJHCACQrFd3k4f9AljrIuzWEEh=
+4MVn8v2-2FLpXM4k5BtKebjvElOEIhgknQhW2ve5bQO0doZNYiMCsu-2BkULNZlgXttPNbWHhHF=
+RYKfCkKZmEjjg-3D-3DZMyJ_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmH=
+v0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXU=
+MZe01Ts1Jv63xSMJyORR5K98ledAQRcbEV5PMvEHgir8b44bJvYzedvzT-2Bw0DJAdSmhbX0e1k=
+Bpf6om58jt6wui62JMDc4o0CQJl5OFhIwstrt5ELpTyzRe7UJJDn-2Bjw-2FH-2B5z-2FNKILSL=
+LBCWc-2B-2Fblh3fInixhhv-2FghUY7O3Z5vnEX-2Bb3ng-2FYcp0aBGQFt78GsOQBP5R3FyUXO=
+WwDU6XBMArHeLlYig-3D-3D" target=3D"_blank">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  <img src=
+=3D"https://advisorstream.s3.amazonaws.com/media/easythumbs/articles/www.ad=
+visorstream.com-images-9eQQmXMIsi-Czk6bfmIJ4NI-Uqs-36594-width-500-AvisoWea=
+lth_image_AdvisorStream_new_LgYIwK0_OwqLM5K.jpg.300x205_q85_crop-smart.jpg"=
+ alt=3DWeekly Market Pulse: Week ending April 1, 2021 border=3D"0" style=3D=
+"display:block;" width=3D"300" height=3D"205"/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 10px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Georgia, serif; font-size:=
+18px; color:#454545; text-align:left; font-weight:bold;">
+                                                                    Weekly =
+Market Pulse: Week ending April 1, 2021
+                                                                  </td>
+                                                                </tr>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"center" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size:12px; color:#878787; text-align:left; padding-top:5px;">
+                                                                    April 5=
+, 2021
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left">
+                                                              <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"padding-top: 5px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                      <img =
+src=3D"https://advisorstream.s3.amazonaws.com/media/source_sites/aviso-weal=
+th-squarelogo-1546974766458_nxemqOc.png" width=3D"50" alt=3D"" border=3D"0"=
+ style=3D"display:block;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                  </td>
+                                                                  <td valig=
+n=3D"top" align=3D"left" style=3D"font-family: Verdana, Helvetica, sans-ser=
+if; font-size:14px; line-height:21px; color:#878787; padding-left: 10px;">
+                                                                    The S&a=
+mp;P 500 rallied to an all-time high for a second straight week as U.S. Pre=
+sident Joe Biden...
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td valign=3D"t=
+op" align=3D"left" style=3D"padding: 15px 0 25px 0;">
+                                                              <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                <tbody>
+                                                                <tr>
+                                                                  <td valig=
+n=3D"top" align=3D"left">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                      <tbod=
+y>
+                                                                      <tr>
+                                                                        <td=
+ valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size:16px; color:#af0b1c;">
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y4lAVzlV1f1ws59c59xECZKUpx9lRlcvNk5FGG7F5noUgMn9bZRg7zkRrU9rpVt9pirHlP0S3Qh=
+FI0JuLORUq5qFUMMIiK6O5OyVhqjbCRE668ANlCAtN3BeTK-2FIf-2Bj7qFABeaNbUSWBVE9GMW=
+pUAxiLo6XTGvvUfUAC0V-2BpdfDizbuAknQ3nlRYHOo6ypHAfR1npVb-2Bywqsku-2B3ICG6pzk=
+cRd9QUqTw6jqlWC2Mm0o6qOoA5pQk9S6A2UAWnq2xVoRayuprtfBZOy4Iy0D4cJHCACQrFd3k4f=
+9AljrIuzWEEh4MVn8v2-2FLpXM4k5BtKebjvElOEIhgknQhW2ve5bQO0doZNYiMCsu-2BkULNZl=
+gXttPNbWHhHFRYKfCkKZmEjjg-3D-3Dnwpe_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01d=
+z7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0P=
+PI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQXNBKWPn2rskj8dCazF4ag6arge-2FjsXTR=
+bgnPA6ESckvYTikVDELiWqpem5uBxYJg6SeCQ7JzhTlKGx0BlvDCQvrehv4Qsy5qjcIHoh4w2R8=
+2kjQ1TClRt9ZUfUukv1xvwi9Klym0Osj8zsWiEZtnyngYvHZmT5relRrLz2aEXDzAOt-2FI3LvP=
+Qa3VZ6GJcvDVA-3D-3D" target=3D"_blank" style=3D"color:#96c93d;">
+                                                                           =
+ <b>Read more</b>
+                                                                          <=
+/a>
+                                                                          <=
+a href=3D"http://ia.advisorstream.com/ls/click?upn=3DBu8k3qWKGI1tq55HYB-2BR=
+Y4lAVzlV1f1ws59c59xECZKUpx9lRlcvNk5FGG7F5noUgMn9bZRg7zkRrU9rpVt9pirHlP0S3Qh=
+FI0JuLORUq5qFUMMIiK6O5OyVhqjbCRE668ANlCAtN3BeTK-2FIf-2Bj7qFABeaNbUSWBVE9GMW=
+pUAxiLo6XTGvvUfUAC0V-2BpdfDizbuAknQ3nlRYHOo6ypHAfR1npVb-2Bywqsku-2B3ICG6pzk=
+cRd9QUqTw6jqlWC2Mm0o6qOoA5pQk9S6A2UAWnq2xVoRayuprtfBZOy4Iy0D4cJHCACQrFd3k4f=
+9AljrIuzWEEh4MVn8v2-2FLpXM4k5BtKebjvElOEIhgknQhW2ve5bQO0doZNYiMCsu-2BkULNZl=
+gXttPNbWHhHFRYKfCkKZmEjjg-3D-3DfQrA_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01d=
+z7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZiYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0P=
+PI-2BoEExXXUMZe01Ts1Jv63xSMJyORR5K98ledAQRzz04qy-2Fu7-2FH-2FMwIBmYZ-2BlHmvH=
+sG0Q4CSmbRQbbq0JXulquotDTO4YNY-2BQIEgYq4g5-2BdxihvcNmswVEHotR-2ByN147U7o23w=
+16r4AD2P71wrdXI2oeyakY1Ac7f7mZvFCg-2Fl8KL04uUQAr-2F97vk-2Fv7slPySgEWSi0GvTL=
+MD5x0gTXTKKYujRdp7KKKUSVhhOhA-3D-3D" target=3D"_blank" style=3D"text-decora=
+tion:none; color:#96c93d;">
+                                                                           =
+ <span ><b> &#8594;</b></span>
+                                                                          <=
+/a>
+                                                                        </t=
+d>
+                                                                      </tr>
+                                                                      </tbo=
+dy>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                    </tbody>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                        </td>
+                                        <td valign=3D"top" align=3D"left">
+                                      <![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                         </td>
+                                       </tr>
+                                       <tr>
+                                         <td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                              </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign=3D"top" align=3D"left" bgcolor=3D"#f2f2f2"  =
+style=3D"padding: 20px 0 0px 0;">
+                      <table width=3D"100%" border=3D"0" bgcolor=3D"" cellp=
+adding=3D"0" cellspacing=3D"0">
+                        <tbody>
+                        <tr>
+                          <td valign=3D"top" align=3D"left" style=3D"paddin=
+g: 0px 30px 10px 30px;">
+                            <!--[if mso]>
+                              <table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+                                <tr>
+                                  <td valign=3D"top" align=3D"left">
+                            <![endif]-->
+                            <table class=3D"email_container" width=3D"100%"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                              <tbody>
+                              <tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+font-family: 'Helvetica Neue', Helvetica, Arial; font-size:13px; color:#666=
+666;">
+                                  <div style=3D"font-family: Arial, Helveti=
+ca, sans-serif; font-size:13px; color:#666666; ">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                      <p align=3D"center">
+                                        1515 20th Street W =0D - Saskatoon,=
+ SK S7M 0Z5
+                                      </p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                      Mutual funds and related financial pl=
+anning are offered through Credential Asset Management Inc. The information=
+ contained in this email was obtained from sources believed to be reliable;=
+ however, we cannot guarantee that it is accurate or complete and it should=
+ not be considered personal taxation advice. We are not tax advisors and we=
+ recommend that clients seek independent advice from a professional advisor=
+ on tax related matters. This email is provided as a general source of info=
+rmation and should not be considered personal investment advice or a solici=
+tation to buy or sell any mutual funds and other securities.
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <span class=3D"mobile-hidden"><br></spa=
+n>
+                                  </div>
+                                  <br><br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                    If you no longer wish to receive this n=
+ewsletter, unsubscribe
+                                    <a href=3D"http://ia.advisorstream.com/=
+ls/click?upn=3DSoWhRs79yT-2FOXeG9Ce1OqtVDFjoWuBcI67IdbPQT8sPpbcWhH3-2FoGKIE=
+cMWTm4hpuzGFhrZBNRf8CMOPIcAnSFPU9nwwcz3D8iminZ4cWKdGWxpgyF3-2F5hhX4YNSvcvZQ=
+gM0_PlY-2FBeaHTBsRoTkCfSa8KvFzhdlAgIxjmX01dz7iadl-2BAmHv0s3mBAdWgNyJPn8wzbZ=
+iYdaYZZj5pUEpAaEEudvMrYyurtmRoMiapjFq34vz0PPI-2BoEExXXUMZe01Ts1Jv63xSMJyORR=
+5K98ledAQQYrIWYwSDDXQ241y4YZWcIVx8x8xlC38JsqHSshRFK8-2BHWDXm3cSZnpS3J52u5Np=
+m4GVcv2rmiStLvnHPY74gxcFwnZF7qYkrYilEP0w3xcPfzymGC1IUyKmB-2Bcdc4V6CgcbSDNLd=
+zkQcnIJvQ8jPYdmqjsJ942CC39e3r4wwiai3kh5Q5duYk38Xtgako36w-3D-3D"
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        style=3D"margin: 0;padding: 0;font-=
+family: 'Helvetica Neue', Helvetica, Arial, sans-serif;color: #2BA6CB;" fon=
+t-size:13px;>
+                                      here.
+                                     </a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                </td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                            </td>
+                            </tr>
+                            </table>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      </tbody>
+      </table>
+
+
+
+
+=20=20
+<img src=3D"http://ia.advisorstream.com/wf/open?upn=3D95ipHO-2FHtfiEGxEkeDV=
+C7m2cc8Z9r802-2B369f-2FNYKjnORM1bp-2BpHwJ02MJ-2Bmk5Ov-2FAhACXERaNArX-2FTznE=
+9OdqJOP6Z3PlZhwiMHVFoCuVCErk9DZZJdSo87kucgWkS7swt1eFhqMHXrHzZJ4i30gKO2KLqL0=
+hMRMYZ7jptdSfdndULz6yczXbVFvNVqyb59EPx4Ms04FtHnihW4kPMBSr9sZg6AQG9zpf1u4p3n=
+Vnuj-2FsSWZZ5dJbzFZdJ96SdGHsZ4gvi9fYp8SDleeUU1CsvAwCn4fAT-2BS-2F-2BDnGmp64C=
+BuNQXgBzihAy9JMlRWZ8A1TKOJoX3p3AmPrPRL4U8o3L-2Fek1nwQDG4UNfoL8yRFU-3D" alt=
+=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;"/>
+</body>
+  </html>
+
+
+
+
+
+--40b35c01ff7e456f424175b590fa950901acb3d032db0b0a19557ea90d64--

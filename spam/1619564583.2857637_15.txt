@@ -1,0 +1,57 @@
+Return-Path: <leaffiltercom.ad-bruce=untroubled.org@le-1.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 159025 invoked from network); 27 Apr 2021 22:31:56 -0000
+Received: (qmail 77219 invoked by uid 222); 27 Apr 2021 22:31:55 -0000
+Return-Path: <leaffiltercom.ad-bruce=untroubled.org@le-1.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 77216 invoked from network); 27 Apr 2021 22:31:55 -0000
+Received: from mail.le-1.cyou ([69.94.138.250])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 22:31:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=le-1.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=leaffiltercom.ad@le-1.cyou;
+ bh=+exYsBKjrGTNC0cDNkdmlA4xMJ0=;
+ b=MULpmzEIZ+GMXhiHgmszF+aIPmzDIqeytaNJ4M0U6sCrTvdoegBPDbzI44MWMYguoHsLLv5jzza5
+   v4c6PBbKJB8ljcOuzrwqpjJbaAjQm1a/n9MXsmls8KMX8hQ5IA4RjWrJRsmYGT4jfCVNdEVmS9DW
+   Nv4oNlSjd1zFE3dK+xQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=le-1.cyou;
+ b=dmdThYFi2ECYPG2U9ik4wwV0nPxlF9yTDRLK3/fTQU6fe57Ng6wCOfo+Bq0S64woUcdgQ2f3A2mW
+   Pu4zTYncK/MVtKKf2ll6BpzzDkpdMJMD24gO3+e5ldmnC6HAjNQkFvB0pHTGA7Z4cGz//QxuLSZR
+   42VY00tr9DE0ufQy1Gw=;
+Received: by mail.le-1.cyou id hh28dm0001g0 for <bruce@untroubled.org>; Tue, 27 Apr 2021 18:24:35 -0400 (envelope-from <leaffiltercom.ad-bruce=untroubled.org@le-1.cyou>)
+Date: Tue, 27 Apr 2021 18:24:35 -0400
+From: "LeafFilter.com Ad" <leaffiltercom.ad@le-1.cyou>
+To:   <bruce@untroubled.org>
+Subject: Gunk-free gutters for life -  Get them for 12% off now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1012_2046623454.1619562253655"
+List-Unsubscribe: <http://www.le-1.cyou/decibel-subtitled/8824P2395XQB8912S1UnK1i4b9ar21MFv4GIf4rxvs4FhIHEsvZ8ERDom9oe5zux105OzcYA>
+Message-ID: <0.0.0.71.1D73BB41A3613A6.104648@mail.le-1.cyou>
+Content-Length: 2485
+
+------=_Part_1012_2046623454.1619562253655
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>suffocates</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.le-1.cyou/referentially-obligation/3b45lG2395W86vV12B161a3C4b9ax21zFv4GIf4rxvs4FhIHEsvZ8DRDom9oe7ql1z0pu5FlLcY">End Gutter Problems for good</a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center;" width="600"> 
+    <tbody> 
+     <tr style="text-align: center;" width="600"> 
+      <td style="text-align: center;" width="600"><span style="font-size:10px;"><a href="http://www.le-1.cyou/referentially-obligation/3b45lG2395W86vV12B161a3C4b9ax21zFv4GIf4rxvs4FhIHEsvZ8DRDom9oe7ql1z0pu5FlLcY"><img alt="" src="http://www.le-1.cyou/unassisted-albatross/c605F239m5E_7ka13Q161a6Hk4b9au21kFv4GIf4rxvs4FhIHEsvZ8oRDom9oe7sYL1hK06OWclTY" /></a><br /> <a href="http://www.le-1.cyou/referentially-obligation/3b45lG2395W86vV12B161a3C4b9ax21zFv4GIf4rxvs4FhIHEsvZ8DRDom9oe7ql1z0pu5FlLcY"><img alt="" src="http://www.le-1.cyou/involuntary-inducting/8a06uz2J395q7wra13p161Da7i4b9am21uFv4GIf4rxvs4FhIHEsvZ8nRDom9oe6J1w0Yo6SBPlcY" /></a><br /> This is an advertisement.<br /> This email was sent on behalf of LeafFilter.<br /> To unsubscribe, <a href="http://www.le-1.cyou/toiler-indicative/e226S2x3L95ts8j613i161aB4l4b9aJ21bFv4GIf4rxvs4FhIHEsvZ8SRDom9oe5S1i0p6HXcYXU">click here</a> or write to:<br /> 1595 Georgetown Road | Hudson, OH 44236.<br /> <br /> <a href="http://www.le-1.cyou/6bf5D23_95t89Rv17f1_n61Ta5yMK4b9aI21wFv4GIf4rxvs4FhIHEsvZ8RRDom9oe5hB1I05P1cYP/Japanized-experimentations">Undo Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span><br /> &nbsp;</td> 
+     </tr> 
+    </tbody> 
+   </table> <style style="communicate"><span class="humidifies"></span><font title="pleas"><span color="pecking"></font></style><font color="blissfully"></font><span class="robbery"></span></span><font face="container"></font><small><big></small></big><span dir="denigrates"></span>
+  </center>   
+ <img src="http://www.le-1.cyou/7376mJ239A5Hp8W517e16PYH1aR8GH4b9aw21MFv4GIf4rxvs4FhIHEsvZ8cRDom9oe5Qw10P6ylL0cY/toiler-indicative" alt=""/></body>
+</html>
+
+------=_Part_1012_2046623454.1619562253655--
+

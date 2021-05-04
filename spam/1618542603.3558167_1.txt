@@ -1,0 +1,294 @@
+Return-Path: <marketing@asistentesdegerencia.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2617283 invoked from network); 15 Apr 2021 17:38:33 -0000
+Received: (qmail 88704 invoked by uid 222); 15 Apr 2021 17:38:32 -0000
+Return-Path: <marketing@asistentesdegerencia.com>
+Delivered-To: virtmail-bruceg@untroubled.org
+Received: (qmail 88701 invoked from network); 15 Apr 2021 17:38:32 -0000
+Received: from vps1.asistentesdegerencia.com (asistentesdegerencia.com [104.248.159.38])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 17:38:32 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=asistentesdegerencia.com;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type;
+ i=marketing@asistentesdegerencia.com;
+ bh=hrZeUojqpsPcSpBit/XWHUDb5lmBmmhgmv8m7OAa1Eg=;
+ b=x0R+59PfjyiO6DS2oXrO6CmOKksXmczf6M0Q38/9uO0Et/4Bc8hJo8XF+e5R0jmNgompqap+mg9j
+   2nGaS5YWUoijSgQT2UR+x0CsqjhYdkrW0yGiVJJlQhvXgNadREHi5UhZDaYfiL1TqeAJXaxwHRk2
+   Xyd9MQg9zLKAQ18wxKI=
+Message-ID: <0e7ec81feb3e0b87a455a3f0fb2f107c5f22dc8140@asistentesdegerencia.com>
+Reply-To: Bocaditos Perú (Dhaka Services SAC) <pedidos@mentalidadperuana.com>
+From: Bocaditos Perú (Dhaka Services SAC) <marketing@asistentesdegerencia.com>
+To: bruceg <bruceg@untroubled.org>
+Subject: [Carta] - Coffe Break en Pack Entregables a Delivery - Cotizaciones sin Compromiso.
+Date: Thu, 15 Apr 2021 12:38:26 -0500
+Organization: zuniga
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="01fbb30074a08132eeeba21b8f5bf6b5760d"
+Disposition-Notification-To: <dermatusperu@infonegocio.net.pe>
+X-Mailer: Microsoft Outlook 14.0
+Content-Length: 17074
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d
+Content-Type: multipart/alternative; boundary="01fbb30074a08132eeeba21b8f5bf6b5760d"
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Lima, abril de 2021
+
+[Carta] - Coffe Break en Pack Entregables a Delivery - Solicite Cotización.
+
+Señores   :
+Atención : bruceg Correo     : bruceg@untroubled.org  
+
+DHAKA SERVICES SAC, con su nombre comercial BOCADITOS PERÚ, ofrece sus servicios económicos por Catering, Coffee Break, Desayunos, Almuerzos, Brindis, Cenas, Menaje a Delivery; Cumpliendo con todos los Protocolos de Bioseguridad.
+Esperamos que esta breve carta de presentación sea de su completo interés y nos contacten para enviarles una cotización sin compromiso. Por favor enviar sus pedidos únicamente a bocaditos.peru @ hotmail .com ó simplemente respondiendo este correo.
+
+Aquí le presentamos algunas instituciones públicas y privadas ya atendidas por nuestra empresa y que son nuestro mejor respaldo:
+
+ONPE, JNE, MINAGRI, FRECUENCIA LATINA, INDRA, CONGRESO DE LA REPÚBLICA - FONDO MI VIVENDA - CLÍNICA SAN PABLO - FONCODES - INEI - INEN - PROVIASNAC - MIGRACIONES  - SBS - ORANGE 360 SAC - MINISTERIO DE LA PRODUCCIÓN - NEUMA PERU - TECHINT - MEF - CAJA TRUJILLO - PETREX - MUNICIPALIDAD DE LA PUNTA entre otras grandes instituciones.
+
+Muchas gracias por su preferencia.
+
+Saludos Cordiales.
+
+Atte.
+
+Kathia Cruces Arismendi
+Gerente de Eventos Corporativos
+Dhaka Services SAC RUC: 20565481739 WhatsApp: 980 547 242 bocaditos.peru @ hotmail .com   
+
+PD. Si usted no es la persona encargada de la organización de eventos en su institución le rogamos nos brinde los datos de la persona indicada para poder enviarle una carta personalizada, de lo contrario le pedimos que reenvíe este correo al área correspondiente, muchas gracias por su atención. 
+
+Para retirarlo presionar únicamente aquí: RETIRARME
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD><TITLE>bocaditos</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY lang=ES-PE vLink=#800080 link=#0000ff bgColor=#ffcc99>
+<TABLE cellSpacing=0 borderColorDark=#663300 cellPadding=0 width=616 
+bgColor=#ffffff borderColorLight=#cc9900 border=5>
+  <TBODY>
+  <TR>
+    <TD>
+      <BLOCKQUOTE>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right><SPAN lang=ES 
+        style="FONT-SIZE: 10pt; FONT-FAMILY: 'Calibri','sans-serif'">&nbsp;</SPAN><B><SPAN 
+        lang=ES><IMG alt=bocaditos src="cid:4a34dbbd5686c046e4227acbe@asistentesdegerencia.com" width=203 align=left 
+        height=126></SPAN></B></P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">Lima,&nbsp;abril de 
+        2021</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph">&nbsp;</P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><B><SPAN 
+        lang=ES style="FONT-FAMILY: 'Calibri','sans-serif'">[Carta] - Coffe 
+        Break en Pack Entregables a Delivery - Solicite 
+        Cotización.</SPAN></B></P>
+        <DL>
+          <DT style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN 
+          lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'">Señores&nbsp;&nbsp; : 
+          <B></B><BR>Atención : <B>bruceg</B></SPAN> 
+          <DT style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN 
+          lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'">Correo&nbsp;&nbsp;&nbsp;&nbsp; 
+          : <B>bruceg@untroubled.org</B></SPAN> </DT></DL>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'"><STRONG>DHAKA SERVICES 
+        SAC</STRONG>, con su nombre comercial <STRONG>BOCADITOS 
+        PERÚ</STRONG>,&nbsp;ofrece&nbsp;sus&nbsp;servicios económicos por 
+        Catering, Coffee Break, Desayunos, Almuerzos, Brindis, Cenas, Menaje a 
+        Delivery;&nbsp;<STRONG>Cumpliendo con todos los Protocolos de 
+        Bioseguridad.</STRONG></SPAN><SPAN lang=es 
+        style="FONT-FAMILY: Calibri,sans-serif"><BR><BR>Esperamos que esta breve 
+        carta de presentación sea de su completo interés y nos contacten para 
+        enviarles <STRONG>una cotización sin compromiso</STRONG>. Por favor 
+        enviar sus pedidos únicamente a <FONT 
+        color=#0000ff><STRONG>bocaditos.peru @ hotmail 
+        .com&nbsp;</STRONG></FONT><FONT color=#000000>ó simplemente respondiendo 
+        este correo.</FONT></SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'"><STRONG><FONT 
+        color=#cc3300>Aquí le presentamos algunas instituciones públicas y 
+        privadas ya atendidas por nuestra empresa y que son nuestro mejor 
+        respaldo:</FONT></STRONG></SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">ONPE, JNE, MINAGRI, 
+        FRECUENCIA LATINA, INDRA, CONGRESO DE LA REPÚBLICA - FONDO MI VIVENDA - 
+        CLÍNICA SAN PABLO - FONCODES - INEI - INEN - PROVIASNAC - 
+        MIGRACIONES&nbsp; - SBS - ORANGE 360 SAC - MINISTERIO DE LA PRODUCCIÓN - 
+        NEUMA PERU - TECHINT - MEF - CAJA TRUJILLO - PETREX - MUNICIPALIDAD 
+        DE&nbsp;LA PUNTA entre otras grandes instituciones.</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=es 
+        style="FONT-FAMILY: Calibri,sans-serif">Muchas gracias por su 
+        preferencia</SPAN><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">.</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">Saludos 
+Cordiales.</SPAN></P>
+        <P class=MsoNormal><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Atte.</SPAN></P>
+        <DL>
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black"><B>Kathia 
+          Cruces Arismendi</B><BR>Gerente de Eventos Corporativos<BR>Dhaka 
+          Services SAC RUC: 20565481739</SPAN> 
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">WhatsApp: 
+          980 547 242</SPAN> 
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #0000ff">bocaditos.peru 
+          @ hotmail .com</SPAN> </DT></DL>&nbsp; 
+        <P><FONT face=Calibri>PD. Si usted no es la persona encargada de la 
+        organización de eventos en su institución le rogamos nos brinde los 
+        datos de la persona indicada para poder enviarle una carta 
+        personalizada, de lo contrario le pedimos que reenvíe este correo al 
+        área correspondiente, muchas gracias por su atención.</FONT> </P>
+        <P><FONT size=2 face=Calibri><BR>&nbsp;</FONT></P>
+        <DIV>&nbsp;</DIV>
+        <DIV><FONT face=Calibri><FONT size=1>Para retirarlo presionar únicamente 
+        aquí:&nbsp;</FONT><SPAN lang=ES 
+        style="FONT-FAMILY: 'Trebuchet MS'; COLOR: black"><FONT size=1><A 
+        style="TEXT-DECORATION: underline; COLOR: blue" 
+        href="mailto:bocaditos.peru@outlook.com?subject=NADA_DE_BOCADITOS_2021&body=Retirar_por_favor.">RETIRARME</A></FONT></SPAN></FONT></DIV></BLOCKQUOTE>
+      <P class=MsoNormal>&nbsp;</P></TD></TR></TBODY></TABLE></BODY></HTML>
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d--
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <4a34dbbd5686c046e4227acbe@asistentesdegerencia.com>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAB+AMsDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAorm9Y+IPhzRLhre71FGuF4aKFTIy/XaDj8aseH/GOi+Jy66VerJKg3NEylHA9cHqPcUrofK7Xs
+blFFFMQUUUUAFFFFABRRRQAUVXub+0sl3Xd1BAPWWQL/ADrJm8ceGoGIfXLAkdkmD/yzRcdmzeor
+mz8QfDP/AEFFPuIpD/7LQvxC8LscHWbdD/t7k/mBS5l3DlfY6Sisy08SaLf4+yatYzE9kuFJ/LNa
+QIIyDkGmIWiiigAooooAKKKKACiiigArzvxb4wutbtbvRvBtveXd0r+VcXcCfu4l/iCvn73b88V2
+Hieea18LarPbZ86O0lZMdchDioPBunWul+EdMgsgpiNukhdf42YAlj65JpPXQqNlqZngbR9D0izN
+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
+ABRRRQAUUUUAFFFFAH//2Q==
+
+--01fbb30074a08132eeeba21b8f5bf6b5760d--

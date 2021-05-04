@@ -1,0 +1,64 @@
+Return-Path: <canvas_prints_ad-bruce=untroubled.org@get-17.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1507608 invoked from network); 8 Apr 2021 20:27:04 -0000
+Received: (qmail 8280 invoked by uid 222); 8 Apr 2021 20:27:03 -0000
+Return-Path: <canvas_prints_ad-bruce=untroubled.org@get-17.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 8277 invoked from network); 8 Apr 2021 20:27:03 -0000
+Received: from mail.get-17.us ([91.228.101.42])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 20:27:02 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=get-17.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_ad@get-17.us;
+ bh=oAoYtZO8k4iP8H2dOO+75OPuG50=;
+ b=ZXkkgSZdgksRcSZ+N+sLc/lGAt3fMfER3Si21etp5R2Hd7NzYI+UuIrN7hCm2KnvqaBo8ooIlaFT
+   6Yf6qCSWodJtWP8ewl2fi0DrdU13AekqUCIM+7DKc07yt9rlFMReXrs7jriiKkDZjymoA3SoC51N
+   Xu4goEWIdGjtKhuvZtQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=get-17.us;
+ b=lSamqPsyMYift15tGh3N+AcNIx4k3QRF4iy6/IIfGar6GDrTfEUnHQjyBUimEmrg+w3ASoRd1qhn
+   pfgA/1HhCDniMRG4lEbQB3Mn2W8YF2UuOvFZLFEAVNgKDtfUx8WdCS+lc6iwiFccKdqsEG60hfOj
+   JS26bmGz4Qu1p6vyQF4=;
+Received: by mail.get-17.us id hdtjhe0001gs for <bruce@untroubled.org>; Thu, 8 Apr 2021 16:14:32 -0400 (envelope-from <canvas_prints_ad-bruce=untroubled.org@get-17.us>)
+Date: Thu, 8 Apr 2021 16:14:32 -0400
+From: "Canvas Prints Ad" <canvas_prints_ad@get-17.us>
+To:   <bruce@untroubled.org>
+Subject: Unlimited prints for all of your loved ones
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_31_1053599405.1617912859669"
+List-Unsubscribe: <http://www.get-17.us/b514i2395n8KD913YUC1rD1w4a84G21SFv4GIf4rxvs4FhIHEsvZ11WRuomm9Qoh97G1_z0Qv5eNcY@/configuration-slacking>
+Message-ID: <0.0.0.3.1D72CB3C9A05D8E.230346@mail.get-17.us>
+Content-Length: 2781
+
+------=_Part_31_1053599405.1617912859669
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>pears</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.get-17.us/respirator-disband/9cc6MR2w395tW8C612s15bdfN4a84m21NFv4GIf4rxvs4FhIHEsvZ11iRuomm9Qoh96OA10ks5SqjcY"><span style="font-size:18px; ">Last day for our best sale of the year</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.get-17.us/respirator-disband/9cc6MR2w395tW8C612s15bdfN4a84m21NFv4GIf4rxvs4FhIHEsvZ11iRuomm9Qoh96OA10ks5SqjcY"><img alt="canvas" src="http://www.get-17.us/7915C23u95bu7a_12H15be2S4a84g21RFv4GIf4rxvs4FhIHEsvZ11sRuomm9Qoh97uYZK10S6zAycY@/respirator-disband" style="width: 600px; height: 750px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:10px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.get-17.us/Waller-heroes/8285vN2395z8M6y12R15be0F4a84Q21bFv4GIf4rxvs4FhIHEsvZ11URuomm9Qoh97aVmU10k6yBPzcY"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Leave&nbsp; <a href="http://www.get-17.us/irreversibly-explosion/9cc6Wy239C5hk89l13J15bYe1Q4a84A21yFv4GIf4rxvs4FhIHEsvZ11rRuomm9Qoh95AJ10t5KkczY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <span><span class="intermediates"></span></span><style id="coolness"></style><big></big><span title="captains"></span><font id="octahedra"></font><style lang="opens"></style>
+  </center>   
+ <img src="http://www.get-17.us/89f6dni2395pK85y13t15be3DT4a84Z21kFv4GIf4rxvs4FhIHEsvZ11MRuomm9Qoh97Qpu10vC6gLkAcY/critical-solicitous" alt=""/></body>
+</html>
+
+------=_Part_31_1053599405.1617912859669--
+

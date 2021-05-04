@@ -1,0 +1,78 @@
+Return-Path: <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed0.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3426058 invoked from network); 22 Apr 2021 20:44:25 -0000
+Received: (qmail 4968 invoked by uid 222); 22 Apr 2021 20:44:24 -0000
+Return-Path: <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed0.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 4965 invoked from network); 22 Apr 2021 20:44:24 -0000
+Received: from mail.tspeed0.cloud ([69.94.138.167])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 20:44:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed0.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my.senior.perks.american.seniors@tspeed0.cloud;
+ bh=3vDd8Ij975BLIMig12o4TZZ2JQ8=;
+ b=QDpsY7GezG2AwA6J+xhQyqYI1wpl74gRaCF1AagGQIFVwpabyeBAntocpJLfqPdeGa6kaJ7ELF4d
+   iKu/V7hSrVnSIktqy776S+Xn2I12CiNdIzxTkjFqjmiUjS+VMqqAgmjVS7cjV7GC9TP3SmRhCsXL
+   y7KrXbg51t6+V/zc2TY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed0.cloud;
+ b=VOqlDP57SyCCG76Mtf1Qpd+dheB12OeCMvk0T8ONJjlrwrif4buW1+xKbFExulZ0RVumD2Jzzlkk
+   sMamDiJVRoG6cJ+qNagayWpHSklUAsznjuewArB12LQoj861PqY+3JygIcitW0SujjmE4uCzuG7r
+   TKT2JTXPw/hPNKITodk=;
+Received: by mail.tspeed0.cloud id hg7g2c0001g9 for <bruce@untroubled.org>; Thu, 22 Apr 2021 16:32:06 -0400 (envelope-from <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed0.cloud>)
+Date: Thu, 22 Apr 2021 16:32:06 -0400
+From: "My Senior Perks American Seniors" <my.senior.perks.american.seniors@tspeed0.cloud>
+To:   <bruce@untroubled.org>
+Subject: Updated - 18 of the best senior deals today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_409_604494052.1619123510146"
+List-Unsubscribe: <http://www.tspeed0.cloud/e5d6n23Q9N5S8qO912r1Wp1yX4b56K21SFv4GIf4rxvs4FhIHEsvZ11sRComoQSoA96A1AIJ05fkcYJ/Europeanized-wilderness>
+Message-ID: <0.0.0.2D.1D737B68FFA1AC6.724A91@mail.tspeed0.cloud>
+Content-Length: 2944
+
+------=_Part_409_604494052.1619123510146
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>heavenly</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.tspeed0.cloud/oppose-Angeleno/6486zhT2395J8j6Y12z16046P4b56x21uFv4GIf4rxvs4FhIHEsvZ11ORComoQSoA96I10KTL5PUcYB">Amazingf way for seniors to save a ton of money</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.tspeed0.cloud/oppose-Angeleno/6486zhT2395J8j6Y12z16046P4b56x21uFv4GIf4rxvs4FhIHEsvZ11ORComoQSoA96I10KTL5PUcYB"><img alt="senior s" src="http://www.tspeed0.cloud/a614g2395nO7ua12D16049o4b56F21WFv4GIf4rxvs4FhIHEsvZ11mRComoQSoA96cD1FG06eUcY@@/allotment-mentally" style="border-width: 0px; border-style: solid; height: 1215px; width: 649px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed0.cloud/wallowing-handbook/d325Q2v395s8X6W17y1gI6O047HXz4b56q21fFv4GIf4rxvs4FhIHEsvZ11zRComoQSoA96C1RyK05o2lcY"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.tspeed0.cloud/oppose-Angeleno/6486zhT2395J8j6Y12z16046P4b56x21uFv4GIf4rxvs4FhIHEsvZ11ORComoQSoA96I10KTL5PUcYB"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed0.cloud/baseband-abatements/dc86ls239J5nv8I913fL16048U4b56X21VFv4GIf4rxvs4FhIHEsvZ11zRComoQSoA96m1kZv05b@cYj">&nbsp; Get out Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <style></style><span color="connote"><span style="modernly"><span color="honeymooners"></span></span></span><span size="blocker"></span><font style="definite"></font>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed0.cloud/60b5X2U395Q8PA512v1604aG4b56V21zFv4GIf4rxvs4FhIHEsvZ11KRComoQSoA96IW1gz05H3cYB/elaborators-ineligible" alt=""/></body>
+</html>
+
+------=_Part_409_604494052.1619123510146--
+

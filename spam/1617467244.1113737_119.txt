@@ -1,0 +1,75 @@
+Return-Path: <HarrysPrecisionShaving-bruce=untroubled.org@xn--2i8daa.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1086486 invoked from network); 3 Apr 2021 12:22:38 -0000
+Received: (qmail 150195 invoked by uid 222); 3 Apr 2021 12:22:37 -0000
+Return-Path: <HarrysPrecisionShaving-bruce=untroubled.org@xn--2i8daa.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 150192 invoked from network); 3 Apr 2021 12:22:37 -0000
+Received: from mcintyre.xn--2i8daa.com (mcintyre.xn--2i8daa.com [194.146.36.55])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 12:22:36 -0000
+Received: by mcintyre.xn--2i8daa.com id hd1f0q0001gp for <bruce@untroubled.org>; Sat, 3 Apr 2021 12:13:22 +0000 (envelope-from <HarrysPrecisionShaving-bruce=untroubled.org@xn--2i8daa.com>)
+Date: Sat, 3 Apr 2021 12:13:22 +0000
+From: Harry's Precision Shaving <HarrysPrecisionShaving@xn--2i8daa.com>
+Reply-To: HarrysPrecisionShaving@xn--2i8daa.com
+To: bruce@untroubled.org
+Message-Id: <5581af81-c016-4a64-bb0f-d5bcfe74af89@xn--2i8daa.com>
+Subject: =?utf-8?B?VGhpcyBSYXpvciBpcyBDaGFuZ2luZyBhICQxMyBCaWxsaW9uIEluZHVzdHJ5?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-3498e65c7376b36e82__b814d9f5d63f5a3718f6_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2999
+
+---_-_-3498e65c7376b36e82__b814d9f5d63f5a3718f6_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-3498e65c7376b36e82__b814d9f5d63f5a3718f6_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PCEtLQogd2UgbmVlZCAxayBvZiBjaGFyYWN0ZXJzIGluIHRoZSBoZWFkIHRvIHByZXZlbnQgaU9T
+IGRldmljZXMgZnJvbSBkaXNwbGF5aW5nIHRoZSAiZG93bmxvYWQgcmVzdCBvZiBtZXNzYWdlIi4u
+LiBtZXNzYWdlLi4uCiAtLT4KPHRhYmxlIGJnY29sb3I9IiNmZmYiIGJvcmRlcj0iMCIgY2VsbHBh
+ZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iYmFja2dyb3VuZDogI2ZmZjsiIHdpZHRo
+PSIxMDAlIj4KPHRib2R5Pgo8dHI+Cjx0ZCBhbGlnbj0iY2VudGVyIiBiZ2NvbG9yPSIjZmZmZmZm
+IiBzdHlsZT0iYmFja2dyb3VuZDogI2ZmZmZmZjsiPgo8dGFibGUgYWxpZ249ImNlbnRlciIgYm9y
+ZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIGlkPSJjb250YWluZXIiIHN0
+eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyB3aWR0aDogNjAwcHg7IG1hcmdpbjogMCBhdXRvOyBwYWRk
+aW5nOiAwOyIgd2lkdGg9IjYwMCI+Cjx0Ym9keT4KPHRyPgo8dGQ+Cjx0YWJsZSBhbGlnbj0iY2Vu
+dGVyIiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgaWQ9ImNvbnRl
+bnQiIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyIgd2lkdGg9IjEwMCUiPgo8dGJvZHk+Cjx0cj4K
+PHRkIGFsaWduPSJjZW50ZXIiPgo8ZGl2IGNsYXNzPSJtb2JpbGUtb25seSIgc3R5bGU9InRleHQt
+aW5kZW50OiAtOTk5OTllbTsgZGlzcGxheTogbm9uZTsgaGVpZ2h0OiAwOyB3aWR0aDogMDsgb3Zl
+cmZsb3c6IGhpZGRlbjsgbWF4LWhlaWdodDogMDsiPjxhIGhyZWY9Imh0dHA6Ly94bi0tMmk4ZGFh
+LmNvbS92MDB3RDRxcTU2cEciPjxpbWcgYWx0PSJIYXJyeSdzIEdyZWF0IHNoYXZlLiBGYWlyIFBy
+aWNlLiIgYm9yZGVyPSIwIiBzcmM9Imh0dHA6Ly93d3cudHJvcGh5c3RvY2suY29tL0hhcnJ5c19O
+ZXdDcmVhdGl2ZXNfOC4xMy9BbW9iZWVfTUZFTV9Nb2JpbGUucG5nIiAvPjwvYT48L2Rpdj4KPGRp
+diBjbGFzcz0ibm8tbW9iaWxlIj48YSBocmVmPSJodHRwOi8veG4tLTJpOGRhYS5jb20vdjAwd0Q0
+cXE1NnBHIj48aW1nIGFsdD0iSGFycnkncyBHcmVhdCBzaGF2ZS4gRmFpciBQcmljZS4iIGNsYXNz
+PSJhdXRvLXN0eWxlMiIgc3JjPSJodHRwOi8vY2xpY2sud2hvc3dob2xpc3QuY29tL2Zyb250ZW5k
+L2Fzc2V0cy9maWxlcy9jdXN0b21lci9vbzEwOXNtZ3phZDk1L3RyYWNzaW9uL2hhcnJ5czEucG5n
+IiBzdHlsZT0iYm9yZGVyLXdpZHRoOiAwcHg7IGJvcmRlci1zdHlsZTogc29saWQ7IHdpZHRoOiAx
+MDAlOyBoZWlnaHQ6IDEwMCU7IiAvPjwvYT48L2Rpdj4KPC90ZD4KPC90cj4KPHRyPjwvdHI+Cjx0
+cj4KPHRkIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJwYWRkaW5nOiAwOyBmb250LWZhbWlseTogR290
+aGFtLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogIzk5OTk5OTsiIHZhbGln
+bj0idG9wIj4KPHAgc3R5bGU9ImZvbnQtc2l6ZTogMTRweDsgbGluZS1oZWlnaHQ6IDIwcHg7Ij48
+YnIgLz4gVGhpcyBlbWFpbCB3YXMgc2VudCB0byB5b3Ugb24gYmVoYWxmIG9mIEhhcnJ5J3MgYnkg
+YSB0aGlyZC1wYXJ0eSBtYXJrZXRpbmcgY29tcGFueS4gSWYgeW91IGRvIG5vdCB3aXNoIHRvIHJl
+Y2VpdmUgSGFycnkncyBlbWFpbCBhZHZlcnRpc2VtZW50cywgcGxlYXNlJm5ic3A7PGEgaHJlZj0i
+aHR0cDovL3huLS0yaThkYWEuY29tL3MzM3pHN3R0ODlzTiI+dW5zdWJzY3JpYmUgZnJvbSBIYXJy
+eSdzIGNvbnRlbnQgaGVyZTwvYT4gb3Igd3JpdGUgdG8mbmJzcDtQTyBCb3ggNTY2IE5ldyBZb3Jr
+LCBOWSAxMDAxNC4gUGxlYXNlIG5vdGUgdGhhdCBpdCBtYXkgdGFrZSB1cCB0byAxMCBidXNpbmVz
+cyBkYXlzIGZvciB5b3VyIG9wdC1vdXQgdG8gZ28gaW50byBlZmZlY3QuPC9wPgo8L3RkPgo8L3Ry
+Pgo8L3Rib2R5Pgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8L3RkPgo8
+L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPg==
+
+---_-_-3498e65c7376b36e82__b814d9f5d63f5a3718f6_-_---

@@ -1,0 +1,205 @@
+Return-Path: <brain_news-bruce=untroubled.org@get-77.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1509162 invoked from network); 8 Apr 2021 21:33:21 -0000
+Received: (qmail 8992 invoked by uid 222); 8 Apr 2021 21:33:20 -0000
+Return-Path: <brain_news-bruce=untroubled.org@get-77.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 8989 invoked from network); 8 Apr 2021 21:33:20 -0000
+Received: from mail.get-77.us ([69.94.155.143])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 21:33:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=get-77.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=brain_news@get-77.us;
+ bh=gxy3B6gcKUHFZC0r+9lRk9O2J5s=;
+ b=vw+X3704P7S52kPk7Y3DrGmaj9ru6ugs/t+vgeI4xq1UTiGf2lwVFMlQ35ag+8eYeCXjoXj7mz2z
+   XhMjvhT99P45uz0K+PQWnEacS9im+2XPl+MOCswT+GALjMspHjGwABfoRqMjXDMklWlp5rSN31CP
+   libPZabiiO/UuKIe6q0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=get-77.us;
+ b=HfUOwaoYS+1HzQR7StkhaOcWHxYeLicwscUV/E+blc/j0BW7bI6/9bBgE5l68pmul16vKsj7639r
+   m32uESnhndzP3iiiIe2BGdBsAWA5g6lifA/YdFUYs8Tue+Yzav5xRNI8gDM5tU2/gNS2IlY9tmJM
+   nDAKGVsp0uiTQ1xNzgE=;
+Received: by mail.get-77.us id hdtr980001ga for <bruce@untroubled.org>; Thu, 8 Apr 2021 17:29:05 -0400 (envelope-from <brain_news-bruce=untroubled.org@get-77.us>)
+Date: Thu, 8 Apr 2021 17:29:05 -0400
+From: "Brain News" <brain_news@get-77.us>
+To:   <bruce@untroubled.org>
+Subject: FOR "OneFood" CREATIVE: EAT your way to a healthy brain?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_139_1642006830.1617917332458"
+List-Unsubscribe: <http://www.get-77.us/reverend-appealing/6a24H2395U89FT13eV11QOFt4a86D21QFv4GIf4rxvs4FhIHEsvZ11MRHomm9Soh95FO10t5lXkcY>
+Message-ID: <0.0.0.F.1D72CBE33B5F95E.1CEA10@mail.get-77.us>
+Content-Length: 11710
+
+------=_Part_139_1642006830.1617917332458
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Kampuchea</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan class=3D"unstyle-auto-detected-links" style=3D"text-decoration: none !i=
+mportant; font-family: sans-serif; font-size: 18px; line-height: 20px; text=
+-align: center; color: rgb(153, 153, 153); ">Unlock </span><a class=3D"unst=
+yle-auto-detected-links" href=3D"http://www.get-77.us/d8b5G2B395qM8X613P15Sbe9A4a86R21EFv4GIf4rxvs4FhIHEsvZ11QRHomm9Soh95ah1G06FJcTYq/incompletely-Arequipa" style=3D"text-decoration: none=
+ !important; font-family: sans-serif; font-size: 18px; line-height: 20px; t=
+ext-align: center; color: rgb(153, 153, 153); ">your Brains Blueprint</a></=
+td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "> <p style=3D"care=
+t-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, =
+sans-serif; font-style: normal; font-variant-caps: normal; font-weight: nor=
+mal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text=
+-stroke-width: 0px; text-decoration: none; text-align: center; "><span styl=
+e=3D"font-family:georgia,serif; ">Though bizarre, Harvard researchers have =
+discovered a<br /> shocking link between your sleep and the onset of Alzhei=
+mer' s.</span></p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>The big question is - do you sleep on your side or on your back? </span></=
+span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; ">&nbsp; </p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>Because further research shows, </span><a href=3D"http://www.get-77.us/d8b5G2B395qM8X613P15Sbe9A4a86R21EFv4GIf4rxvs4FhIHEsvZ11QRHomm9Soh95ah1G06FJcTYq/incompletely-Arequipa" style=3D"fon=
+t-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; " target=3D"_blank">ONE of these positions</a><span=
+ style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium=
+; font-style: normal; font-variant-caps: normal; font-weight: normal; lette=
+r-spacing: normal; text-align: start; text-indent: 0px; text-transform: non=
+e; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; display: inline !import=
+ant; float: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; o=
+rphans: auto; text-align: start; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <span =
+style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; text-align: start; text-indent: 0px; text-transform: none=
+; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -web=
+kit-text-stroke-width: 0px; text-decoration: none; display: inline !importa=
+nt; float: none; ">is linked to the first signs of dementia.</span></span>
+       <br />=20
+       <br /> &nbsp;=20
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text=
+-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-ali=
+gn: center; ">
+       <a href=3D"http://www.get-77.us/d8b5G2B395qM8X613P15Sbe9A4a86R21EFv4GIf4rxvs4FhIHEsvZ11QRHomm9Soh95ah1G06FJcTYq/incompletely-Arequipa" target=3D"_blank"><img alt=3D"alzheimers and =
+sleep" src=3D"http://www.get-77.us/reverend-appealing/d146Qy2n395Ej7Na12I15bedD4a86j21lFv4GIf4rxvs4FhIHEsvZ11tRHomm9Soh95O1J0P5AJLcY" style=3D"max-width: 40%; height: 401px; width: 6=
+55px; " title=3D"alzheimers and sleep" /></a>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; "><span style=3D"font-family:georgia,serif; "><strong><a h=
+ref=3D"http://www.get-77.us/d8b5G2B395qM8X613P15Sbe9A4a86R21EFv4GIf4rxvs4FhIHEsvZ11QRHomm9Soh95ah1G06FJcTYq/incompletely-Arequipa" target=3D"_blank">Sleeping In THIS Position Is Linked To=
+ Alzheimer</a></strong></span></p> <p style=3D"caret-color: rgb(0, 0, 0); c=
+olor: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: =
+normal; font-variant-caps: normal; font-weight: normal; letter-spacing: nor=
+mal; text-indent: 0px; text-transform: none; white-space: normal; word-spac=
+ing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text=
+-decoration: none; text-align: center; "><span style=3D"font-family:georgia=
+,serif; ">To your health,</span></p> <p style=3D"caret-color: rgb(0, 0, 0);=
+ color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style=
+: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: n=
+ormal; text-indent: 0px; text-transform: none; white-space: normal; word-sp=
+acing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; text-align: center; "><span style=3D"font-family:georg=
+ia,serif; ">Dr. Will Mitchell, DOM, MS Nutrition</span></p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not wish to receive=
+ future messages click here to <span class=3D"unstyle-auto-detected-links">=
+<a href=3D"http://www.get-77.us/c9b6Hu239r5IFD8617ais15KPbePaX4a86t21PFv4GIf4rxvs4FhIHEsvZ11ARHomm9Soh95zhA106E3McYL/startling-cloakroom" style=3D"text-decoration: underline !important; bord=
+er-bottom-width: 0px !important; cursor: default !important; color: rgb(153=
+, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit=
+ !important; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span=
+ class=3D"unstyle-auto-detected-links"><a href=3D"http://www.get-77.us/3596Q2y39s5PBS8612z15bebC4a86U21vFv4GIf4rxvs4FhIHEsvZ11hRHomm9Soh95jT1T05zBcpY/startling-cloakroom" style=3D"text=
+-decoration: underline !important; border-bottom-width: 0px !important; cur=
+sor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-f=
+amily: sans-serif; font-weight: inherit !important; line-height: 14px; text=
+-align: center; ">New Brain Blueprint</a>&nbsp; |&nbsp; 321 N Central Expre=
+ssway Suite 351 - McKinney, TX 75070</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"=
+font-size:12px; "><a href=3D"http://www.get-77.us/2e14k2395A89Fh13P15beWcr4a86q21AFv4GIf4rxvs4FhIHEsvZ11lRHomm9Soh96e1Cz0H5bMlcY/entering-poignancy">Quit Here</a><br /> 6547 N=
+ Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <style id="errs"><span title="puberty"></span></style><small><span color="Beaumont"></small></span><span style="atypically"></span><style></style><span style="dreamt"></span><span lang="Cassites"></span><font lang="troubles"><font></font></font> =20
+ <img src=3D"http://www.get-77.us/6474K2395gDm8512J15beeA4a86A21aFv4GIf4rxvs4FhIHEsvZ11QRHomm9Soh97Gn1z0HW6Bl0ycY/startling-cloakroom" alt=3D""/></body>
+</html>
+
+------=_Part_139_1642006830.1617917332458--
+

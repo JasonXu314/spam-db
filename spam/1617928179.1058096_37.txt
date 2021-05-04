@@ -1,0 +1,454 @@
+Return-Path: <the_kitchen-bruce=untroubled.org@havenhairextensions.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1502469 invoked from network); 8 Apr 2021 17:11:29 -0000
+Received: (qmail 5923 invoked by uid 222); 8 Apr 2021 17:11:29 -0000
+Return-Path: <the_kitchen-bruce=untroubled.org@havenhairextensions.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 5920 invoked from network); 8 Apr 2021 17:11:29 -0000
+Received: from mail.havenhairextensions.com (205-236-248-23.serversto.com [205.236.248.23])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 17:11:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=havenhairextensions.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=the_kitchen@havenhairextensions.com;
+ bh=oWuyYwbAQPArwXaATtFRZORq5MY=;
+ b=DOFTJEJW7yYMvoDHKPHQJJytmlepd/jV+tUn5BFvDsoiW/ERkgaSIW2aF18malKEMCu1f9JW+CLf
+   DqaCJ4pEVX6Ao2BXKwzuyZ8crWwuWVrVe83L6EvCLQyJCVmMFNtsOI6pUN3X5/VxZSDrXHBSNGBq
+   kJ78ZM4gBFS8Ws0VOwI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=havenhairextensions.com;
+ b=C9AJ1Qer23+oSEGT0Fd37rn+jScpeOy6oVGpXCY+IWi0XS6mP5O6Hr+upbeKRQ0GpIc9/6YZffz3
+   wZYE6q0/iBU1qzfALF1F/NL9X/E8THoDsahYoPCUr6bUboVqTI3F6YJMFMpcxtF76Ly8Qb9cqsBR
+   CoEOzfwb9gGz7qiIDZI=;
+Received: by mail.havenhairextensions.com id hdssos0001g9 for <bruce@untroubled.org>; Thu, 8 Apr 2021 13:11:03 -0400 (envelope-from <the_kitchen-bruce=untroubled.org@havenhairextensions.com>)
+Date: Thu, 8 Apr 2021 13:11:03 -0400
+From: "The Kitchen" <the_kitchen@havenhairextensions.com>
+To:   <bruce@untroubled.org>
+Subject: Why are you still using dull kitchen knives?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_184_1603076417.1617901729083"
+List-Unsubscribe: <http://www.havenhairextensions.com/caldera-atrocities/15c5r23Z95eK89G10fN11xJ4aeW21VFv4GIf4rxvs4FhIHEsvZ7fQjnomK7Xr1BUQ05F@sNv>
+Message-ID: <0.0.0.1E.1D72C9A27D92490.55B9FC@mail.havenhairextensions.com>
+Content-Length: 19337
+
+------=_Part_184_1603076417.1617901729083
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Old Knives Don't Have To Look Old **
+
+Replacing old knives can be really expensive.  I sure don't want to drop a ton on a new set of kitchen knives.  This electric knife sharpener is a permanent solution! It hones and polishes knives so that they look (and work) like brand new.  No shipping on your sharpener if you get it today. 
+
+
+Read More http://www.havenhairextensions.com/muslin-ably/f305Fm2395I8q6i10G1ef0q4aez21pFv4GIf4rxvs4FhIHEsvZ7yQjnomK5t1Z0W5E2Psv
+
+
+
+
+
+
+
+
+
+
+Willow Communications, a John Bantel Company.  755 Willow Heights IL, 60411. 
+Get removed from future messaging.  http://www.havenhairextensions.com/4494a2395cVH8612sDI1eedi4aeQ21AFv4GIf4rxvs4FhIHEsvZ7tQjnomK6Dy10m_6ULzs@v/awaking-trigonometry
+
+
+------=_Part_184_1603076417.1617901729083
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"initial-scale=3D1.0" />=20
+  <meta name=3D"format-detection" content=3D"telephone=3Dno" />=20
+  <!--With more than 63 million people fully vaccinated in the United State=
+s and Covid-19 restrictions easing in several states, many are hoping this =
+summer could start to feel somewhat normal.       That means, as people lea=
+ve their homes and ditch the sweatpants, summer fashion trends are starting=
+ to crystalize. To the horror of millennials everywhere, this year that may=
+ include the return of low-rise jeans.       The return of low-rise jeans w=
+as noted Tuesday by Vox's Rebecca Jennings in an article for "The Goods," s=
+purring a polarizing social media response from those eager to get back to =
+their early 2000s low-rise jeans and those who decried the return of a garm=
+ent often associated with thinness and body-shaming.       "I think a lot o=
+f my hesitation around the low-rise trend along with a lot of other zillenn=
+ials, millennials is it kind of brings back some memories of the fatphobia =
+of the early 2000s and Y2K era," said Renata D'Agrella, 24, of New York Cit=
+y, who creates content on TikTok about fashion advice and trends.--->=20
+  <style type=3D"text/css">
+         body{ margin: 0; padding: 0; }
+         img{ border: 0px; display: block; }
+         .socialLinks{ font-size: 6px; }
+         .socialLinks a{
+         display: inline-block;
+         }
+         .long-text p{ margin: 1em 0px; }
+         .long-text p:last-child{ margin-bottom: 0px; }
+         .long-text p:first-child{ margin-top: 0px; }
+      </style>=20
+  <style type=3D"text/css">
+         /* yahoo, hotmail */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCl=
+ass font, .ExternalClass td, .ExternalClass div{ line-height: 100%; }
+         .yshortcuts a{ border-bottom: none !important; }
+         .vb-outer{ min-width: 0 !important; }
+         .RMsgBdy, .ExternalClass{
+         width: 100%;
+         background-color: #3f3f3f;
+         background-color: #3f3f3f}
+         /* outlook/office365 add buttons outside not-linked images and saf=
+ari have 2px margin */
+         [o365] button{ margin: 0 !important; }
+         /* outlook */
+         table{ mso-table-rspace: 0pt; mso-table-lspace: 0pt; }
+         #outlook a{ padding: 0; }
+         img{ outline: none; text-decoration: none; border: none; -ms-inter=
+polation-mode: bicubic; }
+         a img{ border: none; }
+         @media screen and (max-width: 600px) {
+         table.vb-container, table.vb-row{
+         width: 95% !important;
+         }
+         .mobile-hide{ display: none !important; }
+         .mobile-textcenter{ text-align: center !important; }
+         .mobile-full{=20
+         width: 100% !important;
+         max-width: none !important;
+         }
+         }
+         /* previously used also screen and (max-device-width: 600px) but Y=
+ahoo Mail doesn't support multiple queries */
+      </style>=20
+  <style type=3D"text/css">
+         #ko_sideArticleBlock_3 .links-color a, #ko_sideArticleBlock_3 .lin=
+ks-color a:link, #ko_sideArticleBlock_3 .links-color a:visited, #ko_sideArt=
+icleBlock_3 .links-color a:hover{
+         color: #3f3f3f;
+         color: #3f3f3f;
+         text-decoration: underline
+         }
+         #ko_footerBlock_2 .links-color a, #ko_footerBlock_2 .links-color a=
+:link, #ko_footerBlock_2 .links-color a:visited, #ko_footerBlock_2 .links-c=
+olor a:hover{
+         color: #cccccc;
+         color: #cccccc;
+         text-decoration: underline
+         }
+      </style>=20
+ </head>=20
+ <!--[if !(gte mso 16)]-->=20
+ <body bgcolor=3D"#3f3f3f" text=3D"#919191" alink=3D"#cccccc" vlink=3D"#ccc=
+ccc" style=3D"margin: 0; padding: 0; background-color: #3f3f3f; color: #919=
+191;">
+  <!--<![endif]-->
+  <center>=20
+   <table role=3D"presentation" class=3D"vb-outer" width=3D"100%" cellpaddi=
+ng=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#ededed" style=3D"backgr=
+ound-color: #ededed;" id=3D"ko_logoBlock_4">=20
+    <tbody>
+     <tr>
+      <td class=3D"vb-outer" align=3D"center" valign=3D"top" style=3D"paddi=
+ng-left: 9px; padding-right: 9px; font-size: 0;">=20
+       <!--[if (gte mso 9)|(lte ie 8)]>
+   <table role=3D"presentation" align=3D"center" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"570">
+      <tr>
+         <td align=3D"center" valign=3D"top">
+            <![endif]-->
+       <!--
+               -->=20
+       <div style=3D"margin: 0 auto; max-width: 570px; -mru-width: 0px;">=
+=20
+        <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"9" style=3D"border-collapse: separate; width: 100%; mso-cellspacing=
+: 9px; border-spacing: 9px; max-width: 570px; -mru-width: 0px;" width=3D"57=
+0" class=3D"vb-row">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"center" valign=3D"top" style=3D"font-size: 0;">=20
+            <div style=3D"vertical-align: top; width: 100%; max-width: 276p=
+x; -mru-width: 0px;">=20
+             <!--
+                                 -->=20
+             <table role=3D"presentation" class=3D"vb-content" border=3D"0"=
+ cellspacing=3D"9" cellpadding=3D"0" width=3D"276" style=3D"border-collapse=
+: separate; width: 100%; mso-cellspacing: 9px; border-spacing: 9px;">=20
+              <tbody>=20
+               <tr>=20
+                <td width=3D"100%" valign=3D"top" align=3D"center" class=3D=
+"links-color">=20
+                 <!--[if (lte ie 8)]>
+                                          <div style=3D"display: inline-blo=
+ck; width: 258px; -mru-width: 0px;">
+                                             <![endif]--><img border=3D"0"=
+ hspace=3D"0" align=3D"center" vspace=3D"0" width=3D"258" style=3D"border: =
+0px; display: block; vertical-align: top; height: auto; margin: 0 auto; col=
+or: #f3f3f3; font-size: 18px; font-family: Arial, Helvetica, sans-serif; wi=
+dth: 100%; max-width: 258px; height: auto;" src=3D"http://www.havenhairextensions.com/3d15DY2395M7JDa10g1eeeo4aeZ21dFv4GIf4rxvs4FhIHEsvZ7JQjnomK7c1x0uNP6aJpsvy/infuse-democracies" />
+                 <!--[if (lte ie 8)]>
+                                          </div>
+                                          <![endif]--> </td>=20
+               </tr>=20
+              </tbody>=20
+             </table>=20
+            </div> </td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+       </div>=20
+       <!--
+               -->
+       <!--[if (gte mso 9)|(lte ie 8)]>
+         </td>
+      </tr>
+   </table>
+   <![endif]--> </td>
+     </tr>=20
+    </tbody>
+   </table>=20
+   <table role=3D"presentation" class=3D"vb-outer" width=3D"100%" cellpaddi=
+ng=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#ededed" style=3D"backgr=
+ound-color: #ededed;padding-bottom: 75px;padding-top: 20px;" id=3D"ko_sideA=
+rticleBlock_3">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"vb-outer" align=3D"center" valign=3D"top" style=3D"paddi=
+ng-left: 9px; padding-right: 9px; font-size: 0;">=20
+       <!--[if (gte mso 9)|(lte ie 8)]>
+               <table role=3D"presentation" align=3D"center" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"570">
+                  <tr>
+                     <td align=3D"center" valign=3D"top">
+                        <![endif]-->
+       <!--
+                           -->=20
+       <div style=3D"margin: 0 auto; max-width: 570px; -mru-width: 0px;">=
+=20
+        <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"9" bgcolor=3D"#ffffff" width=3D"570" class=3D"vb-row" style=3D"bord=
+er-collapse: separate; width: 100%; background-color: #ffffff; mso-cellspac=
+ing: 9px; border-spacing: 9px; max-width: 570px; -mru-width: 0px;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"center" valign=3D"top" style=3D"font-size: 0;">=20
+            <div style=3D"width: 100%; max-width: 552px; -mru-width: 0px;">=
+=20
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                          <table role=3D"presentation" alig=
+n=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"552"=
+>
+                                             <tr>
+                                                <![endif]-->
+             <!--
+                                                   -->
+             <!--
+                                                   -->
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                                <td align=3D"left" valign=
+=3D"top" width=3D"184">
+                                                   <![endif]-->
+             <!--
+                                                      -->=20
+             <div class=3D"mobile-full" style=3D"display: inline-block; ver=
+tical-align: top; width: 100%; max-width: 184px; -mru-width: 0px; min-width=
+: calc(33.333333333333336%); max-width: calc(100%); width: calc(304704px - =
+55200%);">=20
+              <!--
+                                                         -->=20
+              <table role=3D"presentation" class=3D"vb-content" border=3D"0=
+" cellspacing=3D"9" cellpadding=3D"0" width=3D"184" align=3D"left" style=3D=
+"border-collapse: separate; width: 100%; mso-cellspacing: 9px; border-spaci=
+ng: 9px; -yandex-p: calc(2px - 3%);">=20
+               <tbody>=20
+                <tr>=20
+                 <td width=3D"100%" valign=3D"top" align=3D"center" class=
+=3D"links-color">=20
+                  <!--[if (lte ie 8)]>
+                                                                  <div styl=
+e=3D"display: inline-block; width: 166px; -mru-width: 0px;">
+                                                                     <![en=
+dif]--><a href=3D"http://www.havenhairextensions.com/infuse-democracies/a084c2395X86VP10R1eecI4aeU21OFv4GIf4rxvs4FhIHEsvZ7OQjnomK5E10IW6kz0svX"><img border=3D"0" hspace=3D"0" align=3D"cente=
+r" vspace=3D"0" width=3D"166" style=3D"border: 0px; display: block; vertica=
+l-align: top; height: auto; margin: 0 auto; color: #3f3f3f; font-size: 13px=
+; font-family: Arial, Helvetica, sans-serif; width: 100%; max-width: 166px;=
+ height: auto;" src=3D"http://www.havenhairextensions.com/rationality-virtues/d326Ay2m395zYO7a12nZ1eeXfD4aeK21gFv4GIf4rxvs4FhIHEsvZ7QQjnomK5O1v0t5vUsvl" /></a>
+                  <!--[if (lte ie 8)]>
+                                                                  </div>
+                                                                  <![endif=
+]--> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table>=20
+              <!--
+                                                         -->=20
+             </div>=20
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                                </td>
+                                                <![endif]-->
+             <!--
+                                                   -->
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                                <td align=3D"left" valign=
+=3D"top" width=3D"368">
+                                                   <![endif]-->
+             <!--
+                                                      -->=20
+             <div class=3D"mobile-full" style=3D"display: inline-block; ver=
+tical-align: top; width: 100%; max-width: 368px; -mru-width: 0px; min-width=
+: calc(66.66666666666667%); max-width: calc(100%); width: calc(304704px - 5=
+5200%);">=20
+              <!--
+                                                         -->=20
+              <table role=3D"presentation" class=3D"vb-content" border=3D"0=
+" cellspacing=3D"9" cellpadding=3D"0" width=3D"368" align=3D"left" style=3D=
+"border-collapse: separate; width: 100%; mso-cellspacing: 9px; border-spaci=
+ng: 9px; -yandex-p: calc(2px - 3%);">=20
+               <tbody>=20
+                <tr>=20
+                 <td width=3D"100%" valign=3D"top" align=3D"left" style=3D"=
+font-weight: bold; color: #3f3f3f; font-size: 20px; font-family: Arial, Hel=
+vetica, sans-serif; text-align: left;"><span style=3D"font-weight: bold;">O=
+ld Knives Don't Have To Look Old</span></td>=20
+                </tr>=20
+                <tr>=20
+                 <td class=3D"long-text links-color" width=3D"100%" valign=
+=3D"top" align=3D"left" style=3D"font-weight: normal; color: #3f3f3f; font-=
+size: 17px; font-family: Arial, Helvetica, sans-serif; text-align: left; li=
+ne-height: 1.4em;"> <p style=3D"margin: 1em 0px; margin-bottom: 0px; margin=
+-top: 0px;">Replacing old knives can be really expensive. I sure don't want=
+ to drop a ton on a new set of kitchen knives. This electric knife sharpene=
+r is a permanent solution! It hones and polishes knives so that they look (=
+and work) like brand new. No shipping on your sharpener if you get it today=
+</p> </td>=20
+                </tr>=20
+                <tr>=20
+                 <td valign=3D"top" align=3D"left">=20
+                  <table role=3D"presentation" cellpadding=3D"6" border=3D"=
+0" align=3D"left" cellspacing=3D"0" style=3D"border-spacing: 0; mso-padding=
+-alt: 6px 6px 6px 6px; padding-top: 4px;">=20
+                   <tbody>=20
+                    <tr>=20
+                     <td width=3D"auto" valign=3D"middle" align=3D"left" bg=
+color=3D"#ededed" style=3D"text-align: center; font-weight: normal; padding=
+: 6px; padding-left: 18px; padding-right: 18px; background-color: #ededed; =
+color: #3f3f3f; font-size: 13px; font-family: Arial, Helvetica, sans-serif;=
+ border-radius: 4px;"><a style=3D"text-decoration: none; font-weight: bold;=
+ color: #3f3f3f; font-size: 16px; font-family: Arial, Helvetica, sans-serif=
+;" target=3D"_new" href=3D"http://www.havenhairextensions.com/infuse-democracies/a084c2395X86VP10R1eecI4aeU21OFv4GIf4rxvs4FhIHEsvZ7OQjnomK5E10IW6kz0svX">Read More</a></td>=20
+                    </tr>=20
+                   </tbody>=20
+                  </table> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table>=20
+              <!--
+                                                         -->=20
+             </div>=20
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                                </td>
+                                                <![endif]-->
+             <!--
+                                                   -->
+             <!--
+                                                   -->
+             <!--
+                                                   -->
+             <!--[if (gte mso 9)|(lte ie 8)]>
+                                             </tr>
+                                          </table>
+                                          <![endif]-->=20
+            </div> </td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+       </div>=20
+       <!--
+                           -->
+       <!--[if (gte mso 9)|(lte ie 8)]>
+                     </td>
+                  </tr>
+               </table>
+               <![endif]--> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <!-- footerBlock -->=20
+   <table role=3D"presentation" class=3D"vb-outer" width=3D"100%" cellpaddi=
+ng=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#3f3f3f" style=3D"backgr=
+ound-color: #3f3f3f;" id=3D"ko_footerBlock_2">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"vb-outer" align=3D"center" valign=3D"top" style=3D"paddi=
+ng-left: 9px; padding-right: 9px; font-size: 0;">=20
+       <!--[if (gte mso 9)|(lte ie 8)]>
+               <table role=3D"presentation" align=3D"center" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"570">
+                  <tr>
+                     <td align=3D"center" valign=3D"top">
+                        <![endif]-->
+       <!--
+                           -->=20
+       <div style=3D"margin: 0 auto; max-width: 570px; -mru-width: 0px;">=
+=20
+        <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"border-collapse: separate; width: 100%; mso-cellspacing=
+: 0px; border-spacing: 0px; max-width: 570px; -mru-width: 0px;" width=3D"57=
+0" class=3D"vb-row">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"center" valign=3D"top" style=3D"font-size: 0; paddi=
+ng: 0 9px;">=20
+            <div style=3D"vertical-align: top; width: 100%; max-width: 552p=
+x; -mru-width: 0px;">=20
+             <!--
+                                             -->=20
+             <table role=3D"presentation" class=3D"vb-content" border=3D"0"=
+ cellspacing=3D"9" cellpadding=3D"0" style=3D"border-collapse: separate; wi=
+dth: 100%; mso-cellspacing: 9px; border-spacing: 9px;" width=3D"552">=20
+              <tbody>=20
+               <tr>=20
+                <td class=3D"long-text links-color" width=3D"100%" valign=
+=3D"top" align=3D"center" style=3D"font-weight: normal; color: #919191; fon=
+t-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center=
+;padding: 10px"> <p style=3D"margin: 1em 0px; margin-bottom: 0px; margin-to=
+p: 0px;">Willow Communications, a John Bantel Company. 755 Willow Heights I=
+L, 60411.</p> </td>=20
+               </tr>=20
+               <tr>=20
+                <td width=3D"100%" valign=3D"top" align=3D"center" style=3D=
+"font-weight: normal; color: #ffffff; font-size: 13px; font-family: Arial, =
+Helvetica, sans-serif; text-align: center;"><a href=3D"http://www.havenhairextensions.com/e995nz2395vR86h11Dl1eedI4aeX21cFv4GIf4rxvs4FhIHEsvZ7GQjnomK5LkU105v3sqv/caldera-atrocities" style=3D=
+"color: #ffffff; text-decoration: underline;" target=3D"_new">Get excluded =
+from future messaging.</a></td>=20
+               </tr>=20
+              </tbody>=20
+             </table>=20
+            </div> </td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+       </div>=20
+       <!--
+                           -->
+       <!--[if (gte mso 9)|(lte ie 8)]>
+                     </td>
+                  </tr>
+               </table>
+               <![endif]--> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <!-- /footerBlock -->=20
+  </center>
+  <!--[if !(gte mso 16)]-->
+  <!--<![endif]-->=20
+ <img src=3D"http://www.havenhairextensions.com/rationality-virtues/c7e6S2R39M5O8F5g12yn1efL1V4aeL21SFv4GIf4rxvs4FhIHEsvZ7iQjnomK5wKZ105wUBsv" alt=3D""/></body>
+</html>
+
+------=_Part_184_1603076417.1617901729083--
+

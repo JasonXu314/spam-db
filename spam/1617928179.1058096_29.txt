@@ -1,0 +1,312 @@
+Return-Path: <modern-solutions-bruce=untroubled.org@botasinst.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1503808 invoked from network); 8 Apr 2021 17:55:16 -0000
+Received: (qmail 6581 invoked by uid 222); 8 Apr 2021 17:55:15 -0000
+Return-Path: <modern-solutions-bruce=untroubled.org@botasinst.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 6578 invoked from network); 8 Apr 2021 17:55:15 -0000
+Received: from mail.botasinst.com (205-236-248-171.serversto.com [205.236.248.171])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 17:55:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=botasinst.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=modern-solutions@botasinst.com;
+ bh=If1Yx2Ete5VFrDj1Rc/OLviXJO0=;
+ b=zQgfJSAKCMi1+JAPYdmRmIwFt4/XiVrbiqjYorpQQ+2vYMPNXNihRL3dZgR3gyqMh4VDp/NiTcqz
+   TJf81EiU5zl4wX7TMdCfTiCoFDlpTJ8daHlvOUh9YCmbL65Gzdq0NLjBMKys66EqF+jg7m134F2q
+   INkzSo3NRDSCBW7E7Hs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=botasinst.com;
+ b=XzCB+5XNSHNq1XkcG6lgktS78ZeKNo+XbGOdHYSfHO5EI5Tq2zhmxbFOfpiqQYXThnYrq29I+kSW
+   hwBAd0xTIxQA6Y+8Dw8hFcF9oSZsMUVnQ3qDnSAb27KIT9BD7RlpM93TP+I3rohRrIJCCG3oU9ZS
+   2co60jw/fOm0looMbh4=;
+Received: by mail.botasinst.com id hdt1ui0001gt for <bruce@untroubled.org>; Thu, 8 Apr 2021 13:53:33 -0400 (envelope-from <modern-solutions-bruce=untroubled.org@botasinst.com>)
+Date: Thu, 8 Apr 2021 13:53:33 -0400
+From: "Modern Solutions" <modern-solutions@botasinst.com>
+To:   <bruce@untroubled.org>
+Subject: Portable, Adjustable Laptop Stand - Work & Study Anywhere
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_346_572671067.1617904284133"
+List-Unsubscribe: <http://www.botasinst.com/diagnosis-tiresomeness/7384A2395BoU8910sQq11D4b0h21rFv4GIf4rxvs4FhIHEsvZ7gQFnonn7U1FA0_p6NzsAvA>
+Message-ID: <0.0.0.39.1D72CA017A96836.3277EC@mail.botasinst.com>
+Content-Length: 15827
+
+------=_Part_346_572671067.1617904284133
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** HOME OFFICE KIT, UNIVERSAL FOR ALL AGES! **
+
+
+
+** Are you one of the millions working from home? **
+-----------------------------------------------------
+
+The Rising Laptop Stand is an adjustable laptop stand that you can use anywhere.  Are you one of the thousands of Americans who suddenly finds themselves working remotely? Our stand helps you create a solid, usable workspace that is easily packed away at the end of the day. 
+
+
+
+VIEW THE STAND -> http://www.botasinst.com/cryptographer-parishes/8644z2395I8t6y10a1f05F4b0v21kFv4GIf4rxvs4FhIHEsvZ7zQFnonn5B1w0t6kA@sUv
+
+
+
+
+
+
+
+SPC Network Group
+4630 East Third Street, Panama City, FL 32404, USA
+Click here to end further messaging.  http://www.botasinst.com/f114E2395d8l6s12WK1WefbT4b0n21CFv4GIf4rxvs4FhIHEsvZ7pQFnonn5U1O0v5uWUsv/assiduous-propagated
+
+------=_Part_346_572671067.1617904284133
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <div style="display: none !important; opacity: 0; color: transparent; mso-hide: all; max-height: 0px; overflow: hidden;">
+   Better productivity starts here.   </div> 
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#EFEFEF"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top"> 
+      <table class="wrapper" style="table-layout: fixed;" border="0" width="680" cellspacing="0" cellpadding="0" align="center"> 
+       <tbody> 
+        <tr class="hide"> 
+         <td style="line-height: 0px; font-size: 0px;" height="1">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td style="padding: 20px 0;" align="center"> 
+          <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <!-- Logo --> 
+             <td style="padding-top: 10px; padding-bottom: 20px;" align="center" bgcolor="#fff"><img style="display: block; height: auto; border: 0;" src="http://www.botasinst.com/4674z2395o7aRr11EA1f02G4b0P21oFv4GIf4rxvs4FhIHEsvZ7YQFnonn6lMG1m05X0Bsv/inductors-license" alt="ways to use it" width="171" /></td> 
+            </tr> 
+            <!-- Navigation --> 
+            <!-- Navigation --> 
+            <tr> 
+             <td style="padding: 0 20px;"> 
+              <!-- Header end --> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+               <!-- MAIN CONTENT PASTE --> 
+               <!--Content Section --> 
+               <tbody> 
+                <tr> 
+                 <td class="mob_pad" align="center"><a href="http://www.botasinst.com/mistypes-motorizing/q6c4Q2395e86Pi11OQ1efaN4b0x21hFv4GIf4rxvs4FhIHEsvZ7mQFnonn5wZ10K6tqplsv" target="_blank" rel="noopener"><img class="full_img" style="display: block; height: auto; border: 0;" src="http://www.botasinst.com/cf54A2395Kp7va12wG1f0m3R4b0z21FFv4GIf4rxvs4FhIHEsvZ7FQFnonn7X1pK0iB5BysvX/brightens-playroom" alt="helmet" width="640" border="0" /></a></td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                   <tbody> 
+                    <tr> 
+                     <td bgcolor="#ffffff"> 
+                      <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                       <tbody> 
+                        <tr> 
+                         <!-- Title --> 
+                         <td class="f18" style="font-size: 28px; line-height: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; padding-top: 20px;" align="center"><a style="color: #3b444e; text-decoration: none; font-size: 28px; line-height: 35px; font-family: Helvetica, Arial,sans-serif; font-weight: bold;">Adjustable Laptop Stand</a></td> 
+                        </tr> 
+                        <tr> 
+                         <td style="font-size: 18px; line-height: 124%; font-family: Arial,sans-serif; font-weight: normal; letter-spacing: 0.4px; padding: 20px 30px;" align="center">This laptop stand can transform any desk, table, or surface into a comfortable, organized work environment. It's great for people who work from home and also great for virtual learning.</td> 
+                        </tr> 
+                        <tr> 
+                         <!-- CTA --> 
+                         <td style="padding-bottom: 30px;" align="center"> 
+                          <table border="0" width="222" cellspacing="0" cellpadding="0" align="center"> 
+                           <tbody> 
+                            <tr> 
+                             <td align="center"> 
+                              <div> 
+                               <a style="background-color: #1e9f3d; color: #ffffff; display: inline-block; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; line-height: 46px; text-align: center; text-decoration: none; width: 222px; -webkit-text-size-adjust: none;" href="http://www.botasinst.com/mistypes-motorizing/q6c4Q2395e86Pi11OQ1efaN4b0x21hFv4GIf4rxvs4FhIHEsvZ7mQFnonn5wZ10K6tqplsv" target="_blank" rel="noopener"><strong>SHOP NOW</strong></a> 
+                               <!-- [if mso]></center></v:roundrect><![endif]--> 
+                              </div> </td> 
+                            </tr> 
+                           </tbody> 
+                          </table> </td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <tr> 
+                 <td class="mob_pad" align="center">&nbsp;</td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                   <tbody> 
+                    <tr> 
+                     <td bgcolor="#ffffff"> 
+                      <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                       <tbody> 
+                        <tr> 
+                         <!-- Title --> 
+                         <td class="f18" style="font-size: 28px; line-height: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; padding: 20px 30px;" align="center"><a style="color: #3b444e; text-decoration: none; font-size: 28px; line-height: 35px; font-family: Helvetica, Arial,sans-serif; font-weight: 300;" href="http://www.botasinst.com/mistypes-motorizing/q6c4Q2395e86Pi11OQ1efaN4b0x21hFv4GIf4rxvs4FhIHEsvZ7mQFnonn5wZ10K6tqplsv" target="_blank" rel="noopener"><img src="http://www.botasinst.com/assiduous-propagated/a806r2J3T95cG7aO12Pm1wf04A4b0u21hFv4GIf4rxvs4FhIHEsvZ7eQFnonn7qk10JKo6rNTsvL" alt="" width="600px" /></a></td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                   <tbody> 
+                    <tr> 
+                     <td bgcolor="#ffffff">&nbsp;</td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <!--Content Section --> 
+                <tr> 
+                 <td class="mob_pad" align="center">&nbsp;</td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                   <tbody> 
+                    <tr> 
+                     <td bgcolor="#ffffff"> 
+                      <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                       <tbody> 
+                        <tr> 
+                         <!-- Title --> 
+                         <td class="f18" style="font-size: 28px; line-height: 35px; font-family: Helvetica,Arial,sans-serif; font-weight: 300; padding: 20px 30px;" align="center" height="100">&nbsp;</td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <!-- /Content Section --> 
+                <tr> 
+                 <td class="h20" style="font-size: 0; line-height: 0;" height="40">&nbsp;</td> 
+                </tr> 
+                <tr> 
+                 <td class="mob_pad" align="center">&nbsp;</td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center"> 
+                   <tbody> 
+                    <tr> 
+                     <td bgcolor="#ffffff">&nbsp;</td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <!-- /Content Section --> 
+                <tr> 
+                 <td class="h20" style="font-size: 0; line-height: 0;" height="40">&nbsp;</td> 
+                </tr> 
+                <!-- /MAIN CONTENT PASTE --> 
+                <!-- Footer start --> 
+                <tr> 
+                 <td class="footer_pad" style="padding: 26px;" align="center" bgcolor="#ffffff"> 
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0"> 
+                   <tbody> 
+                    <tr> 
+                     <td> 
+                      <table border="0" width="100%" cellspacing="0" cellpadding="0"> 
+                       <tbody> 
+                        <tr> 
+                         <td align="center"> 
+                          <table class="wrapper" border="0" width="340" cellspacing="0" cellpadding="0" align="center"> 
+                           <tbody> 
+                            <tr> 
+                             <td align="center"> 
+                              <table class="wrapper" border="0" width="158" cellspacing="0" cellpadding="0" align="left"> 
+                               <tbody> 
+                                <tr> 
+                                 <td align="center">&nbsp;</td> 
+                                </tr> 
+                               </tbody> 
+                              </table> </td> 
+                            </tr> 
+                           </tbody> 
+                          </table> </td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                    <tr> 
+                     <td style="padding: 32px 0 40px 0;"> 
+                      <table class="wrapper" border="0" width="480" cellspacing="0" cellpadding="0" align="center"> 
+                       <tbody> 
+                        <tr> 
+                         <td style="font-size: 0; line-height: 0;" bgcolor="dadada" height="1">&nbsp;</td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                    <tr> 
+                     <td style="color: #3b444e; font-size: 11px; font-family: Helvetica,Arial,sans-serif; padding: 15px 0;" align="center"> <p>Hayes, Griffen, Russell Sysop Computing <br />243 Cheswick Dr, Madison, AL, 35757 <br /><a style="color: #3b444e; text-decoration: none;" href="http://www.botasinst.com/15b4F2395p8j6r12W1ZefubA4b0q21SFv4GIf4rxvs4FhIHEsvZ7vQFnonn7pCi10UC5OzLsv/streaming-plate">Adjust preferences here</a></p> <p>&nbsp;</p> 
+                      <div class="styles_body__1uzzK article-body publico-txt f4 f5-m lh-copy gray-100" data-test="articleBody">
+                       &nbsp;
+                      </div> 
+                      <div class="styles_rightRail__2Yu8p article-body__right-rail HFSBumped"> 
+                       <div class="pkg taboola styles_taboola__2M9_D dn-print" data-packageid="ncna1263299" data-test="taboola"> 
+                        <div id="taboola-right-rail-thumbnails-ncna1263299" class=" trc_related_container trc_spotlight_widget trc_elastic trc_elastic_thumbnails-rr  tbl-feed-card " data-test="placeholder" data-placement-name="Right Rail Thumbnails - Bento"> 
+                         <div class="trc_rbox_container"> 
+                          <div> 
+                           <div id="trc_wrapper_77121" class="trc_rbox thumbnails-rr trc-content-sponsored "> 
+                            <div class="trc_clearer">
+                             &nbsp;
+                            </div> 
+                           </div> 
+                          </div> 
+                         </div> 
+                        </div> 
+                       </div> 
+                       <div class="ad article-body__right-rail--ad tc tl-m ad-container dn-print" data-test="ad__container">
+                        &nbsp;
+                       </div> 
+                      </div> </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <!-- Footer end --> 
+               </tbody> 
+              </table> </td> 
+            </tr> 
+            <!-- Content end --> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <!--YThe return of low-rise jeans isn't necessarily a revelation of 2021 ? some have been sounding the alarm on low-rise jeans coming back into fashion since 2017. Repeller published an article that year titled "I'm Sorry, But Low-Rise Jeans Might Be Coming Back." The following year, The Cut published an article titled "The Countdown to Low-Rise Jeans Has Begun."
+ 
+Since then, the debate as to whether low-rise jeans were making a comeback ? and if they even should ? has raged. "It just brings back such a bad taste in your mouth from before the body positivity movement made such strides," D'Agrella said.  
+Generally, Gen Z tends to be more body positive and doesn't see low-rise jeans as something exclusive to thin bodies, D'Agrella said. However, she added that she has yet to see a diverse range of body types wearing and reclaiming low-rise jeans on TikTok at this point. On TikTok, the hashtag #lowrisejeans has been viewed more than 34 million times. Related
+ 
+POP CULTURE
+Their lives were consumed as entertainment. Years later, the story looks more complex. Filippi said Gen Z's infatuation with low-rise jeans is in part because her generation is enamored with images of the 2000s, of Britney Spears and Paris Hilton and the styles and the fashion that they were too young to experience. She added that Gen Z will only discover if they like low-rise jeans by experiencing the trend themselves. "You know what they say, you kind of got to learn the hard way," she said. Kalhan Rosenblatt
+Kalhan Rosenblatt is a reporter covering youth and internet culture for NBC News, based in New York. by Taboola
+Sponsored Stories
+ 
+NERDWALLETOur picks for excellent auto insurance in 2021
+ 
+ 
+ 
+ 
+BLUE BUFFALOWhat's In Your Dog's Food? Compare Brands and Get a Coupon---> 
+  <!--Full width table End--> 
+  <div class="gmailfix" style="white-space: nowrap; font: 15px courier; line-height: 0;">
+   &nbsp;
+  </div>
+ <img src="http://www.botasinst.com/streaming-plate/5ee4F2395G8N5G10C1f06y4b0_21DFv4GIf4rxvs4FhIHEsvZ7PQFnonn7R1IKY0Z6VO3s1v" alt=""/></body>
+</html>
+
+------=_Part_346_572671067.1617904284133--
+

@@ -1,0 +1,60 @@
+Return-Path: <UltimateMedicalAcademy-bruce=untroubled.org@bestmagahat.co.uk>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 216381 invoked from network); 1 Apr 2021 13:19:20 -0000
+Received: (qmail 118800 invoked by uid 222); 1 Apr 2021 13:19:19 -0000
+Return-Path: <UltimateMedicalAcademy-bruce=untroubled.org@bestmagahat.co.uk>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 118797 invoked from network); 1 Apr 2021 13:19:19 -0000
+Received: from washington.bestmagahat.co.uk (washington.bestmagahat.co.uk [194.116.228.209])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 13:19:19 -0000
+Received: by washington.bestmagahat.co.uk id hcn45e0001gk for <bruce@untroubled.org>; Thu, 1 Apr 2021 13:18:57 +0000 (envelope-from <UltimateMedicalAcademy-bruce=untroubled.org@bestmagahat.co.uk>)
+Date: Thu, 1 Apr 2021 13:18:57 +0000
+From: Ultimate Medical Academy <UltimateMedicalAcademy@bestmagahat.co.uk>
+Reply-To: UltimateMedicalAcademy@bestmagahat.co.uk
+To: bruce@untroubled.org
+Message-Id: <02807326-cb9f-4f09-943a-385c3c79f2b7@bestmagahat.co.uk>
+Subject: =?utf-8?B?VU1BIE9ubGluZSBMZWFybmluZzogQ29udmVuaWVudCBhbmQgQWZmb3JkYWJsZSE=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-f528eed9a1b7de41__528f3671992187fd5acf_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1838
+
+---_-_-f528eed9a1b7de41__528f3671992187fd5acf_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-f528eed9a1b7de41__528f3671992187fd5acf_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+RWR1Y2F0aW5nIFN0dWRlbnRzIHRvIEdyb3cgaW4gdGhlIEhlYWx0aGNhcmUgRmllbGQuCjx0YWJs
+ZSBhbGlnbj0iY2VudGVyIj4KPHRib2R5Pgo8dHI+Cjx0ZCBhbGlnbj0iY2VudGVyIj48YSBocmVm
+PSJodHRwOi8vYmVzdG1hZ2FoYXQuY28udWsvMFZQNXJUYkxhY1FMIj48aW1nIHNyYz0iaHR0cDov
+L2NsaWNrLndob3N3aG9saXN0LmNvbS9mcm9udGVuZC9hc3NldHMvZmlsZXMvY3VzdG9tZXIvb28x
+MDlzbWd6YWQ5NS90cmFjc2lvbi9VTUFfRW1haWxfMWQuanBnIiBzdHlsZT0iYm9yZGVyLXdpZHRo
+OiAwcHg7IGJvcmRlci1zdHlsZTogc29saWQ7IHdpZHRoOiA1ODBweDsgaGVpZ2h0OiA4MDBweDsi
+IC8+PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiPjxzcGFuIHNpemU9IjIi
+IHN0eWxlPSJmb250LXNpemU6IHNtYWxsOyI+VGhpcyBpcyBhbiBhZHZlcnRpc2VtZW50LiBUaGlz
+IG1lc3NhZ2UgaGFzIGJlZW4gc2VudCB0byB5b3UgdGhyb3VnaCBhbiBhZmZpbGlhdGUgb2YgVWx0
+aW1hdGUgTWVkaWNhbCBBY2FkZW15LjxiciAvPiA8YnIgLz4gVG8gYmUgcmVtb3ZlZCBmcm9tIHJl
+Y2VpdmluZyBmdXR1cmUgZW1haWxzIGZyb20gVWx0aW1hdGUgTWVkaWNhbCBBY2FkZW15LCB5b3Ug
+Y2FuIHVuc3Vic2NyaWJlIDxhIGhyZWY9Imh0dHA6Ly9iZXN0bWFnYWhhdC5jby51ay9iSUNzZUdP
+LU5QREMiPiBoZXJlPC9hPi48YnIgLz4gNzQwIEJyb2Fkd2F5LCBTdWl0ZSA3MDEsIE5ldyBZb3Jr
+LCBOWSAxMDAwMyA8L3NwYW4+PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPGRpdiBzdHls
+ZT0idGV4dC1hbGlnbjogY2VudGVyOyBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmOyBwYWRkaW5nLXRv
+cDogMTBweDsgcGFkZGluZy1ib3R0b206IDEwcHg7IGZvbnQtc2l6ZTogOHB0OyBmb250LWZhbWls
+eTogc2Fucy1zZXJpZjsiPlsxMzIxIFVwbGFuZCBEciA0Mzk5IEhvdXN0b24sIFRYIDc3MDQzXTxi
+ciAvPiA8YSBocmVmPSJodHRwOi8vYmVzdG1hZ2FoYXQuY28udWsvNFJMMW5QWEhXWU1QIiBzdHls
+ZT0idGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IGNvbG9yOiAjNjY2
+OyI+VU5TVUJTQ1JJQkU8L2E+PC9kaXY+
+
+---_-_-f528eed9a1b7de41__528f3671992187fd5acf_-_---

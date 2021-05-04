@@ -1,0 +1,65 @@
+Return-Path: <canvas-prints-promo-bruce=untroubled.org@speed15.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2941374 invoked from network); 18 Apr 2021 18:11:45 -0000
+Received: (qmail 13134 invoked by uid 222); 18 Apr 2021 18:11:45 -0000
+Return-Path: <canvas-prints-promo-bruce=untroubled.org@speed15.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 13131 invoked from network); 18 Apr 2021 18:11:45 -0000
+Received: from mail.speed15.cloud ([70.102.102.131])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Apr 2021 18:11:44 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed15.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas-prints-promo@speed15.cloud;
+ bh=uEVsm51qdz5pGx1WhFT9ZLwHwAo=;
+ b=jbBrVfLsaBvcBR8RGjr01KLC2XDHfPZQ+d8XUUYPl4qDFvXv5FEHp6EbL1EjyXkhy83DOe6qit7G
+   cLd6dZk3UXJf77Q8H3YGFo/oiOCosV5wFzmHWUHMoR8XAO57Yyz1UqBFN+ECwis7DGAsl5BdjK8c
+   9vpZlbvZ2kN/1UAD7y8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed15.cloud;
+ b=ywbb7EzpjMpwVI46JkDk/mes/u6gn9dQvlT/6nvVbyiib1Z6JOzmODgfIcvSxVXDu4vqEoXFbABF
+   fiz6ncdzk6H5jBEeOj+Fmx97h6QaVFptiOQM8Z3CPeL6Z5HpMMMLrnQn0gezOmRNprYM6VMmJthR
+   1Knv7tlAVEgb9JlgCOY=;
+Received: by mail.speed15.cloud id hfhr600001g3 for <bruce@untroubled.org>; Sun, 18 Apr 2021 14:03:04 -0400 (envelope-from <canvas-prints-promo-bruce=untroubled.org@speed15.cloud>)
+Date: Sun, 18 Apr 2021 14:03:04 -0400
+From: "Canvas Prints Promo" <canvas-prints-promo@speed15.cloud>
+To:   <bruce@untroubled.org>
+Subject: Memories that will last a lifetime
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_391_1725627194.1618768969257"
+List-Unsubscribe: <http://www.speed15.cloud/de55Q2L395cOi8913Akl11kOw4b14x21cFv4GIf4rxvs4FhIHEsvZ8wRXomneQ6gwH10r5V0cLY/tangents-bountiful>
+Message-ID: <0.0.0.2B.1D7347D142E3472.C22F8@mail.speed15.cloud>
+Content-Length: 2942
+
+------=_Part_391_1725627194.1618768969257
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>reduction</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.speed15.cloud/beaching-induce/8be6Pvu2395lR8n613c15eddzO4b14p21yFv4GIf4rxvs4FhIHEsvZ8MRXomneQ7Y1ZH0Xw5w3cYk"><span style="font-size:18px; ">Make Mom Smile with a Beautiful Canvas </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed15.cloud/beaching-induce/8be6Pvu2395lR8n613c15eddzO4b14p21yFv4GIf4rxvs4FhIHEsvZ8MRXomneQ7Y1ZH0Xw5w3cYk"><img alt="canvas" src="http://www.speed15.cloud/beaching-induce/9364h2395CL7Za13l15Mee0z4b14U21rFv4GIf4rxvs4FhIHEsvZ8tRXomneQ7Q1H0lQh6GPcOY2" style="width: 612px; height: 755px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed15.cloud/cb94o2395OC86v12f15edeu4b14T21oFv4GIf4rxvs4FhIHEsvZ8IRXomneQ6p1p0tp5VLUcY/success-Harmonist"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Remove&nbsp; <a href="http://www.speed15.cloud/imagines-implying/e046v23YD95WH89M12w15edfj4b14O21QFv4GIf4rxvs4FhIHEsvZ8vRXomneQ6zZ10lQ5dMcYj"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font face="enumerators"><big></big></font><style size="blinking"></style><style></style><style color="Perilla"><span><span></span></span></style><span></span>
+  </center>   
+ <img src="http://www.speed15.cloud/beaching-induce/bac5h2N395n8Zo513F15yee1D4b14s21iFv4GIf4rxvs4FhIHEsvZ8dRXomneQ7wq1o0XV5ekBcY" alt=""/></body>
+</html>
+
+------=_Part_391_1725627194.1618768969257--
+

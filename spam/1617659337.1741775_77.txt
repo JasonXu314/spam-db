@@ -1,0 +1,133 @@
+Return-Path: <selectquote.insurance-bruce=untroubled.org@scriptsnow.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1184854 invoked from network); 4 Apr 2021 14:06:38 -0000
+Received: (qmail 158970 invoked by uid 222); 4 Apr 2021 14:06:37 -0000
+Return-Path: <selectquote.insurance-bruce=untroubled.org@scriptsnow.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 158967 invoked from network); 4 Apr 2021 14:06:37 -0000
+Received: from mail.scriptsnow.xyz ([208.187.164.131])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 14:06:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=scriptsnow.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote.insurance@scriptsnow.xyz;
+ bh=fgsN5ZPzdmCiy960ram+mgmWd6k=;
+ b=v93dFMRvl9kv5p6auFiMBgRSUVPT6W+eeC4ARlF1m4BOtTqeAKiCm450Wu3SDh+eQZgcsJcn7f9D
+   bEXdpZ91B8BAOn5EezAdmCTXKyldIKlg0VebzIN9g5nvtJNKAmmBXYRBBwzGDstEqaFEJsKho+4z
+   XCYttNqNsRxk7H5IZvI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=scriptsnow.xyz;
+ b=rgRyuPdIASyImYdKYBYvA86ShXio/zeanA1LxjSt0UXtbQhOLTXXzHD8aVLgDFVKTsNfQ6BibVsy
+   p3mdgrNUMHVY6oYSgOtZnSSO6DzGoe312O66t2NoaHdaA5MMyu/GDzFMxEfn2+C4MQ4IS/HRu75r
+   sMbQCzdxC/6sp5gut7k=;
+Received: by mail.scriptsnow.xyz id hd73ug0001g7 for <bruce@untroubled.org>; Sun, 4 Apr 2021 09:49:25 -0400 (envelope-from <selectquote.insurance-bruce=untroubled.org@scriptsnow.xyz>)
+Date: Sun, 4 Apr 2021 09:49:25 -0400
+From: "SelectQuote Insurance" <selectquote.insurance@scriptsnow.xyz>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_235_1512359192.1617544158032"
+List-Unsubscribe: <http://www.scriptsnow.xyz/Horatio-registered/44a4B2395tB89_13vS_1SW1V4a3cK21tFv4GIf4rxvs4FhIHEsvZ11hRknKKRooM95ysH105tzpcY>
+Message-ID: <0.0.0.19.1D7295953076030.6E5695@mail.scriptsnow.xyz>
+Content-Length: 6624
+
+------=_Part_235_1512359192.1617544158032
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>insulted</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.scriptsnow.xyz/suffocated-Sagittarius/5ee4W2395X86Oq12g15a63B4a3cC21SFv4GIf4rxvs4FhIHEsvZ11ARknKKRooM96W1UqZ05SlNcY">Get fast coverage in minutes dont leave your fa=
+mily in debt&nbsp; </a><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.scriptsnow.xyz/suffocated-Sagittarius/5ee4W2395X86Oq12g15a63B4a3cC21SFv4GIf4rxvs4FhIHEsvZ11ARknKKRooM96W1UqZ05SlNcY"><img alt=3D"happyr" src=3D"http://www.scriptsnow.xyz/b155R2q395f7Kas12S15a67g4a3cA21tFv4GIf4rxvs4FhIHEsvZ11oRknKKRooM95I1gr05cOcY0/suffocated-Sagittarius" style=
+=3D"border-width: 0px; border-style: solid; width: 69%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance produ=
+cts and services through its licensed insurance agency, SelectQuote Insuran=
+ce Services, LLC. SelectQuote Insurance Services is not an insurance compan=
+y. We represent trusted insurance companies, and receive commissions ? and =
+possibly other performance-based compensation ? for our services. Products =
+and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10-y=
+ear policy for under a $1 a day. Example policy is for $23 a month. Policy =
+is a United of Omaha : Term Life Answers 10 is a non-participating term lif=
+e insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwri=
+tten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premiu=
+m is guaranteed to stay the same for the 10 year period. Minimum issue amou=
+nt is $100,000. Premiums include a $62.50 annual policy fee. Forms and plan=
+ provisions may vary by state. Plan is available in all states except New Y=
+ork. Suicide and other limits may apply. The most favorable rate classes (a=
+nd lowest rates) are generally intended for those who can meet strict healt=
+h/lifestyle criteria. All rates subject to underwriting qualifications. Rat=
+es effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous review=
+ and subject to change and/or affirmation. For the latest Best' s Credit Ra=
+tings? and Best' s Credit Reports (which include Best' s Credit Ratings? ),=
+ visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Rat=
+ings? for explanation of use and charges.? ? Best' s Credit Ratings? reprod=
+uced herein appear under license from A.M. Best and do not constitute, eith=
+er expressly or impliedly, an endorsement of SelectQuote or its recommendat=
+ions, formulas, criteria or comparisons to any other ratings, rating scales=
+ or rating organizations which are published or referenced herein. A.M. Bes=
+t is not responsible for transcription errors made in presenting Best' s Cr=
+edit Ratings? . Best' s Credit Ratings? are proprietary and may not be repr=
+oduced or distributed without the express written permission of A.M. Best C=
+ompany.? A Best' s Financial Strength Rating opinion addresses the relative=
+ ability of an insurer to meet its ongoing insurance obligations. It is not=
+ a warranty of a company' s financial strength and ability to meet its obli=
+gations to policyholders. View our Important Notice: Best' s Credit Ratings=
+ for a disclaimer notice and complete details at <a href=3D"http://www.scriptsnow.xyz/a076d23Cr95N8S6L12X15a64h4a3cq21kFv4GIf4rxvs4FhIHEsvZ11mRknKKRooM96d10CYk5FTcMY/Horatio-registered">=
+http://www.scriptsnow.xyz/a076d23Cr95N8S6L12X15a64h4a3cq21kFv4GIf4rxvs4FhIHEsvZ11mRknKKRooM96d10CYk5FTcMY/Horatio-registered</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 6800=
+ W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote b=
+y a third-party marketing company. You are receiving email from this third-=
+party marketing company because you have expressed your interest in receivi=
+ng commercial email through a site or sites associated with them.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email contains i=
+nformation regarding products and services offered by SelectQuote. If you d=
+o not wish to receive email messages from SelectQuote that are advertising =
+or promotional in nature, pleas</span>e<a href=3D"http://www.scriptsnow.xyz/o896S2A3P95Ps8l617H1AO5a65qMqN4a3cC21sFv4GIf4rxvs4FhIHEsvZ11oRknKKRooM97L__1ZK05HkcjY/suffocated-Sagittarius"> unsubscribe =
+here.</a></span></span></p>=20
+      </div> &nbsp; Remove <a href=3D"http://www.scriptsnow.xyz/minimizers-periphery/3b44i2395U89_L13J1F5a66Z4a3cm21lFv4GIf4rxvs4FhIHEsvZ11eRknKKRooM96Spp1z05tjclY">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <span></span><font id="caskets"><style></font><font dir="pander"></style></font><style dir="friendlier"></style> =20
+ <img src=3D"http://www.scriptsnow.xyz/meant-carcinogenic/a446IB23S95V8r5x13q15a6J8V4a3cS21QFv4GIf4rxvs4FhIHEsvZ11ARknKKRooM95QZ10V5zPzcY" alt=3D""/></body>
+</html>
+
+------=_Part_235_1512359192.1617544158032--
+

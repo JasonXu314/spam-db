@@ -1,0 +1,75 @@
+Return-Path: <renewal_by_andersen_network-bruce=untroubled.org@gettbenefitss.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1307594 invoked from network); 7 Apr 2021 13:57:16 -0000
+Received: (qmail 209779 invoked by uid 222); 7 Apr 2021 13:57:16 -0000
+Return-Path: <renewal_by_andersen_network-bruce=untroubled.org@gettbenefitss.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 209776 invoked from network); 7 Apr 2021 13:57:16 -0000
+Received: from mail.gettbenefitss.com ([70.102.103.116])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 13:57:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gettbenefitss.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal_by_andersen_network@gettbenefitss.com;
+ bh=vPZPb/6d/1gSFU5NmZSFXsE2QLw=;
+ b=Iw/oQ4Ti1IN+wI8ji9U2Ey3xX1aT5LaoxveFYbiVveIPslB8FJEB9U+ULt8DUc6v5EafORBPNRG1
+   QbNszN0rolZe+d2NF+yIY90uJx0oA+BqvVTmhg3q0Bsin7+vWjhzpx3Uyb22YwrCUV0rVsHPCTt5
+   eUs4/dBa0uBs+mXJ0c4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gettbenefitss.com;
+ b=2RD+Jmy1phV9il2WYst9IFwiIODSTHdq1jGAwLWTgeX9X9Wv8F3QvYOu2P3B4dGbqcI3BKawE9YB
+   PAHhy6zjBJl6MyR9pQ8i70QKAbc0vYprZqIzRm0yONY/gmoVgHbsRN2dMHBg2SWW6BtpcszTJV5i
+   +s5b48tyU8zhcWrsdyY=;
+Received: by mail.gettbenefitss.com id hdmt360001g3 for <bruce@untroubled.org>; Wed, 7 Apr 2021 09:52:36 -0400 (envelope-from <renewal_by_andersen_network-bruce=untroubled.org@gettbenefitss.com>)
+Date: Wed, 7 Apr 2021 09:52:36 -0400
+From: "Renewal By Andersen Network" <renewal_by_andersen_network@gettbenefitss.com>
+To:   <bruce@untroubled.org>
+Subject: Looking for energy efficient windows for your home? Quote from Renewal by Andersen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_940_1585413697.1617803542622"
+List-Unsubscribe: <http://www.gettbenefitss.com/20f6Y2j39u5y8k9o11zz11iB4a6bR21FFv4GIf4rxvs4FhIHEsvZ8ER.ommnm7j1FWKB06QlMWcY/oxidized-Vermont>
+Message-ID: <0.0.0.67.1D72BB544637920.5582C5@mail.gettbenefitss.com>
+Content-Length: 3383
+
+------=_Part_940_1585413697.1617803542622
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>enabler</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.gettbenefitss.com/b6f6A23v9m5gm8h613r15bF60N4a6bl21WFv4GIf4rxvs4FhIHEsvZ8XR.ommnm5G10Ch5Y@ycY/charged-barbecue"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 679px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:georgia,serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.gettbenefitss.com/ad94c2395q8UX612J15b61h4a6bX21NFv4GIf4rxvs4FhIHEsvZ8dR.ommnm5eu10J6SJ1cYL/oxidized-Vermont">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:georgia,serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.gettbenefitss.com/3954f2395hu86z17g15b6DOA2VZw4a6bo21zFv4GIf4rxvs4FhIHEsvZ8NR.ommnm6Dxkg106IyAcjY/wiriness-bears">here.</a></b></span></span></p> <span style="font-family:georgia,serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Vacate<a href="http://www.gettbenefitss.com/5576i2CG395A8p9G12a15b63V4a6bo21uFv4GIf4rxvs4FhIHEsvZ8WR.ommnm5wo1R05eWpcY/adornment-OShea"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style lang="ayes"></style><span><small></span><big><span></big></span><style dir="reiterated"><font color="gubernatorial"></style><small></font></small></small>  
+ <img src="http://www.gettbenefitss.com/5ed5DY2395zJJ8513A1I5b64z4a6bQ21zFv4GIf4rxvs4FhIHEsvZ8QR.ommnm5A10GU6vAc@@Y/availably-labored" alt=""/></body>
+</html>
+
+------=_Part_940_1585413697.1617803542622--
+

@@ -1,0 +1,112 @@
+Return-Path: <fijishowerspa.network-bruce=untroubled.org@ocks85.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1541449 invoked from network); 9 Apr 2021 14:00:53 -0000
+Received: (qmail 21449 invoked by uid 222); 9 Apr 2021 14:00:52 -0000
+Return-Path: <fijishowerspa.network-bruce=untroubled.org@ocks85.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 21446 invoked from network); 9 Apr 2021 14:00:52 -0000
+Received: from mail.ocks85.us ([70.102.103.70])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2021 14:00:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ocks85.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fijishowerspa.network@ocks85.us;
+ bh=e5/cyqLBXtu/wTuaGF3gr3pK9uo=;
+ b=CIzDhkYUVuDfYsf2okhfKjqjPBzZW0np7MUlcnL7V9s+uwDLkuoUBfSsCgvVF8Nd+FET5FzFUtRO
+   VDNL43+VNbI+Q5CMxccj5oNAPWsNnnrBQDdG97Ypn+ZvNodX92Dsd95QOoMvNqCjvyQZeid/DQkN
+   Lov2RVYetBbr2KoEJVA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ocks85.us;
+ b=AfhfOkWwKnIAZkQvMNYl/yE+VFH2sw2n+4VkM9PCHMLaT9wmSzPe/iN6FQo7lydzCPktFVdh1RS2
+   huTdXQPtacOKZjLePZPqSATUSHuYpA1qLpGzGc9Kxt5bW3+1D6Tq3CFUpHCdWZ2xjB7DPcmI90ze
+   9vxFC32G7qYb+iZ2xcA=;
+Received: by mail.ocks85.us id he1f0i0001gi for <bruce@untroubled.org>; Fri, 9 Apr 2021 09:51:32 -0400 (envelope-from <fijishowerspa.network-bruce=untroubled.org@ocks85.us>)
+Date: Fri, 9 Apr 2021 09:51:32 -0400
+From: "FijiShowerSpa Network" <fijishowerspa.network@ocks85.us>
+To:   <bruce@untroubled.org>
+Subject: Welcome To Loving Your Hygiene
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_796_1355010302.1617976284235"
+List-Unsubscribe: <http://www.ocks85.us/1d35d239w5jq89m11Si1J1L4a89U21OFv4GIf4rxvs4FhIHEsvZ8tR1ommdm6Q10gNS5iUJcY/Eumenides-crossers>
+Message-ID: <0.0.0.58.1D72D4772BF7C18.27CDC2@mail.ocks85.us>
+Content-Length: 4879
+
+------=_Part_796_1355010302.1617976284235
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>unformatted</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><a=
+ class=3D"unstyle-auto-detected-links" href=3D"http://www.ocks85.us/engenders-iterative/6665i2K395zW8p612j15bfa_4a89U21pFv4GIf4rxvs4FhIHEsvZ8pR1ommdm6dy10UY6ajcYyW" style=3D"text-de=
+coration: none !important; font-family: sans-serif; font-size: 18px; line-h=
+eight: 20px; text-align: center; color: rgb(153, 153, 153); ">Fiji Shower S=
+pa just for mom</a></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.ocks85.us/engenders-iterative/6665i2K395zW8p612j15bfa_4a89U21pFv4GIf4rxvs4FhIHEsvZ8pR1ommdm6dy10UY6ajcYyW" style=3D"text-decoration: none; "><img alt=3D"shower" src=3D"=
+http://www.ocks85.us/immovability-swordfish/d144g2395z7aKl13t15bfduI4a89P21MFv4GIf4rxvs4FhIHEsvZ8DR1ommdm5f1Oy05ejMcY" style=3D"width: 603px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; If you do not =
+wish to receive future messages click here to <span class=3D"unstyle-auto-d=
+etected-links"><a href=3D"http://www.ocks85.us/engenders-iterative/5944C2395LVB8613K15bBfbL4a89q21OFv4GIf4rxvs4FhIHEsvZ8iR1ommdm7g1Z0ItU5dTczY" style=3D"text-decoration: underline !=
+important; border-bottom-width: 0px !important; cursor: default !important;=
+ color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-=
+weight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br =
+/> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.ocks85.us/engenders-iterative/6665i2K395zW8p612j15bfa_4a89U21pFv4GIf4rxvs4FhIHEsvZ8pR1ommdm6dy10UY6ajcYyW=
+" style=3D"text-decoration: underline !important; border-bottom-width: 0px =
+!important; cursor: default !important; color: rgb(153, 153, 153); font-siz=
+e: 10px; font-family: sans-serif; font-weight: inherit !important; line-hei=
+ght: 14px; text-align: center; ">FijiShowerSpa.com</a>&nbsp; |&nbsp; 23638 =
+W. Lyons Avenue #468 - Newhall, CA 91321</span><br /> <br /> <a href=3D"=
+http://www.ocks85.us/apprehensively-hedonist/e5e4l2395J8mz912d15bfcQ4a89i21cFv4GIf4rxvs4FhIHEsvZ8oR1ommdm5zk1V05JjpcY">Exit Here</a><br /> <br /> 6547 N Academy Boulevard #1170<=
+br /> 80918 Colorado Springs CO</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <span style="buckboard"></span><style></style><small><font color="Howell"></small></font><font id="disposal"></font> =20
+ <img src=3D"http://www.ocks85.us/d315l2Y395k8S5R13l15ubfe_4a89L21LFv4GIf4rxvs4FhIHEsvZ8qR1ommdm7ABA1Nr05blWcY/essential-toying" alt=3D""/></body>
+</html>
+
+------=_Part_796_1355010302.1617976284235--
+

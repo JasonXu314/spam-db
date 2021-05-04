@@ -1,0 +1,65 @@
+Return-Path: <canvasprints.discount-bruce=untroubled.org@tspeed37.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3613258 invoked from network); 25 Apr 2021 20:12:56 -0000
+Received: (qmail 40605 invoked by uid 222); 25 Apr 2021 20:12:55 -0000
+Return-Path: <canvasprints.discount-bruce=untroubled.org@tspeed37.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 40602 invoked from network); 25 Apr 2021 20:12:55 -0000
+Received: from mail.tspeed37.cloud ([208.187.244.162])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Apr 2021 20:12:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed37.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints.discount@tspeed37.cloud;
+ bh=G87hwxASpGiI/WzjlgvXIcAW0Qs=;
+ b=TIPP1mvbonGuXoUXq06zYHxHuitL90IzNj1S8l0GegyrgNGWQL7ccEwtnEJltXHSwBYa3zhKREQC
+   NOA8HLLLC9UF+pjXyNE5JgIZz0BCcXQTPsbXvrgn3bMeKEN3uhuCJM9gTz868FVbA51832J9m1Fw
+   tF2kNK7N+kL+8Tvp2xc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed37.cloud;
+ b=o4GXSAhaCxiraQmAX7LgD0/AlQAYNILTmCrU/U6iirVQLxg3zTKZRakY0tpnyBnp7HYp/tnSKLVw
+   Uiv/tFc5zN16wpdjM+ZdI0WrxYIBegAQOwnyJ4AokcSsGliBwiyLrRPuxZucva7ibh1jcMKCHoX/
+   nQqSiZAUMu7DLsLmqKI=;
+Received: by mail.tspeed37.cloud id hgn6ka0001gv for <bruce@untroubled.org>; Sun, 25 Apr 2021 16:00:53 -0400 (envelope-from <canvasprints.discount-bruce=untroubled.org@tspeed37.cloud>)
+Date: Sun, 25 Apr 2021 16:00:53 -0400
+From: "CanvasPrints Discount" <canvasprints.discount@tspeed37.cloud>
+To:   <bruce@untroubled.org>
+Subject: Send Your Love From Afar! 16x20 Canvas Prints ONLY $14.99!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_94_1179833140.1619380825529"
+List-Unsubscribe: <http://www.tspeed37.cloud/e7b4a2395b8J9F13SJXS11BW4b7aP21VFv4GIf4rxvs4FhIHEsvZ8QRDomoKd7j1L0Uut6vkpTcY/tides-contribute>
+Message-ID: <0.0.0.A.1D73A0DB2B2E3A0.5EFFF7@mail.tspeed37.cloud>
+Content-Length: 2796
+
+------=_Part_94_1179833140.1619380825529
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>restfulness</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.tspeed37.cloud/tides-contribute/13e6Y239JR5avi8617t16A10enpFNp4b7am21EFv4GIf4rxvs4FhIHEsvZ8WRDomoKd7z10RYNr6dTclYT"><span style="font-size:18px; ">Amazing prices for Mothers Day Canvas Prints </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.tspeed37.cloud/tides-contribute/13e6Y239JR5avi8617t16A10enpFNp4b7am21EFv4GIf4rxvs4FhIHEsvZ8WRDomoKd7z10RYNr6dTclYT"><img alt="canvas moms" src="http://www.tspeed37.cloud/babbling-valiant/d146LL23l95ERU7a17VTQN16Sy111i4b7aN21LFv4GIf4rxvs4FhIHEsvZ8hRDomoKd5R1Ai05qkcYM" style="width: 614px; height: 761px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.tspeed37.cloud/quadratic-baccalaureate/8dc4Q2395oDA8613g161u0fx4b7aR21wFv4GIf4rxvs4FhIHEsvZ8HRDomoKd7D1so0HA6ELNczY"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Exit&nbsp; <a href="http://www.tspeed37.cloud/supplying-Rooseveltian/1d45y239L5zS89r13e16k110J4b7aO21JFv4GIf4rxvs4FhIHEsvZ8iRDomoKd5j1Fz05c1ycY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <span><small></span><span dir="disadvantages"><font color="repelled"></font></small></span>
+  </center>   
+ <img src="http://www.tspeed37.cloud/7eb6jtW2395nq85o13nT16112j4b7ao21dFv4GIf4rxvs4FhIHEsvZ8gRDomoKd6r1iPl05aycYL/supplying-Rooseveltian" alt=""/></body>
+</html>
+
+------=_Part_94_1179833140.1619380825529--
+

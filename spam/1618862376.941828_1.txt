@@ -1,0 +1,65 @@
+Return-Path: <canvasprints_discount-bruce=untroubled.org@speed45.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3049583 invoked from network); 19 Apr 2021 19:40:28 -0000
+Received: (qmail 36629 invoked by uid 222); 19 Apr 2021 19:40:27 -0000
+Return-Path: <canvasprints_discount-bruce=untroubled.org@speed45.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36626 invoked from network); 19 Apr 2021 19:40:27 -0000
+Received: from mail.speed45.cloud ([208.187.244.223])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Apr 2021 19:40:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed45.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints_discount@speed45.cloud;
+ bh=+KINtzAQnlPmpk/WZudq1pOMbp0=;
+ b=C0harbXrxENXncXH4q9YiZ5uQh6+rjD2GWtcbs1YXZ1maZYiaLKW2NgEhJNv8AL+6TNNgxzW5LM5
+   Yh51Me+/WYpdp2I5vYc2Dzh/DbxICnOSYZB3ZVGbvJToRv1HJfoX/EhMlURqivurQ0qgIgtoUYY/
+   AWSSgr+XXHMliuacWKQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed45.cloud;
+ b=3LKC9NQDyCyr3s5W/CwSlckSv8dDomLcxfPOr4bTDb2T158G2ssroAMDiQmfb9fVb99AdlNzA9iM
+   dv1UBHWM7cAlwhpT66WROU3yGJCf1lbrRjHl/HJ1nVq1dAgDugbOtD/T9kh1Zw22whwwYYyaj9qq
+   DH/GJJSMFRrr6ASmuI4=;
+Received: by mail.speed45.cloud id hfneam0001ga for <bruce@untroubled.org>; Mon, 19 Apr 2021 15:22:55 -0400 (envelope-from <canvasprints_discount-bruce=untroubled.org@speed45.cloud>)
+Date: Mon, 19 Apr 2021 15:22:55 -0400
+From: "CanvasPrints Discount" <canvasprints_discount@speed45.cloud>
+To:   <bruce@untroubled.org>
+Subject: 90% OFF 16X20 Custom Canvas Prints | UNLIMITED
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_445_366215894.1618860158420"
+List-Unsubscribe: <http://www.speed45.cloud/a435o2I395y89uu13o1qHz1Ug4b29Z21uFv4GIf4rxvs4FhIHEsvZ8uRromomS7SX1GkB05cyUcY/footnotes-emphasizes>
+Message-ID: <0.0.0.31.1D7355166615812.2546A0@mail.speed45.cloud>
+Content-Length: 2917
+
+------=_Part_445_366215894.1618860158420
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>facsimile</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.speed45.cloud/e3w6o239hZ5i8D6j13O15f4enz4b29M21SFv4GIf4rxvs4FhIHEsvZ8yRromomS7a1Pnv0L6b@cYTP/scrapped-preferences"><span style="font-size:18px; ">LOWEST price of the year on Canvas Prints </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.speed45.cloud/e3w6o239hZ5i8D6j13O15f4enz4b29M21SFv4GIf4rxvs4FhIHEsvZ8yRromomS7a1Pnv0L6b@cYTP/scrapped-preferences"><img alt="canvas" src="http://www.speed45.cloud/onanism-purchased/d326hYi2395ik7aZ12H15f51o4b29K21SFv4GIf4rxvs4FhIHEsvZ8kRromomS6z10uWG6BTWcYN" style="width: 613px; height: 756px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.speed45.cloud/naturalism-dove/9725h23l95O8v6s13j15jf4fx4b29o21iFv4GIf4rxvs4FhIHEsvZ8fRromomS5I10CJ6P0jcYj"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Exit&nbsp; <a href="http://www.speed45.cloud/2694V2395F8oN913h15Xf50u4b29h21AFv4GIf4rxvs4FhIHEsvZ8VRromomS7Ft1CO0g6oAlcqY/pantomime-lightness"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font></font><style></style><style lang="Ephesian"><font><font title="rewrite"></style></font></font><big></big><span face="barbell"><font></span></font><style></style><font style="crediting"><big></big></font>
+  </center>   
+ <img src="http://www.speed45.cloud/visions-stunts/1d46O2Y_395S8G5Y12G15f52N4b29G21YFv4GIf4rxvs4FhIHEsvZ8nRromomS6yB1Mn06rl0cYz" alt=""/></body>
+</html>
+
+------=_Part_445_366215894.1618860158420--
+

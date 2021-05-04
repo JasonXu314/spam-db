@@ -1,0 +1,135 @@
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@uto57.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2336923 invoked from network); 13 Apr 2021 13:17:34 -0000
+Received: (qmail 45910 invoked by uid 222); 13 Apr 2021 13:17:33 -0000
+Return-Path: <lifequote.selectquote.com-bruce=untroubled.org@uto57.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 45907 invoked from network); 13 Apr 2021 13:17:33 -0000
+Received: from mail.uto57.com ([208.187.244.199])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 13:17:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=uto57.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifequote.selectquote.com@uto57.com;
+ bh=zXLgm27+ZW/AuQyU/bk5PB1Br+I=;
+ b=RFx5DM0fOZZXyWeYLCRWypbGLJmLx3+IYpTTukI0bEqoVflCA16cItGuIUJN0qEy91yUx6WmF9nt
+   8T/ktzFXcKxo58GlSLIQ2B3Ssry7EQPMduroqSvCA/QbWDAdboGMke5NIxPV255QvzeCx53+6huv
+   /H73IGrhQ940bnBUY5c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=uto57.com;
+ b=CMKDNpVSmbA5JwID1L3qa0eF0TqaM0BWeBqnTXlXBVZHP6Vvm3/jV1UHI/520KtETbPVVk8Jbn97
+   BHb0GzvhswGeaYmnR9+j2vt+X/osPzETjUslMdR+GxkL1R5ZOvgS5+o7wKeC6Gv+Ygtn/+JjBolt
+   0C36e2JxILvMHXmDhyo=;
+Received: by mail.uto57.com id hemcui0001go for <bruce@untroubled.org>; Tue, 13 Apr 2021 09:08:18 -0400 (envelope-from <lifequote.selectquote.com-bruce=untroubled.org@uto57.com>)
+Date: Tue, 13 Apr 2021 09:08:18 -0400
+From: Lifequote.selectquote.com <lifequote.selectquote.com@uto57.com>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_322_1806901166.1618319286449"
+List-Unsubscribe: <http://www.uto57.com/f2f5Sh2395rHG8913hKvhv11C4ac3A21tFv4GIf4rxvs4FhIHEsvZ11qRIomnmooJ95l1gS05azcAY/templates-examined>
+Message-ID: <0.0.0.24.1D7306612A6754E.5B13BE@mail.uto57.com>
+Content-Length: 6744
+
+------=_Part_322_1806901166.1618319286449
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>receptor</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><span style=3D"font-size:18px; "><span style=3D"font-family:arial,helv=
+etica,sans-serif; "><a href=3D"http://www.uto57.com/d4f6X23gY95z8HP612K15d36z4ac3L21VFv4GIf4rxvs4FhIHEsvZ11DRIomnmooJ97q1FumO06fpcyyY/impregnable-gruffly">Quickest way to get covered for =
+just a 1 a day </a></span></span><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.uto57.com/d4f6X23gY95z8HP612K15d36z4ac3L21VFv4GIf4rxvs4FhIHEsvZ11DRIomnmooJ97q1FumO06fpcyyY/impregnable-gruffly"><img alt=3D"happyr" src=3D"http://www.uto57.com/subtitles-skullduggery/dc84V2395qp7aM13Sz15d3aq4ac3D21QFv4GIf4rxvs4FhIHEsvZ11pRIomnmooJ96kN1UY06kBlcqY" style=
+=3D"border-width: 0px; border-style: solid; width: 76%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">Copyright &copy; SelectQuote | All Rights Reserve=
+d 2020</span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">SelectQuote Insurance Services offers insurance p=
+roducts and services through its licensed insurance agency, SelectQuote Ins=
+urance Services, LLC. SelectQuote Insurance Services is not an insurance co=
+mpany. We represent trusted insurance companies, and receive commissions ? =
+and possibly other performance-based compensation ? for our services. Produ=
+cts and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">*40 year-old male in excellent health, $500,000, =
+10-year policy for under a $1 a day. Example policy is for $23 a month. Pol=
+icy is a United of Omaha : Term Life Answers 10 is a non-participating term=
+ life insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), unde=
+rwritten by United of Omaha Life Insurance Company, Omaha, NE 68175. The pr=
+emium is guaranteed to stay the same for the 10 year period. Minimum issue =
+amount is $100,000. Premiums include a $62.50 annual policy fee. Forms and =
+plan provisions may vary by state. Plan is available in all states except N=
+ew York. Suicide and other limits may apply. The most favorable rate classe=
+s (and lowest rates) are generally intended for those who can meet strict h=
+ealth/lifestyle criteria. All rates subject to underwriting qualifications.=
+ Rates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">* Best' s Credit Ratings? are under continuous re=
+view and subject to change and/or affirmation. For the latest Best' s Credi=
+t Ratings? and Best' s Credit Reports (which include Best' s Credit Ratings=
+? ), visit the A.M. Best website at ambest.com. See Guide to Best' s Credit=
+ Ratings? for explanation of use and charges.? ? Best' s Credit Ratings? re=
+produced herein appear under license from A.M. Best and do not constitute, =
+either expressly or impliedly, an endorsement of SelectQuote or its recomme=
+ndations, formulas, criteria or comparisons to any other ratings, rating sc=
+ales or rating organizations which are published or referenced herein. A.M.=
+ Best is not responsible for transcription errors made in presenting Best' =
+s Credit Ratings? . Best' s Credit Ratings? are proprietary and may not be =
+reproduced or distributed without the express written permission of A.M. Be=
+st Company.? A Best' s Financial Strength Rating opinion addresses the rela=
+tive ability of an insurer to meet its ongoing insurance obligations. It is=
+ not a warranty of a company' s financial strength and ability to meet its =
+obligations to policyholders. View our Important Notice: Best' s Credit Rat=
+ings for a disclaimer notice and complete details at <a href=3D"http://www.uto57.com/2qf6sB239O5Oh86X17g15vXNd37uBJ4ac3I21IFv4GIf4rxvs4FhIHEsvZ11yRIomnmooJ97mDT1h0q6wUJcY3/respondent-interview"=
+>http://www.uto57.com/2qf6sB239O5Oh86X17g15vXNd37uBJ4ac3I21IFv4GIf4rxvs4FhIHEsvZ11yRIomnmooJ97mDT1h0q6wUJcY3/respondent-interview</a></span></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">SelectQuote Insurance Services Corporate Office: =
+6800 W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=
+=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:10px; ">This email was sent to you on behalf of SelectQuo=
+te by a third-party marketing company. You are receiving email from this th=
+ird-party marketing company because you have expressed your interest in rec=
+eiving commercial email through a site or sites associated with them.</span=
+></span></p>=20
+       <p><span style=3D"font-family:times new roman,times,serif; "><span s=
+tyle=3D"font-size:9px; ">This email contains information regarding products=
+ and services offered by SelectQuote. If you do not wish to receive email m=
+essages from SelectQuote that are advertising or promotional in nature, ple=
+ase<a href=3D"http://www.uto57.com/6474m2395v86vr17hg15dNzTM38z4ac3J21KFv4GIf4rxvs4FhIHEsvZ11DRIomnmooJ97H1Gr_x06VJ2PcY/Witherspoon-bunches"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; =
+"> &nbsp; End <a href=3D"http://www.uto57.com/impregnable-gruffly/5584q2395o8rh912j15d39G4ac3X21VFv4GIf4rxvs4FhIHEsvZ11sRIomnmooJ97mZCh1l05jzcYB">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style><big><span></span><span></big></style></span><big></big><big></big><big><style></style></big><big></big> =20
+ <img src=3D"http://www.uto57.com/8O95A23m95u_h8513X15dk3bF4ac3p21UFv4GIf4rxvs4FhIHEsvZ11JRIomnmooJ95U1ou06opP1cY/templates-examined" alt=3D""/></body>
+</html>
+
+------=_Part_322_1806901166.1618319286449--
+

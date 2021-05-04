@@ -1,0 +1,88 @@
+Return-Path: <31672-44520-39280-8274-bruce=untroubled.org@mail.spypod.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2452269 invoked from network); 15 Apr 2021 12:42:24 -0000
+Received: (qmail 80096 invoked by uid 222); 15 Apr 2021 12:42:24 -0000
+Return-Path: <31672-44520-39280-8274-bruce=untroubled.org@mail.spypod.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 80093 invoked from network); 15 Apr 2021 12:42:24 -0000
+Received: from pluto.spypod.us ([134.73.142.246])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 12:42:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=spypod.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FindBug@spypod.us;
+ bh=aeGTTk83TZBaxeFf1NvoWy8G6Lw=;
+ b=TwaEaT9N1s+NAc+56RRzv2uhwpn5i+MnInuq+RkfRlwaMdZZ1O04g2IVb8Uv9M8gmTxvxpDL0FgM
+   0vZM+YCcbLrjRxOnpmmBvbxz7UjxI8VN/tzeK8JsFb4HglaoTl6RC74cAChiu5K/DnCSzoWlMckt
+   MseZzUqsP4CM08j8ldQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=spypod.us;
+ b=XJO0L7UFO21/dHnmUFUhdASPJ9vzVzLeyToPK2thjHJpVEQxcGhvqwNOGkn+fxnhmgX3cadoHZd6
+   ykZyUfbT+D4IDJ98SEfZSsLcmOfeGbctp1SdVvQBnwNiz4f3YbETjPtnxwTub6KhfOxwqX77GMDI
+   b6lHprmMR72z+RrUDcI=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b8615996e82237c9fa970bf95cb50bda_ade8_9970"
+Date: Thu, 15 Apr 2021 05:40:56 -0700
+From: "Detect Bug" <FindBug@spypod.us>
+Reply-To: "Bug Detector" <BugDetector@spypod.us>
+Subject: Detect Bug in your home, hotel or anywhere you go
+To: <bruce@untroubled.org>
+Message-ID: <weo4c5qn8iikek7i-m1bk7a4ssly9ggrk-ade8-9970@spypod.us>
+Content-Length: 5646
+
+--b8615996e82237c9fa970bf95cb50bda_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Detect Bug in your home, hotel or anywhere you go
+
+http://spypod.us/FIvn-3GuQLLXfEgOZTjcg3zqxs7BLOo0830MNslaT_Tf7F_r
+
+http://spypod.us/cmGjdrkDlcaZlah8jI9rOFO4OZQ-LWH26BiVxO44IiWvwt8B
+
+dramukhi is a courtesan who lives in Calcutta also known as Kolkata. She is considered the most beautiful and richest prostitute in the area of Chitpur. She is first introduced to Devdas by Chunnilal, who returns to Calcutta heartbroken after the marriage of Parvathi "Paro". Devdas, disgusted over Chandramukhi's profession insults her and leaves her kotha. Chandramukhi, impressed by Devdas's attitude, later falls in love with him after realizing his steadfast love for Paro. She leaves her profession for Devdas and convinces him to marry her; he, however, has to reluctantly reject her offer as he has devoted his life to Paro. In return, Chandramukhi does not force him to be with her but waits patiently for him. Subsequently, she also moves to Ashthajhari village, where she lives in a muddy house located at the bank of a river and helps the needy. After some struggle, she meets with Devdas again, who now accepts her love.
+
+In the film.Chandrabati Devi as Chandramukhi and Pramathesh Barua as Devdas in the 1935 Bengali film Devdas.In most of the film adaptations of Devdas, the story of Chandramukhi is similar to the novel. However, in most of the films her humanitarian work in helping the needy is not depicted. Unlike in the novel, a scene in which Chandramukhi and Parvathi meet was added in Bimal Roy's 1955 version when Paro, played by Suchitra Sen riding in a human rickshaw, comes across Chandramukhi, played by Vyjayanthimala, who just stares at Paro without a single word being exchanged between them. The meeting scene of Paro and Chandramukhi in the 1955 version was still regarded as one of the memorable scene in Bollywood with the background music adding the impact to the scene. In the 2002 version, the director, Sanjay Leela Bhansali, extended the interaction between Paro and Chandramukhi, also showing them dancing together to the hit song "Dola Re Do
+
+--b8615996e82237c9fa970bf95cb50bda_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://spypod.us/JDxofyo5qXrt5SLZDKyfOY4c5aL2Wq5njNwXyuWO6AqkcM4c"><img src="http://spypod.us/0353a7d3b796d331db.jpg" /><img height="1" src="http://www.spypod.us/IRbcNIn3L59A9j9rz2G1NMnFZI_0mLu_LJARkbV-IIVtngDR" width="1" /></a>
+<div style="margin-left:25px;"><br />
+<br />
+<a href="https://bit.ly/3slWmS6"><img src="http://spypod.us/ea560b25cf3b3d752b.jpg" /></a><br />
+<br />
+&nbsp;
+<div><span style="font-size:25px;"><a href="http://spypod.us/FIvn-3GuQLLXfEgOZTjcg3zqxs7BLOo0830MNslaT_Tf7F_r" style="color:#37B89A;" target="blank"><b>Detect Bug in your home, hotel or anywhere you go</b></a></span></div>
+<br />
+<a href="http://spypod.us/FIvn-3GuQLLXfEgOZTjcg3zqxs7BLOo0830MNslaT_Tf7F_r" target="blank"><img src="http://spypod.us/6c9206875a4ffbfb1f.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:5px;">dramukhi is a courtesan who lives in Calcutta also known as Kolkata. She is considered the most beautiful and richest prostitute in the area of Chitpur. She is first introduced to Devdas by Chunnilal, who returns to Calcutta heartbroken after the marriage of Parvathi &quot;Paro&quot;. Devdas, disgusted over Chandramukhi&#39;s profession insults her and leaves her kotha. Chandramukhi, impressed by Devdas&#39;s attitude, later falls in love with him after realizing his steadfast love for Paro. She leaves her profession for Devdas and convinces him to marry her; he, however, has to reluctantly reject her offer as he has devoted his life to Paro. In return, Chandramukhi does not force him to be with her but waits patiently for him. Subsequently, she also moves to Ashthajhari village, where she lives in a muddy house located at the bank of a river and helps the needy. After some struggle, she meets with Devdas again, who now accepts her love. In the film.Chandrabati Devi as Chandramukhi and Pramathesh Barua as Devdas in the 1935 Bengali film Devdas.In most of the film adaptations of Devdas, the story of Chandramukhi is similar to the novel. However, in most of the films her humanitarian work in helping the needy is not depicted. Unlike in the novel, a scene in which Chandramukhi and Parvathi meet was added in Bimal Roy&#39;s 1955 version when Paro, played by Suchitra Sen riding in a human rickshaw, comes across Chandramukhi, played by Vyjayanthimala, who just stares at Paro without a single word being exchanged between them. The meeting scene of Paro and Chandramukhi in the 1955 version was still regarded as one of the memorable scene in Bollywood with the background music adding the impact to the scene. In the 2002 version, the director, Sanjay Leela Bhansali, extended the interaction between Paro and Chandramukhi, also showing them dancing together to the hit song &quot;Dola Re Do</span><br />
+<a href="http://spypod.us/LlLWTT3hHSJJwKxx2IvJQYa9VwMRGljWMGqjg_VRMgmP7sXi" target="blank"><img src="http://spypod.us/19ba34bd3fd8cc9480.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://spypod.us/cmGjdrkDlcaZlah8jI9rOFO4OZQ-LWH26BiVxO44IiWvwt8B" target="blank"><img src="http://spypod.us/703662d73fec5b0840.jpg" /><br />
+<img src="http://spypod.us/4367512581468caf6c.jpg" /></a></div>
+</body>
+</html>
+
+--b8615996e82237c9fa970bf95cb50bda_ade8_9970--

@@ -1,0 +1,65 @@
+Return-Path: <canvas.prints.promo-bruce=untroubled.org@new12.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2622539 invoked from network); 15 Apr 2021 21:24:39 -0000
+Received: (qmail 91032 invoked by uid 222); 15 Apr 2021 21:24:38 -0000
+Return-Path: <canvas.prints.promo-bruce=untroubled.org@new12.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 91029 invoked from network); 15 Apr 2021 21:24:38 -0000
+Received: from mail.new12.cloud ([208.187.244.155])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 21:24:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=new12.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.promo@new12.cloud;
+ bh=ZHgiRLbQn3xb3PN76pjywAk363Y=;
+ b=eI4mnszxxmBP+pSf5PA6HFWHlREV01TLcVWgeWMggpWLuYQVDUbxaDP1HG+Dibfwc/jbEfibU1ki
+   f/B9oyZ+16wxuJphqWD4CgJ9wmDnh5eO2n4M8m1Rgz6aIKHIOVmob2R3mwj9Wb4sI3hklaSq0kHj
+   iqeoRSPjey98qCvaqZ4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=new12.cloud;
+ b=khZJvfHcbi5U8+nNjFH8IeiPCNJIZMbpIxsQM7a+sMLql3P4bUW6Si/C7nDidxQm6MGBlIRtPj7K
+   AQWl04CFICdy6mQdD1jTouzJRWBXPCoPks+xLK21c8T4My7KPHajlUd5kuD9qqOgecPNi0JQV8/H
+   wnBkaemxCe3Pjqmk/0o=;
+Received: by mail.new12.cloud id hf2nha0001g1 for <bruce@untroubled.org>; Thu, 15 Apr 2021 17:14:02 -0400 (envelope-from <canvas.prints.promo-bruce=untroubled.org@new12.cloud>)
+Date: Thu, 15 Apr 2021 17:14:02 -0400
+From: "Canvas Prints Promo" <canvas.prints.promo@new12.cloud>
+To:   <bruce@untroubled.org>
+Subject: FLASH SALE! $14.99 for 16x20 Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_424_1823277866.1618521231286"
+List-Unsubscribe: <http://www.new12.cloud/Harveyize-valences/22e4P2395FGK8912pr1_1Wz4aecD21zFv4GIf4rxvs4FhIHEsvZ8PRYomndQ5q_J106mpkkcY>
+Message-ID: <0.0.0.2F.1D7323C425D4C4A.734E58@mail.new12.cloud>
+Content-Length: 2950
+
+------=_Part_424_1823277866.1618521231286
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>percentages</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.new12.cloud/Weldwood-piecewise/5ee4h2395n86Bj12L15e0el4aecW21iFv4GIf4rxvs4FhIHEsvZ8DRYomndQ6uDyu106QMkcYl"><span style="font-size:18px; ">Give Mom the best gift for Mothers Day</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.new12.cloud/Weldwood-piecewise/5ee4h2395n86Bj12L15e0el4aecW21iFv4GIf4rxvs4FhIHEsvZ8DRYomndQ6uDyu106QMkcYl"><img alt="canvas" src="http://www.new12.cloud/Harveyize-valences/c7e6y23Dl95KK7Ua17vyP1FL5e11gI4aecC21pFv4GIf4rxvs4FhIHEsvZ8oRYomndQ7M10kKHW5OkJcY" style="width: 608px; height: 752px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:georgia,serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.new12.cloud/af76j23qh95yi8D612m15e0fo4aeck21nFv4GIf4rxvs4FhIHEsvZ8vRYomndQ7sjwYU106cOcYzX/ligament-teacher"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> leave&nbsp; <a href="http://www.new12.cloud/Tunisia-rebutted/9ae6Q_m2395w8Hr912n15e10Y4aecg21lFv4GIf4rxvs4FhIHEsvZ8PRYomndQ5YB10N5nJ2cY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <span class="temporally"></span><span size="dominated"></span><font lang="affinities"><span title="availability"></span><small><font></font></font><style class="Pauling"></style></small><small><font dir="nerves"></small></font><style></style>
+  </center>   
+ <img src="http://www.new12.cloud/5b15fY2395b8R5_12D15e12y4aecZ21MFv4GIf4rxvs4FhIHEsvZ8KRYomndQ6k_10Yt5RjTcY/Tunisia-rebutted" alt=""/></body>
+</html>
+
+------=_Part_424_1823277866.1618521231286--
+

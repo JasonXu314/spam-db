@@ -1,0 +1,80 @@
+Return-Path: <offer-renewal-by-andersen-bruce=untroubled.org@speed4.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3003788 invoked from network); 18 Apr 2021 20:21:19 -0000
+Received: (qmail 14455 invoked by uid 222); 18 Apr 2021 20:21:19 -0000
+Return-Path: <offer-renewal-by-andersen-bruce=untroubled.org@speed4.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 14452 invoked from network); 18 Apr 2021 20:21:19 -0000
+Received: from mail.speed4.cloud ([208.187.244.209])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Apr 2021 20:21:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed4.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offer-renewal-by-andersen@speed4.cloud;
+ bh=l4qTnkRpRop9RHU4lIKgwb44D2Q=;
+ b=ErojlqxbmMCy+oSuDaAKUFW8I9ggngnNAD2WEotz4Gdp1EeN6UQ3RT+/sBfz5eUEYQ+rvii/hElh
+   bEfbjb2iKWPuufy7UxG8dq4wG/CSlfynORNmhKoMWVmMG74I2rxffL8gDuB8AhitxEvT7iHrv6Tz
+   MnWg0U2GA3h4BJa0GPs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed4.cloud;
+ b=SnmMhYv1TSPpLX/e+OZC/4Gtty4c5F1ZZpQvIHA/pe0M/Nwytz/BNMXsqXBPGNuJ2m6miWpbUnbI
+   kjeYHpFhF/LLAG4zA08dJgtha1BZfOcS/oI/ZM0hEd5VkpPEM1CDWzDmOenWyXTlfm0wharg+++F
+   SE503OkatDFs2aH3cu4=;
+Received: by mail.speed4.cloud id hfiabo0001g4 for <bruce@untroubled.org>; Sun, 18 Apr 2021 16:12:52 -0400 (envelope-from <offer-renewal-by-andersen-bruce=untroubled.org@speed4.cloud>)
+Date: Sun, 18 Apr 2021 16:12:52 -0400
+From: "Offer Renewal By Andersen" <offer-renewal-by-andersen@speed4.cloud>
+To:   <bruce@untroubled.org>
+Subject: Take Advantage of Winter Savings with Renewal by Andersen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_991_963085898.1618776752906"
+List-Unsubscribe: <http://www.speed4.cloud/1b54A2395yZp8911UOg11Y4b18F21vFv4GIf4rxvs4FhIHEsvZ8yR0omneK7muKx1g05A0cLY/Burnes-muddling>
+Message-ID: <0.0.0.6E.1D7348F3620251A.496C5E@mail.speed4.cloud>
+Content-Length: 3664
+
+------=_Part_991_963085898.1618776752906
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>subsection</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <a href="http://www.speed4.cloud/buffoons-brutalized/8be6Wn239U5k8o6O12h15ef3y4b18O21RFv4GIf4rxvs4FhIHEsvZ8GR0omneK5uw10_5SO3cY">&nbsp; Get the BEST deal on windows</a>
+   <br /> 
+   <br /> &nbsp; 
+  </div> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.speed4.cloud/buffoons-brutalized/8be6Wn239U5k8o6O12h15ef3y4b18O21RFv4GIf4rxvs4FhIHEsvZ8GR0omneK5uw10_5SO3cY"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 693px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:times new roman,times,serif; "><span style="font-size:9px; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.speed4.cloud/2695Dj2395ty8V613a1q5ef4J4b18y21BFv4GIf4rxvs4FhIHEsvZ8gR0omneK7P1AWZ0S5aAUcY/submariners-poetically">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:times new roman,times,serif; "><span style="font-size:9px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.speed4.cloud/piteously-Yorkshire/a9e5j23p95gBU8617mA15AkeRf5qu4b18g21sFv4GIf4rxvs4FhIHEsvZ8zR0omneK5QxB105w1lcY">here.</a></b></span></span></p> <span style="font-family:times new roman,times,serif; "> <span style="font-size:9px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> Quit&nbsp; <a href="http://www.speed4.cloud/a075J2F395fK89n17E15euZIf6hpw4b18V21NFv4GIf4rxvs4FhIHEsvZ8LR0omneK7EDk10qk5EzjcY/piteously-Yorkshire"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style face="stoles"><font face="price"></style></font><font id="personalizing"><font><span></font></span></font><style></style><style class="columnized"></style>  
+ <img src="http://www.speed4.cloud/baton-breakage/1984z2395Ws8y512s15ef7T4b18x21MFv4GIf4rxvs4FhIHEsvZ8XR0omneK5GoF105lqcjY" alt=""/></body>
+</html>
+
+------=_Part_991_963085898.1618776752906--
+

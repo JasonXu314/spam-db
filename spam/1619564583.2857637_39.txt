@@ -1,0 +1,942 @@
+Return-Path: <1axcdci24hsthy70jm1doq175gc2bulgit1ani-bruce=untroubled.org@bf07x.hubspotemail.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 117546 invoked from network); 27 Apr 2021 08:58:59 -0000
+Received: (qmail 66345 invoked by uid 222); 27 Apr 2021 08:58:59 -0000
+Return-Path: <1axcdci24hsthy70jm1doq175gc2bulgit1ani-bruce=untroubled.org@bf07x.hubspotemail.net>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 66342 invoked from network); 27 Apr 2021 08:58:59 -0000
+Received: from bid46qb.bf07x.hubspotemail.net (bid46qb.bf07x.hubspotemail.net [158.247.18.193])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 08:58:59 -0000
+Received: by 172.16.213.73 with SMTP id axgrxyqepup3h4871ifh4eegod6tfkib7brwea;
+        Tue, 27 Apr 2021 08:58:54 GMT
+DKIM-Signature: v=1; s=hs1; d=bf07x.hubspotemail.net; 
+        i=@bf07x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=iJrrF0AYW8zmrAnUXbdAf+XoU2rXzRZlCGeeAq3nK7Y=; 
+        b=IGkh+y2RNXWxikveNU+stUEcwq7lidcgrqCPgk2+Q7fMfQxBPQ9xTV9i/ynmmw
+         BTzhF39HW8wPI2Av62s+wkn2yIRKv36AMqU+w6e5KYI0VYQ81GzWYZ/SFM4ciIz
+         F3DotDZWcnljf7wz/zAol1W2J+pKkQKhLs9YJwXKO+67ih3EIpOA2SDw4+48aLn
+         h6IR81A2etvqLRMtT5E9m/J9zEGs8ep6HpN1HNS/9+OGjwencSO2wZOgXPRKwLd
+         4mVRExAQp0I8jO1hHCmziveufyYDzls9U3My4F1+vCJUfLNu0UOXQ3ga4UNgMFq
+         37cM/4mqicDPIdV+2bVqLWxr/j+Q==; q=dns/txt; t=1619513934;
+DKIM-Signature: v=1; s=hs2; d=works-hub.com; i=@works-hub.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=iJrrF0AYW8zmrAnUXbdAf+XoU2rXzRZlCGeeAq3nK7Y=; 
+        b=Zsk4ZRDOYU8gOh03z1SkRjAJLmxEufyL86QOAnWtJ6WOHd+tz6WhN/ljJINkNv
+         VNEsCDiEiBt594SLYZGG3U5vRVREH6kAsvA5IC4QeXXTlSBgL7NUBvEFYGBJBSi
+         7oByHikr4FA3nai/IDckPiMjM+0WNPrFlIowxmxm/vex6TB1b/+fnMZ89zM+9GQ
+         cYBl5Pf7ClJ+1T8ORjg2zKzKDmBcFp9NjgVSOfl5RKgUgUkDDLvs4tEkN3jcv/1
+         qWZr+BSWj4etv2vl6dPrMD8yNsavBFC4VapFRBANbCbddXJRa95xDveWqpngpVX
+         mfXHSF7oHZW0T3Y26bG0W6qOfwZg==; q=dns/txt; t=1619513934;
+Return-Path: <1axcdci24hsthy70jm1doq175gc2bulgit1ani-bruce=untroubled.org@bf07x.hubspotemail.net>
+X-HS-Cid: 1axfla5p0xbxuxm57ubuvce8ywceu5mp13q2um
+List-Unsubscribe: <mailto:1axdql47fafegr2adbgp21sdi33jatvm6lsj6m-bruce=untroubled.org@bf07x.hubspotemail.net?subject=unsubscribe>
+Date: Tue, 27 Apr 2021 09:58:54 +0100
+From: Mihaela Popa <mihaela@works-hub.com>
+Reply-To: mihaela@works-hub.com
+To: bruce@untroubled.org
+Message-ID: <1619513671368.90e42fcb-0054-4d4f-9b61-5f26033ff963@bf07x.hubspotemail.net>
+Subject: =?utf-8?Q?=F0=9F=97=A3=EF=B8=8FGermany_is_calling!_?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_47576643_617988866.1619513934652"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+Content-Length: 47304
+
+------=_Part_47576643_617988866.1619513934652
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+At WorksHub,  we have several exciting open roles at German companies like =
+Risk Ident, Travel Audience, Zalando, Nubank, and more.
+
+
+
+
+
+Germany is calling!
+
+Bruce, have you ever considered relocating to Germany? =F0=9F=87=A9=F0=9F=
+=87=AAWell, this is your sign!
+
+Germany=E2=80=99s tech scene has been thriving. With a startup ecosystem on=
+ the rise, they=E2=80=99re known for fostering innovation and talent and ha=
+ve generated numerous global success stories in the last years.
+
+When talking about Germany it=E2=80=99s hard not to mention Berlin, the fir=
+st city in Germany and the 8th in the world in terms of startup ecosystem r=
+anking. This city is, in fact, Europe=E2=80=99s startup capital. More than =
+10% of the startup entrepreneurs in Germany come from other countries, and =
+one-fifth of employees are foreign.
+
+However, the major benefit in Germany is that you don=E2=80=99t have to be =
+in Berlin or Munich to make it, as there are twelve smaller but flourishing=
+ Digital Hubs across the country. From Future Industries-focused Stuttgart =
+to Logistics-centered Hamburg, each hub specializes in a different area of =
+tech based on its local resources, industry players, and specialized talent=
+.
+
+Here at WorksHub (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDb=
+rf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd03 ) ,  we have several exciting o=
+pen roles at German companies like Risk Ident (https://newsletter.works-hub=
+.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd13 ) =
+, Travel Audience (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DD=
+brf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd23 ) , Zalando (https://newslette=
+r.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f=
+1KTlgd33 ) ,  or Nubank (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf=
+5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd43 ) using various tech fro=
+m JavaScript, Python, Go to Scala so make sure to check them out!
+
+Here are the 10 best reasons to live in Germany
+
+- Plenty of start-ups and chances to grow with a company and become investe=
+d in them.
+- Chance to work with cutting-edge/latest technology.
+- Multi-cultural hub with people from all over.
+- In major tech hubs like Berlin or Hamburg, you can't go wrong with only E=
+nglish skills.
+- Easier sponsorship tracks via the Blue Card visa setup.
+- Better work/life balance.
+- Great for your family thanks to a brilliant health and education system.
+- Affordable rail links and excellent public transport.
+- You can visit 46 World Heritage Sites.
+- Amazing food and beer! =F0=9F=A5=A8
+
+Jobs in Germany
+
+At WorksHub, we currently have a variety of cool companies hiring in German=
+y:
+
+- Platform/DevOps Engineer at Risk Ident (https://newsletter.works-hub.com/=
+e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd53 )
+- Backend Engineer (Java/Kotlin) at Zalando (https://newsletter.works-hub.c=
+om/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd63 )
+- JavaScript Engineer at Taxdoo (https://newsletter.works-hub.com/e2t/sc2/M=
+m-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd73 )
+- Remote Senior Fullstack Engineer at HiPeople (https://newsletter.works-hu=
+b.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgd83 )
+
+View all open roles
+
+(https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ssHgdW7BDxJx6t=
+b13RW5g777P9gt7L3f1KTlgd93 )
+
+Want to speak with us?
+
+Let's chat
+(mailto:mihaela@works-hub.com)
+
+Manage preferences (https://newsletter.works-hub.com/hs/manage-preferences/=
+unsubscribe?d=3DVncJJW4JnvQPW3Cf9Mr3JP0xKW4fN0hG3CbGvRN1JDwVNWxCQjN1fkvKFky=
+f5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3W1KVcpz7jDJDWF2HT7XmDtrrN9gfSz8KF=
+3tsf6x4wjB04&v=3D3&_hsenc=3Dp2ANqtz-_XPgZ-tBAISv8QfPCMR0Y2yga-UZj66b3EimXZA=
+6S0KPxAUz2ENdMdfNccD0VyKchfu-trWqVpJ4zhJdFWPt9rs3eDxA&_hsmi=3D123704054 ) o=
+r unsubscribe (https://newsletter.works-hub.com/hs/manage-preferences/unsub=
+scribe?d=3DVncJJW4JnvQPW3Cf9Mr3JP0xKW4fN0hG3CbGvRN1JDwVNWxCQjN1fkvKFkyf5pW5=
+DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3W1KVcpz7jDJDWF2HT7XmDtrrN9gfSz8KF3tsf6=
+x4wjB04&v=3D3&_hsenc=3Dp2ANqtz-_XPgZ-tBAISv8QfPCMR0Y2yga-UZj66b3EimXZA6S0KP=
+xAUz2ENdMdfNccD0VyKchfu-trWqVpJ4zhJdFWPt9rs3eDxA&_hsmi=3D123704054 )
+
+=C2=A9 WorksHub 2021
+
+81 Rivington  London Shoreditch EC2A 3AY UK
+
+twitter_icon-1 (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf=
+6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgdb3 )
+
+linkedin_icon-1 (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDbr=
+f6ssHgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgdc3 )
+
+github_icon (https://newsletter.works-hub.com/e2t/sc2/Mm-nFbkyf5pW5DDbrf6ss=
+HgdW7BDxJx6tb13RW5g777P9gt7L3f1KTlgdd3 )
+------=_Part_47576643_617988866.1619513934652
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html bgcolor=3D"#f4f5f8" style=3D"margin: 0; padding: 0; ba=
+ckground-color: #f4f5f8"><head>
+        <title>=F0=9F=97=A3=EF=B8=8FGermany is calling! </title>
+        <meta property=3D"og:title" content=3D"=F0=9F=97=A3=EF=B8=8FGermany=
+ is calling! ">
+        <meta name=3D"twitter:title" content=3D"=F0=9F=97=A3=EF=B8=8FGerman=
+y is calling! ">
+       =20
+        <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #c4d4dd;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+                       =20
+        /*]]>*/
+        </style>
+        <style type=3D"text/css" style=3D"font-weight: 400">
+  @import url(https://fonts.googleapis.com/css?family=3DMontserrat:400,600)=
+;
+  @import url(https://fonts.googleapis.com/css2?family=3DRoboto:400,600);
+ =20
+  *
+  {
+     font-family: Montserrat, Roboto, Helvetica, Arial, sans-serif;
+     font-size: 16px;
+     line-height: 1.2;
+  }
+</style>
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://newsletter.works-hub.com/-temporary-slug-aca010fb-98fc-40=
+e5-aff7-44310e416366"><meta name=3D"x-apple-disable-message-reformatting"><=
+meta name=3D"robots" content=3D"noindex,follow"></head>
+    <body class=3D"" bgcolor=3D"#f4f5f8" style=3D"margin: 0; padding: 0; ba=
+ckground-color: #f4f5f8 " marginheight=3D"0" marginwidth=3D"0" topmargin=3D=
+"0">
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#f4f5f8;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            At WorksHub,&nbsp; we have several exciting open roles at Germa=
+n companies like Risk Ident, Travel Audience, Zalando, Nubank, and more.
+        </div>
+        <!-- start container -->
+        <table bgcolor=3D"#f4f5f8" style=3D"background-color: #f4f5f8; -web=
+kit-font-smoothing: antialiased; -webkit-text-size-adjust: none" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+             <tbody><tr>
+                <td bgcolor=3D"#f4f5f8" style=3D"background-color: #f4f5f8;=
+">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f4f5f8" st=
+yle=3D"background-color: #f4f5f8">
+                                    <!-- start header section -->
+                                    <div class=3D"header-container-wrapper"=
+>
+</div><!--end header wrapper -->
+                                    <!-- end header section -->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f4f5f8" style=3D"padding: 10px 20px; backgr=
+ound-color: #f4f5f8">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td id=3D"main_body" width=3D"600" bgcolor=
+=3D"#ffffff" style=3D"padding: 0px; background-color: #ffffff; ; border-rad=
+ius: 4px">
+                                    <div align=3D"center">
+                                        <table cellpadding=3D"0" width=3D"6=
+00" cellspacing=3D"0" border=3D"0">
+                                            <!-- start content -->
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0; ba=
+ckground-color: #ffffff">
+                                                    <div align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height=
+: 1.5em; color: #6e7f89">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <div al=
+ign=3D"center">
+                                                                        <!-=
+- start body section -->
+                                                                        <di=
+v class=3D"body-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1619510386588138" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module"><div style=3D"padding: 30px; background: wh=
+ite;">
+  <img src=3D"https://newsletter.works-hub.com/hubfs/Property%201=3Dwww%20(=
+2).png" alt=3D"Property 1=3Dwww (2)" style=3D"width: 280px; max-width: 100%=
+;">
+</div>
+  </div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+    <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; padding: 0 30px 30px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+        <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1615902924387480" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" =
+style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs=
+-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+   =20
+ =20
+<div id=3D"hs_cos_wrapper_module_1615902924387480_" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style=3D"color: in=
+herit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"linked_image"><img src=3D"https://newslette=
+r.works-hub.com/hs-fs/hubfs/2021%20(2)-2.png?width=3D1070&amp;upscale=3Dtru=
+e&amp;name=3D2021%20(2)-2.png" class=3D"hs-image-widget " style=3D"max-heig=
+ht:236px; max-width:535px; border-width:0px;border:0px;" width=3D"535" alt=
+=3D"germany is calling" title=3D"germany is calling" srcset=3D"https://news=
+letter.works-hub.com/hs-fs/hubfs/2021%20(2)-2.png?upscale=3Dtrue&amp;width=
+=3D1070&amp;upscale=3Dtrue&amp;name=3D2021%20(2)-2.png 535w, https://newsle=
+tter.works-hub.com/hs-fs/hubfs/2021%20(2)-2.png?upscale=3Dtrue&amp;width=3D=
+2140&amp;upscale=3Dtrue&amp;name=3D2021%20(2)-2.png 1070w" sizes=3D"(max-wi=
+dth: 535px) 100vw, 535px"></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+           </td>
+       </tr>
+        <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608048491883730" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"module"><span id=3D"hs_cos_wrap=
+per_module_spacer" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wra=
+pper_type_space" style=3D"" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"space"></span></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+           </td>
+       </tr>
+        <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; padding-top:30px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608044367052213" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+<h1 class=3D"text-primary" style=3D"color: #454E54; letter-spacing: 0.01em;=
+ margin-bottom: 10px; font-size: 24px; margin-top: 0px;">
+  <div id=3D"hs_cos_wrapper_module_1608044367052213_" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_inline_text" style=3D"color: i=
+nherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"inline_text" data-hs-cos-field=3D"title">Ge=
+rmany is calling!</div>
+</h1></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+               </td>
+           </tr>
+            <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608044158644168" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+<div style=3D"color: #454E54; margin-bottom: 25px;">
+  <div id=3D"hs_cos_wrapper_module_1608044158644168_" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=3D"col=
+or: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general=
+-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-field=3D=
+"content"><p style=3D"margin-bottom: 1em; line-height: 1.5;">Bruce, have yo=
+u ever considered relocating to Germany? =F0=9F=87=A9=F0=9F=87=AAWell, <str=
+ong>this is your sign!</strong><br><br>Germany=E2=80=99s tech scene has bee=
+n thriving. With a startup ecosystem on the rise, they=E2=80=99re known for=
+ fostering innovation and talent and have generated numerous global success=
+ stories in the last years.&nbsp;<br><br>When talking about Germany it=E2=
+=80=99s hard not to mention <strong>Berlin</strong>, the first city in Germ=
+any and the 8th in the world in terms of startup ecosystem ranking. This ci=
+ty is, in fact, <strong>Europe=E2=80=99s startup capital</strong>. More tha=
+n 10% of the startup entrepreneurs in Germany come from other countries, an=
+d one-fifth of employees are foreign.&nbsp;<br><br>However, the major benef=
+it in Germany is that you don=E2=80=99t have to be in Berlin or Munich to m=
+ake it, as there are twelve smaller but flourishing Digital Hubs across the=
+ country. From Future Industries-focused Stuttgart to Logistics-centered Ha=
+mburg, each hub specializes in a different area of tech based on its local =
+resources, industry players, and specialized talent.<br><br>Here at <strong=
+><span style=3D"color: #ff7c6e;"><a href=3D"https://newsletter.works-hub.co=
+m/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzN7jDJvJ3lGn5V1-WJV7CgC1rVKPp=
+BB1lFjzYW6g_Fkz3vfMwJW6J2m6N21htM6W42rFVf8mw_2TN25GstqLKWr7W7dDqFb3tlvwzW5B=
+0wZ048B0xvW13X0Qs1cvjh_W4Wrbhs1lJ2TjW2SygvD6qggm_W7YxyLg4zG-LMW1jdY118hnTCB=
+N3-TJnz3wG2zW25DM1Q5W8H4cW4mZVMd4Gzqx0W1DppgX49qXJbN40p5cVcg-QyW7qQRFj4KWRn=
+JW86lKM17m6d6JN731TwGJ9NDdW28B3WT9cd_yYW4Sx9mt4_VJVrW5BzJSV2tg8tNW1Kp6ZY3kw=
+NKJ39w81" rel=3D"noopener" style=3D"color: #ff7c6e;" data-hs-link-id=3D"0" =
+target=3D"_blank">WorksHub</a></span></strong>,&nbsp; we have several excit=
+ing open roles at German companies like <span><strong><span style=3D"color:=
+ #ff7c6e;"><a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW=
+2X3RVS1p069cW3Dl4Sm4qVRxzN7jDJvp3lGmQV1-WJV7CgLl1N8f1cVt-GXctW8TMJD26j4rwQW=
+1ZKB1p88wZPXN32nbJ8tHDRdW4fQ1Pq1FClcqN6ZRvCcJ1Z_8N1f6CNBWbk_qW42PQLl7yjjblW=
+3mb7sL3zsNNmW647PTg6jxP_5V9KWGq1rB_PCW8d4RLg36ZX6GW4-RLtz5swt96N1TrPD_7xSKF=
+W3Ctk5C2Gg2PGW2v_J7r2qC22jN7fNsgMPbjlZW6KRWN17Lw3M0W9cFdjG4kG9SNW3nTn9N5qSg=
+qjW8DS2yj4KmLdPW31YvdG2Gq4Zv3krz1" rel=3D"noopener" style=3D"color: #ff7c6e=
+;" data-hs-link-id=3D"0" target=3D"_blank">Risk Ident</a></span></strong>, =
+<strong><span style=3D"color: #ff7c6e;"><a href=3D"https://newsletter.works=
+-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzN7jDJvJ3lGn5V1-WJV7Cg=
+J1rN1t3g__gxvDsW7m1LB66Kmw27W47T6PL6Gcd16W8HXRz25czs6HVkM_CZ1TyFg7Vw-mVW1d4=
+ZZYW4vXTck1rhYdJW6DzXrM1xMD7fW8SQ4061mLFlFW2GgBP331tjSmW3QydFx7bgvVxW6zLNT-=
+22yFJzW337LfL54QD3_Vy66rh16smKXW4s60nS8jMC08W76-dt13yVYxTW71K0hg7g-_qxW5Gj2=
+cH68pNJHW4jy0tn5sjlljW2d3k3K50FfjJW220mgm8QtLhHW4R7l3R8KjLL5W9j-Mw538RZbGW5=
+7K_1H8p6VCv347x1" rel=3D"noopener" style=3D"color: #ff7c6e;" data-hs-link-i=
+d=3D"0" target=3D"_blank">Travel Audience</a></span></strong>, <strong><spa=
+n style=3D"color: #ff7c6e;"><a href=3D"https://newsletter.works-hub.com/e2t=
+/tc/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzN7jDJvp3lGmQV1-WJV7CgXrmW6H91K06K=
+g5hRW1vkFCK92D5SsW6DQ-V65T1PKZW7B4lW8727_rZVy_nXd76GfbSW4clykh3tXw-6W5jCgMB=
+205WNxW33jqm-8-j1bLW7gd4h93DZdxyW1bT14m9dSnb5W8jYx438vr5R2W3KshLs6fv_8-N2DZ=
+2KQ_hGqWW49PmWJ6RB6g5W6MBLSw5P-6KcW2_TTLW7FQXzgW5mvWwZ12hGn2W3V896z1ksR57W4=
+vc7H369r7WvW4vBkjy8Tkjc0W9dlMBB9fbS4mW9h0z2w516p583cz31" rel=3D"noopener" s=
+tyle=3D"color: #ff7c6e;" data-hs-link-id=3D"0" target=3D"_blank">Zalando</a=
+></span></strong></span>, <span style=3D"color: #ff7c6e;"></span> or <stron=
+g><span style=3D"color: #ff7c6e;"><a href=3D"https://newsletter.works-hub.c=
+om/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzN7jDJvp3lGmQV1-WJV7CgJNZW56=
+TcXC17x6_YW2ZkDT48c7KRvW3YFPxy7L6g1PW3VVjQv64byhwW5h9n6z7-Gy60W6n0wpw3HN8Vn=
+W8jD8S53HwnRCW86M09L3kVhl6W2q72B41SGZJcW70X9LJ5ynDsGW7Z4sW_3xQv-mW5pwrpK2q4=
+4pvW55zYrx63J0vqW35XJ092v-wQGW2FGp_15Sxr9VW6KPwrR7m9sF5W8WpbcV46BkBDW5nsYlR=
+5G56FWW210l2j77w97_W7YsmsX6xTwk9N3sX-B9wcwWpVTp6J85kzCL43jLg1" rel=3D"noope=
+ner" style=3D"color: #ff7c6e;" data-hs-link-id=3D"0" target=3D"_blank">Nuba=
+nk</a></span></strong> using various tech from <strong>JavaScript, Python, =
+Go </strong>to<strong> Scala</strong>&nbsp;so make sure to check them out!<=
+/p></div>
+</div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+               </td>
+           </tr>
+            <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_16087321831301305" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module"><hr style=3D"border: 1px solid #E6EDF2; ma=
+rgin: 20px 0;"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+               </td>
+           </tr>
+            <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1619371611693155" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+<div style=3D"color: #454E54; margin-bottom: 25px;">
+  <div id=3D"hs_cos_wrapper_module_1619371611693155_" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=3D"col=
+or: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general=
+-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-field=3D=
+"content"><h2 style=3D"line-height: 1.5;"><span style=3D"font-size: 16px;">=
+<strong>Here are the 10 best reasons to live in Germany</strong></span></h2=
+>
+<ol>
+<li style=3D"line-height: 1.5;">Plenty of start-ups and chances to grow wit=
+h a company and become invested in them.</li>
+<li style=3D"line-height: 1.5;">Chance to work with cutting-edge/latest tec=
+hnology.</li>
+<li style=3D"line-height: 1.5;">Multi-cultural hub with people from all ove=
+r.</li>
+<li style=3D"line-height: 1.5;">In major tech hubs like Berlin or Hamburg, =
+you can't go wrong with only English skills.</li>
+<li style=3D"line-height: 1.5;">Easier sponsorship tracks via the Blue Card=
+ visa setup.</li>
+<li style=3D"line-height: 1.5;">Better work/life balance.</li>
+<li style=3D"line-height: 1.5;">Great for your family thanks to a brilliant=
+ health and education system.</li>
+<li style=3D"line-height: 1.5;">Affordable rail links and excellent public =
+transport.</li>
+<li style=3D"line-height: 1.5;">You can visit 46 World Heritage Sites.</li>
+<li style=3D"line-height: 1.5;">Amazing food and beer! =F0=9F=A5=A8</li>
+</ol></div>
+</div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+               </td>
+           </tr>
+        </tbody></table>
+           </td>
+       </tr>
+        <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608729234944712" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"module"><span id=3D"hs_cos_wrap=
+per_module_spacer" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wra=
+pper_type_space" style=3D"" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"space"></span></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+           </td>
+       </tr>
+        <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; padding-top:30px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"5" width=3D"41.66666666666667%" class=3D"" st=
+yle=3D"width:41.66666666666667%; text-align: left; padding: 0; font-family:=
+ Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; color: #6e7f89; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608722410721443" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" =
+style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs=
+-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+   =20
+ =20
+<div id=3D"hs_cos_wrapper_module_1608722410721443_" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style=3D"color: in=
+herit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"linked_image"><img src=3D"https://newslette=
+r.works-hub.com/hs-fs/hubfs/workshublaunch.splashthat.com%3Fpartial=3D27539=
+2%26screenshotHash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%=
+26isTakingScreenshot=3D13-5-445661-edited.png?width=3D440&amp;upscale=3Dtru=
+e&amp;name=3Dworkshublaunch.splashthat.com%3Fpartial=3D275392%26screenshotH=
+ash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%26isTakingScree=
+nshot=3D13-5-445661-edited.png" class=3D"hs-image-widget " style=3D"max-hei=
+ght:220px; max-width:220px; border-width:0px;border:0px;" width=3D"220" alt=
+=3D"workshub" title=3D"workshub" srcset=3D"https://newsletter.works-hub.com=
+/hs-fs/hubfs/workshublaunch.splashthat.com%3Fpartial=3D275392%26screenshotH=
+ash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%26isTakingScree=
+nshot=3D13-5-445661-edited.png?upscale=3Dtrue&amp;width=3D440&amp;upscale=
+=3Dtrue&amp;name=3Dworkshublaunch.splashthat.com%3Fpartial=3D275392%26scree=
+nshotHash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%26isTakin=
+gScreenshot=3D13-5-445661-edited.png 220w, https://newsletter.works-hub.com=
+/hs-fs/hubfs/workshublaunch.splashthat.com%3Fpartial=3D275392%26screenshotH=
+ash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%26isTakingScree=
+nshot=3D13-5-445661-edited.png?upscale=3Dtrue&amp;width=3D880&amp;upscale=
+=3Dtrue&amp;name=3Dworkshublaunch.splashthat.com%3Fpartial=3D275392%26scree=
+nshotHash=3D0ec7c5e55b2bd2a9%26showWorkspace=3D1%26t=3D1512571510%26isTakin=
+gScreenshot=3D13-5-445661-edited.png 440w" sizes=3D"(max-width: 220px) 100v=
+w, 220px"></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+                   </td>
+<td valign=3D"top" colspan=3D"7" width=3D"58.333333333333336%" class=3D"" s=
+tyle=3D"width:58.333333333333336%; text-align: left; padding: 0; font-famil=
+y: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-hei=
+ght: 1.5em; color: #6e7f89; padding-left:15px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+                    <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608722317888354" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+<div style=3D"color: #454E54; margin-bottom: 25px;">
+  <div id=3D"hs_cos_wrapper_module_1608722317888354_" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=3D"col=
+or: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general=
+-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-field=3D=
+"content"><p style=3D"margin-bottom: 1em; "><strong>Jobs in Germany</strong=
+></p>
+<p style=3D"margin-bottom: 1em; ">At WorksHub, we currently have a variety =
+of cool companies hiring in Germany:</p>
+<ul>
+<li>Platform/DevOps Engineer at <strong><span style=3D"color: #ff7c6e;"><a =
+href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3=
+Dl4Sm4qVRxzN7jDJv_3lGnpV1-WJV7CgKs4W1kpTnk6h8kD8VFnjGS2Zc1B2W2R9J7b2nHY5QW4=
+r-Xxl1rhv7DW8mXrW57MxmJPW6n-2484NvJz9W2f-CSv1z6ScVW3pYfQY1T-j8HW8DBfmy3TCfg=
+gW6dmjc87Hnz7JW642tw52S9c3zW2ZzK7h1v3LFDW3rs2QL4tDkzQW82yGSL3PFXhbN2RbymcG4=
+S72W7N_Qzr1vpl-2W39w6V_4HQD6RW5SlnBP2qjngLW2Qw2yC8Dm-7PVHDl612BBXkxVwmBcz8Y=
+SWq3W3jjq9k2rg3B_W2QC3_95Pw5GGW70StjD6FxFBRF3T3pFckmyqW1r-Zgp3sNtQW39KN1" r=
+el=3D"noopener" style=3D"color: #ff7c6e;" data-hs-link-id=3D"0" target=3D"_=
+blank">Risk Ident</a></span></strong></li>
+<li>Backend Engineer (Java/Kotlin) at <strong><span style=3D"color: #ff7c6e=
+;"><a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p=
+069cW3Dl4Sm4qVRxzN7jDJtw5kbT5V3Zsc37CgTcJW5SK79H82NVXGW2gg0K666DmGyW2s_Zkg6=
+4fF9DN4qJ658mCcLYW7kPrS02rXWMgW3dkjtK7d_W7QW1ZX4yt99y_lcW4gKjcV7_lThdW7nj0H=
+N2XlrD_W7ZsvSK8ZmMjYW631KPw722GsyW4p7fWr24X6n8W7kctpZ6gw_dkW8zPv5m3qZRfWN8z=
+mbyjbxwZ4W3t3p5B33rLCyVGl0cm3sSCMsN5X5L18zdcRgW5vlvtV5B8vV3W6j5_Q02cR58yW8x=
+7wcQ5Wxk9VW3yvJYc8bZmt5W5WvTNN5FLtjlW4WFLr-26ZQCBW12G_5V5mxfftW4QsG0k4rh1Pv=
+W2lQFY23XqNFjW6d0-Nf72JCMYW47slxG2NPp1_Vjb9KS2zvdG6W4vj9Ks4W_P7xVz6_Nz7yf2F=
+k3nTc1" rel=3D"noopener" style=3D"color: #ff7c6e;" data-hs-link-id=3D"0" ta=
+rget=3D"_blank"><span style=3D"color: #ff7c6e;">Zalando</span></a></span></=
+strong></li>
+<li>JavaScript Engineer at <span style=3D"color: #ff7c6e;"><a href=3D"https=
+://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzN7=
+jDJv_3lGnpV1-WJV7CgYv3W20jz9R46XZHVW63XlB61SgChMV2wZMK6kwF77W8yrhnK84FKB9W2=
+2Z97W67X4mXW8JGQpb2WymT9W2lthmP8GtWqkW75b78118rTN-W7bMg3S78KwDsW3JgN495hThV=
+4W2fxN7d86nnX_W35SdFm32grYkVhh9c-3xlQKHW5PBB7j2hKQWXW2hs12Y7zXFhKW59L0hc4m2=
+pQ3W70j4FF1kHZfjW8qWvLM6gvG8MW7GjMz_5djyM3W4NqzG72x2yPHW4-L8BY3ZNmvkW7q4Y_9=
+6pXnlqW7JsLKP4fTnJvW4364Zb93N1ybW4LQJBr3lz8FjW7J8Vz02jhQP33lkf1" rel=3D"noo=
+pener" style=3D"color: #ff7c6e;" data-hs-link-id=3D"0" target=3D"_blank"><s=
+trong>Taxdoo</strong></a></span></li>
+<li>Remote Senior Fullstack Engineer at <span style=3D"color: #ff7c6e;"><a =
+href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069cW3=
+Dl4Sm4qVRxzN7jDJvJ3lGn5V1-WJV7Cg-YmW1r0T186JjfxzW1SvXHL9jXYfKW5nb3vT35CXV5W=
+6N046M4XpG_rW1N69L87XNYmKW900zkb12ZNNQW1blhnB3G08rgVzdFmj8VcJM4W8rL1_v2N1tb=
+QW5BXCl25dYXPPW6tgTRV824RZSW2J6lRJ4njjH3W5KlYxN4x6R-bW4MYQVx3TSKX3Vz_gT071d=
+dMHW2ZXly56y2h-MV86_cS4wp1p6W6vfTb42WNz5wW7c9Jsf4T2nKsV-f4_C7-21HbW63wnX850=
+jLXcW321v8x80sNqhVMfpbB1JSMdpW2z1xhq4pND8k36wM1" rel=3D"noopener" style=3D"=
+color: #ff7c6e;" data-hs-link-id=3D"0" target=3D"_blank"><strong>HiPeople</=
+strong></a></span></li>
+</ul></div>
+</div>
+</div>
+</div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+                       </td>
+                   </tr>
+                    <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608722317888355" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+=09
+<a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1p069=
+cW3Dl4Sm4qVRxzN7jDJvJ3lGn5V1-WJV7CgMbXW7Xfdc-4z9SCXW7kxrZZ408dwrW1nVbnf7mv1=
+jYW1QgT9v6q0Fd2W7t5c0W5Lzwh4W1mT6428h7qNWW59pVCj1STksmW6jtNfl8c9BzNN4n7fVvc=
+1d-bVZT2nx4_dmY1W7vkWXT7c4bvLW2RrhN87XsbwwW4HlBfF1xs0zdW5Ctj197Cc-lYW2P1yZm=
+95PDsVW140YNB5BtsFHW4r6xsB5RGnGRW3D57B82TNnClW87LBb84mT2FXW1ScTd_2Ts5xXW7wn=
+wvx6HtpQ6N1VFRWrRknz4W8zzNDn56g8kSN7QT5YZXjBJR34Ft1" style=3D"display: inli=
+ne-block; letter-spacing: 0.03em; text-decoration: none; padding: 12px 20px=
+; border-radius: 4px; background-color: #ef8374; color: white; border: none=
+; font-weight: bold;" target=3D"_blank" rel=3D"noopener" data-hs-link-id=3D=
+"1">
+=09<div id=3D"hs_cos_wrapper_module_1608722317888355_" class=3D"hs_cos_wrap=
+per hs_cos_wrapper_widget hs_cos_wrapper_type_inline_text" style=3D"color: =
+inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-typ=
+e=3D"widget" data-hs-cos-type=3D"inline_text" data-hs-cos-field=3D"title">V=
+iew all open roles</div>
+</a></div>
+</div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+                       </td>
+                   </tr>
+                </tbody></table>
+                   </td>
+               </tr>
+            </tbody></table>
+               </td>
+           </tr>
+        </tbody></table>
+           </td>
+       </tr>
+    </tbody></table>
+       </td>
+   </tr>
+    <tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1608729325114756" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"module"><span id=3D"hs_cos_wrap=
+per_module_spacer" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wra=
+pper_type_space" style=3D"" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"space"></span></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+   </tr>
+</tbody></table>
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: Tahoma, Verdana, Arial=
+, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #6e7f8=
+9; ">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1617900196109440" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+<div>
+  <div style=3D"background-color: #FBE2DF; padding: 30px 30px 30px; color: =
+#DF7567;">
+    <div style=3D"font-size: 20px; font-weight: bold; margin: 0 0 20px;">
+      Want to speak with us?
+    </div>
+    <a href=3D"mailto:mihaela@works-hub.com" style=3D"display: inline-block=
+; letter-spacing: 0.03em; text-decoration: none; padding: 12px 20px; border=
+-radius: 4px; background-color: #ef8374; color: white; border: none; font-w=
+eight: bold;" data-hs-link-id=3D"0" target=3D"_blank">
+      Let's chat
+    </a>
+  <br>
+  </div>
+</div>
+  <div style=3D"background-color: #6e7f89; padding: 30px 30px 30px; color: =
+white;">
+   =20
+=09
+=09
+=09=20
+=09<img src=3D"https://newsletter.works-hub.com/hs-fs/hubfs/WORKSHUB%20(2).=
+png?width=3D400&amp;height=3D38&amp;upscale=3Dtrue&amp;name=3DWORKSHUB%20(2=
+).png" alt=3D"workshub logo" width=3D"200" height=3D"19" srcset=3D"https://=
+newsletter.works-hub.com/hs-fs/hubfs/WORKSHUB%20(2).png?upscale=3Dtrue&amp;=
+width=3D400&amp;height=3D38&amp;upscale=3Dtrue&amp;name=3DWORKSHUB%20(2).pn=
+g 200w, https://newsletter.works-hub.com/hs-fs/hubfs/WORKSHUB%20(2).png?ups=
+cale=3Dtrue&amp;width=3D800&amp;height=3D76&amp;upscale=3Dtrue&amp;name=3DW=
+ORKSHUB%20(2).png 400w" sizes=3D"(max-width: 200px) 100vw, 200px">
+    <br>
+    <br>
+ =20
+  <a href=3D"https://newsletter.works-hub.com/hs/manage-preferences/unsubsc=
+ribe?d=3DVncJJW4JnvQPW3Cf9Mr3JP0xKW4fN0hG3CbGvRN1JDwVNWxCQjN1fkvKFkyf5pW5DD=
+brf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3W1KVcpz7jDJDWF2HT7XmDtrrN9gfSz8KF3tsf6x4=
+wjB04&amp;v=3D3&amp;utm_source=3Dhs_email&amp;utm_medium=3Demail&amp;utm_co=
+ntent=3D123704054&amp;_hsenc=3Dp2ANqtz-9Hy856RWohOvDHr78Fk5vid2CucECmJdd553=
+llOuj6ptEDqsnMsadFwGInhrCQfyP4_yuhgPy8YldVNtrkZbGFVddqYg&amp;_hsmi=3D123704=
+054" style=3D"color: white" data-hs-link-id=3D"0" target=3D"_blank">Manage =
+preferences</a> or <a href=3D"https://newsletter.works-hub.com/hs/manage-pr=
+eferences/unsubscribe?d=3DVncJJW4JnvQPW3Cf9Mr3JP0xKW4fN0hG3CbGvRN1JDwVNWxCQ=
+jN1fkvKFkyf5pW5DDbrf6ssHgdW7BDxJx6tb13RW5g777P9gt7L3W1KVcpz7jDJDWF2HT7XmDtr=
+rN9gfSz8KF3tsf6x4wjB04&amp;v=3D3&amp;utm_source=3Dhs_email&amp;utm_medium=
+=3Demail&amp;utm_content=3D123704054&amp;_hsenc=3Dp2ANqtz-9Hy856RWohOvDHr78=
+Fk5vid2CucECmJdd553llOuj6ptEDqsnMsadFwGInhrCQfyP4_yuhgPy8YldVNtrkZbGFVddqYg=
+&amp;_hsmi=3D123704054" style=3D"color: white" data-hs-link-id=3D"1" target=
+=3D"_blank">unsubscribe</a>
+  <br>
+  <br>
+  =C2=A9 WorksHub 2021
+  <br>
+  81 Rivington  London Shoreditch EC2A 3AY UK
+  <br>
+  <br>
+  <div>
+    <a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1=
+p069cW3Dl4Sm4qVRxzN7jDJv53lGmwV1-WJV7CgX9wN1D3Pc7nQ37xW5l1Dqr5Kpm4PW2KhtB04=
+D_LlrW2fjQD354xJ-zW6SnrJW6hGmqnW4-MCGS3cwz9vW96TP8b4GR7plVKY5qK69Db-rW2XnZF=
+J2GMXLhVQW4pJ1Zp7rtW2rLg_T54WXjHV5j7yK2Z2KGgW4s61BN6xsVsmW7zXv6d89shlPW2GY-=
+xY67N67CW5ZjS_h46FmDXW8KWNS_6qkFMVW8n99ms4R2zk5W48R2dc85gVm6W5qBVdg5l0QXY37=
+DB1" style=3D"display: inline-block; margin-right: 6px; width: 24px; height=
+: 24px;" data-hs-link-id=3D"0" target=3D"_blank">
+      <img src=3D"https://newsletter.works-hub.com/hs-fs/hubfs/twitter_icon=
+-1.png?width=3D48&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dtwitter_ico=
+n-1.png" alt=3D"twitter_icon-1" width=3D"24" height=3D"24" srcset=3D"https:=
+//newsletter.works-hub.com/hs-fs/hubfs/twitter_icon-1.png?upscale=3Dtrue&am=
+p;width=3D48&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dtwitter_icon-1.p=
+ng 24w, https://newsletter.works-hub.com/hs-fs/hubfs/twitter_icon-1.png?ups=
+cale=3Dtrue&amp;width=3D96&amp;height=3D96&amp;upscale=3Dtrue&amp;name=3Dtw=
+itter_icon-1.png 48w" sizes=3D"(max-width: 24px) 100vw, 24px">
+    </a>
+    <a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1=
+p069cW3Dl4Sm4qVRxzN7jDJvp3lGmQV1-WJV7CgPzSW2f4q2b7bFtHvW35Qsqh4DvnHRW5DCKWp=
+6RG6gCVG-RpP3lV2nqW4tzcYz7ZxMSKW7n1D3j1P1CJ9W5Xlg4J3Gx0g8W8lsKy110lZBkW24yw=
+Zy1cbwCYW6nLVql6Tyk25VBJ2KZ7fGFf1W1d6nNM8gg8MYW4_4Xwj3gxsg0N7Rjy4LwkNN_W8mf=
+6YW1pcXSRW7HdGvn5JmDMQW4rCTNh69fd0DW2jvsZf4YjjHbW3TN9Bj7wFgMsW2gBWHT60YyM8W=
+1y4V-Y8fhFFtW1znQc15Xg3Sv3kg51" style=3D"display: inline-block; margin-righ=
+t: 6px; width: 24px; height: 24px;" data-hs-link-id=3D"0" target=3D"_blank"=
+>
+      <img src=3D"https://newsletter.works-hub.com/hs-fs/hubfs/linkedin_ico=
+n-1.png?width=3D48&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dlinkedin_i=
+con-1.png" alt=3D"linkedin_icon-1" width=3D"24" height=3D"24" srcset=3D"htt=
+ps://newsletter.works-hub.com/hs-fs/hubfs/linkedin_icon-1.png?upscale=3Dtru=
+e&amp;width=3D48&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dlinkedin_ico=
+n-1.png 24w, https://newsletter.works-hub.com/hs-fs/hubfs/linkedin_icon-1.p=
+ng?upscale=3Dtrue&amp;width=3D96&amp;height=3D96&amp;upscale=3Dtrue&amp;nam=
+e=3Dlinkedin_icon-1.png 48w" sizes=3D"(max-width: 24px) 100vw, 24px">
+    </a>
+    <a href=3D"https://newsletter.works-hub.com/e2t/tc/VWtqsV7qy2CfW2X3RVS1=
+p069cW3Dl4Sm4qVRxzN7jDJv53lGmwV1-WJV7CgRmrW8-_06X77TBHPW8z477J9lfy24W8gczNY=
+25p_cpW90NZGy1sVR54W8kkM8v8tVcNxW2cg_R086c_L1W1-sdhQ6QXf9hW27Pv3b52Bk5pN4d2=
+vd4yd6JgW7Ygc7c5_V_3ZW9j13GS9fnJCbW6B4mkp8GXvV3W36rV8m3RcmLGW5f37DM8dCfXJW7=
+SsYXr2cgT1QW2p291w7_NgnRW362vK71d2vz8F5Tb2wHYPHCW66VGjB249KbkW2h2_kV1Z3gDd3=
+h1f1" style=3D"display: inline-block; margin-right: 6px; width: 24px; heigh=
+t: 24px;" data-hs-link-id=3D"0" target=3D"_blank">
+      <img src=3D"https://newsletter.works-hub.com/hs-fs/hubfs/github_icon.=
+png?width=3D48&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dgithub_icon.pn=
+g" alt=3D"github_icon" width=3D"24" height=3D"24" srcset=3D"https://newslet=
+ter.works-hub.com/hs-fs/hubfs/github_icon.png?upscale=3Dtrue&amp;width=3D48=
+&amp;height=3D48&amp;upscale=3Dtrue&amp;name=3Dgithub_icon.png 24w, https:/=
+/newsletter.works-hub.com/hs-fs/hubfs/github_icon.png?upscale=3Dtrue&amp;wi=
+dth=3D96&amp;height=3D96&amp;upscale=3Dtrue&amp;name=3Dgithub_icon.png 48w"=
+ sizes=3D"(max-width: 24px) 100vw, 24px">
+    </a>
+  </div>
+</div></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end body wrapper -->
+                                                                        <!-=
+- end body section -->
+                                                                   =20
+                                                               =20
+                                                           =20
+                                                        </tbody></table>
+                                                    </div>
+                                                </div></td>
+                                            </tr>
+                                            <!-- end content -->
+                                        </tbody></table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f4f5f8" style=3D"background-color: #f4f5f8;=
+ padding: 13px 0px">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f4f5f8" st=
+yle=3D"background-color: #f4f5f8">
+                                    <!-- start footer section -->
+                                    <div class=3D"footer-container-wrapper"=
+>
+</div><!--end footer wrapper -->
+                                    <!-- end footer section -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end container -->
+   =20
+</div></td></tr></tbody></table><img src=3D"https://newsletter.works-hub.co=
+m/e2t/to/VWtqsV7qy2CfW2X3RVS1p069cW3Dl4Sm4qVRxzf7jDJfr22" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"display:none!important;min-height:1p=
+x!important;width:1px!important;border-width:0!important;margin-top:0!impor=
+tant;margin-bottom:0!important;margin-right:0!important;margin-left:0!impor=
+tant;padding-top:0!important;padding-bottom:0!important;padding-right:0!imp=
+ortant;padding-left:0!important"></body></html>
+------=_Part_47576643_617988866.1619513934652--
+

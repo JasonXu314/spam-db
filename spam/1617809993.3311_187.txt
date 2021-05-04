@@ -1,0 +1,113 @@
+Return-Path: <converting.keychain-bruce=untroubled.org@cyprussurgerycenter.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1310833 invoked from network); 7 Apr 2021 15:32:22 -0000
+Received: (qmail 211428 invoked by uid 222); 7 Apr 2021 15:32:21 -0000
+Return-Path: <converting.keychain-bruce=untroubled.org@cyprussurgerycenter.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 211425 invoked from network); 7 Apr 2021 15:32:21 -0000
+Received: from mail.cyprussurgerycenter.com ([195.88.25.29])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 15:32:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cyprussurgerycenter.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=converting.keychain@cyprussurgerycenter.com;
+ bh=B0JB815gfCpdOsTydKR7bHrDUQ8=;
+ b=doJGlrn6uQY2AfMC6vhRWsCeP+Ku9TrTDyVe9+ouEv639OV86AsZWLxh/EGhgQG1QyqPH8rN+lS+
+   5NLqcWDDxtCwsNdP33BhGrKPX9LK/cyuEBvMi5+IMMKbIG5IRvFaTKYLv2pnZ8HYN2sb/YYMhTYj
+   pPI12eMaWlp+orUSh1s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cyprussurgerycenter.com;
+ b=wMXae5MM5DmR3cyVSOmG1RbjBoR/zJVSxPOqBB35VUAYHAPFwcf/ArZ3v/yPd1rXX84XxCTqhPwS
+   U61LTqFfJpQoMiZe+yvg8qM05rmwsxOrpK/8sSFW9Q8WuEVRtfoS8MAWHHt/9NDJ6i0hjie4nF1/
+   K6/9Hukgrh6OU7hi6j0=;
+Received: by mail.cyprussurgerycenter.com id hdn8em0001ga for <bruce@untroubled.org>; Wed, 7 Apr 2021 11:31:44 -0400 (envelope-from <converting.keychain-bruce=untroubled.org@cyprussurgerycenter.com>)
+Date: Wed, 7 Apr 2021 11:31:44 -0400
+From: "Converting Keychain" <converting.keychain@cyprussurgerycenter.com>
+To:   <bruce@untroubled.org>
+Subject: Charge any device from any power source on the go
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_124_1854037506.1617809377292"
+List-Unsubscribe: <http://www.cyprussurgerycenter.com/22d5j_2395B89Xz11QR1ty1R4a3U21wFv4GIf4rxvs4FhIHEsvZ7iQannKS5pJ1Y06wOzs3v/leeway-straightaway>
+Message-ID: <0.0.0.14.1D72BC31DD07FE8.6B1220@mail.cyprussurgerycenter.com>
+Content-Length: 5304
+
+------=_Part_124_1854037506.1617809377292
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** The Swiss Army Knife of Cables.   One Cable For Every Device, All in One.  **
+------------------------------------------------------------------------------------------------------------------
+
+The keychain is compatible with most devices out there.  This cable keychain is a one-of-a-kind solution to your cable needs.  With 6 connections in one, this keychain is compatible with most current devices on the market.  It also contains strong N52 magnets to assure it will never leave your keychain.  Great for you or as a gift, get yours today!
+
+
+
+Buy Now http://www.cyprussurgerycenter.com/8f94e2395S86YU12t1egI98s4a3k21dFv4GIf4rxvs4FhIHEsvZ7SQannKS5inN106C@zlsv/thatches-generic
+
+
+
+
+Cohen & Verrel Data Solutions
+386 Colby Siding Rd
+Caribou, ME 4736-5540
+Update Communication Preferences http://www.cyprussurgerycenter.com/bicycler-wandered/5765j239o5M8j_610U1e94t4a3W21yFv4GIf4rxvs4FhIHEsvZ7fQannKS7RWnr1o05ElWsv
+
+
+
+------=_Part_124_1854037506.1617809377292
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="UTF-8" /> 
+  <meta name="viewport" content="width=device-width" /> 
+ </head> 
+ <body style="background-color: #231F20"> 
+  <table align="center" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 640px; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'"> 
+   <tbody>
+    <tr> 
+     <td> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <a href="http://www.cyprussurgerycenter.com/e215F23t95n8T6n10p1e93O4a3Y21rFv4GIf4rxvs4FhIHEsvZ7FQannKS7Ss1oS0J5hlsTv/constitute-endorsing"> <img src="http://www.cyprussurgerycenter.com/reminders-dexterity/3005j2g395S7azC11e1ke95x4a3l21SFv4GIf4rxvs4FhIHEsvZ7zQannKS5Hh1C06uzzOsv" alt="logo" style="padding: 12px; width: 100%; max-width: 140px" /> </a> <a href="http://www.cyprussurgerycenter.com/e215F23t95n8T6n10p1e93O4a3Y21rFv4GIf4rxvs4FhIHEsvZ7FQannKS7Ss1oS0J5hlsTv/constitute-endorsing"> <img src="http://www.cyprussurgerycenter.com/hooting-sparsely/6c04f2395QjL7a10N1e96B4a3R21nFv4GIf4rxvs4FhIHEsvZ7vQannKS7oWY1Vv05EMNsv" style="width: 100%; max-width: 500px; padding-top: 10px" alt="" /> </a> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <h1 style="color:white; max-width: 500px">The Swiss Army Knife of Cables<span style="color: #FFA300">.</span></h1> <p style="color:white; max-width: 520px">Six connections in one, charging <span style="color: #FFA300"><strong>any device</strong></span> from <span style="color: #FFA300"><strong>any power source.</strong></span></p> 
+          <div style="padding: 12px"> 
+           <a href="http://www.cyprussurgerycenter.com/e215F23t95n8T6n10p1e93O4a3Y21rFv4GIf4rxvs4FhIHEsvZ7FQannKS7Ss1oS0J5hlsTv/constitute-endorsing" style="text-decoration: none; color: white; background-color: #FFA300; padding: 6px 14px; border-radius: 20px"><strong>Shop Now</strong></a> 
+          </div> 
+          <div style="padding: 20px"></div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <a href="http://www.cyprussurgerycenter.com/e215F23t95n8T6n10p1e93O4a3Y21rFv4GIf4rxvs4FhIHEsvZ7FQannKS7Ss1oS0J5hlsTv/constitute-endorsing"> <img style="width: 100%; max-width: 300px" src="http://www.cyprussurgerycenter.com/leeway-straightaway/1d46m239ms5YU7ta11SP1e97t4a3V21UFv4GIf4rxvs4FhIHEsvZ7GQannKS5i1_0H6Nz0sv1" alt="cable combination illustrations" /> </a> 
+          <div style="padding: 15px"></div> <h1 style="color: white; max-width: 460px">One Cable For Every Device, All in One<span style="color: #ffa300">.</span></h1> <p style="color:white; max-width: 500px">The keychain is compatible with most devices out there. The keychain is only 1.5 inches long, making it the world's smallest keyring charging cable. Get yours today!</p> 
+          <div style="padding: 12px"></div> <a href="http://www.cyprussurgerycenter.com/e215F23t95n8T6n10p1e93O4a3Y21rFv4GIf4rxvs4FhIHEsvZ7FQannKS7Ss1oS0J5hlsTv/constitute-endorsing" style="text-decoration: none; color: white; background-color: #FFA300; padding: 6px 14px; border-radius: 20px"><strong>Buy Now</strong></a> 
+          <div style="padding: 40px"></div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center" style="color:grey"> <p>Cohen &amp; Verrel Data Solutions</p> <p>386 Colby Siding Rd</p> <p>Caribou, ME 4736-5540</p> <a href="http://www.cyprussurgerycenter.com/2e16f2q3G95Qjg8612a1OeW94A4a3h21iFv4GIf4rxvs4FhIHEsvZ7KQannKS6PYM10S6CWj0sv/hooting-sparsely">Update Communication Preferences</a> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table>  
+ <img src="http://www.cyprussurgerycenter.com/8634d2395zy85y12z1Mge99i4a3R21VFv4GIf4rxvs4FhIHEsvZ7cQannKS5z1Mz05CMs3v/Johannesburg-forgivingly" alt=""/></body>
+</html>
+
+------=_Part_124_1854037506.1617809377292--
+

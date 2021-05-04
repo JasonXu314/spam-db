@@ -1,0 +1,75 @@
+Return-Path: <renewal_by_andersen_offer-bruce=untroubled.org@xnwi.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1260538 invoked from network); 6 Apr 2021 14:02:01 -0000
+Received: (qmail 190141 invoked by uid 222); 6 Apr 2021 14:02:00 -0000
+Return-Path: <renewal_by_andersen_offer-bruce=untroubled.org@xnwi.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 190138 invoked from network); 6 Apr 2021 14:02:00 -0000
+Received: from mail.xnwi.us ([70.102.103.107])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Apr 2021 14:01:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=xnwi.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal_by_andersen_offer@xnwi.us;
+ bh=4kgaz6xuq9WPrIBrMW4LCwJsgBk=;
+ b=f7ypcWUTxRYtt4peQiPq51EU6wnyre3r+Mj9OuTKF/H0TnIW03pZHaMAK85eITI823o/1+DAj9SO
+   Kjk1HNGTv0DR6pifUKQ2V/KZ6wpdjHgCigB0EksOJhMjsKYLuKogNgxCjc3byOv10wTiDe8UsGul
+   Z/bXY915gP5fP7elMwk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=xnwi.us;
+ b=Vd4q2UKtNaiG0mbTwo/5E31+60ooexGpSBmlJpx27KfRNxfbxV9RQ4DFsaBeyCkMs6wMMdtH8uE8
+   5QP7RFW0ZWrBXtP6css4vAgjkAHCG/ncAW9DBETaVwVFHFcqQwKTQdcLBlSG0M+FPLwLrhommEtL
+   mMD+H7uCJgynbwxNFiY=;
+Received: by mail.xnwi.us id hdhkte0001gr for <bruce@untroubled.org>; Tue, 6 Apr 2021 09:57:45 -0400 (envelope-from <renewal_by_andersen_offer-bruce=untroubled.org@xnwi.us>)
+Date: Tue, 6 Apr 2021 09:57:45 -0400
+From: "Renewal By Andersen Offer" <renewal_by_andersen_offer@xnwi.us>
+To:   <bruce@untroubled.org>
+Subject: Stay home - Find New windows with a Virtual Consultation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_814_796556944.1617717460560"
+List-Unsubscribe: <http://www.xnwi.us/C4d4k2395H89Wh13h1Oi1wUp4a5dR21UFv4GIf4rxvs4FhIHEsvZ8PR.nKKKR6p1j0Ki6p@qlcY/Roosevelt-sewing>
+Message-ID: <0.0.0.5A.1D72AECD1F66DE8.4E985C@mail.xnwi.us>
+Content-Length: 3385
+
+------=_Part_814_796556944.1617717460560
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>philanthropy</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.xnwi.us/misleads-blanketed/a445K23k95P8BH617chI15bF1G1ly4a5do21JFv4GIf4rxvs4FhIHEsvZ8RR.nKKKR7NqkD1o05Mp0cY"><img alt="Renewal By Andersen Window" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 677px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:trebuchet ms,helvetica,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.xnwi.us/thrown-incalculable/6de6J23WO95M86iN17uq15xTnb12Do4a5dY21XFv4GIf4rxvs4FhIHEsvZ8yR.nKKKR6d10hnu6OB0ycY">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.xnwi.us/7eb6zJ23T95zPn8617B15bP1v3myAo4a5dt21PFv4GIf4rxvs4FhIHEsvZ8SR.nKKKR6rNs10V6LX1@cY/heaviness-kicks">here.</a></b></span></span></p> <span style="font-family:trebuchet ms,helvetica,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Get out<a href="http://www.xnwi.us/rundown-enthusiasms/c9c4K2395W8M9Z17KNh15xbHP14o4a5dt21hFv4GIf4rxvs4FhIHEsvZ8IR.nKKKR6V1NTl06slc1YW"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <style id="disillusion"><span face="augustness"></style></span><font id="blanker"><style></font></style><font></font>  
+ <img src="http://www.xnwi.us/debauchery-diagonally/a625k2p395Y8pY512W15b15_4a5dO21CFv4GIf4rxvs4FhIHEsvZ8BR.nKKKR5RN10p6i@lcqY" alt=""/></body>
+</html>
+
+------=_Part_814_796556944.1617717460560--
+

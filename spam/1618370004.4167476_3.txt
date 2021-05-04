@@ -1,0 +1,64 @@
+Return-Path: <canvasprints.promotion-bruce=untroubled.org@stks1.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2356495 invoked from network); 13 Apr 2021 19:01:41 -0000
+Received: (qmail 52726 invoked by uid 222); 13 Apr 2021 19:01:40 -0000
+Return-Path: <canvasprints.promotion-bruce=untroubled.org@stks1.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 52723 invoked from network); 13 Apr 2021 19:01:40 -0000
+Received: from mail.stks1.com ([69.94.138.148])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 19:01:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=stks1.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints.promotion@stks1.com;
+ bh=iTuBMoc5UNCNd3ObZfpqHEwirfg=;
+ b=XAwGssJeSCNfiHaWXKZEkrQcoD0cn/JEJGS+/GPbcsEIW4WTNUtZGyIMcGVHbxCVpbM98XHaR2O0
+   txQRrU9G3eqa2YLnD+RiVKlX3B3WpO2gI0A1tthqER+xBLy3tCfdFuH0IRQvXRqJ7p3ly7oIgPeg
+   B2HiNnjHygbNcf/QngY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=stks1.com;
+ b=NIpF2n2kVlfnbaFclyo1pKe64nDuZ6M7OuM89BWAIJzcH+G3z8t/YefOsccWhIGa/e9EXcN+/29B
+   iXaglamv5ce2l1l3m/zpxPK7sCrr+j/ur27ee08DldgRky8BNTlFDlD/gngY3wBmLFzN4XeuVJbN
+   vRGEJSBSqMqwcp+0KhU=;
+Received: by mail.stks1.com id henl940001g1 for <bruce@untroubled.org>; Tue, 13 Apr 2021 14:49:29 -0400 (envelope-from <canvasprints.promotion-bruce=untroubled.org@stks1.com>)
+Date: Tue, 13 Apr 2021 14:49:29 -0400
+From: "CanvasPrints Promotion" <canvasprints.promotion@stks1.com>
+To:   <bruce@untroubled.org>
+Subject: Bring loved ones home with up to 90% off Custom Canvas Prints
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_148_1909782411.1618339758475"
+List-Unsubscribe: <http://www.stks1.com/Dubuque-starboard/3965N23k95Y89Co11O1g1YK4ac9s21eFv4GIf4rxvs4FhIHEsvZ11eRTomnmeoC97BYlm1w06XNzcjY>
+Message-ID: <0.0.0.10.1D73095BBDA2938.59046A@mail.stks1.com>
+Content-Length: 3003
+
+------=_Part_148_1909782411.1618339758475
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>phasers</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.stks1.com/Dubuque-starboard/53a6jMq2395UKM8617uM15d56sjCXI4ac9Y21MFv4GIf4rxvs4FhIHEsvZ11sRTomnmeoC96Jv10IV6JUcY2M"><span style="font-size:18px; ">Final day for our Mega Spring Sale</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.stks1.com/Dubuque-starboard/53a6jMq2395UKM8617uM15d56sjCXI4ac9Y21MFv4GIf4rxvs4FhIHEsvZ11sRTomnmeoC96Jv10IV6JUcY2M"><img alt="canvas" src="http://www.stks1.com/13d4D2395N7aQV17q15dHst5OA9m4ac9H21sFv4GIf4rxvs4FhIHEsvZ11qRTomnmeoC96ezp10H6ij@cJY/Dubuque-starboard" style="width: 605px; height: 756px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:lucida sans unicode,lucida grande,sans-serif; "><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.stks1.com/amber-dissolving/oc64v2395u8P6S17iI1HNS5d57Hn4ac9N21GFv4GIf4rxvs4FhIHEsvZ11yRTomnmeoC97r1D0LCF6eqcYOy"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> End&nbsp; <a href="http://www.stks1.com/5934t2395G89tY13Lm15d58i4ac9D21HFv4GIf4rxvs4FhIHEsvZ11rRTomnmeoC95ASU106hjzOcY/questionings-cartilage"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <span title="frameworks"></span><span lang="Dogtown"></span><style lang="interrogative"><small></style><style id="alertedly"></style><font lang="resolutions"></small><style dir="demolish"></font><style face="mathematics"></style></style><span lang="secret"><span></span><style dir="bleakly"></style></span>
+  </center>   
+ <img src="http://www.stks1.com/e034b2395p8CY512U15d5aH4ac9Q21IFv4GIf4rxvs4FhIHEsvZ11oRTomnmeoC97p1_I0wu6ilX3cY/unharmed-Mallory" alt=""/></body>
+</html>
+
+------=_Part_148_1909782411.1618339758475--
+

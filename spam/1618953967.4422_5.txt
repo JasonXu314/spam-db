@@ -1,0 +1,63 @@
+Return-Path: <neuropathy.treatment.group-bruce=untroubled.org@speed83.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3171313 invoked from network); 20 Apr 2021 19:24:18 -0000
+Received: (qmail 57949 invoked by uid 222); 20 Apr 2021 19:24:18 -0000
+Return-Path: <neuropathy.treatment.group-bruce=untroubled.org@speed83.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57946 invoked from network); 20 Apr 2021 19:24:18 -0000
+Received: from mail.speed83.cloud ([70.102.102.55])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 19:23:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed83.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=neuropathy.treatment.group@speed83.cloud;
+ bh=ZILX2pR8TekZW+EBPWDGTZYukRs=;
+ b=5E2+uoBSgtFIPItcnSHBEgfWETDZUpBTk6fy21BJWQ5mMruGiEUpezOjvYPq4VnA2PcCb31eUnvd
+   VfPa7vTeUuilgT3ikZGuucA5Mnrd1223rK20vp8aeF+3Rbln5ZX0TPEaOXR1cEG4pMW12bKLBZ2s
+   eaXrcksJnDAIEyS1vMs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed83.cloud;
+ b=mOw2m1DrRodDHBtuDlnus7J85FCKO3J4b6R9Z4AXQtOsKD78kWvKN1VD9nWVgPk4ul08D2HBybxo
+   AIPj1/vh5nVricbkzCXd8A0sugAw4Fykc9YDBJb96Ltl0U1J7Xw7VuVU8Y5zVwzueEn5nlk9/20w
+   8yamEimKsC2etj2xhDA=;
+Received: by mail.speed83.cloud id hfsl4i0001gg for <bruce@untroubled.org>; Tue, 20 Apr 2021 15:10:25 -0400 (envelope-from <neuropathy.treatment.group-bruce=untroubled.org@speed83.cloud>)
+Date: Tue, 20 Apr 2021 15:10:25 -0400
+From: "Neuropathy Treatment Group" <neuropathy.treatment.group@speed83.cloud>
+To:   <bruce@untroubled.org>
+Subject: If you are a diabetic and suffer from nerve pain&hellip;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_316_129404229.1618945817098"
+List-Unsubscribe: <http://www.speed83.cloud/d135b239B5tss8912dG1Wo1l4b37O21LFv4GIf4rxvs4FhIHEsvZ8uRBomoo97fFj_1v05KlOcY/maxims-consolidating>
+Message-ID: <0.0.0.23.1D73618D1730192.6EF6FC@mail.speed83.cloud>
+Content-Length: 7105
+
+------=_Part_316_129404229.1618945817098
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>ripples</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:16px; ">Robert was a fit 70-year-old who could walk circles around most guys half his age...</span></span><br /> &nbsp; </p> 
+   <center>
+    <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:16px; ">But during a hiking trip, his feet and legs hurt so bad he could hardly lift them to walk.<br /> <br /> When they got home, Robert was diagnosed with neuropathy...<br /> <br /> And told he would never enjoy his active, mobile lifestyle again.<br /> <br /> Desperate for solutions, he accidentally stumbled across Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist and best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend of 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Today, Robert lives pain-free.<br /> <br /> <u><strong><a href="http://www.speed83.cloud/be74g2395a86kZ13g15of97y4b37n21NFv4GIf4rxvs4FhIHEsvZ8rRBomoo96bn1rp06HBLqcY/auspicious-blistered" target="_blank">&gt; &gt; See the essential nerve-healing nutrients here</a></strong></u></span></span> 
+    <p>&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <span style="font-family:times new roman,times,serif; "> <a href="http://www.speed83.cloud/be74g2395a86kZ13g15of97y4b37n21NFv4GIf4rxvs4FhIHEsvZ8rRBomoo96bn1rp06HBLqcY/auspicious-blistered" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target="_blank"><img alt="nerves" src="http://www.speed83.cloud/c416SK23V95K7BJa13u1M5f9aO4b37O21SFv4GIf4rxvs4FhIHEsvZ8VRBomoo95A1w0z5qNjcY/appendix-balances" style="width: 472px; height: 411px; " /></a></span> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:12px; ">NerveRenew | 3855 W. Lorenzo Ste. 100, Eagle, ID 83616</span></span></p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:12px; "><a href="http://www.speed83.cloud/uncomfortable-fuzzy/26a5g239A5E8M6o17z15Pf98YyyRW4b37K21HFv4GIf4rxvs4FhIHEsvZ8tRBomoo97jnWIk105gTcJY" target="_blank">Unsubs </a>here<br /> <br /> Get out <a href="http://www.speed83.cloud/inalterable-hamper/4a44V2395E8O9t17l1oAk5pf9p9i4b37S21YFv4GIf4rxvs4FhIHEsvZ8vRBomoo95dR1l05bUAcY">Here</a><br /> 6547 N Academy Boulevard #1170 80918 Colorado Springs CO</span></span><br /> &nbsp; </p> <style><small></small><style><span title="backspace"></style></style></span><span></span><style id="subverter"></style>
+   </center> 
+  </center>   
+ <img src="http://www.speed83.cloud/4496P2p3X95h85mT12Y15f9bl4b37g21RFv4GIf4rxvs4FhIHEsvZ8JRBomoo95hR10W5e@kcY/thermodynamics-boycott" alt=""/></body>
+</html>
+
+------=_Part_316_129404229.1618945817098--
+

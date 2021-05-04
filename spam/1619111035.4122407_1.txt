@@ -1,0 +1,78 @@
+Return-Path: <my.senior.perks-bruce=untroubled.org@tspeed13.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3313899 invoked from network); 22 Apr 2021 13:44:10 -0000
+Received: (qmail 84350 invoked by uid 222); 22 Apr 2021 13:44:09 -0000
+Return-Path: <my.senior.perks-bruce=untroubled.org@tspeed13.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 84347 invoked from network); 22 Apr 2021 13:44:09 -0000
+Received: from mail.tspeed13.cloud ([70.102.102.19])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 13:44:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed13.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my.senior.perks@tspeed13.cloud;
+ bh=E+cuQd838TAPFcMwqzEFi4uR5Io=;
+ b=fjGn7X6JLCB6QZv7TWUZW73oBrEPiPQD4tv784MK5eodE/7E+ggrTl2ZtnrptczRs48L0HQ7UpNe
+   XFqqwiVaxP8oANU259nVLem8rQSyitl8XUTrh7ZKqyCyOLSlDbgfAEYFuUDiwn+lh01Bh1b5crku
+   3U+lpSHvZ/Osp2i4qr8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed13.cloud;
+ b=gdhFlGm22lVcWdT3P4OYonDNUzmHx4U3Naj/BCH14+QaMEmfnlqIuk+xJn1Jc5SQFAYN7K/PUe+7
+   NRzlrrtcjeOIsas9OJriRiJKSYjPF0jLwy8hV9oMEMQSVWc1sO0cKB4OHftiuQBc7Cp6vKrDfzDa
+   /jBgHnIN1ZkF8NbMSqc=;
+Received: by mail.tspeed13.cloud id hg5uqe0001gv for <bruce@untroubled.org>; Thu, 22 Apr 2021 09:36:06 -0400 (envelope-from <my.senior.perks-bruce=untroubled.org@tspeed13.cloud>)
+Date: Thu, 22 Apr 2021 09:36:06 -0400
+From: "My Senior Perks" <my.senior.perks@tspeed13.cloud>
+To:   <bruce@untroubled.org>
+Subject: 18 Senior Savings That you Can Only Get if You Ask
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_964_394187016.1619098556832"
+List-Unsubscribe: <http://www.tspeed13.cloud/3596e2j3N95O8zi913kqR1N1nM4b49w21zFv4GIf4rxvs4FhIHEsvZ11WROomod9oH96I1M0Xh5IB0cY/enormously-closets>
+Message-ID: <0.0.0.6B.1D7377C727D1CA8.2FA1E3@mail.tspeed13.cloud>
+Content-Length: 2960
+
+------=_Part_964_394187016.1619098556832
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>toilets</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.tspeed13.cloud/synaptic-insignificant/33c6w23ii95N8SJ613B15ffBcP4b49w21QFv4GIf4rxvs4FhIHEsvZ11QROomod9oH95ku1B05G@cYj">New way for seniors to save a lot of money</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.tspeed13.cloud/synaptic-insignificant/33c6w23ii95N8SJ613B15ffBcP4b49w21QFv4GIf4rxvs4FhIHEsvZ11QROomod9oH95ku1B05G@cYj"><img alt="senior s" src="http://www.tspeed13.cloud/2_f6ix23y95n7pak12S15fffG4b49h21IFv4GIf4rxvs4FhIHEsvZ11zROomod9oH96srXj105ul0cY/Occidentalization-Hutchison" style="border-width: 0px; border-style: solid; height: 1213px; width: 648px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.tspeed13.cloud/sociologist-customs/9ea6Aw2v395V_86Z12C15ffd_4b49Y21EFv4GIf4rxvs4FhIHEsvZ11IROomod9oH97jOTN1r06I3JcYN"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.tspeed13.cloud/synaptic-insignificant/33c6w23ii95N8SJ613B15ffBcP4b49w21QFv4GIf4rxvs4FhIHEsvZ11QROomod9oH95ku1B05G@cYj"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed13.cloud/c9b4s2395d8UQ912n15ffeD4b49S21QFv4GIf4rxvs4FhIHEsvZ11QROomod9oH95C1sw06iAlcY0/Occidentalization-Hutchison">&nbsp; End Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <style></style><font title="alongside"></font><big><span id="reckoner"><font></font><font size="nuptial"></span></font></big><style></style>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed13.cloud/seventieth-Christianizations/2c44A2395V8n_517DKF1600mj0wg4b49N21SFv4GIf4rxvs4FhIHEsvZ11bROomod9oH96bNH10F5ApNcY" alt=""/></body>
+</html>
+
+------=_Part_964_394187016.1619098556832--
+

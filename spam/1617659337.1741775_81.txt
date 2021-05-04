@@ -1,0 +1,64 @@
+Return-Path: <easycanvasprintscom.ad.partner-bruce=untroubled.org@cplhere.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1190567 invoked from network); 4 Apr 2021 19:27:28 -0000
+Received: (qmail 161344 invoked by uid 222); 4 Apr 2021 19:27:28 -0000
+Return-Path: <easycanvasprintscom.ad.partner-bruce=untroubled.org@cplhere.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 161341 invoked from network); 4 Apr 2021 19:27:28 -0000
+Received: from mail.cplhere.xyz ([208.187.164.122])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 19:27:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cplhere.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=easycanvasprintscom.ad.partner@cplhere.xyz;
+ bh=0oTmSF6FXSx2v5jtKuhdPe4OLsw=;
+ b=KmWoFA/oJF6tL6dgWA2um4VEUe1ULV33P1RbhG3v03SdwVtaHKyxEKYBLBDs2qdTASlvLIzm+jml
+   41+qDsP5k9DJfdZYp7ctQLAnCAkkMnzC5TrCn+KRfyLZF5D7u8zkLT9QdcdM9X80xPZMPd+iGMcq
+   3dvFyw1rrJjB7OGIuOo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cplhere.xyz;
+ b=GtdzaCc3s5T68n7gw7CDEcL25FZ8Mmb7QQ6LEeE71YV10ihE+pqwbftj3grNsuzq3PZY9jvNI1Jy
+   jZGMVYN9tDF6jKk8P50wXb+cTUc+mAxUB/LRRrbW0ZZcOp3/mF3iPUWJSA/20eETy3ppZvzHNNj2
+   z3g6NlQbs9lpNh/xltc=;
+Received: by mail.cplhere.xyz id hd89ho0001g5 for <bruce@untroubled.org>; Sun, 4 Apr 2021 15:20:49 -0400 (envelope-from <easycanvasprintscom.ad.partner-bruce=untroubled.org@cplhere.xyz>)
+Date: Sun, 4 Apr 2021 15:20:49 -0400
+From: "EasyCanvasPrints.com Ad Partner" <easycanvasprintscom.ad.partner@cplhere.xyz>
+To:   <bruce@untroubled.org>
+Subject: This is the best way to say "I Love You"
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_949_405680450.1617564034884"
+List-Unsubscribe: <http://www.cplhere.xyz/aforementioned-Gaussian/b344K2395u_i8911gC11wM4a46q21hFv4GIf4rxvs4FhIHEsvZ11ARjnKKSooC95k1n0i5oLcNY>
+Message-ID: <0.0.0.69.1D729879F0B5C7E.DC772@mail.cplhere.xyz>
+Content-Length: 2701
+
+------=_Part_949_405680450.1617564034884
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>nonthermal</title> 
+ </head> 
+ <body> 
+  <center>
+   <a href="http://www.cplhere.xyz/Sistine-simmering/53a4o2395v_8R613F15a9g8x4a46H21zFv4GIf4rxvs4FhIHEsvZ11ORjnKKSooC97ivK10zB6ezcAYM"><span style="font-size:18px; ">Spring into savings with our Huge Sale</span></a>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.cplhere.xyz/Sistine-simmering/53a4o2395v_8R613F15a9g8x4a46H21zFv4GIf4rxvs4FhIHEsvZ11ORjnKKSooC97ivK10zB6ezcAYM"><img src="http://www.cplhere.xyz/6a15d239w5AV7na17D15XazY9Atbi4a46l21oFv4GIf4rxvs4FhIHEsvZ11VRjnKKSooC95yY10H6nOl@cY/hounded-revealed" style="width: 643px; height: 725px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.cplhere.xyz/f114Q2395qF86Q12Y15a99_4a46z21dFv4GIf4rxvs4FhIHEsvZ11tRjnKKSooC96L1IH0n6gTTcWY/hounded-revealed"> Unsubscribe </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Halt&nbsp; <a href="http://www.cplhere.xyz/hounded-revealed/4c26nv23_95iL89U12R15a9av4a46B21rFv4GIf4rxvs4FhIHEsvZ11bRjnKKSooC95thI106QBz@cY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> <font><big></big><style title="vilifying"><font id="loveliest"></font></style><big></font></big>
+  </center>   
+ <img src="http://www.cplhere.xyz/hounded-revealed/c065L23Y95g8D5v17M15al9JcXiQs4a46F21RFv4GIf4rxvs4FhIHEsvZ11ARjnKKSooC97OXv1p0U5F@AcY" alt=""/></body>
+</html>
+
+------=_Part_949_405680450.1617564034884--
+

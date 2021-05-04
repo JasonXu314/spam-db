@@ -1,0 +1,223 @@
+Return-Path: <betterbutterspreader-bruce=untroubled.org@speed69.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3168731 invoked from network); 20 Apr 2021 17:34:33 -0000
+Received: (qmail 56855 invoked by uid 222); 20 Apr 2021 17:34:32 -0000
+Return-Path: <betterbutterspreader-bruce=untroubled.org@speed69.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 56852 invoked from network); 20 Apr 2021 17:34:32 -0000
+Received: from mail.speed69.cloud ([70.102.102.94])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 17:34:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed69.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=betterbutterspreader@speed69.cloud;
+ bh=w4YvDqBiOl+CXrn4jeJuvBCRZMw=;
+ b=XIT+J85ioQfOKqHAchZkYHfmA7meqZUoi1NmLR/NAxX4fOLz6mLEvonUKPneIy0Pnv4AdX0V/YYC
+   19MmLtUUhShn2MHRiIBu+NRSlfdOVqvNTSxybD5DHM8os4ytiJT+p4utfI5AB50VmXRwZC+Dcepu
+   HlBkEgM8j6AsktKDzo0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed69.cloud;
+ b=JlOF9ihvcq/iOKIOR11BzIEuSxbBmzM4J5DIYGJV4GNnU2yW5i+RT8Gh3LhkaOkzJb9KdtHerLlb
+   fgkU7nrK0S38PM2E/aNETeLzplX7Dlq61h+Wunp5O0DicqcJhqDe8tcppvHCPPpqPITCbtR3UKYz
+   z7wNT/RkMXMBc51ltbw=;
+Received: by mail.speed69.cloud id hfs8a80001gp for <bruce@untroubled.org>; Tue, 20 Apr 2021 13:14:59 -0400 (envelope-from <betterbutterspreader-bruce=untroubled.org@speed69.cloud>)
+Date: Tue, 20 Apr 2021 13:14:59 -0400
+From: Betterbutterspreader <betterbutterspreader@speed69.cloud>
+To:   <bruce@untroubled.org>
+Subject: Why Restaurants Are Hiding Their Butter Knives
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_706_1140164781.1618938883480"
+List-Unsubscribe: <http://www.speed69.cloud/60b4S2395a89Zo11f11jKn4b33D21pFv4GIf4rxvs4FhIHEsvZ8gRVomonK6OWR1D05A@c2Y/clients-Jakes>
+Message-ID: <0.0.0.4E.1D73608B1828A52.57C2F@mail.speed69.cloud>
+Content-Length: 13362
+
+------=_Part_706_1140164781.1618938883480
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>artificiality</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:arial,helvetica,sans-serif; "><span class=3D"unsty=
+le-auto-detected-links" style=3D"text-decoration: none !important; font-fam=
+ily: sans-serif; font-size: 18px; line-height: 20px; text-align: center; co=
+lor: rgb(153, 153, 153); "><span style=3D"color:#696969; ">Blowout sale on =
+our </span></span><a class=3D"unstyle-auto-detected-links" href=3D"=
+http://www.speed69.cloud/a616Y2rn395Q8n6m12E15f82Y4b33q21FFv4GIf4rxvs4FhIHEsvZ8NRVomonK6z1l0gT5CBc@Y/lookahead-compliant" style=3D"text-decoration: none !important; font-family: sans-serif; fon=
+t-size: 18px; line-height: 20px; text-align: center; color: rgb(153, 153, 1=
+53); "><span style=3D"color:#696969; ">Butter Spreader</span></a></span></t=
+d>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed69.cloud/a616Y2rn395Q8n6m12E15f82Y4b33q21FFv4GIf4rxvs4FhIHEsvZ8NRVomonK6z1l0gT5CBc@Y/lookahead-compliant" style=3D"text-decoration: none; "><img alt=3D"butter" src=3D"=
+http://www.speed69.cloud/9715Q_2395Qw7Oa12e15f86S4b33G21AFv4GIf4rxvs4FhIHEsvZ8mRVomonK7C1rmH0s6eX@BcY/teleology-transatlantic" style=3D"width: 590px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; t=
+ext-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size=
+-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-=
+align: center; ">&nbsp; </p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; "> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); =
+font-family: -webkit-standard; font-style: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; widows:=
+ auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stro=
+ke-width: 0px; text-decoration: none; ">There are 3 things in the world tha=
+t I can' t stand, FIRSTNAME...</p> <p style=3D"caret-color: rgb(0, 0, 0); col=
+or: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-align: start; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto;=
+ -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> <p st=
+yle=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit=
+-standard; font-style: normal; font-variant-caps: normal; font-weight: norm=
+al; letter-spacing: normal; orphans: auto; text-align: start; text-indent: =
+0px; text-transform: none; white-space: normal; widows: auto; word-spacing:=
+ 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-=
+decoration: none; ">1.) mean people.</p> <p style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; o=
+rphans: auto; text-align: start; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </=
+p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">2.) being sick in bed.</p> <p style=3D"caret-co=
+lor: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; orphans: auto; text-align: start; text-indent: 0px; text-trans=
+form: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0)=
+; font-family: -webkit-standard; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; ">3.) trying to spread cold butter =
+on toast...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: -webkit-standard; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-s=
+tyle: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; orphans: auto; text-align: start; text-indent: 0px; text-transfo=
+rm: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tex=
+t-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;=
+ ">I know I know...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0=
+, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard=
+; font-style: normal; font-variant-caps: normal; font-weight: normal; lette=
+r-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text=
+-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -we=
+bkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; ">That last one seems a little out of place, right?</p> <p style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-st=
+andard; font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px=
+; text-transform: none; white-space: normal; widows: auto; word-spacing: 0p=
+x; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-dec=
+oration: none; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-varia=
+nt-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto=
+; text-align: start; text-indent: 0px; text-transform: none; white-space: n=
+ormal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; ">But let' s be honest:=
+</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-famil=
+y: -webkit-standard; font-style: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; orphans: auto; text-align: start; tex=
+t-indent: 0px; text-transform: none; white-space: normal; widows: auto; wor=
+d-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: =
+0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: none; w=
+hite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">Is there=
+ anything more frustrating than trying to make toast for yourself in the mo=
+rning...</p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: -webkit-standard; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; widows: a=
+uto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke=
+-width: 0px; text-decoration: none; ">&nbsp; </p> <p style=3D"caret-color: =
+rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-styl=
+e: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: =
+normal; orphans: auto; text-align: start; text-indent: 0px; text-transform:=
+ none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-s=
+ize-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">=
+And when you go to spread cold butter onto your toast, it ? chews up? the b=
+read, making it look like something out of a horror film...?</p> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); ">&nb=
+sp; <span style=3D"font-family:arial,helvetica,sans-serif; "> If you do not=
+ wish to receive future messages click here to <span class=3D"unstyle-auto-=
+detected-links"><a href=3D"http://www.speed69.cloud/6a16i2s3t95mv8J617G15Jvf83PpFB4b33F21uFv4GIf4rxvs4FhIHEsvZ8kRVomonK6sli1s05LUWcY/lookahead-compliant" style=3D"text-decoration: underline =
+!important; border-bottom-width: 0px !important; cursor: default !important=
+; color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font=
+-weight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br=
+ /> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"=
+http://www.speed69.cloud/Durers-singleness/b165P239y5P86iP13L15f84jg4b33g21gFv4GIf4rxvs4FhIHEsvZ8URVomonK5QUB105n2clY" style=3D"text-decoration: underline !important; border-bottom-width: 0px=
+ !important; cursor: default !important; color: rgb(153, 153, 153); font-si=
+ze: 10px; font-family: sans-serif; font-weight: inherit !important; line-he=
+ight: 14px; text-align: center; "><font color=3D"#666666">Better Butter Spr=
+eader</font></a> &nbsp; |&nbsp; 4122 Keaton Crossing Blvd, STE 104 O' Fallo=
+n MO 63368 </span><br /> <br /> <br /> <a href=3D"http://www.speed69.cloud/lookahead-compliant/2885R2s395A8ZW913A15pf85_4b33I21bFv4GIf4rxvs4FhIHEsvZ8JRVomonK7S1ipv0l6opAcY@">&nbsp=
+; Quit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado S=
+prings CO</span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font><small><span><big></span><style face="anthropology"></big></small></font><font dir="forgetting"></font></style><span></span><span></span> =20
+ <img src=3D"http://www.speed69.cloud/chaperone-promptings/4e04k2395c8NR513y15f8h7t4b33X21vFv4GIf4rxvs4FhIHEsvZ8DRVomonK6XFBW105c1zcY" alt=3D""/></body>
+</html>
+
+------=_Part_706_1140164781.1618938883480--
+

@@ -1,0 +1,82 @@
+Return-Path: <tinnitus-ringing-ears-bruce=untroubled.org@carhlp-2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1192891 invoked from network); 4 Apr 2021 21:41:42 -0000
+Received: (qmail 162599 invoked by uid 222); 4 Apr 2021 21:41:42 -0000
+Return-Path: <tinnitus-ringing-ears-bruce=untroubled.org@carhlp-2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 162596 invoked from network); 4 Apr 2021 21:41:42 -0000
+Received: from mail.carhlp-2.com ([208.187.164.24])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2021 21:41:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=carhlp-2.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus-ringing-ears@carhlp-2.com;
+ bh=fxKcah2zCZ804dHjVrvNIFgp5lE=;
+ b=uP3JgDl1h955HnSCMVdL40lt0gzXmkdkYHnZCsx5IZ0EGMEP7sgliWeBKtmpWOpw1M4XSuFHTJIH
+   /SACYbbeXG6Nc0C/ivx23U2/DXhvrVnXlRxq2r8DfZkSp1A1hvGY72Ff1/FultpXcKbGRtGT3EjZ
+   zVi2eDqk3+ikJbJHY3w=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=carhlp-2.com;
+ b=evJxlhh12n6jRJnZGPEAAeckbeFeZcTFxqFsbH3xNgbYD/J897c9dETnPfvoTnCt7FsAFC8eDdoW
+   KZhwneLlmpoeTlj4yLnx3XdYmx/Cc2cJo8gDr1pjMuQniG7v3Hc8L7IT4fno6dvnWr+x9C6PSVmW
+   Jd3RjFb6vzGhHet5AM0=;
+Received: by mail.carhlp-2.com id hd8p800001gk for <bruce@untroubled.org>; Sun, 4 Apr 2021 17:15:31 -0400 (envelope-from <tinnitus-ringing-ears-bruce=untroubled.org@carhlp-2.com>)
+Date: Sun, 4 Apr 2021 17:15:31 -0400
+From: "Tinnitus Ringing Ears" <tinnitus-ringing-ears@carhlp-2.com>
+To:   <bruce@untroubled.org>
+Subject: If your ears RING, eat THIS for breakfast
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_469_1047928104.1617570911778"
+List-Unsubscribe: <http://www.carhlp-2.com/20f4r2395z8oz913aoXJ11mH4a4aq21GFv4GIf4rxvs4FhIHEsvZ8iRWnKKSR6vXx10Q5bNTcY/official-rhyme>
+Message-ID: <0.0.0.35.1D72997A5077DFA.6EB71E@mail.carhlp-2.com>
+Content-Length: 14074
+
+------=_Part_469_1047928104.1617570911778
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Siberian</title> 
+ </head> 
+ <body> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">Doctors are baffled by this new study that reveals the true cause of tinnitus? </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">Turns out tinnitus is NOT an ear problem at all? </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><strong>In fact, that buzzing, clicking and clipping that tortures you is actually an early ? warning signal? that your brain is dying!</strong></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">And it' s all because of <a href="http://www.carhlp-2.com/6836w2I39r5zmF8617ojm1kz5aaVdB4a4ag21FFv4GIf4rxvs4FhIHEsvZ8pRWnKKSR6JRA10v5MUcYU/masterful-preamble">THIS shocking thing happening in your brain right now.</a></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><strong><em>&nbsp; </em></strong></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><strong><em><img alt="" src="http://www.carhlp-2.com/cd76oo2z395ns7aC12z15ab0G4a4aR21hFv4GIf4rxvs4FhIHEsvZ8tRWnKKSR5pVM106fNTcWY/invertebrates-manager" style="width: 300px; height: 450px; " /></em></strong></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">It' s similar to when your car breaks down? </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">First you hear a strange humming or clanking sound. Then it gets louder? until smoke starts to rise from the engine or worse <em>it just stops working altogether</em>.</p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">Tinnitus is exactly the same. It' s the symptom of something much worse.</p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><a href="http://www.carhlp-2.com/6836w2I39r5zmF8617ojm1kz5aaVdB4a4ag21FFv4GIf4rxvs4FhIHEsvZ8pRWnKKSR6JRA10v5MUcYU/masterful-preamble"><strong>==&gt; </strong><strong>Find out all the details in this eye-opening video - before it' s too late</strong></a></p> 
+  <div align="left" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+   <br /> 
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.carhlp-2.com/6296l2M39m5IJ86x13f15aaSeK4a4aV21PFv4GIf4rxvs4FhIHEsvZ8ARWnKKSR6W10kJQ5EAAcY/masterful-preamble"><font color="#666666">Unsubscribe Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+  </div> 
+  <div align="left" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+   <br /> 
+   <span style="font-size:12px; ">Get out&nbsp; <a href="http://www.carhlp-2.com/33b6e2jO395wp89t13q15agaf_4a4ax21AFv4GIf4rxvs4FhIHEsvZ8tRWnKKSR6WzlY106n@MLcY/Oswald-barometers"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span>
+   <br /> 
+   <br /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> &nbsp; 
+  </div> <style><font class="invocations"><small></font><small></style></small><big></small><style></style></big><span class="identically"></span><font></font><span title="peaches"></span>  
+ <img src="http://www.carhlp-2.com/11f4z2395p85PD17H1Q5sabHBr1W4a4aP21IFv4GIf4rxvs4FhIHEsvZ8XRWnKKSR5Eq10Y5Q3cYW/tilde-cavern" alt=""/></body>
+</html>
+
+------=_Part_469_1047928104.1617570911778--
+

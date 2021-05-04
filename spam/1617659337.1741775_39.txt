@@ -1,0 +1,124 @@
+Return-Path: <ben-stewart-bruce=untroubled.org@dayforcetraining.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1227964 invoked from network); 5 Apr 2021 18:57:22 -0000
+Received: (qmail 177852 invoked by uid 222); 5 Apr 2021 18:57:21 -0000
+Return-Path: <ben-stewart-bruce=untroubled.org@dayforcetraining.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 177849 invoked from network); 5 Apr 2021 18:57:21 -0000
+Received: from mail.dayforcetraining.com ([205.236.248.27])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 18:57:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=dayforcetraining.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ben-stewart@dayforcetraining.com;
+ bh=2yXuUqQ7D97UASUOWhFEp8HXcRw=;
+ b=U0OF+HHO+LQ5y7QfQ8I7rjSLDOOYksCtzcXpKosMynJAnCCqtJsNBh9URZmI97KNdewggU6tUPv+
+   6IC0iW1yWm0X3SQGbswWvKN1nSyooBYa+zd8BTcNcqzvrQFoOd4UIfHa7QuKk9Xeh4Jm2Sg5oyjU
+   Ni0eNNxQb2x40NKcJmc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=dayforcetraining.com;
+ b=eBg72eSaamb7Qoxo6D7/IWScOkOispdZzqEUuUtKNsLmRdKA5CWWjqp9IYb57OBu1alLD2zGVuWb
+   Rv4E3UbIeb3KAVljc+6xNe+XstzPeVNqVFNkf+7zB+C2VhKLWXZ62N0fCiSxhn1svEvF9YCfWeKa
+   OGn0TfX9TJsqvSInl28=;
+Received: by mail.dayforcetraining.com id hddf0u0001gh for <bruce@untroubled.org>; Mon, 5 Apr 2021 14:53:40 -0400 (envelope-from <ben-stewart-bruce=untroubled.org@dayforcetraining.com>)
+Date: Mon, 5 Apr 2021 14:53:40 -0400
+From: "Ben Stewart" <ben-stewart@dayforcetraining.com>
+To:   <bruce@untroubled.org>
+Subject: Find your way in the dark, anywhere you are
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_235_661500567.1617648648595"
+List-Unsubscribe: <http://www.dayforcetraining.com/4854m2395do89x10Ow1P1D48cl21OFv4GIf4rxvs4FhIHEsvZ7KQynnSd6OXr1S05i@ysv/converter-necktie>
+Message-ID: <0.0.0.27.1D72A4CFE726142.421DBD@mail.dayforcetraining.com>
+Content-Length: 6054
+
+------=_Part_235_661500567.1617648648595
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** Better, Brighter, Safer.  **
+-----------------------------
+
+Whether you're camping, hiking in the dark, or just need a bit more light f=
+or that project at home, this headlamp flashlight will brighten things up s=
+o you can see (and stay safe).  With 40,000 Lumens, 100=C2=B0 of beam sprea=
+d, 90=C2=B0 of vertical rotation and a range of over 650 ft, you'll never f=
+eel unprepared in the dark.=20
+
+
+Shop Now -> http://www.dayforcetraining.com/33b6YX2X395RB8_610l1df1M48cq21eFv4GIf4rxvs4FhIHEsvZ7wQynnSd5Bh10j5AJJsv/misrepresentation-Ellison
+
+
+
+
+
+
+
+Galilei Technical Messaging
+1263 West Spring St
+Woodstock, VA 22664-2211
+Manage Communication Preferences http://www.dayforcetraining.com/waitresses-bruises/7564D2395Rx86t12z1dVfJ0D48cF21AFv4GIf4rxvs4FhIHEsvZ7eQynnSd7U10qLSs6vJls3v
+
+
+------=_Part_235_661500567.1617648648595
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="UTF-8" /> 
+  <meta name="viewport" content="width=device-width" /> 
+ </head> 
+ <body> 
+  <table cellspacing="0" cellpadding="0" align="center" style="font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; width: 100%; max-width: 640px"> 
+   <tbody>
+    <tr> 
+     <td> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <a href="http://www.dayforcetraining.com/7736y239qv5A8L6J10U1defL48ch21HFv4GIf4rxvs4FhIHEsvZ7RQynnSd6Hpo1k05e2svl/misrepresentation-Ellison"> <img src="	
+                           https://733.efuserassets.com/733/offers/124/c/316/assets/logo.png" style="max-width: 130px; width: 100%; padding: 18px" alt="Activ Logo" /> </a> <a href="http://www.dayforcetraining.com/7736y239qv5A8L6J10U1defL48ch21HFv4GIf4rxvs4FhIHEsvZ7RQynnSd6Hpo1k05e2svl/misrepresentation-Ellison"> <img src="	
+                           https://733.efuserassets.com/733/offers/124/c/316/assets/Product-Hero.png" style="max-width: 620px; width: 100%" alt="headlamp product image" /> </a> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table cellpadding="0" cellspacing="0" align="center"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <h1 style="color: #414042">Better, Brighter, Safer.</h1> <p style="color:#414042; max-width: 570px">Whether you're camping, hiking in the dark, or just need a bit more light for that project at home, this headlamp flashlight will brighten things up so you can see (and stay safe). With 40,000 Lumens, 100&deg; of beam spread, 90&deg; of vertical rotation and a range of over 650 ft, you'll never feel unprepared in the dark.</p> 
+          <div style="padding: 14px"> 
+           <a href="http://www.dayforcetraining.com/7736y239qv5A8L6J10U1defL48ch21HFv4GIf4rxvs4FhIHEsvZ7RQynnSd6Hpo1k05e2svl/misrepresentation-Ellison" style="padding: 5px 13px; color: #414042; background-color: #CBBf32; text-decoration: none"><strong>Shop Now</strong></a> 
+          </div> 
+          <div style="padding: 14px"></div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table align="center" cellpadding="0" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <td align="center"> <a href="http://www.dayforcetraining.com/7736y239qv5A8L6J10U1defL48ch21HFv4GIf4rxvs4FhIHEsvZ7RQynnSd6Hpo1k05e2svl/misrepresentation-Ellison"> <img src="	
+                           https://733.efuserassets.com/733/offers/124/c/316/assets/Environments.png" alt="environments illuminated in the dark" style="max-width: 620px; width: 100%" /> </a> 
+          <div style="padding: 30px"></div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table align="center" cellpadding="0" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <td align="center" style="color:grey"> <p>Galilei Technical Messaging</p> <p>1263 West Spring St</p> <p>Woodstock, VA 22664-2211</p> <a href="http://www.dayforcetraining.com/7555ru2395hMI8610F1df0q48cv21jFv4GIf4rxvs4FhIHEsvZ7tQynnSd5I10HC5eMJsv/converter-necktie">Manage Communication Preferences</a> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table>  
+  <!--WASHINGTON -- The Supreme Court on Monday dismissed a case over former President Donald Trump's efforts to block critics from his personal Twitter account.    The court said there was nothing left to the case after Trump was permanently suspended from Twitter and ended his presidential term in January.    Advertisement
+   Twitter banned Trump two days after the deadly attack on the Capitol by Trump supporters on Jan. 6. The company said its decision was ?due to the risk of further incitement of violence.?
+   The court also formally threw out an appeals court ruling that found Trump violated the First Amendment whenever he blocked a critic to silence a viewpoint.    Justice Clarence Thomas wrote a separate opinion arguing that the bigger issue raised by the case, and especially Twitter's decision to boot Trump, is ?the dominant digital platforms themselves. As Twitter made clear, the right to cut off speech lies most powerfully in the hands of private digital platforms.?
+   Thomas agreed with his colleagues about the outcome of the case, but said the situation raises ?interesting and important questions.?
+   The case concerned the @realdonaldtrump account with more than 88 million followers and Trump's argument that it is his personal property. The Justice Department argued that blocking people from it was akin to elected officials who refuse to allow their opponents? yard signs on their front lawns.    But the federal appeals court in New York ruled last year that Trump used the account to make daily pronouncements and observations that are overwhelmingly official in nature.---> 
+ <img src="http://www.dayforcetraining.com/problem-civilian/a806E2T3S95L8n5B11z1dNf2X48cr21qFv4GIf4rxvs4FhIHEsvZ7rQynnSd7pjBK10Y5Y@Bsv" alt=""/></body>
+</html>
+
+------=_Part_235_661500567.1617648648595--
+

@@ -1,0 +1,133 @@
+Return-Path: <selectquote_insurance-bruce=untroubled.org@yahaid.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1214682 invoked from network); 5 Apr 2021 13:23:41 -0000
+Received: (qmail 173903 invoked by uid 222); 5 Apr 2021 13:23:41 -0000
+Return-Path: <selectquote_insurance-bruce=untroubled.org@yahaid.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 173900 invoked from network); 5 Apr 2021 13:23:41 -0000
+Received: from mail.yahaid.com ([208.187.164.109])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 13:23:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=yahaid.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote_insurance@yahaid.com;
+ bh=sJ95mX/Vf/h39OuhqIkOXaY+wA4=;
+ b=FGl8sXekjH/vy4wJm4UpudZ6bFp1nfqwS+TsPUX6vHPL1TvLY1P5z4IjHxc8SjePWL6vzE1CX2z8
+   ffaHsdNGMDUJElYKZyVlgkzDG5BeKNosa6Rnf6CqSayjzMOP46FXYBvZLQSdoZTNmGxR3DJ7w8hT
+   +TqmF281sYJ3ECJEmUk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=yahaid.com;
+ b=G1fqOOClnYSJw+2vjn4ZGHg0ej8/5wzVKLTq0/HySDH2ZkJekMV1W96RjdSnO7Kr+1m3H3m1pQBY
+   2aApFo6Gc45WCsmp8luVWQMA15bGLLxujus+Hho+cuyjZbeUaHbx08qlS5EUUepmw61g/F8RXprL
+   KFqe37iVQZmA1McPe3A=;
+Received: by mail.yahaid.com id hdc7li0001g1 for <bruce@untroubled.org>; Mon, 5 Apr 2021 09:06:25 -0400 (envelope-from <selectquote_insurance-bruce=untroubled.org@yahaid.com>)
+Date: Mon, 5 Apr 2021 09:06:25 -0400
+From: "SelectQuote Insurance" <selectquote_insurance@yahaid.com>
+To:   <bruce@untroubled.org>
+Subject: Get a Free Life Insurance Quote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_244_750248580.1617627978010"
+List-Unsubscribe: <http://www.yahaid.com/d4f4o2395D8sp911l1p1Qo4a4cn21oFv4GIf4rxvs4FhIHEsvZ11dRCnKKSeo497FP1OZF05FAcyY/MicroVAXes-McKeon>
+Message-ID: <0.0.0.1B.1D72A1C7BC2426A.14CD13@mail.yahaid.com>
+Content-Length: 6659
+
+------=_Part_244_750248580.1617627978010
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>qualifier</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.yahaid.com/c056bW23n95FB86N12B15ab7w4a4cn21KFv4GIf4rxvs4FhIHEsvZ11cRCnKKSeo495u1h0N5F2cYW/rasps-stranglings">Get fast coverage in minutes dont leave your fa=
+mily in debt&nbsp; </a><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.yahaid.com/c056bW23n95FB86N12B15ab7w4a4cn21KFv4GIf4rxvs4FhIHEsvZ11cRCnKKSeo495u1h0N5F2cYW/rasps-stranglings"><img alt=3D"happyr" src=3D"http://www.yahaid.com/7376P23J9N5X7aVi17jN15abJjbxFO4a4cv21eFv4GIf4rxvs4FhIHEsvZ11IRCnKKSeo495v1v0y6CqkcYl/nauseum-mobile" style=
+=3D"border-width: 0px; border-style: solid; width: 69%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:arial,helvetica,sans-serif; "><span st=
+yle=3D"font-size:8px; ">Copyright &copy; SelectQuote | All Rights Reserved =
+2020</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services offers insurance produ=
+cts and services through its licensed insurance agency, SelectQuote Insuran=
+ce Services, LLC. SelectQuote Insurance Services is not an insurance compan=
+y. We represent trusted insurance companies, and receive commissions ? and =
+possibly other performance-based compensation ? for our services. Products =
+and services are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">*40 year-old male in excellent health, $500,000, 10-y=
+ear policy for under a $1 a day. Example policy is for $23 a month. Policy =
+is a United of Omaha : Term Life Answers 10 is a non-participating term lif=
+e insurance to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwri=
+tten by United of Omaha Life Insurance Company, Omaha, NE 68175. The premiu=
+m is guaranteed to stay the same for the 10 year period. Minimum issue amou=
+nt is $100,000. Premiums include a $62.50 annual policy fee. Forms and plan=
+ provisions may vary by state. Plan is available in all states except New Y=
+ork. Suicide and other limits may apply. The most favorable rate classes (a=
+nd lowest rates) are generally intended for those who can meet strict healt=
+h/lifestyle criteria. All rates subject to underwriting qualifications. Rat=
+es effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">* Best' s Credit Ratings? are under continuous review=
+ and subject to change and/or affirmation. For the latest Best' s Credit Ra=
+tings? and Best' s Credit Reports (which include Best' s Credit Ratings? ),=
+ visit the A.M. Best website at ambest.com. See Guide to Best' s Credit Rat=
+ings? for explanation of use and charges.? ? Best' s Credit Ratings? reprod=
+uced herein appear under license from A.M. Best and do not constitute, eith=
+er expressly or impliedly, an endorsement of SelectQuote or its recommendat=
+ions, formulas, criteria or comparisons to any other ratings, rating scales=
+ or rating organizations which are published or referenced herein. A.M. Bes=
+t is not responsible for transcription errors made in presenting Best' s Cr=
+edit Ratings? . Best' s Credit Ratings? are proprietary and may not be repr=
+oduced or distributed without the express written permission of A.M. Best C=
+ompany.? A Best' s Financial Strength Rating opinion addresses the relative=
+ ability of an insurer to meet its ongoing insurance obligations. It is not=
+ a warranty of a company' s financial strength and ability to meet its obli=
+gations to policyholders. View our Important Notice: Best' s Credit Ratings=
+ for a disclaimer notice and complete details at <a href=3D"http://www.yahaid.com/chasteness-ruble/d146U23Jm95z8yw617C1t5aHibHL8B4a4ck21kFv4GIf4rxvs4FhIHEsvZ11LRCnKKSeo497iTW1uR05oMcNY">=
+http://www.yahaid.com/chasteness-ruble/d146U23Jm95z8yw617C1t5aHibHL8B4a4ck21kFv4GIf4rxvs4FhIHEsvZ11LRCnKKSeo497iTW1uR05oMcNY</a></span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">SelectQuote Insurance Services Corporate Office: 6800=
+ W. 115th Street, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:8px; ">This email was sent to you on behalf of SelectQuote b=
+y a third-party marketing company. You are receiving email from this third-=
+party marketing company because you have expressed your interest in receivi=
+ng commercial email through a site or sites associated with them.</span></s=
+pan></p>=20
+       <p><span style=3D"font-family:tahoma,geneva,sans-serif; "><span styl=
+e=3D"font-size:9px; "><span style=3D"font-size:8px; ">This email contains i=
+nformation regarding products and services offered by SelectQuote. If you d=
+o not wish to receive email messages from SelectQuote that are advertising =
+or promotional in nature, pleas</span>e<a href=3D"http://www.yahaid.com/aromatic-ambivalent/8dc6YQ23R95XUK8613s1T5ab9n4a4cL21jFv4GIf4rxvs4FhIHEsvZ11YRCnKKSeo497qQZ1wQ06J@jcYT"> unsubscribe =
+here.</a></span></span></p>=20
+      </div> &nbsp; Remove <a href=3D"http://www.yahaid.com/b514i2395pz8Q913k15abMaO4a4cC21rFv4GIf4rxvs4FhIHEsvZ11zRCnKKSeo497SvO10Hz5BPcYl/swings-indicators">Here</a>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <style></style><small></small><span style="incentives"></span><style dir="galloped"><span></style></span><big><font></big></font><span><style size="bludgeoning"></span><span></style></span> =20
+ <img src=3D"http://www.yahaid.com/7cd5yQ2395pj85n12G15abcC4a4cj21gFv4GIf4rxvs4FhIHEsvZ11BRCnKKSeo497PG10PVO6n2cUMY/MicroVAXes-McKeon" alt=3D""/></body>
+</html>
+
+------=_Part_244_750248580.1617627978010--
+

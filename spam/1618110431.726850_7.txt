@@ -1,0 +1,63 @@
+Return-Path: <neuropathy_treatment_group-bruce=untroubled.org@tox7.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1580277 invoked from network); 10 Apr 2021 19:28:54 -0000
+Received: (qmail 36380 invoked by uid 222); 10 Apr 2021 19:28:53 -0000
+Return-Path: <neuropathy_treatment_group-bruce=untroubled.org@tox7.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 36377 invoked from network); 10 Apr 2021 19:28:53 -0000
+Received: from mail.tox7.us ([208.187.244.183])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Apr 2021 19:28:43 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox7.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=neuropathy_treatment_group@tox7.us;
+ bh=zLl4+M7G28+0/uC5eHUimAv49fQ=;
+ b=VTMRA5kubO1GvOsZc12NVoMfBFwExStfWGIKxHpZZolNSnPavUx1wabC8WwfLhvLJZFPB79bw4ob
+   bh8aWRc3v0axFWPu71+zNaXGz0Rz1BOnxcD06RCngmJAjgDBumeUlXrQU11aKnKLuPj+REvMW42E
+   B3/omy95tW6GkiW2nqs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox7.us;
+ b=yQwkpWaMUCbmlfdXrSEpSz2k1X49VIPaWy8Etn2hiRdVGcetlua0q/24qGrixZdPmzpqqHLNOgFC
+   Ab2rPw0TEYn7mBrEuaIQnY7VVSB5maet+M0qL00ANE1o5GBP6InMNGlXxNcIvrbZF5PvQaSXKAjh
+   ACCZIHUHCakKUm0uYMM=;
+Received: by mail.tox7.us id he7u6m0001g7 for <bruce@untroubled.org>; Sat, 10 Apr 2021 15:18:33 -0400 (envelope-from <neuropathy_treatment_group-bruce=untroubled.org@tox7.us>)
+Date: Sat, 10 Apr 2021 15:18:33 -0400
+From: "Neuropathy Treatment Group" <neuropathy_treatment_group@tox7.us>
+To:   <bruce@untroubled.org>
+Subject: Only 8% of People with Nerve Pain Know THIS
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_70_841616397.1618082303032"
+List-Unsubscribe: <http://www.tox7.us/b8d5yX2395p8NA913D1P1XrsO4a9fB21pFv4GIf4rxvs4FhIHEsvZ8VRgommR96AT10Wv5JMzcY/curtate-MicroVAXes>
+Message-ID: <0.0.0.8.1D72E3E4C798D62.69F508@mail.tox7.us>
+Content-Length: 7079
+
+------=_Part_70_841616397.1618082303032
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>ransoms</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><span style="font-family:trebuchet ms,helvetica,sans-serif; ">Robert was a fit 70-year-old who could walk circles around most guys half his age...</span></span><br /> &nbsp; </p> 
+   <center>
+    <span style="font-size:18px; "><span style="font-family:trebuchet ms,helvetica,sans-serif; ">But during a hiking trip, his feet and legs hurt so bad he could hardly lift them to walk.<br /> <br /> When they got home, Robert was diagnosed with neuropathy...<br /> <br /> And told he would never enjoy his active, mobile lifestyle again.<br /> <br /> Desperate for solutions, he accidentally stumbled across Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist and best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend of 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Today, Robert lives pain-free.<br /> <br /> <u><strong><a href="http://www.tox7.us/6654w2395BR8o617YS15xcGXA79G4a9fW21RFv4GIf4rxvs4FhIHEsvZ8iRgommR95SUY105npcUY/marketplace-blinking" target="_blank">&gt; &gt; See the essential nerve-healing nutrients here</a></strong></u></span></span> 
+    <p>&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <span style="font-family:times new roman,times,serif; "> <a href="http://www.tox7.us/6654w2395BR8o617YS15xcGXA79G4a9fW21RFv4GIf4rxvs4FhIHEsvZ8iRgommR95SUY105npcUY/marketplace-blinking" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target="_blank"><img alt="nerves" src="http://www.tox7.us/meetinghouse-overtones/7746E23F9i5zXA7a12h15c7c_4a9fn21MFv4GIf4rxvs4FhIHEsvZ8uRgommR95Fi1D05L1cNY" style="width: 459px; height: 400px; " /></a></span> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:times new roman,times,serif; "><span style="font-size:12px; ">NerveRenew | 3855 W. Lorenzo Ste. 100, Eagle, ID 83616</span></span></p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:times new roman,times,serif; "><span style="font-size:12px; "><a href="http://www.tox7.us/6bf4u2395U8DO617c15c7UplSaIo4a9fC21lFv4GIf4rxvs4FhIHEsvZ8QRgommR96z1MP0U6LTUqcY/multiprogrammed-enfranchise" target="_blank">Unsubs </a>here<br /> <br /> exit <a href="http://www.tox7.us/d6d5V239C5k8vs912s15c7bn4a9fx21KFv4GIf4rxvs4FhIHEsvZ8QRgommR95zu10B5MOcYk/patrolmen-accentuates">Here</a><br /> 6547 N Academy Boulevard #1170 80918 Colorado Springs CO</span></span><br /> &nbsp; </p> <font style="comments"><style id="cooling"></style><font face="underflowing"></font></font><big></big><big></big><big></big>
+   </center> 
+  </center>   
+ <img src="http://www.tox7.us/42b6Jl2R395K85HD12u15c7dL4a9fs21sFv4GIf4rxvs4FhIHEsvZ8rRgommR97BHJ1G0G6iWcY1j/multiprogrammed-enfranchise" alt=""/></body>
+</html>
+
+------=_Part_70_841616397.1618082303032--
+

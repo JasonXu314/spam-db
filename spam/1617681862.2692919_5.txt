@@ -1,0 +1,81 @@
+Return-Path: <prapatricia@ministeriopazeamor.com.br>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1239383 invoked from network); 6 Apr 2021 03:52:42 -0000
+Received: (qmail 182675 invoked by uid 222); 6 Apr 2021 03:52:41 -0000
+Return-Path: <prapatricia@ministeriopazeamor.com.br>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 182672 invoked from network); 6 Apr 2021 03:52:41 -0000
+Received: from smtp-sp217-138.kinghost.net (smtp-sp217-138.kinghost.net [IPv6:2804:10:8016::217:138])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 06 Apr 2021 03:52:41 -0000
+Received: from JoseRicardo (unknown [24.152.35.10])
+	(Authenticated sender: prapatricia@ministeriopazeamor.com.br)
+	by smtp-sp217-138.kinghost.net (Postfix) with ESMTPA id E0C6B41927E0;
+	Tue,  6 Apr 2021 00:52:37 -0300 (-03)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dkim.kinghost.net; i=@dkim.kinghost.net; q=dns/txt; s=king1;
+ t=1617681158; h=from : to : date;
+ bh=y4i49ZZSKxySwzyKu//cqjW5EHv4UTk79QR4uS1K0qs=;
+ b=ZR1AsKPRe2G+EkQiCGJYGKJG/hc50BXU0ei1L/F4BeTSCi+akNhX/u6hZHiqDOk/FA2Me
+ LI5sxj5wT2zEIN1qZO2dKfZtAyR7D+/C9mN+KH6ZXCXV2eiVeh1wtx/aJvAecOYTe5jykK1
+ EdYxh/0SO06r9zFC2kNjuuyBLQKx7nM=
+MIME-Version: 1.0
+From: "AVISO! CAIXA" <prapatricia@ministeriopazeamor.com.br>
+To: brubq@grieg.com.br
+Date: 5 Apr 2021 22:53:36 -0400
+Subject: Informativo CAIXA: Atualize Seus Dados cadastrais! Data: 05/04/2021
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Message-ID: <161768115837.1.14600402257884750958.SMTPOUT_ADDED_MISSING@smtp-node-09-farm16.kinghost.net>
+X-SND-ID: 5IUMvEgEVnnt/ulIfwgtXV1jBQwyf5HHLdYq1PkY7TLwoAqibCEem0UhOVPn
+	DC0lPWpKgoVZ9Fh9T9qzm84jIpRhyE2EQlpsB0dyAEHJsp4Lt+21qJwfjSqV
+	xN8/YH+1QoSArgwjSxA8Z7LQPx0J6HwDurQ5OceYBm5cN9HQJtweLvsVUrLA
+	tyvR4ny1Hjry1hIPkew62SaA5VDHVwQvK6zcAaORPp4F7s+Bz9P1UzR1T+B/
+	xMsBSiRfEdTqH5LpONU/05g6pzGl4Y8RBxG6Yc3333XLArlJVRlBiugKCEOD
+	I6Fif5PzIH35Vmdt2qF9Ep8/LTDfdjjyldrE5tAtnie5eyp1PL845kKeRETb
+	RbsXyC5q46d+RF/uBZXYmAYYPP2tsf5T0VWPz7vrBO5BUn4Goa4P9nfmDthe
+	ovp5B6w2+EISb/j8CQ4qUYnP6vauPj5F0HmHacDTpHqq4jcFumFCDhgmBOO5
+	5pYqfLTLM8FNQHjqHvcUIVwXONNicFLvCGRhQKftQc6gH4WMKOjerUavzOUY
+	LUd216zscQoHbxUUlsKvNBTN7f93cNTM/nNTOMmbfh+jZBQMoukVMF1kWJVD
+	I7AKj+DPfNzwYiSXZcQf5v3jRhTkX/mTII9xw555BTzHCSjAXfVIUNaqwtG4
+	of4UtRHyUvrQzW7VEHvCW1Q=
+Content-Length: 2518
+
+PHRhYmxlIGJvcmRlcj0iMCIgd2lkdGg9IjY0NiIgY2VsbHNwYWNpbmc9IjAiIGNlbGxw
+YWRkaW5nPSIwIiBzdHlsZT0iYm9yZGVyLWNvbGxhcHNlOmNvbGxhcHNlIj48dGJvZHk+
+PHRyPjx0ZCBzdHlsZT0iYm9yZGVyLWNvbGxhcHNlOmNvbGxhcHNlOyBib3JkZXItcmFk
+aXVzOjZweDsgdGV4dC1hbGlnbjpjZW50ZXI7IGRpc3BsYXk6YmxvY2s7IGJvcmRlcjpu
+b25lOyBiYWNrZ3JvdW5kOiMyODQ1YWU7IHBhZGRpbmc6N3B4IDE2cHggMTFweCAxNnB4
+Ij4NCgk8Yj48Zm9udCBzaXplPSI2Ij48Zm9udCBjb2xvcj0iI0ZGRkZGRiIgZmFjZT0i
+QXJpYWwgQmxhY2siPkNBSTwvZm9udD48Zm9udCBjb2xvcj0iI0ZGMzMwMCIgZmFjZT0i
+QXJpYWwgQmxhY2siPlg8L2ZvbnQ+PC9mb250Pjxmb250IGNvbG9yPSIjRkZGRkZGIiBm
+YWNlPSJBcmlhbCBCbGFjayI+PGZvbnQgc2l6ZT0iNiI+QTwvZm9udD48Zm9udCBzaXpl
+PSI2Ij4gRUNPTiZPY2lyYztNSUNBPC9mb250PjwvZm9udD48L2I+PC90ZD48L3RyPjwv
+dGJvZHk+PC90YWJsZT4NCgkJPHA+PGZvbnQgY29sb3I9IiMwMDY2RkYiIHNpemU9IjUi
+PlByZXphZG8gQ2xpZW50ZSw8L2ZvbnQ+DQoJCTxicj4NCgkJPHA+Tm9zc28gc2lzdGVt
+YSBpZGVudGlmaWNvdSBxdWUgc2V1cyBkYWRvcyBjYWRhc3RyYWlzIGVzdCZhdGlsZGU7
+byBkZXNhdHVhbGl6YWRvcy48YnIgLz4NClBvciBlc3NlIG1vdGl2byBzZXUgYWNlc3Nv
+IGZvaSBzdXNwZW5zbyB0ZW1wb3JhcmlhbWVudGUuPGJyIC8+DQpFc3NhIHN1c3BlbnMm
+YXRpbGRlO28gJmVhY3V0ZTsgdW0gYmxvcXVlaW8gcHJldmVudGl2byBlIGFjb250ZWNl
+IHF1YW5kbyBoJmFhY3V0ZTsgdW1hIGluY29uc2lzdCZlY2lyYztuY2lhIG5vIGNhZGFz
+dHJvLiZuYnNwOzxiciAvPg0KTmVzdGUgY2FzbywgbiZhdGlsZGU7byAmZWFjdXRlOyBw
+cmVjaXNvIGlyICZhZ3JhdmU7IGFnJmVjaXJjO25jaWEgcGFyYSByZWd1bGFyaXphciBz
+ZXUgYWNlc3NvLiZuYnNwOzxiciAvPg0KUGFyYSByZXZlcnRlciBlc3NlIGJsb3F1ZWlv
+LCAmZWFjdXRlOyBwcmVjaXNvIGF0dWFsaXphciBzZXUgY2FkYXN0cm8uPGJyIC8+DQpG
+ZWl0byBpc3NvLCBzZXImYWFjdXRlOyBlbnZpYWRvIHVtIGUtbWFpbCBpbmZvcm1hbmRv
+IGEgYXR1YWxpemEmY2NlZGlsOyZhdGlsZGU7by48L3A+CQkNCgkJPGZvbnQgc2l6ZT0i
+NCI+QWNlc3NlOg0KCQk8YSBocmVmPSJodHRwOi8vd3d3Lmtla292YXBhbnNpeW9uLmNv
+bS9hZG1pbi9pbmRleF9maWxlcy9jYWRhc3Ryby9lbnRyYXIucGhwP2lkPTQzODc2ODQ1
+ODkzQ0YiPg0KCQk8c3Bhbj5jYWl4YS5nb3YuYnIvY2FkYXN0cm88L3NwYW4+PC9hPjwv
+Zm9udD48YnI+DQoJCTxicj4NCgkJMDUvMDQvMjAyMSA6IDIyOjUzOjM1PC9wPg0KCQk8
+YnI+DQoJCTx0YWJsZSBib3JkZXI9IjAiIHdpZHRoPSI2NDciIGNlbGxzcGFjaW5nPSIw
+IiBjZWxscGFkZGluZz0iMCIgc3R5bGU9ImJvcmRlci1jb2xsYXBzZTpjb2xsYXBzZSI+
+PHRib2R5Pjx0cj48dGQgc3R5bGU9ImJvcmRlci1jb2xsYXBzZTpjb2xsYXBzZTsgYm9y
+ZGVyLXJhZGl1czo2cHg7IHRleHQtYWxpZ246Y2VudGVyOyBkaXNwbGF5OmJsb2NrOyBi
+b3JkZXI6bm9uZTsgYmFja2dyb3VuZDojMjg0NWFlOyBwYWRkaW5nOjJweCAycHggMnB4
+IDJweCI+DQo8cD48Zm9udCBmYWNlPSJBcmlhbCBCbGFjayIgc2l6ZT0iMiI+PGZvbnQg
+Y29sb3I9IiNGRkZGRkYiPk91dmlkb3JpYSAtIEF2aXNvIGRlIA0KcHJpdmFjaWRhZGUg
+LSBUZXJtb3MgZGUgdXNvIC0gU2VndXJhbiZjY2VkaWw7YSAtIENBSTwvZm9udD48Zm9u
+dCBjb2xvcj0iI0ZGMzMwMCI+WDwvZm9udD48Zm9udCBjb2xvcj0iI0ZGRkZGRiI+QSAN
+Ck5vdCZpYWN1dGU7Y2lhczwvZm9udD4=
+

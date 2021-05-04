@@ -1,0 +1,442 @@
+Return-Path: <gardening.tools-bruce=untroubled.org@reopeningru.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3534599 invoked from network); 23 Apr 2021 21:27:21 -0000
+Received: (qmail 23516 invoked by uid 222); 23 Apr 2021 21:27:20 -0000
+Return-Path: <gardening.tools-bruce=untroubled.org@reopeningru.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 23513 invoked from network); 23 Apr 2021 21:27:20 -0000
+Received: from mail.reopeningru.com (205-236-248-58.serversto.com [205.236.248.58])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 21:27:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=reopeningru.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=gardening.tools@reopeningru.com;
+ bh=uNoDB+9ah/T9PBJxZNuJo6Q12g8=;
+ b=L7zEPVCGWjp8yaygLEOLgwF9NeNZDtCbH3GJyDysn9OzxN7U2n35SzmLZoz/BxzoFkTs9Pa567/E
+   EZLyhTQnfe8YACvgotwJHaquqx+NmDJkRgknKbaZ+1SabIKnJftF6cerBHfUSvT+m1HG5t7m2Pt0
+   j3BtUuXhV1qgbaIRePs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=reopeningru.com;
+ b=k/LBR8/Mlo93jhnX3Msf6BtR3f/Hl6YA8KU8XIFpOwOutTjpo3IMS192geprLuozSfKELDdiaNHD
+   txXyPBv9jWxQs3S8gnaplQO+nI+eiw2XJkoX5l8IunyvTPXmtDx5rMWvNdW77wrxbtDEuLkYSSGc
+   SCzeyJwuib19wuOfXk4=;
+Received: by mail.reopeningru.com id hgcu4c0001ga for <bruce@untroubled.org>; Fri, 23 Apr 2021 17:25:48 -0400 (envelope-from <gardening.tools-bruce=untroubled.org@reopeningru.com>)
+Date: Fri, 23 Apr 2021 17:25:48 -0400
+From: "Gardening Tools" <gardening.tools@reopeningru.com>
+To:   <bruce@untroubled.org>
+Subject: Magic Garden Flexible Hose: 60% Off Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1651_197725578.1619212737144"
+List-Unsubscribe: <http://www.reopeningru.com/blockades-Lilliputianize/c064Q2395zu8X912sxuK1s1X504l21UFv4GIf4rxvs4FhIHEsvZ7kQNn9mm6q1wrW05e@qsv>
+Message-ID: <0.0.0.113.1D738873A83B620.1FA7B7@mail.reopeningru.com>
+Content-Length: 20926
+
+------=_Part_1651_197725578.1619212737144
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** Anti-Kink.  Anti-Leak.  Anti-Frustration.  **
+-----------------------------------------------
+
+This hose's special FLEX technology makes it easy to store and impossible t=
+o kink.  The hose rotates, stretches, and adapts, but shrinks down to =E2=
+=85=93 its size when you're hanging it up.   Take the hassle out of lawn ca=
+re!  The =C2=BE brass connectors and double latex material can stand up to =
+12 bars of water pressure.  That is roughly the working water pressure of a=
+ fire hose!
+
+ The hose's special FLEX technology makes it easy to store and impossible t=
+o kink.  The hose rotates, stretches and adapts for easy use!
+
+
+Get up to 60% OFF now! -> http://www.reopeningru.com/blockades-Lilliputianize/f125Sq2395I86ks12N2H1qe0U504R21fFv4GIf4rxvs4FhIHEsvZ7tQNn9mm6q1Hs0R5Gj@sv
+
+
+
+
+
+
+
+
+K Street Digital Pioneering.  4402 Boxwood Drive, Montclair, VA, 22025. 162=
+4
+Want out? http://www.reopeningru.com/3d14h2395Dh86A11m21dDaw504r21rFv4GIf4rxvs4FhIHEsvZ7KQNn9mm7gRFj1A05Qlqsv/atrociously-benefitted
+
+
+
+
+------=_Part_1651_197725578.1619212737144
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table class=3D"wrapper" style=3D"border-collapse: collapse; table-layout=
+: fixed; min-width: 320px; width: 100%; background-color: #fff;" role=3D"pr=
+esentation" cellspacing=3D"0" cellpadding=3D"0">=20
+   <tbody>=20
+    <tr>=20
+     <td>=20
+      <!--Following the death of Michael Brown in Ferguson, Missouri, in 20=
+14, Barack Obama?s taskforce on 21st-century policing published a detailed =
+report and produced a set of 59 recommendations. Many were pragmatic, but a=
+mong the most prescient remains a key and, as yet unrealized, suggestion fo=
+r a cultural paradigm shift in US policing. From that of a ?warrior? mindse=
+t to that of a ?guardian?. With such a decentralization of power in US law =
+enforcement, it is hard to see how such a sweeping change is possible to re=
+alize immediately.             Neither is the verdict true justice, in the =
+words of many close to the Floyd family.             Outside the Hennepin c=
+ounty courthouse, in the bitter cold, Floyd family attorney Justin Miller w=
+as blunt in his assessment.             ?What is justice when you lose a lo=
+ved one? When you don?t have your father or your brother or your uncle anym=
+ore? I don?t really think there is justice. I think that that?s a term we t=
+hrow around too loosely,? he said. ?I think that it will be closer to being=
+ fair if this guy [Chauvin] gets as many years in jail as he can. But it?s=
+ not justice, because George Floyd is never coming back. And his daughter w=
+ill never have her father again.?--->=20
+      <div role=3D"banner">=20
+       <div class=3D"preheader" style=3D"margin: 0 auto; max-width: 560px; =
+min-width: 280px; width: calc(28000% - 167440px);">=20
+        <div style=3D"border-collapse: collapse; display: table; width: 100=
+%;">=20
+         <!-- [if (mso)|(IE)]><table align=3D"center" class=3D"preheader" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=3D"=
+width: 280px" valign=3D"top"><![endif]-->=20
+         <div class=3D"snippet" style=3D"display: table-cell; float: left; =
+font-size: 12px; line-height: 19px; max-width: 280px; min-width: 140px; wid=
+th: calc(14000% - 78120px); padding: 10px 0 5px 0; color: #171717; font-fam=
+ily: Avenir,sans-serif;">
+          &nbsp;
+         </div>=20
+         <!-- [if (mso)|(IE)]></td><td style=3D"width: 280px" valign=3D"to=
+p"><![endif]-->=20
+         <div class=3D"webversion" style=3D"display: table-cell; float: lef=
+t; font-size: 12px; line-height: 19px; max-width: 280px; min-width: 139px; =
+width: calc(14100% - 78680px); padding: 10px 0 5px 0; text-align: right; co=
+lor: #171717; font-family: Avenir,sans-serif;">
+          &nbsp;
+         </div>=20
+         <!-- [if (mso)|(IE)]></td></tr></table><![endif]-->=20
+        </div>=20
+       </div>=20
+       <div id=3D"emb-email-header-container" class=3D"header" style=3D"mar=
+gin: 0 auto; max-width: 600px; min-width: 320px; width: calc(28000% - 16740=
+0px);">=20
+        <!-- [if (mso)|(IE)]><table align=3D"center" class=3D"header" cell=
+padding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=3D"widt=
+h: 600px"><![endif]-->=20
+        <div class=3D"logo emb-logo-margin-box" style=3D"font-size: 26px; l=
+ine-height: 32px; color: #41637e; font-family: Avenir,sans-serif; margin: 6=
+px 20px 20px 20px;" align=3D"center">=20
+         <div id=3D"emb-email-header" class=3D"logo-center" align=3D"center=
+">
+          <img style=3D"display: block; height: auto; width: 100%; border: =
+0; max-width: 384px;" src=3D"http://www.reopeningru.com/mushy-restrainers/c7e4s2395F7KaB11o21_deO504T21iFv4GIf4rxvs4FhIHEsvZ7QQNn9mm5v1KR06oUMsvj" alt=3D"" width=3D"384" />
+         </div>=20
+        </div>=20
+        <!-- [if (mso)|(IE)]></td></tr></table><![endif]-->=20
+       </div>=20
+      </div>=20
+      <div>=20
+       <div>=20
+        <div style=3D"background-color: #65b87a;">=20
+         <div class=3D"layout one-col stack" style=3D"margin: 0 auto; max-w=
+idth: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wra=
+p: break-word; word-wrap: break-word; word-break: break-word;">=20
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse; =
+display: table; width: 100%;">=20
+           <!-- [if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" style=
+=3D"background-color: #65b87a;"><td class=3D"layout__edges">&nbsp;</td><td =
+style=3D"width: 600px" class=3D"w560"><![endif]-->=20
+           <div class=3D"column" style=3D"text-align: left; color: #021a2c;=
+ font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;">=20
+            <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; line-height: 20px=
+; font-size: 1px;">
+              &nbsp;
+             </div>=20
+            </div>=20
+            <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; mso-text-raise: 1=
+1px; vertical-align: middle;">=20
+              <p class=3D"size-30" lang=3D"x-size-30" style=3D"margin-top: =
+0; margin-bottom: 20px; font-size: 26px; line-height: 34px; text-align: cen=
+ter;"><span style=3D"color: #ffffff;"><strong>FREE SHIPPING ON ALL ORDERS</=
+strong></span></p>=20
+             </div>=20
+            </div>=20
+            <div style=3D"font-size: 12px; font-style: normal; font-weight:=
+ normal; line-height: 19px;" align=3D"center">
+             <a href=3D"http://www.reopeningru.com/f2f6n239QG5OZ86p10t21d9G504x21kFv4GIf4rxvs4FhIHEsvZ7DQNn9mm5qL1Q06SO1sJv/staffs-Morgan" target=3D"_blank" rel=3D"noopener"><img=
+ style=3D"border: 0; display: block; height: auto; width: 100%; max-width: =
+800px;" src=3D"http://www.reopeningru.com/d8b4c2395K7aPn12GJ21Idfu504j21iFv4GIf4rxvs4FhIHEsvZ7fQNn9mm5Nt10U6l2sOvA/humanness-typographically" alt=3D"" width=3D"600" /></a>
+            </div>=20
+            <div style=3D"margin-left: 20px; margin-right: 20px; margin-top=
+: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; line-height: 20px=
+; font-size: 1px;">
+              &nbsp;
+             </div>=20
+            </div>=20
+           </div>=20
+           <!-- [if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->=20
+          </div>=20
+         </div>=20
+        </div>=20
+        <div style=3D"mso-line-height-rule: exactly; line-height: 20px; fon=
+t-size: 20px;">
+         &nbsp;
+        </div>=20
+        <div class=3D"layout one-col fixed-width stack" style=3D"margin: 0 =
+auto; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); o=
+verflow-wrap: break-word; word-wrap: break-word; word-break: break-word;">=
+=20
+         <div class=3D"layout__inner" style=3D"border-collapse: collapse; d=
+isplay: table; width: 100%; background-color: #ffffff;">=20
+          <!-- [if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-fixed-width" sty=
+le=3D"background-color: #ffffff;"><td style=3D"width: 600px" class=3D"w560"=
+><![endif]-->=20
+          <div class=3D"column" style=3D"text-align: left; color: #021a2c; =
+font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;">=20
+           <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+            <div style=3D"mso-line-height-rule: exactly; line-height: 23px;=
+ font-size: 1px;">
+             &nbsp;
+            </div>=20
+           </div>=20
+           <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+            <div style=3D"mso-line-height-rule: exactly; mso-text-raise: 11=
+px; vertical-align: middle;">=20
+             <h2 style=3D"margin-top: 0; margin-bottom: 0; font-style: norm=
+al; font-weight: normal; color: #021a2c; font-size: 26px; line-height: 34px=
+;"><strong>Anti-Kink. Anti-Leak. Anti-Frustration.&nbsp;</strong></h2>=20
+             <p style=3D"margin-top: 16px; margin-bottom: 20px;">This hose'=
+s special FLEX technology makes it easy to store and impossible to kink. Th=
+e hose rotates, stretches, and adapts, but shrinks down to ? its size when =
+you're hanging it up.</p>=20
+            </div>=20
+           </div>=20
+           <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+            <div class=3D"btn btn--flat btn--large" style=3D"margin-bottom:=
+ 20px; text-align: left;">=20
+             <!-- [if !mso]-->
+             <a style=3D"border-radius: 0; display: inline-block; font-size=
+: 14px; font-weight: bold; line-height: 24px; padding: 12px 24px; text-alig=
+n: center; text-decoration: none !important; transition: opacity 0.1s ease-=
+in; color: #ffffff !important; background-color: #212229; font-family: Aven=
+ir, sans-serif;" href=3D"http://www.reopeningru.com/f2f6n239QG5OZ86p10t21d9G504x21kFv4GIf4rxvs4FhIHEsvZ7DQNn9mm5qL1Q06SO1sJv/staffs-Morgan" target=3D"_blank" rel=3D"noopener">Get=
+ up to 60% OFF now!</a>
+             <!--[endif]-->=20
+             <!-- [if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p>=
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://www.reopeningru.com/f2f6n239QG5OZ86p10t21d9G504x21kFv4GIf4rxvs4FhIHEsvZ7DQNn9mm5qL1Q06SO1sJv/staffs-Morgan" style=
+=3D"width:174px" fillcolor=3D"#212229" stroke=3D"f"><v:textbox style=3D"mso=
+-fit-shape-to-text:t" inset=3D"0px,12px,0px,12px"><center style=3D"font-siz=
+e:14px;line-height:24px;color:#FFFFFF;font-family:Avenir,sans-serif;font-we=
+ight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Get up to 60% OF=
+F now!</center></v:textbox></v:rect><![endif]-->=20
+            </div>=20
+           </div>=20
+           <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+            <div style=3D"mso-line-height-rule: exactly; line-height: 9px; =
+font-size: 1px;">
+             &nbsp;
+            </div>=20
+           </div>=20
+          </div>=20
+          <!-- [if (mso)|(IE)]></td></tr></table><![endif]-->=20
+         </div>=20
+        </div>=20
+        <div style=3D"mso-line-height-rule: exactly; line-height: 20px; fon=
+t-size: 20px;">
+         &nbsp;
+        </div>=20
+        <div style=3D"background-color: #ebebeb;">=20
+         <div class=3D"layout one-col stack" style=3D"margin: 0 auto; max-w=
+idth: 600px; min-width: 320px; width: calc(28000% - 167400px); overflow-wra=
+p: break-word; word-wrap: break-word; word-break: break-word;">=20
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse; =
+display: table; width: 100%;">=20
+           <!-- [if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" style=
+=3D"background-color: #ebebeb;"><td class=3D"layout__edges">&nbsp;</td><td =
+style=3D"width: 600px" class=3D"w560"><![endif]-->=20
+           <div class=3D"column" style=3D"text-align: left; color: #021a2c;=
+ font-size: 16px; line-height: 24px; font-family: Avenir,sans-serif;">=20
+            <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; line-height: 20px=
+; font-size: 1px;">
+              &nbsp;
+             </div>=20
+            </div>=20
+            <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; mso-text-raise: 1=
+1px; vertical-align: middle;">=20
+              <p style=3D"margin-top: 0; margin-bottom: 20px; text-align: c=
+enter;">Take the hassle out of lawn care.</p>=20
+             </div>=20
+            </div>=20
+            <div style=3D"margin-left: 20px; margin-right: 20px;">=20
+             <div style=3D"mso-line-height-rule: exactly; line-height: 3px;=
+ font-size: 1px;">
+              &nbsp;
+             </div>=20
+            </div>=20
+           </div>=20
+           <!-- [if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->=20
+          </div>=20
+         </div>=20
+        </div>=20
+        <div role=3D"contentinfo">=20
+         <div class=3D"layout email-footer stack" style=3D"margin: 0 auto; =
+max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overflo=
+w-wrap: break-word; word-wrap: break-word; word-break: break-word;">=20
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse; =
+display: table; width: 100%;">=20
+           <!-- [if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"><=
+td style=3D"width: 400px;" valign=3D"top" class=3D"w360"><![endif]-->=20
+           <div class=3D"column wide" style=3D"text-align: left; font-size:=
+ 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif; f=
+loat: left; max-width: 400px; min-width: 320px; width: calc(8000% - 47600px=
+);">=20
+            <div style=3D"margin: 10px 20px 10px 20px;">=20
+             <div style=3D"font-size: 12px; line-height: 19px;">
+              &nbsp;
+             </div>=20
+             <div style=3D"font-size: 12px; line-height: 19px; margin-top: =
+18px;">
+              &nbsp;
+             </div>=20
+             <!-- [if mso]>&nbsp;<![endif]-->=20
+            </div>=20
+           </div>=20
+           <!-- [if (mso)|(IE)]></td><td style=3D"width: 200px;" valign=3D=
+"top" class=3D"w160"><![endif]-->=20
+           <div class=3D"column narrow" style=3D"text-align: left; font-siz=
+e: 12px; line-height: 19px; color: #171717; font-family: Avenir,sans-serif;=
+ float: left; max-width: 320px; min-width: 200px; width: calc(72200px - 120=
+00%);">
+            &nbsp;
+           </div>=20
+           <!-- [if (mso)|(IE)]></td></tr></table><![endif]-->=20
+          </div>=20
+         </div>=20
+         <div class=3D"layout one-col email-footer" style=3D"margin: 0 auto=
+; max-width: 600px; min-width: 320px; width: calc(28000% - 167400px); overf=
+low-wrap: break-word; word-wrap: break-word; word-break: break-word;">=20
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse; =
+display: table; width: 100%;">=20
+           <!-- [if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"><=
+td style=3D"width: 600px;" class=3D"w560"><![endif]-->=20
+           <div class=3D"column" style=3D"text-align: left; font-size: 12px=
+; line-height: 19px; color: #171717; font-family: Avenir,sans-serif;">=20
+            <div style=3D"margin: 10px 20px 10px 20px;">=20
+             <div style=3D"font-size: 12px; line-height: 19px;">
+              K Street Digital Pioneering. 4402 Boxwood Drive, Montclair, V=
+A, 22025.1624
+              <br />
+              <a href=3D"http://www.reopeningru.com/staffs-Morgan/9364y2395c8iH611aj21daW504h21bFv4GIf4rxvs4FhIHEsvZ7PQNn9mm7kKJk1u05nqsvU" target=3D"_blank" rel=3D"noopener">Wan=
+t out?</a>
+             </div>=20
+            </div>=20
+           </div>=20
+           <!-- [if (mso)|(IE)]></td></tr></table><![endif]-->=20
+          </div>=20
+         </div>=20
+        </div>=20
+        <div style=3D"line-height: 40px; font-size: 40px;">
+         &nbsp;
+        </div>=20
+        <div style=3D"line-height: 40px; font-size: 40px;">
+         &nbsp;
+        </div>=20
+       </div>=20
+      </div>=20
+      <div>=20
+       <div style=3D"line-height: 40px; font-size: 40px;">=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">A number o=
+f senior officers from the Minneapolis police department, including the for=
+ce's chief of police, Medaria Arradondo, took to the stand to decry Chauvin=
+'s actions on 25 May last year. The testimony was both damning and&nbsp;<a =
+style=3D"color: #ffffff;" href=3D"http://www.reopeningru.com/Heywood-Finnegan/80a4g2395UvZ8611cS21dbB504R21WFv4GIf4rxvs4FhIHEsvZ7BQNn9mm7VI1z0Gk6QzsBv1" data-link-name=3D"in body lin=
+k">unprecedented</a>.</span></p>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">?To contin=
+ue to apply that level of force to a person proned out, handcuffed behind t=
+heir back ? that in no way, shape or form is anything that is by policy,? s=
+aid Arradondo.</span></p>=20
+        <figure id=3D"8bd1be5c-c42b-442f-b5c9-0f9252bdcb70" class=3D"css-1m=
+fia18">=20
+         <div class=3D"css-16cuuq6" data-print-layout=3D"hide" data-link-na=
+me=3D"rich-link-1 | 1" data-component=3D"rich-link" data-name=3D"">=20
+          <div class=3D"css-s7oxzu">=20
+           <div class=3D"css-ghyc83">
+            <span style=3D"color: #ffffff;">&nbsp;</span>
+           </div>=20
+           <div>
+            &nbsp;
+           </div>=20
+           <div class=3D"css-upffb1">=20
+            <div class=3D"css-m4qltb">=20
+             <div class=3D"css-1gqsble">
+              <span style=3D"color: #ffffff;">?I cried so hard': the teen w=
+ho filmed Floyd's killing, and changed America</span>
+             </div>=20
+            </div>=20
+            <div class=3D"css-9g571g">=20
+             <div class=3D"css-dobi02">
+              <span style=3D"color: #ffffff;">Read more</span>
+             </div>=20
+            </div>=20
+           </div>=20
+          </div>=20
+         </div>=20
+        </figure>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">It left re=
+dundant later arguments by outside defense witnesses, namely Barry Brodd ? =
+an expert who regularly testifies in defense of police, and who described C=
+hauvin's near 10-minute fatal restraint as justified and objectively reason=
+able.</span></p>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">It also se=
+ts a precedent for other officer-involved fatalities that make it to trial:=
+ an expectation that police who are criminally charged over use of force ma=
+y face testimony from their former superiors.</span></p>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">And yet, f=
+or all the weight this verdict carries, there are many things it is not.</s=
+pan></p>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">It does no=
+t mark the end of&nbsp;<a style=3D"color: #ffffff;" href=3D"http://www.reopeningru.com/Gaelicizes-Anton/3784C2395Qlm8611O21Wdch504q21EFv4GIf4rxvs4FhIHEsvZ7XQNn9mm6w1Q0kG5e12sv" dat=
+a-link-name=3D"in body link">disproportionate deadly force against African =
+American men in the US</a>. Just one week ago, in the Minneapolis suburb of=
+ Brooklyn Center, 20-year-old Daunte Wright was shot dead by police during =
+a traffic stop less than 10 miles from the courthouse where Chauvin stood t=
+rial.</span></p>=20
+        <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">It underli=
+nes the fundamental complexity of US law enforcement: America's sheer volum=
+e of police departments. There are 18,000 in total, each with their own use=
+ of force policy, training procedure and culture. Despite Brooklyn Center b=
+eing just a few miles from downtown&nbsp;<a style=3D"color: #ffffff;" href=
+=3D"http://www.reopeningru.com/8db6V239sx5YI86n12f2Y1dMdw504M21aFv4GIf4rxvs4FhIHEsvZ7oQNn9mm5npu106f3sqv3/judgments-borax" data-component=3D"auto-linked-tag" data-link-name=3D"in bod=
+y link">Minneapolis</a>, the suburb has its own police force, like many oth=
+er parts of the metro area.</span></p>=20
+       </div>=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div id=3D"ascrail2000" class=3D"nicescroll-rails" style=3D"width: 12px; =
+z-index: auto; cursor: default; position: fixed; top: 0px; height: 100%; ri=
+ght: 0px; display: block; opacity: 0.25;">
+   &nbsp;
+  </div>=20
+ <img src=3D"http://www.reopeningru.com/e214C2395Sms8512A21e1Sq_504B21RFv4GIf4rxvs4FhIHEsvZ7qQNn9mm7KF1_0PN5DTksv/Heywood-Finnegan" alt=3D""/></body>
+</html>
+
+------=_Part_1651_197725578.1619212737144--
+

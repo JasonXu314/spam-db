@@ -1,0 +1,125 @@
+Return-Path: <bounce_hghahfg_o-bruce=untroubled.org@cpro20.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2488899 invoked from network); 15 Apr 2021 13:38:07 -0000
+Received: (qmail 80711 invoked by uid 222); 15 Apr 2021 13:38:07 -0000
+Return-Path: <bounce_hghahfg_o-bruce=untroubled.org@cpro20.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 80708 invoked from network); 15 Apr 2021 13:38:07 -0000
+Received: from mta7.cpro20.com (mta7.cpro20.com [216.24.226.7])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 13:38:06 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key1; d=cpro20.com;
+ h=List-Unsubscribe:Message-ID:Date:Subject:To:From:Reply-To:MIME-Version:
+ Content-Type;
+ bh=paFXcPSeSXaazlREx+RLlDFgy1bU8RULwS0cycI0fc8=;
+ b=z22+CjYR5YiukTJeacbL0LGjMEaAypRximVLTtC+Y1O0mmuAzYOX43ZStG7B5+DpMga1SfYmgNOR
+   XBBPi65HAYcnXkhzlZqbbcbfho9fCBcmhNwYpQTXS/qy/xi7Ga0gl8TOlSP3mvYcckuOlv75ZFDh
+   Y/YPUZFKgL61FZJT0NQ=
+Received: by mta7.cpro20.com id hf10ru2kcoo0 for <bruce@untroubled.org>; Thu, 15 Apr 2021 09:38:00 -0400 (envelope-from <bounce_hghahfg_o-bruce=untroubled.org@cpro20.com>)
+List-Unsubscribe: <mailto:unsub_tcrtfb_gitdyidq_o@cpro20.com?subject=unsubscribe>
+X-Campaign-Shard: 1
+Bounces-To: bounce_tcrtfb_gitdyidq_o@cpro20.com
+Message-ID: <1618493837321.50918025.144222457.29192283735@backend.cpro20.com>
+X-Campaign: 50918025/144222457/29192283735
+Errors-To: bounce_tcrtfb_gitdyidq_o@cpro20.com
+Date: Thu, 15 Apr 2021 09:38:00 -0400
+Subject: SBA Surprises Nonprofits With New EIDL Loans
+To: Nonprofit Execs & Board Members <bruce@untroubled.org>
+From: "Inside Charity" <team@icnews.org>
+Reply-To: "Inside Charity" <team@icnews.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1553451008.1618493823114"
+Content-Length: 13726
+
+<!-- X-Campaign: 50918025/144222457/29192283735 -->
+------=_Part_1553451008.1618493823114
+Content-Type: text/plain;charset=UTF-8
+
+SBA Surprises Nonprofits With New EIDL Loans
+
+(Because of your important work with CHARITABLE ORGANIZATIONS)
+
+Dear Nonprofit Execs & Colleagues In Service,
+Starting last week, the U.S. Small Business Administration has more than tripled the maximum amount that nonprofits can borrow under the COVID-19 Economic Injury Disaster Loans (EIDL) program. The loan limit for COVID-19 EIDL loans will jump from six months of economic injury with a maximum loan amount of $150,000 to up to 24 months of economic injury with a maximum loan amount of $500,000.
+
+“More than 3.7 million businesses employing more than 20 million people have found financial relief through SBA’s Economic Injury Disaster Loans, which provide low-interest emergency working capital to help save their businesses. However, the pandemic has lasted longer than expected, and they need larger loans. Many have called on SBA to remove the $150,000 cap. We are here to help our small businesses and that is why I’m proud to more than triple the amount of funding they can access.” said SBA Administrator Isabella Casillas Guzman.
+
+The SBA has approved more than $200 billion in COVID-19 EIDL loans. The loans have a 30-year maturity with interest rates of 2.75% for not-for-profits.
+
+Any COVID-19 EIDL loans in process when the new loan limits go into effect will automatically be considered for the new maximum limits, the SBA said. Existing COVID-19 EIDL borrowers will be able to request an increase beginning April 6. A spokesperson said the SBA will provide updated instructions on how to request a loan increase on SBA.gov and also will reach out directly via email to existing COVID-19 borrowers with loans approved prior to the increased loan limit taking effect.
+
+The announcement of the higher loan limits came less than two weeks after the SBA announced March 12 that it was extending deferment periods for all its disaster loans, including the COVID-19 EIDL loans. Thanks to that decision, COVID-19 EIDL recipients won’t have to start making payments on their loans until 2022, though borrowers may voluntarily continue to make payments during the deferment as interest will continue to accrue on the outstanding loan balance.
+
+Nonprofits that receive a loan subject to the current limits do not need to submit a request for an increase at this time.  SBA will reach out directly via email and provide more details about how businesses can request an increase closer to the April 6 implementation date.  Any new loan applications and any loans in process when the new loan limits are implemented will automatically be considered for loans covering 24 months of economic injury up to a maximum of $500,000.
+
+This new relief builds on SBA’s previous March 12, 2021 announcement that the agency would extend deferment periods for all disaster loans, including COVID-19 EIDLs, until 2022 to offer more time for businesses to build back. In order to shift all EIDL payments to 2022, SBA will extend the first payment due date for disaster loans made in 2020 to 24-months from the date of the note and to 18-months from the date of the note for all loans made in the calendar year 2021...VISIT HERE FOR ENTIRE ARTICLE
+
+Inside Charity is pleased to report that over 400,000 executives, staff, board members, ministry leaders and volunteers rely on Inside Charity for their nonprofit news. We're grateful to everyone who has participated and want to encourage as many as people as possible to continue to share their experiences. Your written comments and contributions have helped your colleagues navigate this process.
+
+We are all in the throes of the global pandemic. Charities everywhere are feeling the effects of isolation measures, business shutdowns, travel bans, and markets crashing. InsideCharity is here to make sure receive the information you require to navigate these unprecedented times. We're in direct contact with the financial experts at the SBA to provide you real-time updates you need to navigate CARE Act funding.
+
+VISIT HERE TO SUBSCRIBE
+
+We look forward to hearing from you.
+
+Warmly,
+Jimmy LaRose, CNE, CDE, CNC
+
+Contributing Editor
+
+You are subscribed to this email as bruce@untroubled.org. Click here to modify your preferences https://trk.cpro20.com/form?2dv6rd--11cug-desbyaf3&sl=y&t=1&ac=g62g or unsubscribe https://trk.cpro20.com/form?2dv6rd--11cug-desbyaf3&sl=y&t=5&ac=g62g. 
+------=_Part_1553451008.1618493823114
+Content-Type: text/html;charset=UTF-8
+
+<style> .dvPreheader { display: none !important; mso-hide: all; }</style><div class="dvPreheader" style="display: none !important; mso-hide:all;">(Because of your important work with CHARITABLE ORGANIZATIONS)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<html><head>
+    </head>
+    <body>
+        <p style="text-align: center;"><span style="font-family: Arial;" id="email_" name="email_"><span style="font-size: 18px;" id="email_2" name="email_2"><strong><br>
+        <span style="white-space:pre;" id="email_3" name="email_3">	</span><a href="https://trk.cpro20.com/click/g62g-2dv6rd-2ir8ln-desbyaf4/" name="SBA Surprises Nonprofits With New EIDL Loans" id="auto_assign_link_num_9">SBA Surprises Nonprofits With New EIDL Loans</a><br>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+        </strong><em>(Because of your important work with&nbsp;CHARITABLE ORGANIZATIONS)<br>
+        <br>
+        </em><strong><a href="https://trk.cpro20.com/click/g62g-2dv6rd-2ir8lo-desbyaf5/" name="VISIT HERE" id="auto_assign_link_num_7">VISIT HERE</a></strong> or press picture below for entire article<br>
+        <br>
+        <a href="https://trk.cpro20.com/click/g62g-2dv6rd-2ir8lp-desbyaf6/" name="httpsinsidecharityorg20210411nonprofiteidlloa" id="auto_assign_link_num_8"><img src="http://media.campaigner.com/media/75/754360/Nonprofit%20EIDL%20Loans%20Expand%20for%20Charities.jpg?g=1618165390834" alt="Nonprofit EIDL Loans Expand for Charities.jpg" /></a><br>
+        &nbsp;</span></span></p>
+        <p style="text-align: left;"><span style="background-color: #fcfcfc; color: #555555; text-align: left; font-family: Arial; font-size: 18px;" id="email_4" name="email_4">
+        Dear Nonprofit Execs &amp; Colleagues In Service,</span></p>
+        <p style="text-align: left;"><span style="font-family: Arial; font-size: 18px;" id="email_5" name="email_5"><span style="font-family: Arial;" id="email_6" name="email_6"><span style="background-color: #fcfcfc; color: #555555; text-align: left;" id="email_7" name="email_7">Starting last week, the U.S. Small Business Administration has more than tripled the maximum amount that nonprofits can borrow under the COVID-19 Economic Injury Disaster Loans (EIDL) program. The loan limit for COVID-19 EIDL loans will jump from six months of economic injury with a maximum loan amount of $150,000 to up to 24 months of economic injury with a maximum loan amount of $500,000.<br>
+        <em><br>
+        “More than 3.7 million businesses employing more than 20 million people have found financial relief through SBA’s Economic Injury Disaster Loans, which provide low-interest emergency working capital to help save their businesses. However, the pandemic has lasted longer than expected, and they need larger loans. Many have called on SBA to remove the $150,000 cap. We are here to help our small businesses and that is why I’m proud to more than triple the amount of funding they can access.”</em> said SBA Administrator Isabella Casillas Guzman.<br>
+        <br>
+        The SBA has approved more than $200 billion in COVID-19 EIDL loans. <strong><em>The loans have a 30-year maturity with interest rates of 2.75% for not-for-profits.</em></strong><br>
+        <br>
+        Any COVID-19 EIDL loans in process when the new loan limits go into effect will automatically be considered for the new maximum limits, the SBA said. Existing COVID-19 EIDL borrowers will be able to request an increase beginning April 6. A spokesperson said the SBA will provide updated instructions on how to request a loan increase on SBA.gov and also will reach out directly via email to existing COVID-19 borrowers with loans approved prior to the increased loan limit taking effect.<br>
+        <br>
+        The announcement of the higher loan limits came less than two weeks after the SBA announced March 12 that it was extending deferment periods for all its disaster loans, including the COVID-19 EIDL loans. Thanks to that decision, COVID-19 EIDL recipients won’t have to start making payments on their loans until 2022, though borrowers may voluntarily continue to make payments during the deferment as interest will continue to accrue on the outstanding loan balance.<br>
+        <br>
+        Nonprofits that receive a loan subject to the current limits do not need to submit a request for an increase at this time.&nbsp; SBA will reach out directly via email and provide more details about how businesses can request an increase closer to the April 6 implementation date.&nbsp; Any new loan applications and any loans in process when the new loan limits are implemented will automatically be considered for loans covering 24 months of economic injury up to a maximum of $500,000.<br>
+        <br>
+        This new relief builds on SBA’s previous March 12, 2021 announcement that the agency would extend deferment periods for all disaster loans, including COVID-19 EIDLs, until 2022 to offer more time for businesses to build back. In order to shift all EIDL payments to 2022, SBA will extend the first payment due date for disaster loans made in 2020 to 24-months from the date of the note and to 18-months from the date of the note for all loans made in the calendar year 2021..</span></span><span style="background-color: #fcfcfc; color: #626262; font-family: Arial;" id="email_8" name="email_8">.<strong><a href="https://trk.cpro20.com/click/g62g-2dv6rd-2ir8lq-desbyaf7/" name="VISIT HERE FOR ENTIRE ARTICLE" id="auto_assign_link_num_10">VISIT HERE FOR ENTIRE ARTICLE</a></strong><br>
+        </span></span></p>
+        <div>&nbsp;</div>
+        <hr style="text-align: left;">
+        <p style="text-align: left;"><span style="font-family: Arial;" id="email_9" name="email_9"><span style="font-size: 18px;" id="email_10" name="email_10"><span style="font-family: Arial; font-size: 18px; color: #000000;" id="email_11" name="email_11">Inside Charity is pleased to report that over 400,000 executives, staff, board members, ministry leaders and volunteers rely on Inside Charity for their nonprofit news. We're grateful to everyone who has participated and want to encourage as many as people as possible to continue to share their experiences. Your written comments and contributions have helped your colleagues navigate this process.<br>
+        <br>
+        </span><span style="background-color: #fcfcfc; color: #000000; font-family: Arial; font-size: 18px;" id="email_12" name="email_12">We are all in the throes of the global pandemic. Charities everywhere are feeling the effects of isolation measures, business shutdowns, travel bans, and markets crashing. InsideCharity is here to make sure receive the information you require to navigate these unprecedented times. We're in direct contact with the financial experts at the SBA to provide you real-time updates you need to navigate CARE Act funding.<br>
+        <br>
+        </span><strong style="background-color: #fcfcfc; color: #626262;"><a href="https://trk.cpro20.com/click/g62g-2dv6rd-2ir8lr-desbyaf8/" name="VISIT HERE 2" id="auto_assign_link_num_5">VISIT HERE</a>&nbsp;</strong><span style="background-color: #fcfcfc; color: #626262;" id="email_13" name="email_13">TO SUBSCRIBE<br>
+        <br>
+        </span><span style="background-color: #fcfcfc; color: #000000;" id="email_14" name="email_14">We look forward to hearing from you.</span><span style="background-color: #fcfcfc; color: #000000;" id="email_15" name="email_15"><br>
+        <br>
+        </span><span style="background-color: #fcfcfc; color: #000000;" id="email_16" name="email_16">Warmly,</span></span></span>
+        </p>
+        <p style="text-align: left;"><span id="email_17" name="email_17" style="text-align: left; color: #000000; font-size: 18px; background-color: #fcfcfc; font-family: Arial;"><span style="font-size: 18px;" id="email_18" name="email_18"><strong><em><span id="email_19" name="email_19" style="font-family: Georgia; font-size: 22px;">Jimmy LaRose, CNE, CDE, CNC</span></em></strong><br>
+        <br>
+        Contributing Editor</span></span></p>
+    
+</body></html>
+<address style='color: #666666; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align:center; font-style:normal'>
+
+</address>
+<br/><div align='center' style='background: #FFFFFF; color: #666666; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px'>You are subscribed to this email as bruce@untroubled.org.<br> Click here to modify your <a href='https://trk.cpro20.com/form?2dv6rd--11cug-desbyaf3&sl=y&t=1&ac=g62g' style='color: #666666; text-decoration: underline'>preferences</a> or <a href='https://trk.cpro20.com/form?2dv6rd--11cug-desbyaf3&sl=y&t=5&ac=g62g' style='color: #666666; text-decoration: underline'>unsubscribe</a>.</div>
+<img src="https://trk.cpro20.com/open/g62g-2dv6rd--desbyaf1/img.gif" width="0" height="0" alt="">
+------=_Part_1553451008.1618493823114--

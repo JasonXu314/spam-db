@@ -1,0 +1,63 @@
+Return-Path: <ntg-bruce=untroubled.org@ile-59.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 149022 invoked from network); 27 Apr 2021 15:05:42 -0000
+Received: (qmail 72886 invoked by uid 222); 27 Apr 2021 15:05:41 -0000
+Return-Path: <ntg-bruce=untroubled.org@ile-59.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 72883 invoked from network); 27 Apr 2021 15:05:41 -0000
+Received: from mail.ile-59.cyou ([208.187.244.228])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 15:05:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ile-59.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ntg@ile-59.cyou;
+ bh=l3XVowZp4KsjudyIkUze9XN30N4=;
+ b=bhMXznDHZ6K93YmpaNKmezMczXw9KzzI30pKgeac4YCc2wO03AxrZMRVxlJlAw+H7MFiv1/aIHeN
+   NTZ6bGmsyOAIz02kr+Hv9YhDuGq5NglBL0kkI63d+zEZcEyms0+TFxQYncaCTZnmxMDKFgKK4Szd
+   DcFZvZ5NY+8lhDPLEVM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ile-59.cyou;
+ b=Uto2b4SIDFlVO5HmAmffP7rrnVz25nEjiVdCK2F42hM24faW8Eivt4c1MgPoIlddytEb2dXdqh/2
+   oB6bAOnNMZ6XFc4j6ANCqf9NFE/qIyDmSJJuYMp7HnzTYkYcc6OS6xMebIAJtAIQx//zX69kb0QX
+   oo+3IxCRaONBsnYOQHM=;
+Received: by mail.ile-59.cyou id hh0k480001g9 for <bruce@untroubled.org>; Tue, 27 Apr 2021 10:46:59 -0400 (envelope-from <ntg-bruce=untroubled.org@ile-59.cyou>)
+Date: Tue, 27 Apr 2021 10:46:59 -0400
+From: NTG <ntg@ile-59.cyou>
+To:   <bruce@untroubled.org>
+Subject: Doctors baffled by nerve pain breakthrough
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_376_1780092666.1619534796095"
+List-Unsubscribe: <http://www.ile-59.cyou/bab5Mx2395S8O9Y13R1NCr1NF4b91h21FFv4GIf4rxvs4FhIHEsvZ8tRUom9ne7Ps1ly0G6wlPcTY/quahog-pretty>
+Message-ID: <0.0.0.2B.1D73B742D2251A4.60DFD4@mail.ile-59.cyou>
+Content-Length: 6489
+
+------=_Part_376_1780092666.1619534796095
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Clemson</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">Robert was a fit 70-year-old who could walk circles around most guys half his age...</span><br /> <br /> <span style="font-size:16px; ">But during a hiking trip, his feet and legs hurt so bad he could hardly lift them to walk.</span></span></p> 
+   <center>
+    <br /> 
+    <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">When they got home, Robert was diagnosed with neuropathy...<br /> <br /> And told he would never enjoy his active, mobile lifestyle again.<br /> <br /> Desperate for solutions, he accidentally stumbled across Dr. Don Kennedy...<br /> <br /> A world-renowned geriatric specialist and best-selling author.<br /> <br /> Dr. Kennedy gave him his secret blend of 6 essential nutrients crucial to healing nerve pain....<br /> <br /> Today, Robert lives pain-free.<br /> <br /> <u><strong><a href="http://www.ile-59.cyou/cf55Kn2395C86Dg17BP16A1A8zrcA4b91j21cFv4GIf4rxvs4FhIHEsvZ8gRUom9ne5kpD106bB1@cY/sunset-handwriting" target="_blank">&gt; &gt; View the essential nerve-healing nutrients here</a></strong></u></span></span> 
+    <p>&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <span style="font-family:verdana,geneva,sans-serif; "> <a href="http://www.ile-59.cyou/cf55Kn2395C86Dg17BP16A1A8zrcA4b91j21cFv4GIf4rxvs4FhIHEsvZ8gRUom9ne5kpD106bB1@cY/sunset-handwriting" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target="_blank"><img alt="nervesc" src="http://www.ile-59.cyou/33b5S2m395uX7aq17mrG1C618swfT4b91_21aFv4GIf4rxvs4FhIHEsvZ8lRUom9ne6Kht10G5SP3cY/pacifies-combings" style="width: 483px; height: 424px; " /></a></span> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:12px; ">NerveRenew | 3855 W. Lorenzo Ste. 100, Eagle, ID 83616</span></span></p> 
+    <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:12px; "><a href="http://www.ile-59.cyou/e5d4Y2395zw86Q12K1618dl4b91j21pFv4GIf4rxvs4FhIHEsvZ8PRUom9ne5r1XZ05rWcY@/cucumbers-emitter" target="_blank">Unsub</a> here<br /> <br /> Remove <a href="http://www.ile-59.cyou/2695Y2U395DUQ8913z1618Vei4b91B21dFv4GIf4rxvs4FhIHEsvZ8fRUom9ne7Gz1QOl05m3cYq/sunset-handwriting">Here</a><br /> 6547 N Academy Boulevard #1170 80918 Colorado Springs CO</span></span><br /> &nbsp; </p> 
+    <span style="font-family:times new roman,times,serif; "> <span></span><span><font></font></span><style style="overuse"><span id="fuzzier"></span><font color="Grenville"><span face="scuffles"><font dir="propriety"><small></span></style></font></small><small></small></font><font lang="spiced"></font></span>
+   </center> 
+  </center>   
+ <img src="http://www.ile-59.cyou/enabled-cleavers/d146k23X9n5G85lJ13rZ16190G4b91S21zFv4GIf4rxvs4FhIHEsvZ8fRUom9ne7I1sNy0t6c2@cYl" alt=""/></body>
+</html>
+
+------=_Part_376_1780092666.1619534796095--
+

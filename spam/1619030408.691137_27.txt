@@ -1,0 +1,188 @@
+Return-Path: <barry_arnold-bruce=untroubled.org@rockfishcables.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3210135 invoked from network); 21 Apr 2021 17:24:51 -0000
+Received: (qmail 72145 invoked by uid 222); 21 Apr 2021 17:24:50 -0000
+Return-Path: <barry_arnold-bruce=untroubled.org@rockfishcables.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 72142 invoked from network); 21 Apr 2021 17:24:50 -0000
+Received: from mail.rockfishcables.com (205-236-248-204.serversto.com [205.236.248.204])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 17:24:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=rockfishcables.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=barry_arnold@rockfishcables.com;
+ bh=Txu1qJBh/qw+mcnM5m1csVE4XQQ=;
+ b=2FXl2BZDz5zPgzkBXIdZUrN3SgUXkIafbOosn82NWJmjeAYfmL5ngZQq1nY+y1RSswDqyvvJvGQ0
+   D/TdsZxk6FrzGYi49dciddAwLjA71zMOU3G9Vw936zxP5BYF/tKrUSYt4f6wz0rdjToAZkpylRAA
+   BV7dcXewMuvwQI/wPlg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=rockfishcables.com;
+ b=Df3aOGmIWVaFueYI+f5DODXDdJmVg7eH6epc91WTpaIXwkTSvnITE51g8ytddZQxa6otdciJT/Mz
+   2WLYVquJuletYT9mZvha7Ut2u1LT0M75Cwhp6Zc4pwSnh0Ka1Fh+j9Ya6kQaQGoT01FLl+NyiqYG
+   kQpXmlp2GFPgSiWYiy8=;
+Received: by mail.rockfishcables.com id hg1g6e0001g9 for <bruce@untroubled.org>; Wed, 21 Apr 2021 13:24:24 -0400 (envelope-from <barry_arnold-bruce=untroubled.org@rockfishcables.com>)
+Date: Wed, 21 Apr 2021 13:24:24 -0400
+From: "Barry Arnold" <barry_arnold@rockfishcables.com>
+To:   <bruce@untroubled.org>
+Subject: USB powered pad keeps drinks hot on your desk
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_415_1767119865.1619025684127"
+List-Unsubscribe: <http://www.rockfishcables.com/cornerstone-shield/ada4Y2395B89AU10RY11VT4f3z21PFv4GIf4rxvs4FhIHEsvZ7MQgnoe95j1Tk06SPkAsv>
+Message-ID: <0.0.0.46.1D736D32C804224.3C3367@mail.rockfishcables.com>
+Content-Length: 8216
+
+------=_Part_415_1767119865.1619025684127
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Keep your Drink Hot Without the Microwave- The Homestyle Mug Warmer **
+------------------------------------------------------------
+
+
+This mug warmer is great to have on hand to heat up a variety of hot beverages and soups.  It keeps your beverages at the most suitable temperature.  The warming pad is activated by a pressure-based switch, so it's powered when your mug is on the device.  Additionally, the mug warmer is waterproof, so removing spillage and its stain is one wipe away. 
+
+
+Shop now  Up To 63% Off ->  http://www.rockfishcables.com/6296mPx2395YL86L12r2S1j5fJ4f3r21jFv4GIf4rxvs4FhIHEsvZ7LQgnoe96d1Lv0T6s2s0vW/Alden-moonlight
+
+
+
+
+Klien Attler Network Cooperative
+706 S Lincoln, Knoxville IA, 50138
+ADJUST SUBSCRIPTION PREFERENCES http://www.rockfishcables.com/7af5z239A5M8gB612t21V5cBx4f3C21zFv4GIf4rxvs4FhIHEsvZ7VQgnoe96J10gsG5yWsv2/frameworks-homogeneously
+
+------=_Part_415_1767119865.1619025684127
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <!--Abigail Swenstein, a staff Attorney with The Legal Aid Society?s explo=
+itation intervention project, has commented of Vance?s announcement: ?We we=
+lcome this action from DA Vance to dismiss all pending prostitution and unl=
+icensed massage related cases as well as his new policy to decline to prose=
+cute these arrests going forward.?
+   ?We thank the DA?s office, and most notably, the prosecutors in the huma=
+n trafficking unit, who have listened to and acted on the knowledge gained =
+from speaking to advocates and most importantly, survivors and those with l=
+ived experience as sex workers,? Swenstein also says.    ?Countless sex wor=
+kers, those profiled as sex workers, and trafficking victims have suffered =
+under the weight of convictions and warrants. These perpetual punishments e=
+xtend into family and immigration court, and impact our clients? ability to=
+ find stability through housing and employment.?
+   More details have emerged about Derek Chauvin?s incarceration as he awai=
+ts sentencing in eight weeks. The former Minneapolis police officer was tak=
+en into custody after being convicted of three charges? second-degree unint=
+entional murder, third-degree murder, and second-degree manslaughter?in Geo=
+rge Floyd?s death during a 25 May 2020 arrest.    CNN?s Jim Sciutto has pos=
+ted photos of a cell similar to where Chauvin is being housed. A Minnesota =
+Department of Corrections spokeswoman has told the Minneapolis Star Tribune=
+ newspaper that Chauvin is being kept under ?administrative segregation? fo=
+r his own safety at the Oak Park Heights Prison.Derek Chauvin, the former M=
+inneapolis police officer found guilty Tuesday in George Floyd?s death, is =
+being ?segregated? from other inmates, the Minneapolis? Star Tribune newspa=
+per reports.    Chauvin, who was convicted of second-degree unintentional m=
+urder, third-degree murder, and second-degree manslaughter, has been in cus=
+tody since yesterday afternoon. Judge Peter Cahill revoked Chauvin?s bail s=
+hortly after reading the guilty verdict; deputies handcuffed and escorted h=
+im out of the courtroom.--->
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />=20
+  <style>
+         @media only screen and (max-width: 500px) {
+         .background-image {
+         background-position: 0px !important;
+         }
+         }
+      </style>=20
+ </head>=20
+ <body style=3D"margin: 0; padding: 0;">=20
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=20
+   <tbody>
+    <tr>=20
+     <td style=3D"padding: 0 0 30px 0">=20
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"640" style=3D"width: 100%; max-width: 640px; font-family: Helv=
+etica, Arial, Gotham, sans-serif; border: 1px solid #cccccc; border-collaps=
+e: collapse;">=20
+       <tbody>
+        <tr>=20
+         <td align=3D"center" bgcolor=3D"#fff">=20
+          <div style=3D"background: #fff;">=20
+           <div>=20
+            <a href=3D"http://www.rockfishcables.com/2e15s23_95D8o6A10J215bV4f3T21eFv4GIf4rxvs4FhIHEsvZ7RQgnoe97e1YJP0q6NyNskv/midrange-eatings" target=3D"_blank"> <img src=3D"=
+http://www.rockfishcables.com/5ed4I2395on7ao11v215dsv4f3M21EFv4GIf4rxvs4FhIHEsvZ7IQgnoe96XK10yo6XNqpsv/Falstaff-excerpts" alt=3D"Logo for HomeStyle" width=3D"300" height=3D"auto" style=3D"margi=
+n: 0; padding-top: 24px; width: 75%; max-width: 250px; display:inline;" /> =
+</a>=20
+            <a href=3D"http://www.rockfishcables.com/2e15s23_95D8o6A10J215bV4f3T21eFv4GIf4rxvs4FhIHEsvZ7RQgnoe97e1YJP0q6NyNskv/midrange-eatings" target=3D"_blank"> <img src=3D"=
+http://www.rockfishcables.com/6dd4d2395BoP7a10Q215eA4f3H21AFv4GIf4rxvs4FhIHEsvZ7KQgnoe96kAj10B6EPWJsv/robing-denounces" alt=3D"remote worker" width=3D"640" height=3D"auto" style=3D"width: 100=
+%; max-width: 640px;" /> </a>=20
+           </div>=20
+          </div>=20
+          <div style=3D"width: 100%;">=20
+           <div style=3D"margin-top: 0px; padding: 6px 24px 2px 24px; color=
+: rgba(114,102,88,1);">=20
+            <h1 style=3D"letter-spacing: 2px; padding-top: 1rem; margin-bot=
+tom: 12px; font-weight: 100; font-size: 24px;"> WORKING FROM HOME?<br /> HE=
+RE'S WHAT YOUR DESK IS MISSING. </h1>=20
+            <p style=3D"margin-top: 4px; width: 88%;"> If you're still tryi=
+ng to set up the perfect home office, the Homestyle Mug Heater may be just =
+what you're looking for. The heater keeps coffee (or tea) at the perfect te=
+mperature for hours. Act now to get a bundle for your desk, your couch, or =
+even your bed (we won't tell your boss). </p>=20
+           </div>=20
+           <p> <a href=3D"http://www.rockfishcables.com/2e15s23_95D8o6A10J215bV4f3T21eFv4GIf4rxvs4FhIHEsvZ7RQgnoe97e1YJP0q6NyNskv/midrange-eatings" target=3D"_blank"> <button style=3D"p=
+adding: 8px 20px;
+                                 font-size: 18px;=20
+                                 background-color: transparent;=20
+                                 text-decoration:none;=20
+                                 border: 2px solid rgba(114,102,88,1);;=20
+                                 letter-spacing: 2px;=20
+                                 color: rgba(114,102,88,1);;=20
+                                 cursor: pointer;
+                                 margin-bottom: 40px;
+                                 font-weight: 900;"><b>SHOP NOW</b></button=
+> </a> </p>=20
+          </div> </td>=20
+        </tr>=20
+        <!-- FOOTER -->=20
+        <tr>=20
+         <td bgcolor=3D"#3d3b36" style=3D"padding: 30px 30px 30px 30px;">=
+=20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%" style=3D"color:#6d6b66; font-family: Helveti=
+ca, Arial, Gotham, sans-serif;">=20
+              <div style=3D"text-align: center;">=20
+               <div style=3D"margin-bottom: 6px;">
+                Wright &amp; King Computing Services
+               </div>=20
+               <div style=3D"margin-bottom: 6px;">
+                5617 Browning Rd
+               </div>=20
+               <div style=3D"margin-bottom: 6px;">
+                Little Rock AR 72209 2711
+               </div>=20
+               <a href=3D"http://www.rockfishcables.com/1d35I23L95vO8I610i215cs4f3u21NFv4GIf4rxvs4FhIHEsvZ7pQgnoe97Qv1n0Gt6Gzqlsv/cornerstone-shield" style=3D"color: inherit; text-decorat=
+ion: none;"> Unsubscribe from our messages. </a>=20
+              </div> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img src=3D"http://www.rockfishcables.com/1d34r2395k85GU10u2160g4f3k21rFv4GIf4rxvs4FhIHEsvZ7PQgnoe95J1P0G6nLsjvy/robing-denounces" alt=3D""/></body>
+</html>
+
+------=_Part_415_1767119865.1619025684127--
+

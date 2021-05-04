@@ -1,0 +1,54 @@
+Return-Path: <>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1070984 invoked from network); 2 Apr 2021 20:25:41 -0000
+Received: (qmail 142899 invoked by uid 222); 2 Apr 2021 20:25:40 -0000
+Return-Path: <>
+Delivered-To: virtmail-bruceg@untroubled.org
+Received: (qmail 142896 invoked from network); 2 Apr 2021 20:25:40 -0000
+Received: from rirhe.shoppingexclusiv.de ([129.159.72.230])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Apr 2021 20:25:40 -0000
+Received: from mmt.radishbo-ya.co.jp (HELO read.izhzonetime.net) ()
+  by mx01.lytzenitmail.dk with ESMTP; 22 Mar 2021 11:07:09 +0100
+Subject:bruceg  virus detected (6)
+From:Urgent<bruceg@untroubled.org>
+Date: Fri, 02 Apr 2021 21:15:45 +0200
+To: <yourmom1260@jubii.dk>
+Reply-To: "Sainsbury's Bank Plc" <email.reply@sainsburysbank.co.uk>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 6.7.0
+Precedence: bulk
+List-Unsubscribe: <mailto:bounce@sb.nectar.com?subject=unsubscribe%3CNM607DCE5AD0849A569sainsbu_mkt_prod1-Ym91bmNlQHNiLm5lY3Rhci5jb20%3D@sb.nectar.com%3E>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_262_407152ED.407152ED"
+Content-Length: 4246
+
+	
+------=_NextPart_262_407152ED.407152ED
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="UTF-8"
+
+<table align="center">
+<tbody>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 30px;" align="center" valign="middle" bgcolor="#feb60a" width="550px" height="50px">Norton</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 30px;" align="center" valign="middle" bgcolor="red" width="550px" height="50px">Expired Norton Antivirus Protection</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; padding-left: 50px;" align="left" valign="middle" bgcolor="#ffffff" width="550px" height="350px"><br /> your Norton antivirus Subscription Expired on 05 april 2021 , <br /><br /> Your PC may be vulnerable to viruses and other threats!<br /> Norton Antivirus protects your family from viruses, spyware, malware botnets and more.<br /> If your computer isn't protected by Norton's advanced threat prevention, you are at risk. <br /><br /><hr style="border: 1px solid #ccc;" /><span style="color: #53565a; font-size: 20px; font-weight: bolder;">Protect your computer and your family from ever-evolving threats targeting computers...</span><br /><br /><strong><span style="color: #2f892b;"> LIMITED TIME OFFER</span> <br /><br />Yo<strong style="font-size: 1px;">.</strong>u Ar<strong style="font-size: 1px;">.</strong>e En<strong style="font-size: 1px;">.</strong>titl<strong style="font-size: 1px;">.</strong>ed T<strong style="font-size: 1px;">.</strong>o T<strong style="font-size: 1px;">.</strong>he Di<strong style="font-size: 1px;">.</strong>s<strong style="font-size: 1px;">.</strong>count <span style="background-color: #00ce00; color: #ffffff; padding: 2px;"> 7<strong style="font-size: 1px;">.</strong>0<strong style="font-size: 1px;">.</strong>% D<strong style="font-size: 1px;">.</strong>i<strong style="font-size: 1px;">.</strong>s<strong style="font-size: 1px;">.</strong>c<strong style="font-size: 1px;">.</strong>o<strong style="font-size: 1px;">.</strong>u<strong style="font-size: 1px;">.</strong>n<strong style="font-size: 1px;">.</strong>t O<strong style="font-size: 1px;">.</strong>n Re<strong style="font-size: 1px;">.</strong>ne<strong style="font-size: 1px;">.</strong>w<strong style="font-size: 1px;">.</strong>al F<strong style="font-size: 1px;">.</strong>or 1 Y<strong style="font-size: 1px;">.</strong>e<strong style="font-size: 1px;">.</strong>a<strong style="font-size: 1px;">.</strong>r</span><br /><br /> Of<strong style="font-size: 1px;">.</strong>fer Wi<strong style="font-size: 1px;">.</strong>ll <strong style="font-size: 1px;">.</strong>Ex<strong style="font-size: 1px;">.</strong>pire : <span style="color: #ff0000;">14/04/2021</span> <br /><br /> </strong></td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 30px;" align="center" valign="middle" bgcolor="#feb60a" width="550px" height="50px"><a style="color: #ffffff; text-decoration: none; font-family: Arial Black;" href="https://publ.maillist-manage.com/click.zc?od=3z5e71675f4e4c1f2f2f39d89aa992e57a50afa7a545664705c4347a422bb0bca4&repDgs=1a65501d58bfae15&linkDgs=1a65501d58bfa57f&mrd=1a65501d58bfad35&m=1#fmphavownhkcEL0osl"><u>Renew_Subscription</u></a></td>
+</tr>
+</tbody>
+</table>
+<p><a style="text-decoration: none;" href="https://publ.maillist-manage.com/click.zc?od=3z5e71675f4e4c1f2f2f39d89aa992e57a50afa7a545664705c4347a422bb0bca4&repDgs=1a65501d58bfae15&linkDgs=1a65501d58bfa57f&mrd=1a65501d58bfad35&m=1#fmphavownhkcEL0osl"><br /><br /></a></p>
+<center><br /><br /><br /></center>
+ <tr>
+ <td height="56" align="center" valign="top" style="font-family: 'Open Sans', sans-serif;font-size:12px;line-height: 18px;color: #797979;">
+ If you no longer wish to receive these emails, you may unsubscribe by clicking <a href="https://publ.maillist-manage.com/click.zc?od=3z5e71675f4e4c1f2f2f39d89aa992e57a50afa7a545664705c4347a422bb0bca4&repDgs=1a65501d58bfae15&linkDgs=1a65501d58bfa581&mrd=1a65501d58bfad35&m=1" style="color:#ccc;text-decoration:none;">here</a> or by writing to 9901 Brodie Lane Ste 160 Austin, TX 78748
+ </td>
+
+------=_NextPart_262_407152ED.407152ED--

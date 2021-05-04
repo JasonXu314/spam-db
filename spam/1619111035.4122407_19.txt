@@ -1,0 +1,191 @@
+Return-Path: <joanna_mcbride-bruce=untroubled.org@warningsociety.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3332079 invoked from network); 22 Apr 2021 14:33:19 -0000
+Received: (qmail 85079 invoked by uid 222); 22 Apr 2021 14:33:19 -0000
+Return-Path: <joanna_mcbride-bruce=untroubled.org@warningsociety.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 85076 invoked from network); 22 Apr 2021 14:33:19 -0000
+Received: from mail.warningsociety.com (205-236-248-24.serversto.com [205.236.248.24])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 14:33:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=warningsociety.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=joanna_mcbride@warningsociety.com;
+ bh=cryWyYNzjuaNx0zSGWKiiIjdYuU=;
+ b=ECT/rOabI348O9U38vQcsnBNfpbFciSDaafJuwPqeBMK9YbLDWYtNUqUObc5O9QZIDYP2K07GqgO
+   jnHXCiDjhHOpNAW0afn06oqaZl0Zr537Wblbk8LB7AiQTTeUuYCqLTnJWqbg4AlxrmBPLWI4hLU5
+   7pLzbjQbzWqyDNsK3ww=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=warningsociety.com;
+ b=XcMrqkj+BE9R/wZEWu2Jdc9sll0oWhMGrp0z+Yib5Y1lS+zk3guRRntyAfgZ91IyEC0b/empvR2R
+   Kj2sUrC+31+l8Uctze+JTsMFJr+Gblpz1w3fnqbeQFpzKo6LtX5eEnDHnGIIGEMmzHpBwe6ic9i3
+   e9+Td2WK2WOReEXbmjE=;
+Received: by mail.warningsociety.com id hg64pe0001g5 for <bruce@untroubled.org>; Thu, 22 Apr 2021 10:32:45 -0400 (envelope-from <joanna_mcbride-bruce=untroubled.org@warningsociety.com>)
+Date: Thu, 22 Apr 2021 10:32:45 -0400
+From: "Joanna Mcbride" <joanna_mcbride@warningsociety.com>
+To:   <bruce@untroubled.org>
+Subject: Portable Air Cooler for Nightstands, Desktops, & More!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_262_1196915447.1619101830936"
+List-Unsubscribe: <http://www.warningsociety.com/d136l239AO5G89pA10c1p1nj4fbn21VFv4GIf4rxvs4FhIHEsvZ7tQFnoKn6Ei10QU5G1sjv/withholds-decease>
+Message-ID: <0.0.0.2B.1D737845C638F6C.49A9C4@mail.warningsociety.com>
+Content-Length: 12207
+
+------=_Part_262_1196915447.1619101830936
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 1/2 OFF Portable Air Coolers **
+----------------------------------
+
+3 in 1 portable air cooler.  Keep any room 15 degrees cooler, without turning on your central a/c.  Perfect for the office or those hot rooms in your home that are hard to cool.  Stop sweating your butt off during the summer seasons.  You know that the next heat wave isn't far away, and when it will come (and you know it will), you'll be happy that you made the right call in getting one of these revolutionary devices.  What's even better is that if you buy now, you'll get free shipping and a 50% discount on top.  We recommend that you take full advantage of the multiple unit discounts - this way you can keep one in each room of your house. 
+
+
+BOGO & Half-Off Today Only
+View Air Coolers -> http://www.warningsociety.com/cQ56rGD2395HRw8611q21X9aL4fbo21IFv4GIf4rxvs4FhIHEsvZ7vQFnoKn5Ot10g5SBlsv/shiftily-academically
+
+
+
+
+
+
+Adjust your messaging settings here http://www.warningsociety.com/withholds-decease/44a6O23i9g5m8H6A10g2195i4fbD21dFv4GIf4rxvs4FhIHEsvZ7EQFnoKn6u1pxO05MBsv3 or reach out to Openheimer and Pascal Communication Labs at 5426 Cloverly Ave, Temple, 91780. 
+
+
+
+------=_Part_262_1196915447.1619101830936
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table width="100%" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#ffffff" width="100%"> 
+      <div style="line-height: 5px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width88 hauto" width="166"><img class="width88 hauto" style="display: block; border: 0;" src="http://www.warningsociety.com/6a15m2s395I7aVL10G2196U4fbo21JFv4GIf4rxvs4FhIHEsvZ7qQFnoKn6U10BjN5QlNsv/Atari-underpinnings" alt="" width="127" height="auto" /></td> 
+         <td class="width232 hauto" align="right" valign="bottom" width="434">&nbsp;</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix line8" style="line-height: 15px;">
+       &nbsp;
+      </div> 
+      <table class="width320 hauto" border="0" width="600" cellspacing="0" cellpadding="0" bgcolor="#eeeeee"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 2px;" align="center" valign="middle"> 
+          <div style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decoration: none; padding-top: 10px;">
+           <img src="http://www.warningsociety.com/9355z2K395SB7Ma10S2197z4fbD21uFv4GIf4rxvs4FhIHEsvZ7gQFnoKn5o10Pu5fLWsv/accountable-uncleared" width="350" />
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" width="600"> 
+          <table cellspacing="0" cellpadding="0"> 
+           <tbody> 
+            <tr> 
+             <td class="width320" style="padding: 20px;" align="center" valign="top" bgcolor="#eeeeee" width="600"><a href="http://www.warningsociety.com/Walford-masturbated/4_e5u239T5c8xY611b21q93w4fbV21FFv4GIf4rxvs4FhIHEsvZ7PQFnoKn7eq1rZ0Y5NPsvB"><img style="display: block; font-family: arial, sans serif; font-size: 20px; color: #ffffff;" src="http://www.warningsociety.com/e036zh239R5hT7aY12zA2198UD4fbN21hFv4GIf4rxvs4FhIHEsvZ7cQFnoKn5gRT106Hjsk3v/indicated-version" width="100%" height="auto" border="0" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td class="width320" align="center" width="600"> 
+          <div class="lhfix line12" style="line-height: 14px;">
+           &nbsp;
+          </div> 
+          <table class="width280" border="0" width="540" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 12px;" align="center"> 
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text-decoration: none;">
+               <a style="color: #832d98; text-decoration: none; font-weight: bold;" href="http://www.warningsociety.com/journalist-episodes/b344R2395V8Gt612X21vY94Y4fbY21sFv4GIf4rxvs4FhIHEsvZ7vQFnoKn6b1S0ZO6J1WAsv">CoolAir</a> is a portable, compact air conditioner that uses evaporative cooling technology to keep you refreshed all summer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp; &nbsp;
+              </div> </td> 
+            </tr> 
+            <tr align="center"> 
+             <td style="padding-top: 16px;"><a href="http://www.warningsociety.com/Walford-masturbated/4_e5u239T5c8xY611b21q93w4fbV21FFv4GIf4rxvs4FhIHEsvZ7PQFnoKn7eq1rZ0Y5NPsvB"><img src="http://www.warningsociety.com/b6f6p2oT395MGZ7a12zu2199rU4fbq21AFv4GIf4rxvs4FhIHEsvZ7qQFnoKn5d10pu5Elpsv/accountable-uncleared" alt="main image" /></a></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table cellspacing="0" cellpadding="0" bgcolor="#fff"> 
+           <tbody> 
+            <tr> 
+             <td class="width20" width="31">&nbsp;</td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="lhfix" style="line-height: 30px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 19px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix hide" style="border-top: 1px solid #B7B7B7; line-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div> 
+      <div class="lhfix" style="line-height: 20px;">
+       &nbsp;
+      </div> 
+      <table border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="center" width="560"> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fargo, ND 58103/2931 
+           <a href="http://www.warningsociety.com/1974U2395cL86g12o2QJ195W4fbL21mFv4GIf4rxvs4FhIHEsvZ7pQFnoKn5tTR105oTs3v/indicated-version">Want to stop future messages?</a>
+          </div> 
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+           <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-bottom: 32px;"> 
+             <p class="css-1x4bywk"><span style="color: #ffffff;">?I had a son in my house who was doing things that were inexplicable from a Newtonian perspective. He's like the Narnia wardrobe. How can I care what the people at Harvard think?? She has written in the past about Adam being able to sense the thoughts of wild animals and calls him her ?handy-dandy portable Zen master?.</span></p> 
+             <p class="css-1x4bywk"><span style="color: #ffffff;">But our desire to conform and seek approval runs deep, she says. In her work as a coach, she has spoken to thousands of people who are reluctant to give up on lives they hate, because they are scared of the alternative. Her job, she says, is to inspire people to action. She argues that the vicissitudes of the pandemic have made billions of people question whether they are continuing to pretend to be someone they are not because of what others think.</span></p> 
+             <p class="css-1x4bywk"><span style="color: #ffffff;">How do you change that, though? ?Burn every bridge but truth. If you want the job that will make you happy, get out of the job that is making you miserable. Scary. But it's not going to happen any other way. If you need a relationship that will make you happy, get out of the relationship that is not making you happy. Or get out of the mindset that is preventing you from getting your heart broken. Walk out there with your heart vulnerable and open. You have to give up your defences. You have to give up everything that stands between you and happiness. Most people think they're all about happiness. But ask them to drop what doesn't make them happy? Suddenly fear comes in.?</span></p> 
+             <p class="css-1x4bywk"><span style="color: #ffffff;">There is something extremely attractive about being the kind of person who knows what makes them happy and takes the steps to stay that way. But it is often counterintuitive. Beck describes how she came into Winfrey's orbit. Shortly after she left academia and was working as a career coach, she was contacted by a producer at Winfrey's show. They were looking for an expert to talk about stress. ?They called all these experts on ?how to destress your life',? she says. ?The producer called me and I said: ?Hmm. I can't really talk to you because I'm going skiing.' I love skiing. And I will go for what makes me happy over anyone and anything.</span></p> 
+            </div> 
+           </div> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <!--?The producer called back and said it was the only answer she got from all the experts that made her feel less stressed. So I went skiing anyway and, while I was there, I got the call from Oprah saying they wanted me on.?
+
+I think this is the thing that attracts Beck?s followers: she has given up trying to control things and make things happen. In a world where we are encouraged to ?just do it?, Beck preaches that sometimes doing nothing ? or doing whatever you want, with no agenda ? can be the answer. 
+Beck is known for her practical suggestions and exercises. So, what is a quick fix for reconnecting to people we haven?t seen for a long time over lockdown? ?The one thing that has been shown to increase happiness across the board, but also connect people, is to write a letter of gratitude to someone towards whom you feel grateful: a teacher, a family member, an acquaintance. And then call them on the phone and read them the letter. People who do this not only develop close relationships really quickly, but also their happiness is elevated for months. This kind of gratitude is a kind of magic and it?s something we can do proactively, no matter what the circumstances.? (I look forward to the call, friends.)
+
+What advice does she have for people who feel judged and crave the societal approval that she craved for years? Post-pandemic, how do you avoid going back to a life that doesn?t feel quite right? ?Notice that, when you?re not yourself because you want people to like you, you hate your life. There?s this idea called ?the empty elevator?. Say you don?t like your life on the floor that you?re on and you want to go to a higher perspective ? When you get in the elevator, not many people are going to come with you. So you get in anyway and you might be thinking: ?I?ve made a terrible mistake. No one wanted to come with me. I?m all alone in this elevator.? And then you get to your new level, the doors open and you find a room of people who are excited for you to be exactly where you wanted to be.?---> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.warningsociety.com/8095S239o5rz8O511tg219bN4fb_21zFv4GIf4rxvs4FhIHEsvZ7vQFnoKn7S1Kn0hm5SOLsv/withholds-decease" alt=""/></body>
+</html>
+
+------=_Part_262_1196915447.1619101830936--
+

@@ -1,0 +1,99 @@
+Return-Path: <31579-44520-39280-8247-bruce=untroubled.org@mail.bloodpressed.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2339647 invoked from network); 13 Apr 2021 14:29:09 -0000
+Received: (qmail 47058 invoked by uid 222); 13 Apr 2021 14:29:08 -0000
+Return-Path: <31579-44520-39280-8247-bruce=untroubled.org@mail.bloodpressed.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 47055 invoked from network); 13 Apr 2021 14:29:08 -0000
+Received: from downey.bloodpressed.us ([134.73.142.221])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 14:29:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=bloodpressed.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HighBPProgram@bloodpressed.us;
+ bh=vt/DYCKy1uMHB27/lCPNr6WL5JA=;
+ b=RDuhweXqmnNQOiHnsaHpEKrLSlywUKAR7dylZenPIbws9nkut5apqKPsE7wVuiN/xhOwWUjVCKcp
+   XwwaO5udWxJsdxemcu9tLK9F+D2jnljr5xxIjezPGuWXLwNmFqFuxlVA/zfJOporbph3FeaR3ioJ
+   kkJJ32DcTfmFFGdT7/Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=bloodpressed.us;
+ b=ccFq+0d2fxHChd18lhmPPIVs6+zpu1L3CWfY4tcUlHav+VKGpn1Ne82hrxDaNnBHlWy/P3a6FWla
+   fvggss2aHfIIoSCRm+eGHlHX1xR1pbbtaE4fgpQPwFMd9JtGgT0aWdBox2QaUAlPeCK6hIE99loq
+   6zs9h1LqyLC1plLP5vs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="72e6d4d5e847424bd1d4ce5cdcec3d9c_ade8_9970"
+Date: Tue, 13 Apr 2021 07:28:25 -0700
+From: "High BP Program" <HighBPProgram@bloodpressed.us>
+Reply-To: "Naturally Drop BP" <BPMedications@bloodpressed.us>
+Subject: High Blood Pressure Cured In 9 Minutes
+To: <bruce@untroubled.org>
+Message-ID: <az4w2p9jpjj187t5-looobgr3czhdhait-ade8-9970@bloodpressed.us>
+Content-Length: 6547
+
+--72e6d4d5e847424bd1d4ce5cdcec3d9c_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+High Blood Pressure Cured In 9 Minutes
+
+http://bloodpressed.us/cbTUHORkBP39fmALN-tfRIdAaAR8fo4TVJGpvRrYiDAtNCa1
+
+http://bloodpressed.us/PcMnk_saU4757JPkWylSvj869I1mM15HVgSgdmxS2dNaWYli
+
+akening in the bunker, everyone has been bound with zip ties. When Jimmy remembers that the boots he loaned to Burt had the laces replaced with 550 Paracord, Burt is able to saw the zip ties off. Meanwhile, Bill's hunt continues but goes wrong when the Graboid that made it to the site earlier has shown up and is subsequently dubbed "The Queen" due to its superiority. Anna quits when Bill's lust for the hunt proves too dangerous and insane.
+
+Anna frees Burt and the others from the bunker, but they are attacked by a Graboid before they can leave. They use the dynamite to blow it up leaving only The Queen. Burt locates Bill to reason with him but is unable to convince him to give up his hunt. Bill meets his demise when The Queen finds them and devours Bill. Burt realizes The Queen is killing the weakest off until Burt, who Jimmy points out must be the Alpha, is left remaining. Burt gathers the remaining survivors and, inspired by the way his friends Valentine McKee and Earl Bassett successfully killed off an intelligent Graboid in his very first encounter with the creatures (Tremors), they plan to lead The Queen to an inactive volcano dubbed Devil's Punchbowl and lure The Queen over a plateau onto a bed of spiked dynamite.
+
+Burt and Jimmy leave to kill off the remaining Shriekers, while Jas and the others set up the trap for The Queen. Burt and Jimmy make it to Dark Island and begin killing off the Shriekers with just machetes, one flamethrower, and a chainsaw.
+
+They return to the research site, but find out The Queen is there waiting for Burt. The team heads to Devil's Punchbowl to execute the plan with Jimmy following behind with Burt. The pair are successfully leading The Queen into the trap, but Burt, at the last second, pushes Jimmy out of the way and lets himself be swallowed by The Queen to ensure her demise. The Queen dies from the dynamite and spikes, but Burt does not survive, much to the sadness of Jas and the others. In the end, they make a memorial for Burt, leaving behind their weapons with his signature hat and sunglasses.
+
+During the credits, scenes of Burt Gummer from all the previous Tremors films are montag
+
+--72e6d4d5e847424bd1d4ce5cdcec3d9c_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://bloodpressed.us/iE4z3ocs8MCO0-DsdJR9IM1jp9Ni861Z5OH_w5RMaAvWW6HD"><img src="http://bloodpressed.us/2b90944c236f805b43.jpg" /><img height="1" src="http://www.bloodpressed.us/LslNC7xAH6Xh2patY1L0bUCPE7tk9i1sihRtNM47fPkufHSv" width="1" /></a>
+<center>
+<div style="background-color:#F7EDED;width:700px;height:500px;">&nbsp;
+<center>
+<p style="font-size:17px;padding:15px;font-family:arial;text-align:left;width:500px;border:1px solid grey;background-color:white;"><b>High Blood Pressure Cured In 9 Minutes</b><br />
+<br />
+Is it possible to drop your high blood pressure below 120/80 in just 9 minutes?<br />
+<br />
+<b>Unbelievable&hellip;but the answer is YES!</b><br />
+<br />
+Not only is it possible&hellip;thousands of people have done it already.<br />
+<br />
+In fact, this little technique has become the <b>#1 &ldquo;underground&rdquo; high blood pressure trend of the year</b>. And we&rsquo;re expecting it to become mainstream very soon.<br />
+<br />
+What&rsquo;s more&hellip;this method requires NO pills, supplements, diets, or strenuous workouts.<br />
+<br />
+<a href="http://bloodpressed.us/cbTUHORkBP39fmALN-tfRIdAaAR8fo4TVJGpvRrYiDAtNCa1" target="blank"><b style="color:red;">I explain this all here in today&rsquo;s video&hellip;</b></a></p>
+</center>
+<br />
+&nbsp;</div>
+<span style="color:#FFFFFF;font-size:5px;">akening in the bunker, everyone has been bound with zip ties. When Jimmy remembers that the boots he loaned to Burt had the laces replaced with 550 Paracord, Burt is able to saw the zip ties off. Meanwhile, Bill&#39;s hunt continues but goes wrong when the Graboid that made it to the site earlier has shown up and is subsequently dubbed &quot;The Queen&quot; due to its superiority. Anna quits when Bill&#39;s lust for the hunt proves too dangerous and insane. Anna frees Burt and the others from the bunker, but they are attacked by a Graboid before they can leave. They use the dynamite to blow it up leaving only The Queen. Burt locates Bill to reason with him but is unable to convince him to give up his hunt. Bill meets his demise when The Queen finds them and devours Bill. Burt realizes The Queen is killing the weakest off until Burt, who Jimmy points out must be the Alpha, is left remaining. Burt gathers the remaining survivors and, inspired by the way his friends Valentine McKee and Earl Bassett successfully killed off an intelligent Graboid in his very first encounter with the creatures (Tremors), they plan to lead The Queen to an inactive volcano dubbed Devil&#39;s Punchbowl and lure The Queen over a plateau onto a bed of spiked dynamite. Burt and Jimmy leave to kill off the remaining Shriekers, while Jas and the others set up the trap for The Queen. Burt and Jimmy make it to Dark Island and begin killing off the Shriekers with just machetes, one flamethrower, and a chainsaw. They return to the research site, but find out The Queen is there waiting for Burt. The team heads to Devil&#39;s Punchbowl to execute the plan with Jimmy following behind with Burt. The pair are successfully leading The Queen into the trap, but Burt, at the last second, pushes Jimmy out of the way and lets himself be swallowed by The Queen to ensure her demise. The Queen dies from the dynamite and spikes, but Burt does not survive, much to the sadness of Jas and the others. In the end, they make a memorial for Burt, leaving behind their weapons with his signature hat and sunglasses. During the credits, scenes of Burt Gummer from all the previous Tremors films are montag</span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://bloodpressed.us/BYUvbLiqt3Rj3bFJerHdBHu0vfM_ftoJqYJIsBNJBlHoQelD" target="blank"><img src="http://bloodpressed.us/38450614048fa89c87.jpg" /><br />
+<img src="http://bloodpressed.us/3e117737886adb4865.jpg" /></a></center>
+</body>
+</html>
+
+--72e6d4d5e847424bd1d4ce5cdcec3d9c_ade8_9970--

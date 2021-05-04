@@ -1,0 +1,250 @@
+Return-Path: <louis.parker12@weboptimizes.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3024167 invoked from network); 19 Apr 2021 10:36:54 -0000
+Received: (qmail 23142 invoked by uid 222); 19 Apr 2021 10:36:54 -0000
+Return-Path: <louis.parker12@weboptimizes.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 23139 invoked from network); 19 Apr 2021 10:36:54 -0000
+Received: from mail-il1-x146.google.com (mail-il1-x146.google.com [IPv6:2607:f8b0:4864:20::146])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 19 Apr 2021 10:36:54 -0000
+Received: by mail-il1-x146.google.com with SMTP id x7-20020a056e021ca7b029016344dffb7bso10982960ill.2
+        for <bruce@untroubled.org>; Mon, 19 Apr 2021 03:36:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=weboptimizes.com; s=google;
+        h=mime-version:reply-to:message-id:date:subject:from:to;
+        bh=WGseJ0C+RgNGR9r+Tx1fvHT3GFCojmdkD+waw78ZLyo=;
+        b=dB4S2oEQUf2997heOcJzZafjFRPq5lY7Qlg+cvDjVm0aSdtRjAYLn3lukEiJPpYRKS
+         2fOdOue0PHgT/tXwSCaprIvVFclt0+5scyBrk8SYwPHVUHsFBWi+BbeBovrowwO8EInN
+         /4nfIWDFUtBha9ioAB27sqobjLRlzUzpA4PWI=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:message-id:date:subject
+         :from:to;
+        bh=WGseJ0C+RgNGR9r+Tx1fvHT3GFCojmdkD+waw78ZLyo=;
+        b=Bb/LY2ECfNfD6C1hfvxfpzTYf572+QrLiNyPJ5Xf1yNQbYPozVIQmjAd69c5gitVCd
+         DSDXDz09eVQQknvCVQqr7uZi60z5lHdi1I9ffLJgDY1J7E6dNi0VsGr5Q6bfhxK2za4/
+         bi0zcVZUQ0Y/piWjdZK6ZnRDs/2pgll23zyh5/h8KdANeeT0qOULfL7ZSP1dSYMBQk+V
+         cMgyvtEJ3EE26yPg8VMo9WhxvbakOwjbnutOBOaNuCZYiVIlIpLUIVG+Iy2Qpryk0QfP
+         AbikPvORiU71JvDFOVcdC7U6UGKvLzzDIypO0odhTmDOeMIRsMnDcd03vYLy0srlomCW
+         teyw==
+X-Gm-Message-State: AOAM5323GM0HnUK8vSme9MYXBQpJRULYA/r0JjmAtzlCRdDclvIrrXJr
+	1moIIc1T1KVulNAOXmTfbR2mRKtlwW7E
+X-Google-Smtp-Source: ABdhPJzdcCEztoF6glldG0Zp/KoRb6/l9ioi2r33hZo26ySwA6W6sT4QxyVw0f2EDkVv7cABvHsdtA6t2Q==
+MIME-Version: 1.0
+X-Received: by 2002:a05:6e02:1c28:: with SMTP id m8mr17730054ilh.244.1618828613562;
+ Mon, 19 Apr 2021 03:36:53 -0700 (PDT)
+Reply-To: louis.parker12@weboptimizes.com
+Message-ID: <00000000000076bc6305c050e807@google.com>
+Date: Mon, 19 Apr 2021 10:36:53 +0000
+Subject: Serious serious issue found while visiting youruntroubled.org
+From: Louis <louis.parker12@weboptimizes.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary="00000000000076bc4005c050e804"
+Content-Length: 15247
+
+--00000000000076bc4005c050e804
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbjogMGluIDBpbiAwLjAwMDFwdDsgbGlu
+ZS1oZWlnaHQ6ICANCm5vcm1hbDsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogR2VvcmdpYSwg
+c2VyaWY7IGZvbnQtc2l6ZTogIA0KMTFwdDsiPkhlbGxvJm5ic3A7PC9zcGFuPjxmb250IHN0eWxl
+PSIiPjxmb250IGNvbG9yPSIjMTE1NWNjIiAgDQpmYWNlPSJDYWxpYnJpLCBzYW5zLXNlcmlmIj48
+c3BhbiBzdHlsZT0iZm9udC1zaXplOiAgDQoxNC42NjY3cHg7Ij48Yj48dT51bnRyb3VibGVkLm9y
+ZzwvdT48L2I+PC9zcGFuPjwvZm9udD48Zm9udCBjb2xvcj0iIzAwMDAwMCIgIA0KZmFjZT0iQXJp
+YWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogIA0KMTFw
+dDsiPlQ8L3NwYW4+PC9mb250Pjxmb250IGZhY2U9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2Vy
+aWYiPjxzcGFuICANCnN0eWxlPSJmb250LXNpemU6IDExcHQ7Ij48YSAgDQpuYW1lPSJtXy04NjIx
+NjE1NjYzMDAzNjIzMzI0X21fLTYzODA1OTU1ODExMDAxNTAxNDhfbV8tMTYxNzc3Mzc2MzkzMTkx
+MDg5Ml9tXy01MjI4ODE4NDkzNzUzNTM3OTI4X21fMTM4NzQwMDQ2MjA3NjYzNDI5X21fMTQ0NzYw
+MzMzNTY4NzkyNDkzNV9tXzc5NDEyNjY3MDgyNzc4MjA5NTJfbV80Mjg3ODI4NTQ5MTEyNDU3NjM4
+X19Hb0JhY2siICANCnN0eWxlPSJjb2xvcjogcmdiKDM0LCAzNCwgMzQpOyI+PC9hPjwvc3Bhbj48
+L2ZvbnQ+PGZvbnQgY29sb3I9IiMwMDAwMDAiICANCmZhY2U9IkFyaWFsLCBIZWx2ZXRpY2EsIHNh
+bnMtc2VyaWYiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6ICANCjExcHQ7Ij5lYW0uPC9zcGFuPjwv
+Zm9udD48L2ZvbnQ+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBzZXJpZjsgIA0K
+Zm9udC1zaXplOiAxMXB0OyI+PGJyPjxicj48L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5
+OiBHZW9yZ2lhLCBzZXJpZjsgIA0KZm9udC1zaXplOiAxMXB0OyBjb2xvcjogcmdiKDY4LCA2OCwg
+NjgpOyBiYWNrZ3JvdW5kLWltYWdlOiBpbml0aWFsOyAgDQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBp
+bml0aWFsOyBiYWNrZ3JvdW5kLXNpemU6IGluaXRpYWw7IGJhY2tncm91bmQtcmVwZWF0OiAgDQpp
+bml0aWFsOyBiYWNrZ3JvdW5kLW9yaWdpbjogaW5pdGlhbDsgYmFja2dyb3VuZC1jbGlwOiBpbml0
+aWFsOyI+SG9wZSB0aGlzICANCmVtYWlsIGZpbmRzIHlvdSB3ZWxsLjwvc3Bhbj48c3BhbiBzdHls
+ZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyAgDQpmb250LXNpemU6IDExcHQ7IGZv
+bnQtc2l6ZTogMTFwdDsiPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgIA0Kc3R5bGU9
+Im1hcmdpbjogMGluIDBpbiAwLjAwMDFwdDsgdGV4dC1hbGlnbjoganVzdGlmeTsgbGluZS1oZWln
+aHQ6IG5vcm1hbDsgIA0KZm9udC1zaXplOiAxMXB0OyBmb250LWZhbWlseTogQ2FsaWJyaSwgc2Fu
+cy1zZXJpZjsiPjxzcGFuICANCnN0eWxlPSJmb250LWZhbWlseTogR2VvcmdpYSwgc2VyaWY7Ij4m
+bmJzcDs8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiAgDQpBcmlhbCwgc2Fucy1zZXJp
+ZjsiPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbjogMGluIDBp
+biAgDQowLjAwMDFwdDsgbGluZS1oZWlnaHQ6IG5vcm1hbDsgZm9udC1zaXplOiAxMXB0OyBmb250
+LWZhbWlseTogQ2FsaWJyaSwgIA0Kc2Fucy1zZXJpZjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWls
+eTogR2VvcmdpYSwgc2VyaWY7Ij5JICANCmFtJm5ic3A7PC9zcGFuPjxiPjxzcGFuIHN0eWxlPSJm
+b250LWZhbWlseTogR2VvcmdpYSwgc2VyaWY7IGNvbG9yOiAgDQpibHVlOyI+TG91aXMgUGFya2Vy
+PC9zcGFuPjwvYj48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEdlb3JnaWEsIHNlcmlmOyI+LCAg
+DQpJIHdhcyBzdXJmaW5nIHRocm91Z2ggeW91ciB3ZWJzaXRlIGFuZCByZWFsaXplZCB0aGF0IGRl
+c3BpdGUgaGF2aW5nIGEgZ29vZCAgDQpkZXNpZ247IGl0IHdhcyBub3QgcmFua2VkIG9uIGFueSBv
+ZiB0aGUgc2VhcmNoIGVuZ2luZXMgZm9yIG1vc3Qgb2YgdGhlICANCmtleXdvcmRzIHBlcnRhaW5p
+bmcgdG8geW91ciBkb21haW4uIEkgd2FzIHdvbmRlcmluZyBpZiB5b3Ugd291bGQgYmUgIA0KaW50
+ZXJlc3RlZCBpbiBnZXR0aW5nIHRoZSBtb3JlIGFlc3RoZXRpY2FsbHkgd2Vic2l0ZSBkZXZlbG9w
+bWVudCBvciBTRU8gZm9yICANCnlvdXIgc2l0ZS48YnI+PGJyPlRoZXJlIGlzIGEgc2ltcGxlIGVx
+dWF0aW9uIHRoYXQgaXMgYXBwbGljYWJsZSB0byB0aGUgIA0Kb25saW5lIHdvcmxkLjxicj48YnI+
+Jm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyA8Yj5FdGhpY2FsIFNFTyAgDQotJmd0
+OyBCZXR0ZXIgVHJhZmZpYyAtJmd0OyBIaWdoZXIgU2FsZXM8L2I+PGJyPjxicj5JIHBlcnNvbmFs
+bHkgc2VlIGEgbG90ICANCm9mIHBvdGVudGlhbCBpbiB5b3VyIHdlYnNpdGUgJmFtcDsgYnVzaW5l
+c3MuIFdlIGd1YXJhbnRlZSB5b3Ugd2l0aCB0aGUgYmVzdCAgDQpwbGFjZW1lbnQgb2YgeW91ciBr
+ZXl3b3JkcyBhbmQgdGhlIGltcHJvdmVtZW50IGluIHlvdXIgYnVzaW5lc3MgdG9vIHdpdGhpbiAg
+DQphIHJlYXNvbmFibGUgdGltZSBmcmFtZS48YnI+PGJyPldlIHByb3ZpZGUgeW91IGEgY29tcGxl
+dGUgZGlnaXRhbCBtYXJrZXRpbmcgIA0Kc2VydmljZS4gV2Ugd2lsbCBzdWdnZXN0IHNvbWUgdHJh
+ZmZpYyBnZW5lcmF0ZWQga2V5d29yZHMgYXMgcGVyIHRoZSBTRU8gIA0KcGFja2FnZXMuIEFsbCB0
+aGUgdGVjaG5pcXVlcyB1c2VkIGFyZSBldGhpY2FsIGFuZCBwcm9wcmlldGFyeS4gSW4gY2FzZSB5
+b3UgIA0KcmVxdWlyZSBhbnkgYWRkaXRpb25hbCBpbmZvcm1hdGlvbiwgaXQgc2hhbGwgYmUgb3Vy
+IHBsZWFzdXJlIHRvIGZ1cm5pc2ggdGhlICANCnNhbWUuPC9zcGFuPjxzcGFuIHN0eWxlPSJmb250
+LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7Ij48L3NwYW4+PC9wPjxwICANCmNsYXNzPSJNc29O
+b3JtYWwiIHN0eWxlPSJtYXJnaW46IDBpbiAwaW4gMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3Jt
+YWw7ICANCmZvbnQtc2l6ZTogMTFwdDsgZm9udC1mYW1pbHk6IENhbGlicmksIHNhbnMtc2VyaWY7
+Ij48c3BhbiAgDQpzdHlsZT0iZm9udC1mYW1pbHk6IEdlb3JnaWEsIHNlcmlmOyI+Jm5ic3A7PC9z
+cGFuPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogIA0KQXJpYWwsIHNhbnMtc2VyaWY7Ij48L3Nw
+YW4+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW46IDBpbiAwaW4gIA0KMC4w
+MDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQtc2l6ZTogMTFwdDsgZm9udC1mYW1pbHk6
+IENhbGlicmksICANCnNhbnMtc2VyaWY7Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEdlb3Jn
+aWEsIHNlcmlmOyI+SSBhbHNvIHByZXBhcmVkICANCmE8Yj4mbmJzcDs8c3BhbiBzdHlsZT0iYmFj
+a2dyb3VuZC1jb2xvcjogcmdiKDI1NSwgMjU1LCAwKTsiPmZyZWUgIA0Kd2Vic2l0ZSZuYnNwO2F1
+ZGl0IHJlcG9ydDwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigy
+NTUsICANCjI1NSwgMCk7Ij4mbmJzcDs8L3NwYW4+Zm9yIHlvdXIgd2Vic2l0ZS4gSWYgeW91IGFy
+ZSZuYnNwOzxiPjxmb250ICANCmNvbG9yPSIjMDAwMDAwIiBzdHlsZT0iYmFja2dyb3VuZC1jb2xv
+cjogcmdiKDAsIDI1NSwgIA0KMjU1KTsiPmludGVyZXN0ZWQ8L2ZvbnQ+PC9iPiZuYnNwO2kgY2Fu
+IHNob3cgeW91IHRoZSByZXBvcnQuPC9zcGFuPjxzcGFuICANCnN0eWxlPSJmb250LWZhbWlseTog
+QXJpYWwsIHNhbnMtc2VyaWY7Ij48L3NwYW4+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiICANCnN0
+eWxlPSJtYXJnaW46IDBpbiAwaW4gMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQt
+c2l6ZTogMTFwdDsgIA0KZm9udC1mYW1pbHk6IENhbGlicmksIHNhbnMtc2VyaWY7Ij48c3BhbiBz
+dHlsZT0iZm9udC1mYW1pbHk6IEdlb3JnaWEsICANCnNlcmlmOyI+Jm5ic3A7PC9zcGFuPjxzcGFu
+IHN0eWxlPSJmb250LWZhbWlseTogQXJpYWwsICANCnNhbnMtc2VyaWY7Ij48L3NwYW4+PC9wPjxw
+IGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW46IDBpbiAwaW4gIA0KMC4wMDAxcHQ7IGxp
+bmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQtc2l6ZTogMTFwdDsgZm9udC1mYW1pbHk6IENhbGlicmks
+ICANCnNhbnMtc2VyaWY7Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEdlb3JnaWEsIHNlcmlm
+OyBjb2xvcjogYmxhY2s7ICANCmJhY2tncm91bmQtaW1hZ2U6IGluaXRpYWw7IGJhY2tncm91bmQt
+cG9zaXRpb246IGluaXRpYWw7IGJhY2tncm91bmQtc2l6ZTogIA0KaW5pdGlhbDsgYmFja2dyb3Vu
+ZC1yZXBlYXQ6IGluaXRpYWw7IGJhY2tncm91bmQtb3JpZ2luOiBpbml0aWFsOyAgDQpiYWNrZ3Jv
+dW5kLWNsaXA6IGluaXRpYWw7Ij5JJ2QgYmUgaGFwcHkgdG8gc2VuZCB5b3UgPGI+b3VyJm5ic3A7
+cGFja2FnZSwgIA0KcHJpY2luZyBhbmQgcGFzdCB3b3JrIGRldGFpbHMsIGlmIHlvdSdkIGxpa2Ug
+dG8gYXNzZXNzIG91ciAgDQp3b3JrLjwvYj48YnI+PC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LWZh
+bWlseTogR2VvcmdpYSwgc2VyaWY7IGNvbG9yOiAgDQpibGFjazsiPjxicj48L3NwYW4+PHNwYW4g
+c3R5bGU9ImZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBzZXJpZjsiPkVtYWlsIHVzIGJhY2sgIA0KdG8g
+Z2V0IGEgZnVsbCBTRU8gcHJvcG9zYWwuPGJyPiZuYnNwOzxicj5Zb3VyIHJlc3BvbnNlIGlzIGhp
+Z2hseSAgDQphd2FpdGVkLjwvc3Bhbj48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBz
+YW5zLXNlcmlmOyI+PC9zcGFuPjwvcD48cCAgDQpjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFy
+Z2luOiAwaW4gMGluIDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyAgDQpmb250LXNpemU6
+IDExcHQ7IGZvbnQtZmFtaWx5OiBDYWxpYnJpLCBzYW5zLXNlcmlmOyI+PHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZTogIA0KMTEuNXB0OyBmb250LWZhbWlseTogR2VvcmdpYSwgc2VyaWY7IGNvbG9yOiBi
+bGFjazsgYmFja2dyb3VuZC1pbWFnZTogIA0KaW5pdGlhbDsgYmFja2dyb3VuZC1wb3NpdGlvbjog
+aW5pdGlhbDsgYmFja2dyb3VuZC1zaXplOiBpbml0aWFsOyAgDQpiYWNrZ3JvdW5kLXJlcGVhdDog
+aW5pdGlhbDsgYmFja2dyb3VuZC1vcmlnaW46IGluaXRpYWw7IGJhY2tncm91bmQtY2xpcDogIA0K
+aW5pdGlhbDsiPuKAnFN1Y2Nlc3Mgb2Ygb3VyIGNsaWVudCBpcyB0aGUgc3VjY2VzcyBvZiBvdXIg
+IA0KQ29tcGFueS7igJ08L3NwYW4+PGI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBHZW9yZ2lh
+LCAgDQpzZXJpZjsiPiZuYnNwOzwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBB
+cmlhbCwgIA0Kc2Fucy1zZXJpZjsiPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5
+bGU9Im1hcmdpbjogMGluIDBpbiAgDQowLjAwMDFwdDsgbGluZS1oZWlnaHQ6IG5vcm1hbDsgZm9u
+dC1zaXplOiAxMXB0OyBmb250LWZhbWlseTogQ2FsaWJyaSwgIA0Kc2Fucy1zZXJpZjsiPjxzcGFu
+IHN0eWxlPSJmb250LWZhbWlseTogR2VvcmdpYSwgc2VyaWY7Ij48YnI+QmVzdCAgDQpyZWdhcmRz
+LDxicj48L3NwYW4+PGI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBzZXJpZjsi
+Pjxmb250ICANCmNvbG9yPSIjMDAwMGZmIj5Mb3VpcyBQYXJrZXI8L2ZvbnQ+PC9zcGFuPjwvYj48
+c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6ICANCkdlb3JnaWEsIHNlcmlmOyI+PGJyPkRpZ2l0YWwg
+TWFya2V0aW5nIE1hbmFnZXI8L3NwYW4+PC9wPjxwICANCmNsYXNzPSJNc29Ob3JtYWwiIHN0eWxl
+PSJsaW5lLWhlaWdodDogMTIuNjVwdDsgYmFja2dyb3VuZC1pbWFnZTogaW5pdGlhbDsgIA0KYmFj
+a2dyb3VuZC1wb3NpdGlvbjogaW5pdGlhbDsgYmFja2dyb3VuZC1zaXplOiBpbml0aWFsOyBiYWNr
+Z3JvdW5kLXJlcGVhdDogIA0KaW5pdGlhbDsgYmFja2dyb3VuZC1hdHRhY2htZW50OiBpbml0aWFs
+OyBiYWNrZ3JvdW5kLW9yaWdpbjogaW5pdGlhbDsgIA0KYmFja2dyb3VuZC1jbGlwOiBpbml0aWFs
+OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgZm9udC1mYW1pbHk6ICANCiZxdW90O1Rp
+bWVzIE5ldyBSb21hbiZxdW90Oywgc2VyaWY7Ij48Yj48bzpwPjwvbzpwPjwvYj48L3NwYW4+PC9w
+Pg0K
+--00000000000076bc4005c050e804
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 0.0001pt; line-height: norm=
+al;"><span style=3D"font-family: Georgia, serif; font-size: 11pt;">Hello&nb=
+sp;</span><font style=3D""><font color=3D"#1155cc" face=3D"Calibri, sans-se=
+rif"><span style=3D"font-size: 14.6667px;"><b><u>untroubled.org</u></b></sp=
+an></font><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif"><sp=
+an style=3D"font-size: 11pt;">T</span></font><font face=3D"Arial, Helvetica=
+, sans-serif"><span style=3D"font-size: 11pt;"><a name=3D"m_-86216156630036=
+23324_m_-6380595581100150148_m_-1617773763931910892_m_-5228818493753537928_=
+m_138740046207663429_m_1447603335687924935_m_7941266708277820952_m_42878285=
+49112457638__GoBack" style=3D"color: rgb(34, 34, 34);"></a></span></font><f=
+ont color=3D"#000000" face=3D"Arial, Helvetica, sans-serif"><span style=3D"=
+font-size: 11pt;">eam.</span></font></font><span style=3D"font-family: Geor=
+gia, serif; font-size: 11pt;"><br><br></span><span style=3D"font-family: Ge=
+orgia, serif; font-size: 11pt; color: rgb(68, 68, 68); background-image: in=
+itial; background-position: initial; background-size: initial; background-r=
+epeat: initial; background-origin: initial; background-clip: initial;">Hope=
+ this email finds you well.</span><span style=3D"font-family: Arial, sans-s=
+erif; font-size: 11pt; font-size: 11pt;"></span></p><p class=3D"MsoNormal" =
+style=3D"margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal=
+; font-size: 11pt; font-family: Calibri, sans-serif;"><span style=3D"font-f=
+amily: Georgia, serif;">&nbsp;</span><span style=3D"font-family: Arial, san=
+s-serif;"></span></p><p class=3D"MsoNormal" style=3D"margin: 0in 0in 0.0001=
+pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;=
+"><span style=3D"font-family: Georgia, serif;">I am&nbsp;</span><b><span st=
+yle=3D"font-family: Georgia, serif; color: blue;">Louis Parker</span></b><s=
+pan style=3D"font-family: Georgia, serif;">, I was surfing through your web=
+site and realized that despite having a good design; it was not ranked on a=
+ny of the search engines for most of the keywords pertaining to your domain=
+. I was wondering if you would be interested in getting the more aesthetica=
+lly website development or SEO for your site.<br><br>There is a simple equa=
+tion that is applicable to the online world.<br><br>&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; <b>Ethical SEO -&gt; Better Traffic -&gt; Higher Sales</b><br><=
+br>I personally see a lot of potential in your website &amp; business. We g=
+uarantee you with the best placement of your keywords and the improvement i=
+n your business too within a reasonable time frame.<br><br>We provide you a=
+ complete digital marketing service. We will suggest some traffic generated=
+ keywords as per the SEO packages. All the techniques used are ethical and =
+proprietary. In case you require any additional information, it shall be ou=
+r pleasure to furnish the same.</span><span style=3D"font-family: Arial, sa=
+ns-serif;"></span></p><p class=3D"MsoNormal" style=3D"margin: 0in 0in 0.000=
+1pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif=
+;"><span style=3D"font-family: Georgia, serif;">&nbsp;</span><span style=3D=
+"font-family: Arial, sans-serif;"></span></p><p class=3D"MsoNormal" style=
+=3D"margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-fa=
+mily: Calibri, sans-serif;"><span style=3D"font-family: Georgia, serif;">I =
+also prepared a<b>&nbsp;<span style=3D"background-color: rgb(255, 255, 0);"=
+>free website&nbsp;audit report</span></b><span style=3D"background-color: =
+rgb(255, 255, 0);">&nbsp;</span>for your website. If you are&nbsp;<b><font =
+color=3D"#000000" style=3D"background-color: rgb(0, 255, 255);">interested<=
+/font></b>&nbsp;i can show you the report.</span><span style=3D"font-family=
+: Arial, sans-serif;"></span></p><p class=3D"MsoNormal" style=3D"margin: 0i=
+n 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri,=
+ sans-serif;"><span style=3D"font-family: Georgia, serif;">&nbsp;</span><sp=
+an style=3D"font-family: Arial, sans-serif;"></span></p><p class=3D"MsoNorm=
+al" style=3D"margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt=
+; font-family: Calibri, sans-serif;"><span style=3D"font-family: Georgia, s=
+erif; color: black; background-image: initial; background-position: initial=
+; background-size: initial; background-repeat: initial; background-origin: =
+initial; background-clip: initial;">I'd be happy to send you <b>our&nbsp;pa=
+ckage, pricing and past work details, if you'd like to assess our work.</b>=
+<br></span><span style=3D"font-family: Georgia, serif; color: black;"><br><=
+/span><span style=3D"font-family: Georgia, serif;">Email us back to get a f=
+ull SEO proposal.<br>&nbsp;<br>Your response is highly awaited.</span><span=
+ style=3D"font-family: Arial, sans-serif;"></span></p><p class=3D"MsoNormal=
+" style=3D"margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; =
+font-family: Calibri, sans-serif;"><span style=3D"font-size: 11.5pt; font-f=
+amily: Georgia, serif; color: black; background-image: initial; background-=
+position: initial; background-size: initial; background-repeat: initial; ba=
+ckground-origin: initial; background-clip: initial;">=E2=80=9CSuccess of ou=
+r client is the success of our Company.=E2=80=9D</span><b><span style=3D"fo=
+nt-family: Georgia, serif;">&nbsp;</span></b><span style=3D"font-family: Ar=
+ial, sans-serif;"></span></p><p class=3D"MsoNormal" style=3D"margin: 0in 0i=
+n 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, san=
+s-serif;"><span style=3D"font-family: Georgia, serif;"><br>Best regards,<br=
+></span><b><span style=3D"font-family: Georgia, serif;"><font color=3D"#000=
+0ff">Louis Parker</font></span></b><span style=3D"font-family: Georgia, ser=
+if;"><br>Digital Marketing Manager</span></p><p class=3D"MsoNormal" style=
+=3D"line-height: 12.65pt; background-image: initial; background-position: i=
+nitial; background-size: initial; background-repeat: initial; background-at=
+tachment: initial; background-origin: initial; background-clip: initial;"><=
+span style=3D"font-size: 12pt; font-family: &quot;Times New Roman&quot;, se=
+rif;"><b><o:p></o:p></b></span></p><img src=3D"https://ssl.google-analytics=
+.com/collect?v=3D1&t=3Devent&tid=3DUA-10351017-8&cid=3De3015150-bf2b-4be2-8=
+e6c-4cf050191fd6&ec=3DMmSMTP - Serious serious issue found while visiting y=
+ouruntroubled.org&ea=3DBruce@untroubled.org%20is%20opening%20the%20email" s=
+tyle=3D"display:none"/>
+--00000000000076bc4005c050e804--

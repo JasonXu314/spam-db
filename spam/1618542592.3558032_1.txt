@@ -1,0 +1,181 @@
+Return-Path: <marketing@asistentesdegerencia.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2618622 invoked from network); 15 Apr 2021 18:30:23 -0000
+Received: (qmail 89332 invoked by uid 222); 15 Apr 2021 18:30:22 -0000
+Return-Path: <marketing@asistentesdegerencia.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 89329 invoked from network); 15 Apr 2021 18:30:22 -0000
+Received: from vps1.asistentesdegerencia.com (asistentesdegerencia.com [104.248.159.38])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Apr 2021 18:30:21 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=asistentesdegerencia.com;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type;
+ i=marketing@asistentesdegerencia.com;
+ bh=Qtyo9D8d9v31SjUlg0lB+WATJ89fkp7aLRGXwzfUZ2M=;
+ b=IKsSG4bT7kf6cOYCz4UKqI0zG0td9w5bu4adJahFoaXiefA/ujQN7bqnOMU9+cAelojIMiX9uJHQ
+   AqItmrPt47+8F1aSJ+rjgo7+enLVkJLTktcBivRBj1zd/52+m9YcAu7hvFGorgS8oVvyvc1xsWRg
+   A5dTAmuPI/M7muksL9E=
+Message-ID: <2092db76adf8d2d5494cfa56b70329a2ccfc39@asistentesdegerencia.com>
+Reply-To: Bocaditos Perú (Dhaka Services SAC) <pedidos@mentalidadperuana.com>
+From: Bocaditos Perú (Dhaka Services SAC) <marketing@asistentesdegerencia.com>
+To: bruce <bruce@untroubled.org>
+Subject: [Carta] - Coffe Break en Pack Entregables a Delivery - Cotizaciones sin Compromiso.
+Date: Thu, 15 Apr 2021 13:30:15 -0500
+Organization: pizarro
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="824108a57e2b01069a9f298564d0fa71cc7b0c"
+Disposition-Notification-To: <dermatusperu@infonegocio.net.pe>
+X-Mailer: Microsoft Outlook 14.0
+Content-Length: 8355
+
+--824108a57e2b01069a9f298564d0fa71cc7b0c
+Content-Type: multipart/alternative; boundary="0bf1b93a4f9bba09d5d09920b460cda09da7"
+
+--0bf1b93a4f9bba09d5d09920b460cda09da7
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Lima, abril de 2021
+
+[Carta] - Coffe Break en Pack Entregables a Delivery - Solicite Cotización.
+
+Señores   :
+Atención : bruce Correo     : bruce@untroubled.org  
+
+DHAKA SERVICES SAC, con su nombre comercial BOCADITOS PERÚ, ofrece sus servicios económicos por Catering, Coffee Break, Desayunos, Almuerzos, Brindis, Cenas, Menaje a Delivery; Cumpliendo con todos los Protocolos de Bioseguridad.
+Esperamos que esta breve carta de presentación sea de su completo interés y nos contacten para enviarles una cotización sin compromiso. Por favor enviar sus pedidos únicamente a bocaditos.peru @ hotmail .com ó simplemente respondiendo este correo.
+
+Aquí le presentamos algunas instituciones públicas y privadas ya atendidas por nuestra empresa y que son nuestro mejor respaldo:
+
+ONPE, JNE, MINAGRI, FRECUENCIA LATINA, INDRA, CONGRESO DE LA REPÚBLICA - FONDO MI VIVENDA - CLÍNICA SAN PABLO - FONCODES - INEI - INEN - PROVIASNAC - MIGRACIONES  - SBS - ORANGE 360 SAC - MINISTERIO DE LA PRODUCCIÓN - NEUMA PERU - TECHINT - MEF - CAJA TRUJILLO - PETREX - MUNICIPALIDAD DE LA PUNTA entre otras grandes instituciones.
+
+Muchas gracias por su preferencia.
+
+Saludos Cordiales.
+
+Atte.
+
+Kathia Cruces Arismendi
+Gerente de Eventos Corporativos
+Dhaka Services SAC RUC: 20565481739 WhatsApp: 980 547 242 bocaditos.peru @ hotmail .com   
+
+PD. Si usted no es la persona encargada de la organización de eventos en su institución le rogamos nos brinde los datos de la persona indicada para poder enviarle una carta personalizada, de lo contrario le pedimos que reenvíe este correo al área correspondiente, muchas gracias por su atención. 
+
+Para retirarlo presionar únicamente aquí: RETIRARME
+
+--0bf1b93a4f9bba09d5d09920b460cda09da7
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD><TITLE>bocaditos</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY lang=ES-PE vLink=#800080 link=#0000ff bgColor=#ffcc99>
+<TABLE cellSpacing=0 borderColorDark=#663300 cellPadding=0 width=616 
+bgColor=#ffffff borderColorLight=#cc9900 border=5>
+  <TBODY>
+  <TR>
+    <TD>
+      <BLOCKQUOTE>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right><SPAN lang=ES 
+        style="FONT-SIZE: 10pt; FONT-FAMILY: 'Calibri','sans-serif'">&nbsp;</SPAN><B><SPAN 
+        lang=ES><IMG alt=bocaditos src="cid:8b5951235156ad723c07d1d8ec833@asistentesdegerencia.com" width=203 align=left 
+        height=126></SPAN></B></P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right>&nbsp;</P>
+        <P class=MsoNormal style="TEXT-ALIGN: right" align=right><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">Lima,&nbsp;abril de 
+        2021</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph">&nbsp;</P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><B><SPAN 
+        lang=ES style="FONT-FAMILY: 'Calibri','sans-serif'">[Carta] - Coffe 
+        Break en Pack Entregables a Delivery - Solicite 
+        Cotización.</SPAN></B></P>
+        <DL>
+          <DT style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN 
+          lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'">Señores&nbsp;&nbsp; : 
+          <B></B><BR>Atención : <B>bruce</B></SPAN> 
+          <DT style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN 
+          lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'">Correo&nbsp;&nbsp;&nbsp;&nbsp; 
+          : <B>bruce@untroubled.org</B></SPAN> </DT></DL>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'"><STRONG>DHAKA SERVICES 
+        SAC</STRONG>, con su nombre comercial <STRONG>BOCADITOS 
+        PERÚ</STRONG>,&nbsp;ofrece&nbsp;sus&nbsp;servicios económicos por 
+        Catering, Coffee Break, Desayunos, Almuerzos, Brindis, Cenas, Menaje a 
+        Delivery;&nbsp;<STRONG>Cumpliendo con todos los Protocolos de 
+        Bioseguridad.</STRONG></SPAN><SPAN lang=es 
+        style="FONT-FAMILY: Calibri,sans-serif"><BR><BR>Esperamos que esta breve 
+        carta de presentación sea de su completo interés y nos contacten para 
+        enviarles <STRONG>una cotización sin compromiso</STRONG>. Por favor 
+        enviar sus pedidos únicamente a <FONT 
+        color=#0000ff><STRONG>bocaditos.peru @ hotmail 
+        .com&nbsp;</STRONG></FONT><FONT color=#000000>ó simplemente respondiendo 
+        este correo.</FONT></SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'"><STRONG><FONT 
+        color=#cc3300>Aquí le presentamos algunas instituciones públicas y 
+        privadas ya atendidas por nuestra empresa y que son nuestro mejor 
+        respaldo:</FONT></STRONG></SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">ONPE, JNE, MINAGRI, 
+        FRECUENCIA LATINA, INDRA, CONGRESO DE LA REPÚBLICA - FONDO MI VIVENDA - 
+        CLÍNICA SAN PABLO - FONCODES - INEI - INEN - PROVIASNAC - 
+        MIGRACIONES&nbsp; - SBS - ORANGE 360 SAC - MINISTERIO DE LA PRODUCCIÓN - 
+        NEUMA PERU - TECHINT - MEF - CAJA TRUJILLO - PETREX - MUNICIPALIDAD 
+        DE&nbsp;LA PUNTA entre otras grandes instituciones.</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=es 
+        style="FONT-FAMILY: Calibri,sans-serif">Muchas gracias por su 
+        preferencia</SPAN><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">.</SPAN></P>
+        <P class=MsoNormal 
+        style="TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph"><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'">Saludos 
+Cordiales.</SPAN></P>
+        <P class=MsoNormal><SPAN lang=ES 
+        style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Atte.</SPAN></P>
+        <DL>
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black"><B>Kathia 
+          Cruces Arismendi</B><BR>Gerente de Eventos Corporativos<BR>Dhaka 
+          Services SAC RUC: 20565481739</SPAN> 
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">WhatsApp: 
+          980 547 242</SPAN> 
+          <DT><SPAN lang=ES 
+          style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #0000ff">bocaditos.peru 
+          @ hotmail .com</SPAN> </DT></DL>&nbsp; 
+        <P><FONT face=Calibri>PD. Si usted no es la persona encargada de la 
+        organización de eventos en su institución le rogamos nos brinde los 
+        datos de la persona indicada para poder enviarle una carta 
+        personalizada, de lo contrario le pedimos que reenvíe este correo al 
+        área correspondiente, muchas gracias por su atención.</FONT> </P>
+        <P><FONT size=2 face=Calibri><BR>&nbsp;</FONT></P>
+        <DIV>&nbsp;</DIV>
+        <DIV><FONT face=Calibri><FONT size=1>Para retirarlo presionar únicamente 
+        aquí:&nbsp;</FONT><SPAN lang=ES 
+        style="FONT-FAMILY: 'Trebuchet MS'; COLOR: black"><FONT size=1><A 
+        style="TEXT-DECORATION: underline; COLOR: blue" 
+        href="mailto:bocaditos.peru@outlook.com?subject=NADA_DE_BOCADITOS_2021&body=Retirar_por_favor.">RETIRARME</A></FONT></SPAN></FONT></DIV></BLOCKQUOTE>
+      <P class=MsoNormal>&nbsp;</P></TD></TR></TBODY></TABLE></BODY></HTML>
+
+--0bf1b93a4f9bba09d5d09920b460cda09da7--
+
+--824108a57e2b01069a9f298564d0fa71cc7b0c
+Content-Type: message/external-body; access-type=x-deleted; length=8803
+
+
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <8b5951235156ad723c07d1d8ec833@asistentesdegerencia.com>
+
+--824108a57e2b01069a9f298564d0fa71cc7b0c--

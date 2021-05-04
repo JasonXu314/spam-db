@@ -1,0 +1,258 @@
+Return-Path: <brain.blueprint.news-bruce=untroubled.org@tspeed33.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3454931 invoked from network); 23 Apr 2021 14:48:29 -0000
+Received: (qmail 18161 invoked by uid 222); 23 Apr 2021 14:48:29 -0000
+Return-Path: <brain.blueprint.news-bruce=untroubled.org@tspeed33.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 18158 invoked from network); 23 Apr 2021 14:48:29 -0000
+Received: from mail.tspeed33.cloud ([70.102.102.90])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 14:48:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed33.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=brain.blueprint.news@tspeed33.cloud;
+ bh=frxldgctOSAcWSsI6vE6471Tv7A=;
+ b=pZgt/BmwKAcZH5vbsTH0P5BkZbSI4JhGNovl76/KCEdrcdIEHYZv4OmeJGv7TIctvqYaHcdfX19U
+   v7IOn36Rh7JRrjdKamx0YJ4ImSsRVmVPGvvNuEzJuYJiwW6bYAGNB0XQijmuIPAjQ1MdskuRspeR
+   JUj2HJl47ffzqMOPjuU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed33.cloud;
+ b=Y2s6r8dHaUg/51zbp2QZ1o49CRNHoFwC7l0HoL3ftTuV59KRCLWKxIPN7aq8AW0JbJtOHcUeL4MC
+   UiLrA3l/iIBnk6IDgoFnpauNnmXbmAYaUU6I1K3a3X0P5WwxmQ+dYj12BgO1V4/vadS34hadAyf0
+   L7s2OK6x14FwgLZJGxg=;
+Received: by mail.tspeed33.cloud id hgbf360001gh for <bruce@untroubled.org>; Fri, 23 Apr 2021 10:44:04 -0400 (envelope-from <brain.blueprint.news-bruce=untroubled.org@tspeed33.cloud>)
+Date: Fri, 23 Apr 2021 10:44:04 -0400
+From: "Brain Blueprint News" <brain.blueprint.news@tspeed33.cloud>
+To:   <bruce@untroubled.org>
+Subject: FOR "3Ways" CREATIVE: 3 ways to stop dementia
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_130_1546864044.1619189032206"
+List-Unsubscribe: <http://www.tspeed33.cloud/3954f2395t8R9r13S1jAm1DB4b5al21MFv4GIf4rxvs4FhIHEsvZ11NRxomoRnoU95WD1N05eWcJY/reassigned-hitchhikers>
+Message-ID: <0.0.0.E.1D7384F1B42932C.4BA087@mail.tspeed33.cloud>
+Content-Length: 16016
+
+------=_Part_130_1546864044.1619189032206
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>bettered</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:georgia,serif; "><span style=3D"color:#A9A9A9; "><=
+span style=3D"caret-color: rgb(66, 66, 66); font-style: normal; font-varian=
+t-caps: normal; font-weight: normal; letter-spacing: normal; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; word-spac=
+ing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; back=
+ground-color: rgb(255, 255, 255); text-decoration: none; display: inline !i=
+mportant; float: none; ">Unlock memory, mental speed, and focus right now</=
+span></span></span> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0,=
+ 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-va=
+riant-caps: normal; font-weight: normal; letter-spacing: normal; text-inden=
+t: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-=
+text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: no=
+ne; "><span style=3D"font-family:georgia,serif; ">A new study from Harvard =
+Scientists has revealed<br /> that <a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" target=3D"_blank"=
+>ONE of the following foods</a> is linked to combating<br /> Alzheimer' s a=
+nd dementia. Can you guess which it is?</span></p>=20
+      <div>
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>1. </span><a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-style: normal; font-variant-caps: normal; font-weight: norm=
+al; letter-spacing: normal; orphans: auto; text-align: start; text-indent: =
+0px; text-transform: none; white-space: normal; widows: auto; word-spacing:=
+ 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " tar=
+get=3D"_blank">Red wine</a><span style=3D"caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: no=
+rmal; font-weight: normal; letter-spacing: normal; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; display: inline !important; float: none; "> </span><br style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica=
+, sans-serif; font-style: normal; font-variant-caps: normal; font-weight: n=
+ormal; letter-spacing: normal; orphans: auto; text-align: start; text-inden=
+t: 0px; text-transform: none; white-space: normal; widows: auto; word-spaci=
+ng: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -=
+moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; display: inline !important; float: none; ">2. </span><a href=3D"=
+http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" style=3D"font-family: Arial, Helvetica, sans-serif; font-style: no=
+rmal; font-variant-caps: normal; font-weight: normal; letter-spacing: norma=
+l; orphans: auto; text-align: start; text-indent: 0px; text-transform: none=
+; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-a=
+djust: auto; -webkit-text-stroke-width: 0px; " target=3D"_blank">Fish</a><s=
+pan style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: med=
+ium; font-style: normal; font-variant-caps: normal; font-weight: normal; le=
+tter-spacing: normal; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; text-decoration: none; display: inline !imp=
+ortant; float: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); colo=
+r: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: nor=
+mal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal=
+; orphans: auto; text-align: start; text-indent: 0px; text-transform: none;=
+ white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <sp=
+an style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medi=
+um; font-style: normal; font-variant-caps: normal; font-weight: normal; let=
+ter-spacing: normal; text-align: start; text-indent: 0px; text-transform: n=
+one; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; text-decoration: none; display: inline !impo=
+rtant; float: none; ">3. </span><a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; " target=3D"_blank">Avocados</a><span style=3D"caret-color:=
+ rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; text-decoration: none; display: inline !important; float: none; "> <=
+/span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fam=
+ily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; orphans: auto; text-ali=
+gn: start; text-indent: 0px; text-transform: none; white-space: normal; wid=
+ows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-=
+stroke-width: 0px; text-decoration: none; " /> <span style=3D"caret-color: =
+rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; f=
+ont-variant-caps: normal; font-weight: normal; letter-spacing: normal; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width:=
+ 0px; text-decoration: none; display: inline !important; float: none; ">4. =
+</span><a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-style: normal; font-variant-caps: normal; font-weight: normal; =
+letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px;=
+ text-transform: none; white-space: normal; widows: auto; word-spacing: 0px=
+; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target=
+=3D"_blank">Clams</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0=
+, 0, 0); font-size: medium; font-style: normal; font-variant-caps: normal; =
+font-weight: normal; letter-spacing: normal; text-align: start; text-indent=
+: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; display: inline !important; float: none; "> </span></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&=
+nbsp; </p>=20
+      <div>
+       <span style=3D"font-family:georgia,serif; "><span style=3D"caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; display: inline !important; float: none; "=
+>Select your answer to find out...</span></span>
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: auto; word-sp=
+acing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; ">
+       <span style=3D"font-family:georgia,serif; "><a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" t=
+arget=3D"_blank"><img alt=3D"alzheimers and sleep" src=3D"http://www.tspeed33.cloud/d8b6t23m9q5u7aGU17N16vN0u6NV3q4b5av21EFv4GIf4rxvs4FhIHEsvZ11bRxomoRnoU96wy10LN5mpcYO/Gunther-lunching" styl=
+e=3D"max-width: 40%; height: 238px; width: 430px; " title=3D"alzheimers and=
+ sleep" /></a></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><=
+span style=3D"font-size:16px; "><span style=3D"font-family:georgia,serif; "=
+><strong><a href=3D"http://www.tspeed33.cloud/hollowness-insulators/d6e5g239I5bv8z612u16060A4b5aU21QFv4GIf4rxvs4FhIHEsvZ11rRxomoRnoU95p1v0K5SMcY@" target=3D"_blank">Or click HERE to see the =
+answer &gt; &gt; &gt; &gt; </a></strong></span></span></p> <p style=3D"care=
+t-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, =
+sans-serif; font-style: normal; font-variant-caps: normal; font-weight: nor=
+mal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text=
+-stroke-width: 0px; text-decoration: none; "><span style=3D"font-size:16px;=
+ "><span style=3D"font-family:georgia,serif; ">To your health,</span></span=
+></p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fami=
+ly: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: no=
+rmal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-t=
+ransform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span st=
+yle=3D"font-size:16px; "><span style=3D"font-family:georgia,serif; ">Dr. Wi=
+ll Mitchell, DOM, MS Nutrition</span></span></p>=20
+      <div>
+       &nbsp;=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> <span style=3D"font-family:georgia,s=
+erif; ">&nbsp; If you do not wish to receive future messages click here to =
+<span class=3D"unstyle-auto-detected-links">Remove&nbsp; <span style=3D"tex=
+t-decoration: underline !important; border-bottom-width: 0px !important; cu=
+rsor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-=
+weight: inherit !important; line-height: 14px; "> here</span></span><br /> =
+<br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.tspeed33.cloud/unities-Piper/dc85zQ2395LV86k12g16061V4b5ap21kFv4GIf4rxvs4FhIHEsvZ11JRxomoRnoU95OT10M5zNcjY" s=
+tyle=3D"text-decoration: underline !important; border-bottom-width: 0px !im=
+portant; cursor: default !important; color: rgb(153, 153, 153); font-size: =
+10px; font-family: sans-serif; font-weight: inherit !important; line-height=
+: 14px; text-align: center; ">New Brain Blueprint</a>&nbsp; |&nbsp; 321 N C=
+entral Expressway Suite 351 - McKinney, TX 75070</span></span><br /> <br />=
+ &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"=
+font-size:12px; "><a href=3D"http://www.tspeed33.cloud/meaningless-amid/a266O2Cj395K8TR917qI160H62synz4b5ay21tFv4GIf4rxvs4FhIHEsvZ11pRxomoRnoU95cM1w06OlTNcY">&nbsp; Remove Here</a><br =
+/> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></s=
+pan>
+   <br /> &nbsp;=20
+  </div>=20
+  <span style=3D"font-family:arial,helvetica,sans-serif; "><small></small><big></big><span style="modeling"><span lang="causations"><font title="Shaffer"></span><span></span></font></span><font style="roast"></font></sp=
+an> =20
+ <img src=3D"http://www.tspeed33.cloud/4674z2395sSo8517S1vG6w064UAv4b5aK21rFv4GIf4rxvs4FhIHEsvZ11VRxomoRnoU95Q1I0o5SXcYl/meaningless-amid" alt=3D""/></body>
+</html>
+
+------=_Part_130_1546864044.1619189032206--
+

@@ -1,0 +1,112 @@
+Return-Path: <fiji-shower-spa-product-team-bruce=untroubled.org@get-88.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1505370 invoked from network); 8 Apr 2021 18:52:15 -0000
+Received: (qmail 7331 invoked by uid 222); 8 Apr 2021 18:52:14 -0000
+Return-Path: <fiji-shower-spa-product-team-bruce=untroubled.org@get-88.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 7328 invoked from network); 8 Apr 2021 18:52:14 -0000
+Received: from mail.get-88.us ([70.102.103.54])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 18:52:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=get-88.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fiji-shower-spa-product-team@get-88.us;
+ bh=w7+NBrmEP/N8MMB+38jpDkBEyH4=;
+ b=pBpLDB7N8GoN4YNsTXxxktq/oNPcnnobKCOyyGKsuQSbwGpTeGkqS7rxPIhQzuP5NPK8M0pvB9zi
+   5Eiho7cKlougHAB6M6sR/RpfBGr5V9c7pPcc7I1xFtCXZsaSjaEPLgBoWqfNatKMBIJvpB3UY8Kx
+   2lIMtXOji7oqImm/m6s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=get-88.us;
+ b=cTr/P5r6Elujbh4qwP01CAWrXdm6VS7DZeyAgRuWL10b6A1OJOFOHeWl88Gos6dNOqZpTcEeRDvi
+   zXkbV+tBksyRgk2cPGxvMcwzZL2FbHnygvX2gmFhnhus58Kd6z9rU+kt4PHl30uOAILK+0yjq23q
+   sTAFXFIrp+16BvDpsCg=;
+Received: by mail.get-88.us id hdt8d80001gt for <bruce@untroubled.org>; Thu, 8 Apr 2021 14:41:51 -0400 (envelope-from <fiji-shower-spa-product-team-bruce=untroubled.org@get-88.us>)
+Date: Thu, 8 Apr 2021 14:41:51 -0400
+From: "Fiji Shower Spa Product Team" <fiji-shower-spa-product-team@get-88.us>
+To:   <bruce@untroubled.org>
+Subject: Welcome To Staying Clean - Limited Time
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_697_1050287963.1617907299060"
+List-Unsubscribe: <http://www.get-88.us/6656L2TR395nN89M11CI1I1X4a81z21EFv4GIf4rxvs4FhIHEsvZ8iRIomm9o5S1w0K5KjcYT/supergroup-excusing>
+Message-ID: <0.0.0.4D.1D72CA6D727A9CE.2BE57D@mail.get-88.us>
+Content-Length: 4944
+
+------=_Part_697_1050287963.1617907299060
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>leaks</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153);"><a =
+class=3D"unstyle-auto-detected-links" href=3D"http://www.get-88.us/af76O23Pw95U8D6x12f15bd0j4a81R21jFv4GIf4rxvs4FhIHEsvZ8eRIomm9o7gvKT10R6dAl@cY/emaciated-particulars" style=3D"text-dec=
+oration: none !important; font-family: sans-serif; font-size: 18px; line-he=
+ight: 20px; text-align: center; color: rgb(153, 153, 153);">Fiji Shower Spa=
+ for mom</a></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255);"><a href=3D"=
+http://www.get-88.us/af76O23Pw95U8D6x12f15bd0j4a81R21jFv4GIf4rxvs4FhIHEsvZ8eRIomm9o7gvKT10R6dAl@cY/emaciated-particulars" style=3D"text-decoration: none;"><img alt=3D"" src=3D"http://www.get-88.us/42b5H239q5Pp7as12a15bd3q4a81Y21UFv4GIf4rxvs4FhIHEsvZ8ERIomm9o7siy1TJ06IlAycY/resoluteness-viscount" sty=
+le=3D"width: 602px; max-width: 600px; background-color: rgb(255, 255, 255);=
+ font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(85=
+, 85, 85); margin: auto; display: block; border-width: 0px; border-style: s=
+olid;" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none;" width=3D"1=
+00%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153);">&nbs=
+p;If you do not wish to receive future messages click here to <span class=
+=3D"unstyle-auto-detected-links"><a href=3D"http://www.get-88.us/9cb6o2z39F5Fp86H13lJ15bd1i4a81Z21sFv4GIf4rxvs4FhIHEsvZ8mRIomm9o5l1s0y5ppcYO/experiment-harvesting" style=3D"text-decor=
+ation: underline !important; border-bottom-width: 0px !important; cursor: d=
+efault !important; color: rgb(153, 153, 153); font-size: 10px; font-family:=
+ sans-serif; font-weight: inherit !important; line-height: 14px;">unsubscri=
+be</a></span><br /> <br /> <span class=3D"unstyle-auto-detected-links"><a h=
+ref=3D"http://www.get-88.us/af76O23Pw95U8D6x12f15bd0j4a81R21jFv4GIf4rxvs4FhIHEsvZ8eRIomm9o7gvKT10R6dAl@cY/emaciated-particulars" style=3D"text-decoration: underline !important; border-b=
+ottom-width: 0px !important; cursor: default !important; color: rgb(153, 15=
+3, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !im=
+portant; line-height: 14px; text-align: center;">FijiShowerSpa.com</a>&nbsp=
+;|&nbsp; 23638 W. Lyons Avenue #468 - Newhall, CA 91321</span><br /> <br />=
+ <a href=3D"http://www.get-88.us/8816o2sG395eqZ8912I15bd2u4a81_21QFv4GIf4rxvs4FhIHEsvZ8SRIomm9o6Rq1r0v6zPc3NY/experiment-harvesting">Unsubscribe Here</a><br /> <br /> 6547 N Ac=
+ademy Boulevard #1170<br /> 80918 Colorado Springs CO<br /> <br /> &nbsp;</=
+td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px;">&nbsp;</td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style dir="Spartanizes"><style></style><font face="lunch"><style></style><font dir="ambiguously"></font></style><span class="crucify"></font></span><span class="despite"></span><style dir="subtitles"><big></style></big><span color="Squaresville"></span> =20
+ <img src=3D"http://www.get-88.us/5395e23w95JG8J512m15bd4p4a81N21sFv4GIf4rxvs4FhIHEsvZ8ERIomm9o5p1H0R5f0TcY/supergroup-excusing" alt=3D""/></body>
+</html>
+
+------=_Part_697_1050287963.1617907299060--
+

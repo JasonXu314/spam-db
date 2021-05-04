@@ -1,0 +1,110 @@
+Return-Path: <home_loans_at_mutual_of_omaha_mortgage-bruce=untroubled.org@speed25.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2644611 invoked from network); 16 Apr 2021 13:01:38 -0000
+Received: (qmail 103449 invoked by uid 222); 16 Apr 2021 13:01:37 -0000
+Return-Path: <home_loans_at_mutual_of_omaha_mortgage-bruce=untroubled.org@speed25.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 103446 invoked from network); 16 Apr 2021 13:01:37 -0000
+Received: from mail.speed25.cloud ([91.228.101.101])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 13:01:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed25.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=home_loans_at_mutual_of_omaha_mortgage@speed25.cloud;
+ bh=idm1sFrOFvbomAdTkOtuKNd6UMs=;
+ b=pUO37gI0wMDAtoq0YRSwXaop7HoFAHM2kG59UEtGQ6gcfkf5BvHoTBSlBc1eWPpWcYoloQv00SjO
+   XpYO7TP7Dq25t0EGflOW7V1BRX9p7Ifmltj23Km/HZsixCTp9mQT61fCfmT35ql6pTKiy1Mi8tM0
+   ZoBX/tUmiymAhzM/weA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed25.cloud;
+ b=JuFOBDIzzLSfx6hvqNEiyZTeIsyTW+0Jg2XdTSYFWaU4zGyMipEiC+FIDOHl9fLxFWi0+tc2TcnF
+   KmatHykmCtwWHKXkU1GgoT1rYrEnDUYhOVnYp0eRMcuHkoRt0tR1Q8amr9+3gSOapQxeqCwEuW2N
+   3ScxwFW4iGY3Zs5pw3U=;
+Received: by mail.speed25.cloud id hf65b20001g5 for <bruce@untroubled.org>; Fri, 16 Apr 2021 08:50:11 -0400 (envelope-from <home_loans_at_mutual_of_omaha_mortgage-bruce=untroubled.org@speed25.cloud>)
+Date: Fri, 16 Apr 2021 08:50:11 -0400
+From: "Home Loans At Mutual Of Omaha Mortgage" <home_loans_at_mutual_of_omaha_mortgage@speed25.cloud>
+To:   <bruce@untroubled.org>
+Subject: Get a Mortgage Rate Quote Fast
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_421_1867592893.1618577395736"
+List-Unsubscribe: <http://www.speed25.cloud/6fb6P23t9y5sY89l13t1TY1sKv4aeen21fFv4GIf4rxvs4FhIHEsvZ8zRkomndS7k10muhA5fpcBY/yellowed-Protestantizes>
+Message-ID: <0.0.0.2E.1D732BF09C5C23A.19BE27@mail.speed25.cloud>
+Content-Length: 4830
+
+------=_Part_421_1867592893.1618577395736
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>courtroom</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <span style=3D"font-size:18px; "><a href=3D"http://www.speed25.cloud/imported-Dorothea/9365f23P95vN8w617G1_M5UJe1g8I4aeeu21UFv4GIf4rxvs4FhIHEsvZ8YRkomndS5g1ug05tkycY">Todays rates are=
+ the lowest dont miss out lock yours in now</a></span>
+   <br /> &nbsp;=20
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.speed25.cloud/imported-Dorothea/9365f23P95vN8w617G1_M5UJe1g8I4aeeu21UFv4GIf4rxvs4FhIHEsvZ8YRkomndS5g1ug05tkycY" style=3D"text-decoration: none; "><img alt=3D"" src=3D"http://www.speed25.cloud/9716prg2395jXv7a17BA1IMtZ5e1bM4aeeg21zFv4GIf4rxvs4FhIHEsvZ8wRkomndS6LR1gJ06zXc3kY/masking-telescopes" s=
+tyle=3D"width: 606px; max-width: 600px; background-color: rgb(255, 255, 255=
+); font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(=
+85, 85, 85); margin: auto; display: block; border-width: 0px; border-style:=
+ solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><sp=
+an style=3D"font-family:arial,helvetica,sans-serif; ">&nbsp; <span style=3D=
+"font-family:verdana,geneva,sans-serif; "> If you do not wish to receive fu=
+ture messages click here to <span class=3D"unstyle-auto-detected-links"><a =
+href=3D"http://www.speed25.cloud/masking-telescopes/22e4P2395z8vL612X15e19w4aeex21HFv4GIf4rxvs4FhIHEsvZ8jRkomndS7tK1PDV05MqcYL" style=3D"text-decoration: underline !important; border-=
+bottom-width: 0px !important; cursor: default !important; color: rgb(153, 1=
+53, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit !i=
+mportant; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span cl=
+ass=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed25.cloud/imported-Dorothea/9365f23P95vN8w617G1_M5UJe1g8I4aeeu21UFv4GIf4rxvs4FhIHEsvZ8YRkomndS5g1ug05tkycY" style=3D"text-de=
+coration: underline !important; border-bottom-width: 0px !important; cursor=
+: default !important; color: rgb(153, 153, 153); font-size: 10px; font-fami=
+ly: sans-serif; font-weight: inherit !important; line-height: 14px; text-al=
+ign: center; ">Mutual of Omaha</a>&nbsp; |&nbsp; 3131 Camino Del Rio N., St=
+e 1100 - San Diego, CA 92108</span><br /> <br /> Quit <a href=3D"=
+http://www.speed25.cloud/baton-crankiest/b706Ql239U5t8Vx917uL15eFUwB1aP4aeeO21yFv4GIf4rxvs4FhIHEsvZ8URkomndS5j1Bu05dNycY">Here</a><br /> <br /> 6547 N Academy Boulevard #1170<br /> 80918 =
+Colorado Springs CO</span></span><br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <font style="militantly"><style lang="diagramming"></style><small></font></small><style class="specimen"></style><font dir="chickadees"><span lang="wallows"></font><span></span></span><span dir="prorated"></span> =20
+ <img src=3D"http://www.speed25.cloud/masking-telescopes/3786m2C39F5g85KJ12R15e1cD4aeeB21jFv4GIf4rxvs4FhIHEsvZ8zRkomndS5FRL106dAJlcY" alt=3D""/></body>
+</html>
+
+------=_Part_421_1867592893.1618577395736--
+

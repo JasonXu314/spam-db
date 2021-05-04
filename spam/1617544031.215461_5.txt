@@ -1,0 +1,105 @@
+Return-Path: <splash-wines-holiday-sale-bruce=untroubled.org@credup1.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1119803 invoked from network); 3 Apr 2021 22:27:21 -0000
+Received: (qmail 153682 invoked by uid 222); 3 Apr 2021 22:27:21 -0000
+Return-Path: <splash-wines-holiday-sale-bruce=untroubled.org@credup1.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 153679 invoked from network); 3 Apr 2021 22:27:21 -0000
+Received: from mail.credup1.com ([70.102.103.24])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Apr 2021 22:27:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=credup1.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=splash-wines-holiday-sale@credup1.com;
+ bh=rjn5Zdz1eSusNJmNzOBQsppoorg=;
+ b=AbduSZu6QQz9MWFNIvqlLxTsOa0wzjGAMVoVqE+acGGi4MaOVPbtiRejw7jMHyG3gYlSCY6LzL1p
+   /D0ptZSDjstnm0fMnCmLUr4zf1m+3su6rbhFEJB54Hh8rrRubk0w0v4ih0z2z5bX4+DnTB1xZv6k
+   gBWQ2Yini/c5QjA8ttM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=credup1.com;
+ b=MG2iT5gmD/oc6Ca/2CsHUkrRnES53sHr3td5/LFJyWzJnw7nVFLyb/UJwMwdtO0TEc0h9y1ZwksU
+   kPizYvJGnsHUSFwkJBs9rza53Gbsko2VgHY2lc1h6ZvlU+tagqRwR86uiVhuHHh8+wXbQVkkzbMC
+   O9Rp9lhXTTdy8pX8YiA=;
+Received: by mail.credup1.com id hd3lsa0001gd for <bruce@untroubled.org>; Sat, 3 Apr 2021 18:14:37 -0400 (envelope-from <splash-wines-holiday-sale-bruce=untroubled.org@credup1.com>)
+Date: Sat, 3 Apr 2021 18:14:37 -0400
+From: "Splash Wines Holiday Sale" <splash-wines-holiday-sale@credup1.com>
+To:   <bruce@untroubled.org>
+Subject: 15 Wines You Must Try Under $7!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_376_447106380.1617488064613"
+List-Unsubscribe: <http://www.credup1.com/remnants-cowerers/8dc4X2395VD89g13rRZ11IRi4a37L21vFv4GIf4rxvs4FhIHEsvZ8IR.nKKQS5CY10X6ITAcYX>
+Message-ID: <0.0.0.28.1D728D6BBFBCF46.7D2E98@mail.credup1.com>
+Content-Length: 4504
+
+------=_Part_376_447106380.1617488064613
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>nutshells</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.credup1.com/4c16t2k3i95G8QO613g15aA49z4a37T21PFv4GIf4rxvs4FhIHEsvZ8XR.nKKQS7U10tjyU5zUcYT/abashing-seated" style=3D"text-decoration: none; "><img alt=3D"bottle" src=3D"=
+http://www.credup1.com/comprising-reimbursement/b164O2395oY7au12K15a4cY4a37s21SFv4GIf4rxvs4FhIHEsvZ8AR.nKKQS6pC1Zg06kTyTcY" style=3D"width: 550px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not w=
+ish to receive future messages click here to <span class=3D"unstyle-auto-de=
+tected-links"><a href=3D"http://www.credup1.com/background-straightforwardly/e225q2i395SKh8613U15aj4at4a37p21eFv4GIf4rxvs4FhIHEsvZ8HR.nKKQS5s10Wn5QXUcY" style=3D"text-decoration: underline !i=
+mportant; border-bottom-width: 0px !important; cursor: default !important; =
+color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-w=
+eight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br /=
+> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.credup1.com/4c16t2k3i95G8QO613g15aA49z4a37T21PFv4GIf4rxvs4FhIHEsvZ8XR.nKKQS7U10tjyU5zUcYT/abashing-seated"=
+ style=3D"text-decoration: underline !important; border-bottom-width: 0px !=
+important; cursor: default !important; color: rgb(153, 153, 153); font-size=
+: 10px; font-family: sans-serif; font-weight: inherit !important; line-heig=
+ht: 14px; text-align: center; ">Splash Wines</a>&nbsp; |&nbsp; 1191 E Iron =
+Eagle Dr., Suite #101 - Eagle, ID 83616</span><br /> <br /> <span style=3D"=
+color:#A9A9A9; ">Exit</span><a href=3D"http://www.credup1.com/contemplate-synchronized/c7e4G2395Y8ih912s15a4bx4a37k21pFv4GIf4rxvs4FhIHEsvZ8oR.nKKQS7uj1jg0_6eyPcYA"><span style=3D"c=
+olor:#A9A9A9; "> Here</span></a><br /> 6547 N Academy Boulevard #1170<br />=
+ 80918 Colorado Springs CO<br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <font title="summarizing"><font style="rakes"><small></font></font></small><style id="hospitalizing"></style><span lang="unsafely"><font style="conversant"></font><span id="recapture"></span></span> =20
+ <img src=3D"http://www.credup1.com/51b6Cq2U395a8Cy513z15a4odJ4a37r21wFv4GIf4rxvs4FhIHEsvZ8vR.nKKQS5E1I0y6rB@clY/Grafton-inhabitable" alt=3D""/></body>
+</html>
+
+------=_Part_376_447106380.1617488064613--
+

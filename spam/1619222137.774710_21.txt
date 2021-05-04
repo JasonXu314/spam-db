@@ -1,0 +1,167 @@
+Return-Path: <clyde_peters-bruce=untroubled.org@tellmwyouluvme.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3532443 invoked from network); 23 Apr 2021 19:48:35 -0000
+Received: (qmail 22647 invoked by uid 222); 23 Apr 2021 19:48:34 -0000
+Return-Path: <clyde_peters-bruce=untroubled.org@tellmwyouluvme.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 22644 invoked from network); 23 Apr 2021 19:48:34 -0000
+Received: from mail.tellmwyouluvme.com (205-236-248-51.serversto.com [205.236.248.51])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 19:48:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tellmwyouluvme.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=clyde_peters@tellmwyouluvme.com;
+ bh=k7hnyXuVmfOgNmmT8+V06aKnk4g=;
+ b=uEsJsNIpMHdiaSA+JYeP53eHxlu1tD8nJIpNxt4EoZXBFo8CRw0n4NFLszsPP/4aGXmMWgZf9N3I
+   WJX6NSBaFLta7acfmcKQRU+b+X9wE6aZjgx57FK6A82GxGclEqctPbFRPzjJ+xNstRGzK79uSjdr
+   W7ybNDuHRcZb1XOmKto=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tellmwyouluvme.com;
+ b=A3GTD/1Th6qvUcXsVQvCirAITA2hmFGifHJcm7n4aNz6M5o5IjLUTxUvS/r6R5vxJ7COSQ4QzqWs
+   tiEDgB9QuW1kmgjQrdpVzxvoUXry9YofYL6zNsTZ7my/vkaru6ZPeAqkWqYuvzS9OGsz/7xWoOUM
+   VgIgdYFPA+Lpup2Pk+g=;
+Received: by mail.tellmwyouluvme.com id hgcig60001go for <bruce@untroubled.org>; Fri, 23 Apr 2021 15:42:08 -0400 (envelope-from <clyde_peters-bruce=untroubled.org@tellmwyouluvme.com>)
+Date: Fri, 23 Apr 2021 15:42:08 -0400
+From: "Clyde Peters" <clyde_peters@tellmwyouluvme.com>
+To:   <bruce@untroubled.org>
+Subject: Portable Air Conditioner: Blast Cool Air & Feel Refreshed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1282_1011466066.1619206438281"
+List-Unsubscribe: <http://www.tellmwyouluvme.com/rebukes-sugars/5d04y2395G89iP10ROB11q502_21oFv4GIf4rxvs4FhIHEsvZ7XQ3noKe7b10KYzB5SlXsv>
+Message-ID: <0.0.0.D3.1D73878BEE78AB8.17A457@mail.tellmwyouluvme.com>
+Content-Length: 13656
+
+------=_Part_1282_1011466066.1619206438281
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 1/2 OFF Portable Air Coolers **
+----------------------------------
+
+3 in 1 portable air cooler.  Keep any room 15 degrees cooler, without turning on your central a/c.  Perfect for the office or those hot rooms in your home that are hard to cool.  Stop sweating your butt off during the summer seasons.  You know that the next heat wave isn't far away, and when it will come (and you know it will), you'll be happy that you made the right call in getting one of these revolutionary devices.  What's even better is that if you buy now, you'll get free shipping and a 50% discount on top.  We recommend that you take full advantage of the multiple unit discounts - this way you can keep one in each room of your house. 
+
+
+BOGO & Half-Off Today Only
+View Air Coolers -> http://www.tellmwyouluvme.com/4fd4K2395C8qS611d21Wcfi502s21QFv4GIf4rxvs4FhIHEsvZ7SQ3noKe5O1r0n6S2Mpsv/doctrinal-anniversaries
+
+
+
+
+
+
+Adjust your messaging settings here http://www.tellmwyouluvme.com/8094o2395Jn8i610M21c9J502D21JFv4GIf4rxvs4FhIHEsvZ7qQ3noKe6A1mV0T6S@skWv/doctrinal-anniversaries or reach out to Openheimer and Pascal Communication Labs at 5426 Cloverly Ave, Temple, 91780. 
+
+
+------=_Part_1282_1011466066.1619206438281
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+   <tbody> 
+    <tr> 
+     <!--The UK government has admitted that no assessment has been carried out of how ?dire? the impact of the 60% cut in foreign aid to Yemen will be. 
+
+UK 'balancing books on backs of Yemen's starving people', says UN diplomat
+Read more
+MPs demanded to know what impact the aid cuts would have on women, disabled people and internally displaced Yemenis in a country the UN has categorised as having the world?s worst humanitarian crisis. 
+Chris Bold, development director for Yemen at the Foreign, Commonwealth and Development Office (FCDO), told the Commons international development committee on Tuesday: ?We haven?t done an impact assessment.?
+
+James Cleverly, minister for the Middle East and North Africa, said the cuts were coming at a time of ?terrible? and ?heartbreaking? conditions in the country. 
+He told the committee that ?the risk of famine is significant?. Yemen was also experiencing a ?second wave? of Covid-19, he said. ?Infection numbers look as though they are doubling since the beginning of the year.?
+
+The FCDO was focusing most of its reduced funding on feeding people, Cleverly said, while also looking at diplomatic efforts to end the conflict. 
+A Yemeni boy digs at a cemetery in Taiz. Yemen is facing a second wave of Covid. A Yemeni boy digs at a cemetery in Taiz. Yemen is facing a second wave of Covid. Photograph: Ahmad Al-Basha/AFP/Getty
+The United Nations has warned that Yemen could be facing the worst famine in modern history. More than 16 million Yemenis are ?food insecure?, with nearly 50,000 already facing famine-like conditions, and a further five million only one step away, it said. 
+Aid organisations, giving evidence to MPs, gave a stark assessment of the aid cuts? impact. Gillian Moyes, Save the Children?s deputy Yemen director, said it expected its cash-transfer programme, which had increased the numbers of families receiving acceptable food from 46% to 93%, would end in June. 
+?We are having to assume the programme will end and we are preparing for that,? Moyes said. ?Our conclusion is that these kinds of gains can be lost.?
+
+Sultana Begum, advocacy manager for Yemen at the Norwegian Refugee Council, told MPs that UK investment had meant families were able to keep their children in school, and that girls were not being married off young. She said the UK had been a ?leader in terms of advocacy? but that status was in danger of being undermined at the G7 meeting in June. ?Humanitarian diplomacy isn?t enough,? she said. ?It will have to be matched by funding, and that?s what will give the UK its credibility.?---> 
+     <td valign="top"> 
+      <table role="presentation" border="0" width="750" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <table style="width: 500px; font-family: Verdana, sans-serif;" role="presentation" border="0" width="500" cellspacing="0" cellpadding="0" align="center" aria-hidden="true"> 
+           <tbody> 
+            <tr> 
+             <td align="center"> 
+              <div style="padding: 25px;">
+               <a href="http://www.tellmwyouluvme.com/originally-intricately/8285H2Q395e8Gx610b21c8h502Q21pFv4GIf4rxvs4FhIHEsvZ7uQ3noKe7SM1qYj06oJsAMv"> <img style="width: auto; max-width: 95px;" src="http://www.tellmwyouluvme.com/5574P2395a7Ras11y21Mcdh502A21XFv4GIf4rxvs4FhIHEsvZ7SQ3noKe5KRV105k3sv1/bushwhacked-plungers" /> </a>
+              </div> 
+              <div>
+               <a href="http://www.tellmwyouluvme.com/originally-intricately/8285H2Q395e8Gx610b21c8h502Q21pFv4GIf4rxvs4FhIHEsvZ7uQ3noKe7SM1qYj06oJsAMv" target="_blank" rel="noopener"> <img style="width: 100%;" src="http://www.tellmwyouluvme.com/audiences-superegos/b524P2395z7hla11E21ceNY502z21zFv4GIf4rxvs4FhIHEsvZ7QQ3noKe7ps1CS0R5ylsvk" /> </a>
+              </div> <h1>3-in-1 Portable Air Cooler</h1> <p>Create your own personal microclimate.</p> <p>This 3-in-1 evaporative air cooler cools, humidifies, and purifies the air around you. Ideal for nightstands, desktops, camping tents, or dorm rooms.</p> 
+              <div> 
+               <div style="padding: 10px 18px; background-color: #eb6820; display: inline-block; border-radius: 4px;">
+                <a style="font-weight: bold; text-decoration: none; color: #ffffff;" href="http://www.tellmwyouluvme.com/originally-intricately/8285H2Q395e8Gx610b21c8h502Q21pFv4GIf4rxvs4FhIHEsvZ7uQ3noKe7SM1qYj06oJsAMv"> GET 50% OFF and FREE SHIPPING </a>
+               </div> 
+              </div> </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table role="presentation" border="0" width="750" cellspacing="0" cellpadding="20" align="center" aria-hidden="true"> 
+       <tbody> 
+        <tr> 
+         <td>&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td>&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td style="font-size: 14px; color: #383838;" align="center"> <p>Click or mail <a style="color: #383838;" href="http://www.tellmwyouluvme.com/doctrinal-anniversaries/1d44K2395N86kU11X21Fc9U502T21iFv4GIf4rxvs4FhIHEsvZ7mQ3noKe5U1Rt06oUz2sv" target="_blank" rel="noopener"> Anderson Vault Data Transfer </a> to set preferences. <br /> 1444 N 91st Street. Scottsdale, AZ. 85260-7036.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> 
+          <div class="css-1gvjw7e"> 
+           <div class="article-body-commercial-selector css-79elbk article-body-viewer-selector"> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;">For many years, I was a news photographer, working first in Spain and then in Kenya. I was often assigned to stories of conflict, but I think the media present a skewed image of Africa by focusing on negative stories. I want to look at the positive side, at the fantastic minds working to transform lives and do amazing things. I want to put my camera in those spaces and tell those stories. I'm working on a project about a boxing school for girls from the slums of Nairobi. They're being taught to defend themselves and to gain self-confidence. Some are going on to become professional boxers. It's changing all their lives.</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;">Even villagers unfamiliar with climate change know their lives are changing, that the land is degrading and each day is getting tougher. It worries me that this is only the beginning, that things are only going to get worse.</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;">I love this image of the girl in the baobab tree because it's not spectacular. It's gentle and poetic, a regular scene in a&nbsp;<a style="color: #ffffff;" href="http://www.tellmwyouluvme.com/e035X2m395v8sB611a2V1caq502L21rFv4GIf4rxvs4FhIHEsvZ7UQ3noKe5s1KL05qUsqv/rebukes-sugars" data-component="auto-linked-tag" data-link-name="in body link">Niger</a>&nbsp;village. The area has been scarred by conflict and drought but life also goes on in a quiet way. This tree, and what it represents, makes me feel positive and peaceful.</span></p> 
+            <h2 class=""><span style="color: #ffffff;">Luis Tato's CV</span></h2> 
+            <figure class="css-1nntrho"> 
+             <div class="css-1nfcn93">
+              &nbsp;
+             </div> 
+             <figcaption class="css-xe26t6">
+              <span style="color: #ffffff;"><span class="css-1f2y4fi">Luis Tato.</span>&nbsp;Photograph: Will Baxter</span>
+             </figcaption> 
+            </figure> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;"><strong>Born:</strong>&nbsp;Spain, 1989.</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;"><strong>Trained:</strong>&nbsp;Self-taught.</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;"><strong>Influences:</strong>&nbsp;Cristina Garc&iacute;a-Rodero, Tom&aacute;s Munita, Alex Webb and Gordon Parks among many others.</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;"><strong>High point:</strong>&nbsp;?Being nominated for the 2021&nbsp;<a style="color: #ffffff;" href="http://www.tellmwyouluvme.com/9715w239z5YPD8610f21cbm502t21aFv4GIf4rxvs4FhIHEsvZ7bQ3noKe5rg10Z5BA2sv/impossibility-toads" data-link-name="in body link">World Press photo of the year</a>.?</span></p> 
+            <p class="css-1x4bywk"><span style="color: #ffffff;"><strong>Low point:</strong>&nbsp;?Losing my job at the newspaper I worked for in Spain because of budget cuts.?</span></p> 
+            <footer> 
+             <p><span style="color: #ffffff;"><strong>Top tip:</strong>&nbsp;?Know the history and the story. Listen, ask, read and watch before shooting.?</span><br /><br /><span style="color: #ffffff;">&nbsp;Luis Tato is the Sony World Photography awards 2021 professional winner in the wildlife and nature category. See the virtual exhibition at&nbsp;<a style="color: #ffffff;" href="http://www.tellmwyouluvme.com/bushwhacked-plungers/c6Z6uY2q395X8z6s10F21cck502I21CFv4GIf4rxvs4FhIHEsvZ7HQ3noKe7SW10Jti6cpyszv" data-link-name="in body link">worldphoto.org</a>.</span></p> 
+            </footer> 
+           </div> 
+          </div> 
+          <div id="slot-body-end"> 
+           <div class="css-138pfvh"> 
+            <section class="css-f9il16"> 
+             <h2 class="css-1xg62vk"><span style="color: #ffffff;">&nbsp;</span></h2> 
+             <p class="css-127xirx"><span style="color: #ffffff;">... we have a small favour to ask. Across the US and around the world, millions rely on the Guardian for independent journalism that stands for truth and integrity. The Guardian has no shareholders or billionaire owner to please, and we invest every penny we earn back into our journalism. Readers chose to support us financially more than 1.5 million times in 2020, joining existing supporters in 180 countries.</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">&nbsp;</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">With your help, we will continue to provide high-impact reporting that can counter misinformation and offer an authoritative, trustworthy source of news for everyone. With no shareholders or billionaire owner, we set our own agenda and provide truth-seeking journalism that's free from commercial and political influence. When it's never mattered more, we can investigate and challenge without fear or favour.</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">&nbsp;</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">Unlike many others, we have maintained our choice: to keep Guardian journalism open for all readers, regardless of where they live or what they can afford to pay. We do this because we believe in information equality, where everyone deserves to read accurate news and thoughtful analysis. Greater numbers of people are staying well-informed on world events, and being inspired to take meaningful action.</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">&nbsp;</span></p> 
+             <p class="css-127xirx"><span style="color: #ffffff;">We aim to offer readers a comprehensive, international perspective on critical events shaping our world ? from the Black Lives Matter movement, to the new American administration, Brexit, and the world's slow emergence from a global pandemic. We are committed to upholding our reputation for urgent, powerful reporting on the climate emergency, and made the decision to reject advertising from fossil fuel companies, divest from the oil and gas industries, and set a course to achieve net zero emissions by 2030.</span></p> 
+            </section> 
+           </div> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ <img src="http://www.tellmwyouluvme.com/closenesses-slaying/b344j2395uB8L511PN21d0A502B21SFv4GIf4rxvs4FhIHEsvZ7GQ3noKe6XqmD105qjsv3" alt=""/></body>
+</html>
+
+------=_Part_1282_1011466066.1619206438281--
+

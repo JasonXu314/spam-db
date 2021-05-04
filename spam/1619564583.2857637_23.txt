@@ -1,0 +1,221 @@
+Return-Path: <courtney_marshall-bruce=untroubled.org@miningded.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 154913 invoked from network); 27 Apr 2021 19:20:39 -0000
+Received: (qmail 75459 invoked by uid 222); 27 Apr 2021 19:20:38 -0000
+Return-Path: <courtney_marshall-bruce=untroubled.org@miningded.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 75456 invoked from network); 27 Apr 2021 19:20:38 -0000
+Received: from mail.miningded.com (mail.miningded.com [194.69.253.100])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 19:20:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=miningded.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=courtney_marshall@miningded.com;
+ bh=fEx9tvR9iT2SCp7MaMqam9Uo2+U=;
+ b=fJJhGjiZsdviIwvumkyCi9JG6o09IYiOx1q84hIkX2FA9MHZU9+i8qrOk+r6Dc3VDb9f1pmLr+Hd
+   ZJUTyFTFEJXGjEnya8NXq/gy0MNfyJyII62af/FqRC0qdDFDcjYuGH1iGjMB7fVsJsktGLN7lkeQ
+   jQie4l8E+71/BOq12SE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=miningded.com;
+ b=ihttW5MzjzVvzwFjoPTlMUJokTzbwqVj0FzCDdkz1Y7xt2q3pIze7BJfdOnZ3Rm74nrcsbZaR+L6
+   7WaVwf/6IP+OLKQYIgivIyIp1q9CwAywSTzZfeFIEHtg7xeWjcY1DeCPLN2iBGhbAK3Ah3+ayGMw
+   toXMsmGsPkpTTgqtcf8=;
+Received: by mail.miningded.com id hh1i7k0001gh for <bruce@untroubled.org>; Tue, 27 Apr 2021 15:20:18 -0400 (envelope-from <courtney_marshall-bruce=untroubled.org@miningded.com>)
+Date: Tue, 27 Apr 2021 15:20:18 -0400
+From: "Courtney Marshall" <courtney_marshall@miningded.com>
+To:   <bruce@untroubled.org>
+Subject: Measure anything with Laser point accuracy
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_424_1228838099.1619551075163"
+List-Unsubscribe: <http://www.miningded.com/9714D2395co8w911iLK1Z1D519P21YFv4GIf4rxvs4FhIHEsvZ7DQun9oo7AGT1Q0i6FzqsJv/player-psychoanalytic>
+Message-ID: <0.0.0.46.1D73B9A5C093A84.705144@mail.miningded.com>
+Content-Length: 11274
+
+------=_Part_424_1228838099.1619551075163
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** A REGULAR TAPE MEASURE COULDN'T MEASURE THAT.  BUT OURS CAN **
+----------------------------------------------------------------
+Our Measure King tape measure is equipped with a precise, easy-to-read digital LED display and includes three different measuring tools.  Perfect for measuring rooms, furniture, work projects, and more.   We know you need the right tool for every occasion.  That's why the Measure King measure tape is the perfect tool for you.  This thing is packed with special features, like laser measurement, roll mode, and a flex cord to get precise surface measurement of irregular and curved surfaces. 
+
+
+
+
+
+Visit our site -> http://www.miningded.com/player-psychoanalytic/dc84H2395p8Y6F12wm227eLi519I21rFv4GIf4rxvs4FhIHEsvZ7jQun9oo5aU10U6NzsvAy in the next 24 hours to take advantage of the event with 48% Off!  We've got a Measure King with your name on it. 
+
+
+
+
+
+
+Phillips-Murphy Computing Engineers
+890 W End Ave Apt 2a
+New York, NY 10025-3520
+Update Subscription Preferences http://www.miningded.com/musts-quitters/80a6jh23B95S86YV11X2A27fh519Z21PFv4GIf4rxvs4FhIHEsvZ7vQun9oo6sKY10h5j@svW 
+
+
+------=_Part_424_1228838099.1619551075163
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head></head>
+ <body>
+  <table style=3D"max-width: 640px; font-family: Gotham, 'Helvetica Neue', =
+Helvetica, Arial, 'sans-serif'; width: 100%;" width=3D"100%" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center">=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.miningded.com/e036V2T3X95qF86N11g2F275_519_21WFv4GIf4rxvs4FhIHEsvZ7FQun9oo7r1t0NUl5Gysvz/beggarly-Septembers"> <img style=3D"max-wid=
+th: 225px; padding: 15px;" src=3D"http://www.miningded.com/paperweight-moans/f306B2t39J5w7Jza10z227bH519L21rFv4GIf4rxvs4FhIHEsvZ7nQun9oo5o1pZ06fl@svW" alt=3D"Tool front logo" /> <=
+/a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.miningded.com/e036V2T3X95qF86N11g2F275_519_21WFv4GIf4rxvs4FhIHEsvZ7FQun9oo7r1t0NUl5Gysvz/beggarly-Septembers"> <img style=3D"max-wid=
+th: 640px; width: 100%;" src=3D"http://www.miningded.com/conduction-medley/7b05N2R395E7GTa10S227cL519X21SFv4GIf4rxvs4FhIHEsvZ7LQun9oo6bFTB105oTNsv" alt=3D"furniture image" /> </a=
+></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>A Regular Tape Measure Couldn't Measure That. <span style=3D"color: red=
+;">But Ours Can.</span></h1> <p>This tape measure includes three different =
+measuring tools so you'll always get an accurate measurement no matter the =
+object. A rolling tool great for curved srufaces and irregular objects, a f=
+lex cord for measuring around objects, and a laser tool for long measuremen=
+ts and hard to reach areas. On top of that all measurements are precise to =
+1/100 of an inch.</p>=20
+          <div style=3D"padding: 8px;">
+           &nbsp;
+          </div>=20
+          <div>
+           <a style=3D"text-decoration: none; padding: 6px 14px; color: whi=
+te; background-color: red;" href=3D"http://www.miningded.com/e036V2T3X95qF86N11g2F275_519_21WFv4GIf4rxvs4FhIHEsvZ7FQun9oo7r1t0NUl5Gysvz/beggarly-Septembers"><strong>Shop Now</strong></=
+a>
+          </div>=20
+          <div style=3D"padding: 25px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"http://www.miningded.com/e036V2T3X95qF86N11g2F275_519_21WFv4GIf4rxvs4FhIHEsvZ7FQun9oo7r1t0NUl5Gysvz/beggarly-Septembers"> <img style=3D"max-wid=
+th: 320px; width: 100%;" src=3D"http://www.miningded.com/9355X23s95cGB7a10L227dL519s21YFv4GIf4rxvs4FhIHEsvZ7pQun9oo6Wg1_i05OA3sv/shillings-microwaves" alt=3D"Tape measure product im=
+age" /> </a></td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%; max-width: 620px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: #414042; max-width: 560px;" align=3D"center"> =
+<h1>Never Second Guess Your Measurements Again.</h1>=20
+          <div>
+           <a style=3D"text-decoration: none; color: white; background-colo=
+r: red; padding: 6px 14px;" href=3D"http://www.miningded.com/e036V2T3X95qF86N11g2F275_519_21WFv4GIf4rxvs4FhIHEsvZ7FQun9oo7r1t0NUl5Gysvz/beggarly-Septembers"><strong>Buy Now</strong></a=
+>
+          </div>=20
+          <div style=3D"padding: 40px;">
+           &nbsp;
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table style=3D"width: 100%;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"color: gray;" align=3D"center"> <p>Phillips-Murphy Co=
+mputing Engineers</p> <p>890 W End Ave Apt 2a</p> <p>New York, NY 10025-352=
+0</p> <p><a href=3D"http://www.miningded.com/paperweight-moans/22e4v2395yg8t612Q22Z76oK519p21GFv4GIf4rxvs4FhIHEsvZ7OQun9oo6RBhq105SjJsv">Update Subscription Preferences</a></p> <p>=
+&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p class=3D"Text__Base=
+Text-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">It?s not clear whethe=
+r such a limited liability corporation actually exists. A search of corpora=
+te registration records across the U.S. found no evidence of it, and it?s n=
+ot listed among existing or former entities on file with the Florida Divisi=
+on of Corporations. Even Google found only a mention on Dickey?s LinkedIn p=
+age.</span></p> <p class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"=
+color: #ffffff;">Dickey tweeted from his personal account earlier this mont=
+h that Publix was objecting to a related text-message service he set up in =
+January that allowed users to be notified about sub sales if they texted ?P=
+UBSUB? to a listed phone number. It wasn?t clear how Dickey was profiting f=
+rom the service, but apparently that was too much for Publix. He said as ea=
+rly as January 2018 that he was making money off his Publix subs ventures, =
+and last year said he had made more than $5,000.</span></p> <p class=3D"Tex=
+t__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">?Publix is bul=
+lying me with C&amp;D?s for the SMS VIP club. Haven?t talked about it publi=
+cly yet. Basically all paths to profitability are legal red taped for now, =
+but I can keep the socials running.?</span></p> <p class=3D"Text__BaseText-=
+mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">&nbsp;</span></p> <p class=
+=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">Dickey =
+said in an email he was not ready to share details about what happened. Pub=
+lix did not respond to multiple requests for comment.</span></p> <p class=
+=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">Neither=
+ Dickey nor Publix provided a copy of any cease-and-desist letter or letter=
+s.</span></p> <p class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"co=
+lor: #ffffff;">The text-messaging service appears to be abandoned. The Face=
+book and Twitter account still exist but are not active. The Instagram page=
+ appears to be inactive or deleted.</span></p> <p class=3D"Text__BaseText-m=
+mkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">Companies resort to cease-a=
+nd-desist letters when trying to police unauthorized use of their trademark=
+s, said Oliver Ruiz, a partner at Malloy and Malloy, a Miami-based law firm=
+ specializing in trademark, patent and copyright law.</span></p> <p class=
+=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;">Otherwi=
+se, Ruiz said, an argument could be made in the future that a company aband=
+oned its rights to trademark by letting other entities use its brand and re=
+cognition without quality control.</span></p> <p class=3D"Text__BaseText-mm=
+kwcw-0 dRMzTN"><span style=3D"color: #ffffff;">?(Publix) would argue that i=
+f there?s something wrong, if the Twitter account makes a mistake, or if th=
+ey maybe make a post that is controversial, for example, that that would re=
+flect poorly on Publix if consumers think that there?s a connection,? Ruiz =
+said. ?And they would argue that could harm their reputation</span></p> <p =
+class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffffff;"><s=
+trong>TALLAHASSEE, Fla.</strong>&nbsp;? Gov. Ron DeSantis has once again ex=
+tended the state of emergency in Florida because of the ongoing coronavirus=
+ pandemic.</span></p> <p class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span sty=
+le=3D"color: #ffffff;">DeSantis on Tuesday signed an executive order extend=
+ing the state of emergency, which was&nbsp;<a style=3D"color: #ffffff;" hre=
+f=3D"http://www.miningded.com/5756c239Ns5p8HZ610c2277s519k21JFv4GIf4rxvs4FhIHEsvZ7nQun9oo7pK1I0uL5HTLsv/valences-sandbag" target=3D"_blank" rel=3D"noopener">first declared on March=
+ 9</a>, 2020, just days after the&nbsp;<a style=3D"color: #ffffff;" href=3D=
+"http://www.miningded.com/5756c239Ns5p8HZ610c2277s519k21JFv4GIf4rxvs4FhIHEsvZ7nQun9oo7pK1I0uL5HTLsv/valences-sandbag" target=3D"_blank" rel=3D"noopener">first confirmed case of COV=
+ID-19</a>&nbsp;was reported in Florida. Tuesday?s order extends it another =
+60 days.</span></p> <p class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=
+=3D"color: #ffffff;"><strong>[TRENDING:&nbsp;</strong><a style=3D"color: #=
+ffffff;" href=3D"http://www.miningded.com/beggarly-Septembers/9724Y2395SD86r12Q2L2G78m519y21zFv4GIf4rxvs4FhIHEsvZ7DQun9oo6CpY1F06Gkkksv"><strong>Private school won?t allow vaccine</st=
+rong></a><strong>&nbsp;|&nbsp;</strong><a style=3D"color: #ffffff;" href=3D=
+"http://www.miningded.com/Sherwin-waiters/17a6lY239D5S86m_11O227l9Q519w21dFv4GIf4rxvs4FhIHEsvZ7uQun9oo5dP1_06Y3sBv@"><strong>Musk warns of deadly Mars mission</strong></a><strong>=
+&nbsp;|&nbsp;</strong><a style=3D"color: #ffffff;" href=3D"http://www.miningded.com/13d5U_2395hC86p12wW2C27aV519K21SFv4GIf4rxvs4FhIHEsvZ7fQun9oo7DMk1n0L6Q@jAsv/dissimilar-rotations"><str=
+ong>Look up! First supermoon of 2021</strong></a><strong>]</strong></span><=
+/p> <p class=3D"Text__BaseText-mmkwcw-0 dRMzTN"><span style=3D"color: #ffff=
+ff;">and their goodwill associated with their brand.?</span></p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>
+ <img src=3D"http://www.miningded.com/1d36u239IY5t_85u12Q228Z0BF519k21zFv4GIf4rxvs4FhIHEsvZ7dQun9oo7i1uHm0A5j2sBv/Sherwin-waiters" alt=3D""/></body>
+</html>
+
+------=_Part_424_1228838099.1619551075163--
+

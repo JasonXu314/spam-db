@@ -1,0 +1,100 @@
+Return-Path: <portable_evaporative_air_cooler-bruce=untroubled.org@squirrlyminds.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3170758 invoked from network); 20 Apr 2021 18:56:48 -0000
+Received: (qmail 57714 invoked by uid 222); 20 Apr 2021 18:56:47 -0000
+Return-Path: <portable_evaporative_air_cooler-bruce=untroubled.org@squirrlyminds.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57711 invoked from network); 20 Apr 2021 18:56:47 -0000
+Received: from mail.squirrlyminds.com (205-236-248-90.serversto.com [205.236.248.90])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 18:56:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=squirrlyminds.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=portable_evaporative_air_cooler@squirrlyminds.com;
+ bh=NVIaRzbZ3nqL1janmgHyMGmp3VI=;
+ b=bCZdhYzY3ZUSeHiZf3E4Wc164J8JIl0Jc3Iy5LB9HF/WgPlWuHR5zWIfjUjcYkh01sRut0tWNTvS
+   AcFixAL1yXoPaXU+wqsRqdbeclvO3VLxwj9bqK+l3f3D9XOg5nkBZP1Y+cZZeduvG4I9u+ET0U4G
+   SIpADPy+Ivhqc1EwdgM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=squirrlyminds.com;
+ b=CtGCZQ6fbgF2XYIka7HaP9L7qqYl4YniKuBEKcDiyXdP9SO0PRWD261HRwjglkDLbUZhhvIDH6yH
+   GNDdDgweNLLTmKVRwHdeB9ItgvycsohqTceuqxRDPdb/hGZRpAOdihRpcmygXdr9hyurf4AZq2J8
+   YeeKIzu1tyMU4vFj1yI=;
+Received: by mail.squirrlyminds.com id hfsi7q0001gs for <bruce@untroubled.org>; Tue, 20 Apr 2021 14:56:48 -0400 (envelope-from <portable_evaporative_air_cooler-bruce=untroubled.org@squirrlyminds.com>)
+Date: Tue, 20 Apr 2021 14:56:48 -0400
+From: "Portable Evaporative Air Cooler" <portable_evaporative_air_cooler@squirrlyminds.com>
+To:   <bruce@untroubled.org>
+Subject: Energy efficient mini-cooler cools just the space you’re in at the time.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_229_1524518659.1618944825933"
+List-Unsubscribe: <http://www.squirrlyminds.com/meets-metavariable/4Ge6QI2u395cOw8910MG1O1F4ebL21QFv4GIf4rxvs4FhIHEsvZ7BQjnoS95w1w0S5ElsvA>
+Message-ID: <0.0.0.26.1D73616EAF74580.4EE75C@mail.squirrlyminds.com>
+Content-Length: 5667
+
+------=_Part_229_1524518659.1618944825933
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 1/2 OFF Portable Air Coolers **
+----------------------------------
+
+3 in 1 portable air cooler.  Keep any room 15 degrees cooler, without turning on your central a/c.  Perfect for the office or those hot rooms in your home that are hard to cool.  Stop sweating your butt off during the summer seasons.  You know that the next heat wave isn't far away, and when it will come (and you know it will), you'll be happy that you made the right call in getting one of these revolutionary devices.  What's even better is that if you buy now, you'll get free shipping and a 50% discount on top.  We recommend that you take full advantage of the multiple unit discounts - this way you can keep one in each room of your house. 
+
+
+BOGO & Half-Off Today Only
+View Air Coolers -> http://www.squirrlyminds.com/2e15p239r5OG8r611F211o0Y4ebx21uFv4GIf4rxvs4FhIHEsvZ7nQjnoS95V10LO6ayslvq/meets-metavariable
+
+
+
+
+
+
+Adjust your messaging settings here http://www.squirrlyminds.com/incompatibly-torturers/b164l2395v86T_12p21HL0et4ebW21NFv4GIf4rxvs4FhIHEsvZ7rQjnoS96IoD1R06SWsAPv or reach out to Openheimer and Pascal Communication Labs at 5426 Cloverly Ave, Temple, 91780. 
+
+
+
+------=_Part_229_1524518659.1618944825933
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!-- Don?t skip postpartum appointments
+      The birth of a baby brings on strong emotions in normal times, but now feelings can be magnified. Following up with your obstetrical provider is very important, especially given the increased risk for postpartum depression. Your doctor should also check to make sure you are healing well from delivery, guide you in lifting any restrictions as time progresses postpartum and discuss contraceptive options and family planning.       For additional pregnancy and new parent tips, check out this helpful toolkit from the Centers for Disease Control and Prevention (CDC).       Tips For Friends and Family
+      Even if you?re practicing social distancing, you can still stay connected and receive help from family and friends?whether near or far. Chances are they are biting at the bit to help too! If those in your life are asking for ways to help, don?t just brush them off. Here are six ways they can support you and your bundle of joy.       1. Set up a meal train or purchase gift cards
+      Meal train deliveries are another option that have been around for a while. You can set-up and have people sign up to drop off meals (taking the necessary safety precautions) or have a meal delivery service drop something off at their door. ?The meal deliveries were so helpful while we were settling in at home and learning how to take care of the baby,? Beuthin said.       Another way to provide support is giving the new mom and parents gift cards. Whether it?s Walmart or Amazon, you can provide support for meals and any other financial expenses associated with being a new parent.---> 
+  <style type="text/css">
+      </style> 
+ </head> 
+ <body style="margin:0; padding:0; background-color:#F2F2F2;"> 
+  <center> 
+   <div style="height: 44px;"></div> 
+   <div style="background-color: #fff; width: 650px; margin: auto; display: inline-block"> 
+    <table width="550" border="0" cellpadding="0" cellspacing="0" bgcolor="#fff" style="padding: 10px;font-family: Arial, sans-serif; width: 550px;"> 
+     <tbody>
+      <tr> 
+       <td align="center" valign="top"> <a target="_blank" href="http://www.squirrlyminds.com/squeaking-coed/2c44s2395WM8r610N210ds4ebW21pFv4GIf4rxvs4FhIHEsvZ7lQjnoS96u10OrP6S1@sOv"><img alt="purifies" src="http://www.squirrlyminds.com/5ed6B23B9G5SPw7a10M210fx4ebC21WFv4GIf4rxvs4FhIHEsvZ7pQjnoS97H10LIVn6bzUsvT/marched-stragglers" /></a> </td> 
+      </tr> 
+      <tr> 
+       <td align="center" valign="top"> <h2>1/2 OFF Portable Air Coolers</h2> <p>3 in 1 portable air cooler. Keep any room 15 degrees cooler, without turning on your central a/c. Perfect for the office or those hot rooms in your home that are hard to cool.</p> <p style="color: #1CAD70; font-weight: bold;">BOGO &amp; Half-Off Today Only</p> 
+        <div style="margin: 30px 0px;"> 
+         <a href="http://www.squirrlyminds.com/squeaking-coed/2c44s2395WM8r610N210ds4ebW21pFv4GIf4rxvs4FhIHEsvZ7lQjnoS96u10OrP6S1@sOv" style="background-color: #281FBB; padding: 12px 20px; color: #fff;text-decoration: none;">View Air Coolers</a> 
+         <div style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: lightgrey; margin-top: -10px;"></div> 
+        </div> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <div style="height: 44px;"></div> 
+   <div style="max-width: 500px; line-height: 1.5em;font-family: Arial, sans-serif;font-size: 12px;">
+    Adjust your messaging settings 
+    <a target="_blank" href="http://www.squirrlyminds.com/withdraws-dancing/60c6EX23o95bKK8610z210eP4ebu21tFv4GIf4rxvs4FhIHEsvZ7eQjnoS97h1r_Jw06o10svp">here</a> or reach out to Openheimer and Pascal Communication Labs at 5426 Cloverly Ave, Temple, 91780.    </div> 
+  </center>  
+ <img src="http://www.squirrlyminds.com/simulation-landscaping/9186gY23r95an8m510E2111B4ebl21kFv4GIf4rxvs4FhIHEsvZ7aQjnoS96n10TDL6V1svNP" alt=""/></body>
+</html>
+
+------=_Part_229_1524518659.1618944825933--
+

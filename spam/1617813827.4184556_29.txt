@@ -1,0 +1,85 @@
+Return-Path: <gretchentucker51@gmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1283289 invoked from network); 7 Apr 2021 00:59:12 -0000
+Received: (qmail 199104 invoked by uid 222); 7 Apr 2021 00:59:11 -0000
+Return-Path: <gretchentucker51@gmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 199101 invoked from network); 7 Apr 2021 00:59:11 -0000
+Received: from mail-ej1-x636.google.com (mail-ej1-x636.google.com [IPv6:2a00:1450:4864:20::636])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 07 Apr 2021 00:59:11 -0000
+Received: by mail-ej1-x636.google.com with SMTP id qo10so14436466ejb.6
+        for <bruce@untroubled.org>; Tue, 06 Apr 2021 17:59:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:date:message-id:in-reply-to:references:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=dE+vuGbmxQCUOlSdiJgglEBg4y7T4bo5FNtPsAHn2ds=;
+        b=IxbIoxGyuEupLhpAbKwwNJYgNZ6e0ords9499/9LVpF75EU3zeR0JF4fRNurm/5Mz0
+         Dh9aCBJh3htd2/45olI2kR9QO3IEks2QjNehQlLD4dk3+mviT6Zxp29L1E29UiQbG0KX
+         7I92DSw4LPSPg5NUXJPqmatoj8hv071syeu8mfpiIjhnw1My675jEzqJ7Atn5gPbT5QB
+         vZ/yQawf7BVRJ4zbnsS4brFLV5u2vA7eHBDuBnWvpsu6cHN94FztqfEUuWdU3F8wKuFf
+         EBiJImE6vyJD1l6ySKnXWJSdNgVszsCvMVYT/f94EmgtJv75c49NEIY/G8OTrQpBIFH7
+         LDUg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:date:message-id:in-reply-to:references
+         :subject:mime-version:content-transfer-encoding:content-disposition
+         :precedence:auto-submitted;
+        bh=dE+vuGbmxQCUOlSdiJgglEBg4y7T4bo5FNtPsAHn2ds=;
+        b=ZyHjAGyvvhJDpsH3VzsHuuM8WB3knprTRBJdv/UtEaeUte9Pr24pNGK/X6y+oaisva
+         X3fLpnSVQnyu3MrQEmWImD0rDASufIYb0LrqgVKmKMJ3x/gEPDOU8UCaxVwE3Tr0Ob4n
+         kmUSx4m9PfzLidlpfJcI9xZM89/Qb1NsmtpFKEkiWvOkUMBoGdTIpNnfE6IV4R/JcWEV
+         0Cj9RQiD6tSlxnqP97ZNjmW1HgEbF+Ir2X8S/xZRXkdQrQeCl0Smb+/b2kK7RWG8e5zU
+         TcsY+aJRx5luwJG6LVWnz8k3ppPg+UPVTI2haU6/lll+WJi0pcdk4yFieT2yTZYFXUan
+         CtRg==
+X-Gm-Message-State: AOAM531wFYFumE7Tbf2euZnFJIZ714eV5VEkFfoRUxJh+P1oLPTK437R
+	Pz8O2/fqtpQLwIzpz8Y3Rp2u+keo5jby4D/fWR4T52750OznpR3jzlPWGJFO3Q==
+X-Google-Smtp-Source: ABdhPJw7EqekEIyYU8Ky0s8gOxcY0NwYILUaxASHrq6lkO7z9F0uA9AJ6YM1WWXcUuROhoa3RKFq27jw0iAn2y03z0gIoysZinSprQEd347c
+X-Received: by 2002:a17:906:b74e:: with SMTP id fx14mr841446ejb.466.1617757150373;
+        Tue, 06 Apr 2021 17:59:10 -0700 (PDT)
+To: bruce@untroubled.org
+From: Samsclub <gretchentucker51@gmail.com>
+Date: Tue, 6 Apr 2021 17:59:10 -0700
+Message-ID: <CALUmps1rhWGhadz4KzguXBbdOohzS3vFRg9SG5OCzNttyxBRMg@mail.gmail.com>
+In-Reply-To: <481780901.-4661962115.27170668@Insidefacebook.facebook.com>
+References: <27170668.783455227.-5240057857.8715335057115@Insidesamsung..com>
+	<246246520.-27170668.1586002298045@mail.ru>
+	<481780901.-4661962115.27170668@Insidefacebook.facebook.com>
+Subject: Re: Congratulations Sam's Club Customer ~ Details Apply
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+Content-Length: 1950
+
+PGRpdiBkaXI9Imx0ciI+PGNlbnRlciBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LWZhbWls
+eTomcXVvdDtUaW1lcyBOZXcgUm9tYW4mcXVvdDs7Zm9udC1zaXplOm1lZGl1bTtmb250LXN0eWxl
+Om5vcm1hbDtmb250LXdlaWdodDo0MDA7bGV0dGVyLXNwYWNpbmc6bm9ybWFsO3RleHQtaW5kZW50
+OjBweDt0ZXh0LXRyYW5zZm9ybTpub25lO3doaXRlLXNwYWNlOm5vcm1hbDt3b3JkLXNwYWNpbmc6
+MHB4Ij48YnI+PGEgaHJlZj0iaHR0cHM6Ly9iaXQubHkvM2NKUEFrTSIgYWx0PSJDbGljayBoZXJl
+IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHBzOi8vY2k1Lmdvb2dsZXVzZXJjb250ZW50
+LmNvbS9wcm94eS9hbXRpVU1Oam4xUWlzQWp1RmVzZEloaVZ0THk0M0poYlQxUkxfUzZ4em1xaXpp
+R1FYX1FxU2ZOT0g3WXZPcEo1Q2FGLVdkOUNTNVF2MDF2M3RwYllINDJQZTZYaUZmQ1hqN0g4X2NQ
+WjBHOGhidmdKVDYtSjRFQmhrcGpDLWZ0a3BoVnMtSU5Gd2p2TjRBd1JJQW1GNHRzQ3cxQTlqYkRi
+WlN6M1J0TFRsWV8tVEltRT1zMC1kLWUxLWZ0I2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2F0
+dGFjaG1lbnRzLzgwNzU0MTY0OTM5MTYxNjAxNy84Mjc4MDExMjU0NDA1ODU3MjgvU2NyZWVuc2hv
+dF8yMDIxLTA0LTAzX1NjcmVlbnNob3QucG5nIj48L2E+PC9jZW50ZXI+PGJyIHN0eWxlPSJjb2xv
+cjpyZ2IoMCwwLDApO2ZvbnQtZmFtaWx5OiZxdW90O1RpbWVzIE5ldyBSb21hbiZxdW90Oztmb250
+LXNpemU6bWVkaXVtO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtsZXR0ZXItc3Bh
+Y2luZzpub3JtYWw7dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWluZGVudDowcHg7dGV4dC10cmFuc2Zv
+cm06bm9uZTt3aGl0ZS1zcGFjZTpub3JtYWw7d29yZC1zcGFjaW5nOjBweCI+PGNlbnRlciBzdHls
+ZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LWZhbWlseTomcXVvdDtUaW1lcyBOZXcgUm9tYW4mcXVv
+dDs7Zm9udC1zaXplOm1lZGl1bTtmb250LXN0eWxlOm5vcm1hbDtmb250LXdlaWdodDo0MDA7bGV0
+dGVyLXNwYWNpbmc6bm9ybWFsO3RleHQtaW5kZW50OjBweDt0ZXh0LXRyYW5zZm9ybTpub25lO3do
+aXRlLXNwYWNlOm5vcm1hbDt3b3JkLXNwYWNpbmc6MHB4Ij5JZiB5b3UgZG9uJiMzOTt0IHdhbnQg
+dG8gcmVjZWl2ZSB0aG9zZSBlbWFpbHMgYW55bW9yZSwgdGhhdCYjMzk7cyBjb29sIC0geW91IGNh
+bsKgPGEgaHJlZj0iaHR0cHM6Ly9iaXQubHkvM3NOQzJkRCIgc3R5bGU9ImNvbG9yOnJnYig3NCw3
+NCw3NCk7dGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTtib3JkZXItY29sbGFwc2U6Y29sbGFwc2Ui
+IHRhcmdldD0iX2JsYW5rIj5VbnN1YnNjcmliZTwvYT48YnI+b3IgYnkgd3JpdGluZyB0byA2MTMw
+IFcgRmxhbWluZ28gUmQgTGFzIFZlZ2FzLCBOViA4OTEwMywgYnV0IHdlIHdpbGwgbWlzcyB5b3Uh
+PC9jZW50ZXI+PC9kaXY+DQo=

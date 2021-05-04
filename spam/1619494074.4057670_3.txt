@@ -1,0 +1,275 @@
+Return-Path: <terry.howard-bruce=untroubled.org@epiclexialearning.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 101961 invoked from network); 26 Apr 2021 19:29:46 -0000
+Received: (qmail 60347 invoked by uid 222); 26 Apr 2021 19:29:46 -0000
+Return-Path: <terry.howard-bruce=untroubled.org@epiclexialearning.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 60344 invoked from network); 26 Apr 2021 19:29:46 -0000
+Received: from mail.epiclexialearning.com (10br39.watertheftembarrassment.org [194.69.253.252])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 19:29:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=epiclexialearning.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=terry.howard@epiclexialearning.com;
+ bh=38aQDpYnM0bmEtuU4bPRUhaAK8o=;
+ b=hjGJ9TwlXfVs9TKt9e1OAfGqsS4Eq6bOA6ZUvf5cM5t9XezyPLFQl7zmdA1RxGMrs2lLpIojeQj7
+   y9SpF7DmlBZVf/ar7JW2qTWzTwWjioDPWdZKSXcVmH/VmxxAuemL09rXQ8ljDvuXABz9Xb7/Q6Fv
+   xn2RDLV43gfyP1UFqBU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=epiclexialearning.com;
+ b=onNX7pwsgjIGmu/06XFYk4bUYvzECIDN0eQKFSG6R+xiRXsY/NTAxU2rVlwSAmNKiRF8G6q3PuSm
+   Wh8BDS8vWdNwSlQH3qxv1SwLj6D5ulCYAgmRpo43HmJzhk80q0G1byDudM6habT6mxTmwGgyHxyr
+   xlZzb2InZwO0JO0J9S4=;
+Received: by mail.epiclexialearning.com id hgsahk0001g3 for <bruce@untroubled.org>; Mon, 26 Apr 2021 15:29:48 -0400 (envelope-from <terry.howard-bruce=untroubled.org@epiclexialearning.com>)
+Date: Mon, 26 Apr 2021 15:29:48 -0400
+From: "Terry Howard" <terry.howard@epiclexialearning.com>
+To:   <bruce@untroubled.org>
+Subject: Camp in comfort with this tent cooling ultra portable air cooler.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_298_1242770016.1619465241540"
+List-Unsubscribe: <http://www.epiclexialearning.com/siphon-chemically/8465pg2395J8u9U11hB11QZl516L21QFv4GIf4rxvs4FhIHEsvZ7lQvn9nK5aGA105fNsBv>
+Message-ID: <0.0.0.30.1D73AD285192128.2B88E6@mail.epiclexialearning.com>
+Content-Length: 12438
+
+------=_Part_298_1242770016.1619465241540
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** 3-in-1 Portable Air Cooler **
+----------------------------------
+
+Create your own personal microclimate!
+
+This 3-in-1 evaporative air cooler cools, humidifies, and purifies the air around you.  Ideal for nightstands, desktops, camping tents, or dorm rooms.   In the summer months, the inside temperature of your home can be too much to bear.  With the sun beaming in and no respite in sight, it's all too easy to decide to front up a ton of money to install air conditioning.  However, who can afford the sky high electric bills that go with it? Instead of shelling out a fortune for an appliance you can neither afford nor need at every time of the year, it might be time to look for something a little less invasive.  This CoolAir device could be the answer!
+
+
+GET 50% OFF and FREE SHIPPING -> http://www.epiclexialearning.com/cemetery-Miltonizing/8dc4P2395H8z6B11H226q3u516X21AFv4GIf4rxvs4FhIHEsvZ7GQvn9nK6tz10_v6GJPs3v
+
+
+
+
+
+Click or mail Anderson Vault Data Transfer http://www.epiclexialearning.com/e5d4B2395Q8rl610q225cM516m21KFv4GIf4rxvs4FhIHEsvZ7wQvn9nK5r1TP06D0s2v@/rotation-lateral to set preferences. 
+1444 N 91st Street.  Scottsdale, AZ.  85260-7036. 
+
+
+------=_Part_298_1242770016.1619465241540
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>
+  <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+   <tbody>=20
+    <!--Chlo=E9 Zhao made history as the first woman of colour to win best =
+director with her drama about van-dwellers as Hopkins and Frances McDormand=
+ won top acting honours
+      Benjamin Lee in New York
+      Sun 25 Apr 2021 23.36 EDT
+      271
+      During an unusual Oscars ceremony, on-the-road drama Nomadland triump=
+hed with a win for best picture, best actress and a historic victory for Ch=
+lo=E9 Zhao, becoming the first woman of colour to be named best director an=
+d only the second woman ever.       The film, starring Frances McDormand as=
+ a woman living out of her van and interacting with real-life nomads, took =
+home the top trophy near the end of a delayed night and a delayed season am=
+id the pandemic. The ceremony played out in person but with safety precauti=
+ons and a modest guest list.       ?Please watch our movie on the largest s=
+creen possible and one day soon take everyone you know, shoulder-to-shoulde=
+r, in that dark space and watch every film that?s represented here tonight,=
+? McDormand, who also acts as producer on the film, said in her speech, win=
+ning two Oscars for picture and actress.--->=20
+    <tr>=20
+     <td align=3D"center" valign=3D"top" bgcolor=3D"#ffffff" width=3D"100%"=
+>=20
+      <div style=3D"line-height: 5px;">
+       &nbsp;
+      </div>=20
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td class=3D"width88 hauto" width=3D"166"><img class=3D"width88 ha=
+uto" style=3D"display: block; border: 0;" src=3D"http://www.epiclexialearning.com/2c35S2I395Y7LTa10X225fS516L21EFv4GIf4rxvs4FhIHEsvZ7LQvn9nK7p_1T0HJ5HUspv/mitigation-flabbergast" alt=3D"" widt=
+h=3D"127" height=3D"auto" /></td>=20
+         <td class=3D"width232 hauto" align=3D"right" valign=3D"bottom" wid=
+th=3D"434">&nbsp;</td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <div class=3D"lhfix line8" style=3D"line-height: 15px;">
+       &nbsp;
+      </div>=20
+      <table class=3D"width320 hauto" border=3D"0" width=3D"600" cellspacin=
+g=3D"0" cellpadding=3D"0" bgcolor=3D"#eeeeee">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"padding-top: 2px;" align=3D"center" valign=3D"middle"=
+>=20
+          <div style=3D"font-family: Helvetica, Arial, sans-serif; font-siz=
+e: 16px; line-height: 20px; color: #010101; font-weight: normal; text-decor=
+ation: none; padding-top: 10px;">
+           <img src=3D"http://www.epiclexialearning.com/exterminates-primeval/8dc5S239L5l7MKa10O2260n516W21JFv4GIf4rxvs4FhIHEsvZ7wQvn9nK5h1mB05JlsXv" width=3D"350" />
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td class=3D"width320" width=3D"600">=20
+          <table cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td class=3D"width320" style=3D"padding: 20px;" align=3D"cente=
+r" valign=3D"top" bgcolor=3D"#eeeeee" width=3D"600"><a href=3D"http://www.epiclexialearning.com/5b14U2395DW8h610W225aC516h21RFv4GIf4rxvs4FhIHEsvZ7pQvn9nK7h1BYg0n5mBPsv/rotation-lateral">=
+<img style=3D"display: block; font-family: arial, sans serif; font-size: 20=
+px; color: #ffffff;" src=3D"http://www.epiclexialearning.com/mitigation-flabbergast/7385J239v5m7Taq11g22v61N516U21tFv4GIf4rxvs4FhIHEsvZ7CQvn9nK6iU1w0K5n0Osv" width=3D"100%" height=3D"auto" bor=
+der=3D"0" /></a></td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <table cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td class=3D"width320" align=3D"center" width=3D"600">=20
+          <div class=3D"lhfix line12" style=3D"line-height: 14px;">
+           &nbsp;
+          </div>=20
+          <table class=3D"width280" border=3D"0" width=3D"540" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">=20
+           <tbody>=20
+            <tr>=20
+             <td align=3D"center">=20
+              <div style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 24px; line-height: 30px; color: #000000; letter-spacing: 0.2px; text=
+-decoration: none; font-weight: bold;">
+               Instantly Cool the Air Around You&nbsp;
+              </div> </td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"padding-top: 12px;" align=3D"center">=20
+              <div style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 18px; line-height: 24px; color: #000000; letter-spacing: 0.2px; text=
+-decoration: none;">
+               <a style=3D"color: #832d98; text-decoration: none; font-weig=
+ht: bold;" href=3D"http://www.epiclexialearning.com/e035V239r5q8I6K11I225biH516t21YFv4GIf4rxvs4FhIHEsvZ7aQvn9nK6cL1FT06E3jsvB/Jenkins-outnumbered">CoolAir</a> is a portable, compact air condi=
+tioner that uses evaporative cooling technology to keep you refreshed all s=
+ummer long. Great for offices, nightstands, garages, and more.&nbsp; &nbsp;=
+ &nbsp;
+              </div> </td>=20
+            </tr>=20
+            <tr align=3D"center">=20
+             <td style=3D"padding-top: 16px;"><a href=3D"http://www.epiclexialearning.com/5b14U2395DW8h610W225aC516h21RFv4GIf4rxvs4FhIHEsvZ7pQvn9nK7h1BYg0n5mBPsv/rotation-lateral"><img s=
+rc=3D"http://www.epiclexialearning.com/c416o2XD395wX7ia11v22z62K516r21VFv4GIf4rxvs4FhIHEsvZ7kQvn9nK5Y1ZV06W@sv1M/recurs-sneaked" alt=3D"main image" /></a></td>=20
+            </tr>=20
+           </tbody>=20
+          </table>=20
+          <table cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fff">=20
+           <tbody>=20
+            <tr>=20
+             <td class=3D"width20" width=3D"31">&nbsp;</td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <div class=3D"lhfix" style=3D"line-height: 30px;">
+       &nbsp;
+      </div>=20
+      <div class=3D"lhfix hide" style=3D"line-height: 20px;">
+       &nbsp;
+      </div>=20
+      <div class=3D"lhfix" style=3D"line-height: 19px;">
+       &nbsp;
+      </div>=20
+      <div class=3D"lhfix hide" style=3D"border-top: 1px solid #B7B7B7; lin=
+e-height: 11px; max-width: 600px;">
+       &nbsp;
+      </div>=20
+      <div class=3D"lhfix" style=3D"line-height: 20px;">
+       &nbsp;
+      </div>=20
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center" width=3D"560">=20
+          <div style=3D"font-family: Arial, Helvetica, sans-serif; font-siz=
+e: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-=
+bottom: 32px;">
+           Merryweather Computing Creative Partners. 1009 19th Street S. Fa=
+rgo, ND 58103/2931=20
+           <a href=3D"http://www.epiclexialearning.com/rotation-lateral/aJ86Yx23u95G8W6_11yn225cO516B21HFv4GIf4rxvs4FhIHEsvZ7qQvn9nK6zD1CJ05Fl2sv">Want to stop future messages?</a>
+          </div>=20
+          <div style=3D"font-family: Arial, Helvetica, sans-serif; font-siz=
+e: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-=
+bottom: 32px;">
+           &nbsp;
+          </div>=20
+          <div style=3D"font-family: Arial, Helvetica, sans-serif; font-siz=
+e: 12px; line-height: 20px; color: #000000; letter-spacing: .03em; padding-=
+bottom: 32px;">=20
+           <div class=3D"css-1fda7mc">=20
+            <div class=3D"article-body-commercial-selector css-79elbk artic=
+le-body-viewer-selector">=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Biden=
+'s first in-person meeting with a foreign leader began with the Japanese pr=
+ime pinister, Yoshihide Suga, extending his condolences for a mass&nbsp;<a =
+style=3D"color: #ffffff;" href=3D"http://www.epiclexialearning.com/recurs-sneaked/be86U239Lk5SI8z611e225BdG516P21lFv4GIf4rxvs4FhIHEsvZ7zQvn9nK7iFKzw106Llpqsv" data-link-name=3D"in body lin=
+k">shooting at a FedEx facility&nbsp;</a>in Indianapolis, which left eight =
+people dead. Suga also condemned a rising tide of violence against Asian Am=
+ericans and Pacific Islanders since the start of coronavirus lockdowns.</sp=
+an></p>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">The&n=
+bsp;<a style=3D"color: #ffffff;" href=3D"http://www.epiclexialearning.com/e215b23B95A8H6H11v2w25ey516Y21yFv4GIf4rxvs4FhIHEsvZ7PQvn9nK7v1KyX0v5nAsvM/cemetery-Miltonizing" data-link-name=3D"in b=
+ody link">summit</a>&nbsp;underscored Biden's belief that the nation's cris=
+es are not only an inflection point for America ? but for the world. Biden =
+has framed his domestic revitalization effort as part of a global conflict =
+between authoritarianism and democracy.</span></p>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">?That=
+'s what competition between America and China and the rest of the world is =
+all about,? Biden said in his infrastructure speech. ?It's a basic question=
+: can democracies still deliver for their people??</span></p>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Jonat=
+han Alter, author of The Defining Moment: FDR's Hundred Days and the Triump=
+h of Hope, said Biden, like the 32nd president, has a rare opportunity to t=
+ransform the political landscape for generations.</span></p>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">?Roos=
+evelt and his New Deal represented a new social contract between the govern=
+ment and the people in terms of what the government owed Americans,? he sai=
+d. That lasted for nearly five decades, he said, until Ronald Reagan gave r=
+ise to a new era of small-government and free-market competition.</span></p=
+>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">Wheth=
+er Biden can forge a new social contract to meet the most urgent challenges=
+ of the 21st century ? yawning inequality, a warming climate and rising aut=
+horitarianism ? is a question unlikely to be answered by his 100th day in o=
+ffice, Alter cautioned. But he expects the next 100 to be revealing.</span>=
+</p>=20
+             <p class=3D"css-1yqigsj"><span style=3D"color: #ffffff;">?It's=
+ hard to imagine but Biden has already spent several times as much in 1933-=
+dollars as Roosevelt did in his first 100 days,? Alter said. ?And the odds =
+that a Rooseveltian achievement in American political life will take place =
+this year are highly likely.?</span></p>=20
+            </div>=20
+           </div>=20
+           <div id=3D"slot-body-end">
+            &nbsp;
+           </div>=20
+          </div> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+ <img src=3D"http://www.epiclexialearning.com/a615P239P5tA85i12X226ph4P516w21eFv4GIf4rxvs4FhIHEsvZ7WQvn9nK5c1T0A6s1l@sv/mitigation-flabbergast" alt=3D""/></body>
+</html>
+
+------=_Part_298_1242770016.1619465241540--
+

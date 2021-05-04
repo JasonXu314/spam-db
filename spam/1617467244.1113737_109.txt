@@ -1,0 +1,61 @@
+Return-Path: <MySeniorPerks-bruce=untroubled.org@melaniereneofficial.co.uk>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 730360 invoked from network); 1 Apr 2021 16:13:19 -0000
+Received: (qmail 122983 invoked by uid 222); 1 Apr 2021 16:13:18 -0000
+Return-Path: <MySeniorPerks-bruce=untroubled.org@melaniereneofficial.co.uk>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 122980 invoked from network); 1 Apr 2021 16:13:18 -0000
+Received: from martinez.melaniereneofficial.co.uk (martinez.melaniereneofficial.co.uk [194.116.228.216])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 16:13:18 -0000
+Received: by martinez.melaniereneofficial.co.uk id hcnohs0001ge for <bruce@untroubled.org>; Thu, 1 Apr 2021 16:04:54 +0000 (envelope-from <MySeniorPerks-bruce=untroubled.org@melaniereneofficial.co.uk>)
+Date: Thu, 1 Apr 2021 16:04:54 +0000
+From: MySenior Perks <MySeniorPerks@melaniereneofficial.co.uk>
+Reply-To: MySeniorPerks@melaniereneofficial.co.uk
+To: bruce@untroubled.org
+Message-Id: <2758ffce-30e9-4008-b635-8a5be6f8acd5@melaniereneofficial.co.uk>
+Subject: =?utf-8?B?U2VuaW9ycyAtIGRpZCB5b3Uga25vdyBhYm91dCB0aGVzZSBkaXNjb3VudHM/?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-8ef23ac5920e4b__7d93de2ee560_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1885
+
+---_-_-8ef23ac5920e4b__7d93de2ee560_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-8ef23ac5920e4b__7d93de2ee560_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+VGhlIExpc3Qgb2YgPGEgaHJlZj0iaHR0cDovL21lbGFuaWVyZW5lb2ZmaWNpYWwuY28udWsv
+TGtnclAyNmFwcUNpIj4xOSBTZW5pb3IgRGlzY291bnRzPC9hPiBUaGF0IENhbiBDaGFuZ2UgWW91
+ciBMaWZlPC9wPgo8cD5FdmVyeWJvZHkgbG92ZXMgcmVjZWl2aW5nIGEgZ29vZCBkaXNjb3VudCwg
+YnV0IHdoYXQgeW91JnJzcXVvO3JlIGFib3V0IHRvIHJlYWQgY2FuIGJlIGxpZmUtYWx0ZXJpbmcu
+IFdlJnJzcXVvO3ZlIHJlY2VudGx5IHVuY292ZXJlZCA8YSBocmVmPSJodHRwOi8vbWVsYW5pZXJl
+bmVvZmZpY2lhbC5jby51ay9Ma2dyUDI2YXBxQ2kiPjE5IG9mIHRoZSBhbGwtdGltZSBiaWdnZXN0
+IHNlbmlvciBkaXNjb3VudHM8L2E+LCBqdXN0IGZvciB5b3UhIFdoZW4geW91IHRha2UgYWR2YW50
+YWdlIG9mIHRoZXNlIGh1Z2Ugb3Bwb3J0dW5pdGllcywgeW91IHdpbGwgaW1wcm92ZSB5b3VyIGhl
+YWx0aCwgeW91ciBzYWZldHksIGFuZCB5b3VyIGZpbmFuY2lhbCBzdGFiaWxpdHkuIEFuZCB0aGUg
+YmVzdCBwYXJ0LCBlYWNoIGRpc2NvdW50IGlzIGZyZWUgYW5kIGVhc3kgdG8gdXNlLiBTdGFydCBs
+aXZpbmcgdGhlIHdheSB5b3Ugd2VyZSBtZWFudCB0byE8L3A+CjxiciAvPiA8YnIgLz4KPGRpdiBh
+bGlnbj0iY2VudGVyIj48c3BhbiBmYWNlPSJWZXJkYW5hLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5z
+LXNlcmlmIiBzaXplPSIxIiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmEsIEFyaWFsLCBIZWx2
+ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogeHgtc21hbGw7Ij48YnIgLz4gSWYgeW91J2Qg
+cHJlZmVyIG5vdCB0byByZWNlaXZlIGZ1dHVyZSBlbWFpbHMsIDxhIGhyZWY9Imh0dHA6Ly9tZWxh
+bmllcmVuZW9mZmljaWFsLmNvLnVrL0F2cjJhQkZsMDFOeCI+PHNwYW4gY29sb3I9IiM2NjY2NjYi
+IHN0eWxlPSJjb2xvcjogIzY2NjY2NjsiPlVuc3Vic2NyaWJlIEhlcmU8L3NwYW4+PC9hPi48YnIg
+Lz4gPGEgaHJlZj0iaHR0cDovL21lbGFuaWVyZW5lb2ZmaWNpYWwuY28udWsvTGtnclAyNmFwcUNp
+Ij48c3BhbiBjb2xvcj0iIzY2NjY2NiIgc3R5bGU9ImNvbG9yOiAjNjY2NjY2OyI+TXkgU2VuaW9y
+IFBlcmtzPC9zcGFuPjwvYT48L3NwYW4+IHwgMzAyIFdhc2hpbmd0b24gU3QgIzE1MC03ODM1IFNh
+biBEaWVnbywgQ0EgOTIxMDM8L2Rpdj4=
+
+---_-_-8ef23ac5920e4b__7d93de2ee560_-_---

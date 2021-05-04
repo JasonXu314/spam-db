@@ -1,0 +1,1281 @@
+Return-Path: <sales+bounce_6074821a39a44149986536@hometechstore.store>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2301083 invoked from network); 12 Apr 2021 17:23:39 -0000
+Received: (qmail 33514 invoked by uid 222); 12 Apr 2021 17:23:39 -0000
+Return-Path: <sales+bounce_6074821a39a44149986536@hometechstore.store>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 33511 invoked from network); 12 Apr 2021 17:23:39 -0000
+Received: from mail.hometechstore.store (mail.hometechstore.store [167.99.146.80])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Apr 2021 17:23:38 -0000
+Received: from htm.hometechstore.store (mail.hometechstore.store [167.99.146.80])
+	(Authenticated sender: sales@hometechstore.store)
+	by mail.hometechstore.store (Postfix) with ESMTPSA id 407D71FB618
+	for <bruce@untroubled.org>; Mon, 12 Apr 2021 17:23:38 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=hometechstore.store;
+	s=default; t=1618248218;
+	bh=YYqYb60YEce4FDeO9p+aLMWmAh2+q5SgdnSbynDNX2I=;
+	h=Date:Subject:From:To:List-Unsubscribe:From;
+	b=O1Dw3t9iY8yjRoAyCU4W0bdMQa2PPmWqcj1daN83vMaAuXez6yF92H0n97Lq0QQiH
+	 6lhjaEYmEDJjgSA50nqTcRrVPRuPr2+qjq3DIOzHihtp/Jt1R1CxF/XCxSf+v5AqmA
+	 tXzyk7B2lBjlEsYayeCsY2e0CgrapJqX6PSAAxURmx9WbySvrtPDlbQ9PuZhB8ipR9
+	 OUKg8myo/FKwMXmaOxwE/IxMM2Ii8+B9In6a5a0YWyX9L32lGFlk/5wy9p39tU/ljg
+	 et/Z0nAIIGmC8AbncPmGN4ZksK36M64BF2BKRkX8/q+K0rFva/zWOAGbfHEbST+dNr
+	 bXj+238GmHEOQ==
+Message-ID: <412c86e560445f88a1f237d8a5241caa@htm.hometechstore.store>
+Date: Mon, 12 Apr 2021 17:23:28 +0000
+Subject: =?utf-8?Q?=F0=9F=8C=B1?= Grab your Spring Sale to Estimate your
+ Cost with Accuracy in your Cart today.
+From: HomeTech Systems <sales@hometechstore.store>
+To: bruce@untroubled.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1618248208_c7f88ae8547e863158fe790e478795b8_=_"
+X-EMAIL-ID: 4
+Precedence: Bulk
+List-Unsubscribe: <mailto:sales+unsubscribe_6074821a39a44149986536@hometechstore.store>,
+ <https://htm.hometechstore.store/email/unsubscribe/6074821a39a44149986536>
+Content-Length: 62275
+
+
+--_=_swift_1618248208_c7f88ae8547e863158fe790e478795b8_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[https://htm.hometechstore.store/r/3e5a1ebbdd63905f86a331237?ct=3DYTo1OntzO=
+jY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0=
+O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM=
+6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+HO=
+METECH'S =C2=A0=C2=A0 56TH ANNUAL SPRING SALE=C2=A0
+
+SPRING INTO THE BU=
+SY SEASON WITH HOMETECH'S PRODUCTS,=C2=A0USE PROMO CODE
+SPRINGSALE TO SAV=
+E =C2=A0$56.00=C2=A0 OFF OF ANYTHING IN YOUR CART TODAY !!!
+
+USE THE CO=
+UPON CODE BELOW
+
+_ [https://htm.hometechstore.store/r/368e287dd2d45ecba=
+9b99da15?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6N=
+Dt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUz=
+NiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k=
+6NDt9fQ%3D%3D&]
+
+[https://htm.hometechstore.store/r/d05bf5239d6422ce3f9=
+8cbb46?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt=
+9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNi=
+I7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6N=
+Dt9fQ%3D%3D&]
+
+ALL IN 1 COST ESTIMATOR
+
+OVER 17,000 LINE ITEM TO CH=
+OOSE FROM, PRE-PRICED FOR YOUR LOCAL AREA.
+_
+
+Buy Now
+[https://htm.=
+hometechstore.store/r/d05bf5239d6422ce3f98cbb46?ct=3DYTo1OntzOjY6InNvdXJjZS=
+I7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3Rhd=
+CI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3=
+OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+_
+[https://ht=
+m.hometechstore.store/r/22ef2d1ea3a4a1195509ea148?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+REMODELING & =
+RENOVATION COST ESTIMATOR
+
+THOUSANDS=C2=A0OF LINE ITEM TO CHOOSE FROM, =
+PRE-PRICED FOR YOUR LOCAL
+AREA. _
+
+Buy Now
+[https://htm.hometechsto=
+re.store/r/22ef2d1ea3a4a1195509ea148?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpO=
+jA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoi=
+NjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmV=
+sIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+_ [https://htm.hometechsto=
+re.store/r/3c5fe5f079325e6d4b4bed6e9?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpO=
+jA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoi=
+NjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmV=
+sIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+KITCHEN & BATH COST ESTIMA=
+TOR
+
+300+ =C2=A0SPECIALTIES, INCLUDING LAYOUTS _
+
+Buy Now
+[https:=
+//htm.hometechstore.store/r/3c5fe5f079325e6d4b4bed6e9?ct=3DYTo1OntzOjY6InNv=
+dXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDo=
+ic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNy=
+I7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+_
+[http=
+s://htm.hometechstore.store/r/5ae0a6e4b3e3ad4e4e1493ad4?ct=3DYTo1OntzOjY6In=
+NvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6N=
+Doic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEy=
+NyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+HANDYMA=
+N MAINTENANCE & REPAIR COST ESTIMATOR
+
+FOR MOST JOBS UNDER=C2=A0 $5,000=
+ _
+
+Buy Now
+[https://htm.hometechstore.store/r/5ae0a6e4b3e3ad4e4e1493=
+ad4?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9cz=
+o1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7c=
+zo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9=
+fQ%3D%3D&]
+
+_ [https://htm.hometechstore.store/r/e6c3c534f060882e75d401=
+e10?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9cz=
+o1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7c=
+zo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9=
+fQ%3D%3D&]
+
+HOUSEBUILDERS COST ESTIMATO
+
+FOR MOST JOBS ADDITIONS / =
+NEW HOME CONSTRUCTION _
+
+Buy Now
+[https://htm.hometechstore.store/r/e=
+6c3c534f060882e75d401e10?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlb=
+WFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA3NDgyMWEz=
+OWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIjthOjE6e3M=
+6NToiZW1haWwiO2k6NDt9fQ%3D%3D&]
+
+_COPYRIGHT =C2=A9 2020 HOMETECH, ALL R=
+IGHTS RESERVED. _
+
+800-240-8210
+
+_Click here [https://htm.hometechs=
+tore.store/email/unsubscribe/6074821a39a44149986536]to unsubscribe=C2=A0. _
+
+--_=_swift_1618248208_c7f88ae8547e863158fe790e478795b8_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!DOCTYPE html PUBLIC "-//W3C=
+//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-t=
+ransitional.dtd"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional/=
+/EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!DOCTYPE ht=
+ml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xh=
+tml1/DTD/xhtml1-transitional.dtd"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML =
+1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.=
+dtd"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!DOCTYPE html PUBLIC "-=
+//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xht=
+ml1-transitional.dtd"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transiti=
+onal//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" style=3D"width:100%;font-family:'DM Serif Display', s=
+erif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Marg=
+in:0">
+  <head>=20
+    <meta charset=3D"UTF-8">=20
+    <meta content=3D"width=3Ddevice-width, initial-scale=3D1" name=3D"viewp=
+ort">=20
+    <meta name=3D"x-apple-disable-message-reformatting">=20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+    <meta content=3D"telephone=3Dno" name=3D"format-detection">=20
+    <title>Spring Email Main
+    </title>=20
+    <!--[if (mso 16)]>
+<style type=3D"text/css">
+a {text-decoration: none;}
+</style>
+<![endif]-->=20
+    <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><!=
+[endif]-->=20
+    <!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG></o:AllowPNG>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <!--[if !mso]><!-- -->=20
+    <link href=3D"https://fonts.googleapis.com/css?family=3DLato:400,400i,7=
+00,700i" rel=3D"stylesheet">=20
+    <link href=3D"link rel=3D" preconnect" link rel=3D"stylesheet" ">=20
+    <!--<![endif]-->=20
+    <style type=3D"text/css">
+      #outlook a {
+        padding:0;
+      }
+      .ExternalClass {
+        width:100%;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height:100%;
+      }
+      .es-button {
+        mso-style-priority:100!important;
+        text-decoration:none!important;
+      }
+      a[x-apple-data-detectors] {
+        color:inherit!important;
+        text-decoration:none!important;
+        font-size:inherit!important;
+        font-family:inherit!important;
+        font-weight:inherit!important;
+        line-height:inherit!important;
+      }
+      .es-desk-hidden {
+        display:none;
+        float:left;
+        overflow:hidden;
+        width:0;
+        max-height:0;
+        line-height:0;
+        mso-hide:all;
+      }
+      @media only screen and (max-width:600px) {
+        p, ul li, ol li, a {
+          line-height:150%!important }
+        h1 {
+          font-size:16px!important;
+          text-align:center;
+          line-height:150%!important }
+        h2 {
+          font-size:19px!important;
+          text-align:center;
+          line-height:120%!important }
+        h3 {
+          font-size:15px!important;
+          text-align:center;
+          line-height:120%!important }
+        .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a {
+          font-size:16px!important }
+        .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a {
+          font-size:19px!important }
+        .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a {
+          font-size:15px!important }
+        .es-menu td a {
+          font-size:16px!important }
+        .es-header-body p, .es-header-body ul li, .es-header-body ol li, .e=
+s-header-body a {
+          font-size:16px!important }
+        .es-content-body p, .es-content-body ul li, .es-content-body ol li,=
+ .es-content-body a {
+          font-size:16px!important }
+        .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .e=
+s-footer-body a {
+          font-size:15px!important }
+        .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-info=
+block a {
+          font-size:12px!important }
+        *[class=3D"gmail-fix"] {
+          display:none!important }
+        .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 {
+          text-align:center!important }
+        .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 {
+          text-align:right!important }
+        .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img {
+          display:inline!important }
+        .es-button-border {
+          display:inline-block!important }
+        .es-btn-fw {
+          border-width:10px 0px!important;
+          text-align:center!important }
+        .es-adaptive table, .es-btn-fw, .es-btn-fw-brdr, .es-left, .es-righ=
+t {
+          width:100%!important }
+        .es-content table, .es-header table, .es-footer table, .es-content,=
+ .es-footer, .es-header {
+          width:100%!important;
+          max-width:600px!important }
+        .es-adapt-td {
+          display:block!important;
+          width:100%!important }
+        .adapt-img {
+          width:100%!important;
+          height:auto!important }
+        .es-m-p0 {
+          padding:0!important }
+        .es-m-p0r {
+          padding-right:0!important }
+        .es-m-p0l {
+          padding-left:0!important }
+        .es-m-p0t {
+          padding-top:0!important }
+        .es-m-p0b {
+          padding-bottom:0!important }
+        .es-m-p20b {
+          padding-bottom:20px!important }
+        .es-mobile-hidden, .es-hidden {
+          display:none!important }
+        tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden {
+          width:auto!important;
+          overflow:visible!important;
+          float:none!important;
+          max-height:inherit!important;
+          line-height:inherit!important }
+        tr.es-desk-hidden {
+          display:table-row!important }
+        table.es-desk-hidden {
+          display:table!important }
+        td.es-desk-menu-hidden {
+          display:table-cell!important }
+        .es-menu td {
+          width:1%!important }
+        table.es-table-not-adapt, .esd-block-html table {
+          width:auto!important }
+        table.es-social {
+          display:inline-block!important }
+        table.es-social td {
+          display:inline-block!important }
+        a.es-button, button.es-button {
+          font-size:16px!important;
+          display:inline-block!important }
+        .es-m-p5 {
+          padding:5px!important }
+        .es-m-p5t {
+          padding-top:5px!important }
+        .es-m-p5b {
+          padding-bottom:5px!important }
+        .es-m-p5r {
+          padding-right:5px!important }
+        .es-m-p5l {
+          padding-left:5px!important }
+        .es-m-p10 {
+          padding:10px!important }
+        .es-m-p10t {
+          padding-top:10px!important }
+        .es-m-p10b {
+          padding-bottom:10px!important }
+        .es-m-p10r {
+          padding-right:10px!important }
+        .es-m-p10l {
+          padding-left:10px!important }
+        .es-m-p15 {
+          padding:15px!important }
+        .es-m-p15t {
+          padding-top:15px!important }
+        .es-m-p15b {
+          padding-bottom:15px!important }
+        .es-m-p15r {
+          padding-right:15px!important }
+        .es-m-p15l {
+          padding-left:15px!important }
+        .es-m-p20 {
+          padding:20px!important }
+        .es-m-p20t {
+          padding-top:20px!important }
+        .es-m-p20r {
+          padding-right:20px!important }
+        .es-m-p20l {
+          padding-left:20px!important }
+        .es-m-p25 {
+          padding:25px!important }
+        .es-m-p25t {
+          padding-top:25px!important }
+        .es-m-p25b {
+          padding-bottom:25px!important }
+        .es-m-p25r {
+          padding-right:25px!important }
+        .es-m-p25l {
+          padding-left:25px!important }
+        .es-m-p30 {
+          padding:30px!important }
+        .es-m-p30t {
+          padding-top:30px!important }
+        .es-m-p30b {
+          padding-bottom:30px!important }
+        .es-m-p30r {
+          padding-right:30px!important }
+        .es-m-p30l {
+          padding-left:30px!important }
+        .es-m-p35 {
+          padding:35px!important }
+        .es-m-p35t {
+          padding-top:35px!important }
+        .es-m-p35b {
+          padding-bottom:35px!important }
+        .es-m-p35r {
+          padding-right:35px!important }
+        .es-m-p35l {
+          padding-left:35px!important }
+        .es-m-p40 {
+          padding:40px!important }
+        .es-m-p40t {
+          padding-top:40px!important }
+        .es-m-p40b {
+          padding-bottom:40px!important }
+        .es-m-p40r {
+          padding-right:40px!important }
+        .es-m-p40l {
+          padding-left:40px!important }
+      }
+    </style>=20
+  </head>=20
+  <body style=3D"width:100%;font-family:'DM Serif Display', serif;-webkit-t=
+ext-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">=20
+    <div class=3D"es-wrapper-color" style=3D"background-color:#F5F5F5">=20
+      <!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+<v:fill type=3D"tile" color=3D"#f5f5f5"></v:fill>
+</v:background>
+<![endif]-->=20
+      <table class=3D"es-wrapper" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collaps=
+e:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;bac=
+kground-repeat:repeat;background-position:center top">=20
+        <tr style=3D"border-collapse:collapse">=20
+          <td valign=3D"top" style=3D"padding:0;Margin:0">=20
+            <table class=3D"es-content" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border=
+-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:1=
+00%">=20
+              <tr style=3D"border-collapse:collapse">=20
+                <td align=3D"center" style=3D"padding:0;Margin:0">=20
+                  <table class=3D"es-content-body" cellspacing=3D"0" cellpa=
+dding=3D"0" bgcolor=3D"#ffffff" align=3D"center" style=3D"mso-table-lspace:=
+0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;backgr=
+ound-color:#FFFFFF;width:600px">=20
+                    <tr class=3D"es-mobile-hidden" style=3D"border-collapse=
+:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#f6f6f6" style=3D"paddi=
+ng:0;Margin:0;padding-top:5px;padding-right:5px;padding-left:20px;backgroun=
+d-color:#F6F6F6">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:575px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"Margin:0;pa=
+dding-top:20px;padding-bottom:20px;padding-left:20px;padding-right:20px;fon=
+t-size:0">=20
+                                    <table border=3D"0" width=3D"100%" heig=
+ht=3D"100%" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;bord=
+er-spacing:0px">=20
+                                      <tr style=3D"border-collapse:collapse=
+">=20
+                                        <td style=3D"padding:0;Margin:0;bor=
+der-bottom:0px solid #CCCCCC;background:none;height:1px;width:100%;margin:0=
+px">
+                                        </td>=20
+                                      </tr>=20
+                                    </table>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" style=3D"padding:0;Margin:0;paddin=
+g-top:10px;padding-left:20px;padding-right:20px">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:560px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:10px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/3e5a1ebbdd63905f86a331237?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://eyajum.stripocdn.=
+email/content/guids/CABINET_413afaf8814da596f913a3c2910c83d8/images/4896160=
+9946203911.png" alt style=3D"display:block;border:0;outline:none;text-decor=
+ation:none;-ms-interpolation-mode:bicubic" width=3D"190">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#efefef" style=3D"paddi=
+ng:0;Margin:0;background-color:#EFEFEF">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:600px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;font-size:0px">
+                                    <img class=3D"adapt-img" src=3D"https:/=
+/eyajum.stripocdn.email/content/guids/CABINET_413afaf8814da596f913a3c2910c8=
+3d8/images/9121617032063212.jpg" alt style=3D"display:block;border:0;outlin=
+e:none;text-decoration:none;-ms-interpolation-mode:bicubic" width=3D"600">
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td class=3D"es-m-p20b es-m-p15r es-m-p15l" align=3D"=
+left" style=3D"Margin:0;padding-left:20px;padding-right:20px;padding-top:30=
+px;padding-bottom:35px">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:560px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" class=3D"es-m-txt-l"=
+ style=3D"padding:0;Margin:0">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#333333">
+                                      <strong>HomeTech's
+                                      </strong>=C2=A0=C2=A0
+                                      <strong>56th Annual Spring Sale=C2=
+=A0
+                                      </strong>
+                                    </h2>
+                                    <p style=3D"Margin:0;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-fam=
+ily:'DM Serif Display', serif;line-height:21px;color:#333333;font-size:14px=
+">
+                                      <br>
+                                    </p>
+                                    <h2 style=3D"Margin:0;line-height:23px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:19px;font-style:normal;font-weight:normal;colo=
+r:#333333">Spring into the busy season with HomeTech's products,=C2=A0use p=
+romo code=20
+                                      <strong>springsale=20
+                                      </strong>to save
+                                      <strong>=C2=A0$56.00=C2=A0
+                                      </strong>off of anything in your cart=
+ today !!!
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" class=3D"es-m-txt-l"=
+ style=3D"padding:0;Margin:0;padding-top:15px">
+                                    <h2 style=3D"Margin:0;line-height:38px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:19px;font-style:normal;font-weight:normal;colo=
+r:#333333">
+                                      <strong>Use The Coupon Code Below
+                                      </strong>
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:25px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/368e287dd2d45ecba9b99da15?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://eyajum.stripocdn.=
+email/content/guids/CABINET_413afaf8814da596f913a3c2910c83d8/images/5507161=
+7036516907.png" alt style=3D"display:block;border:0;outline:none;text-decor=
+ation:none;-ms-interpolation-mode:bicubic" width=3D"220">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#781389" style=3D"Margi=
+n:0;padding-bottom:10px;padding-top:20px;padding-left:20px;padding-right:20=
+px;background-color:#781389">=20
+                        <!--[if mso]><table style=3D"width:560px" cellpaddi=
+ng=3D"0" cellspacing=3D"0"><tr><td style=3D"width:270px" valign=3D"top"><![=
+endif]-->=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"es-left" align=3D"left" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt=
+;border-collapse:collapse;border-spacing:0px;float:left">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td class=3D"es-m-p20b" align=3D"left" style=3D=
+"padding:0;Margin:0;width:270px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:separate;border-spacing:0px;border-left:1px dashed #FFFFFF;border-righ=
+t:1px dashed #FFFFFF;border-top:1px dashed #FFFFFF;border-bottom:1px dashed=
+ #FFFFFF;border-radius:4px" role=3D"presentation">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:10px;padding-bottom:15px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/d05bf5239d6422ce3f98cbb46?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://hometechonline.co=
+m/wp-content/uploads/all-in-1-cost-estimator-estimator-book.jpg" alt style=
+=3D"display:block;border:0;outline:none;text-decoration:none;-ms-interpolat=
+ion-mode:bicubic" width=3D"250">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" style=3D"padding:0;Mar=
+gin:0;padding-left:10px">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">All in 1 Cost Estimator
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" class=3D"es-m-txt-c" s=
+tyle=3D"padding:0;Margin:0;padding-top:10px;padding-left:10px;padding-botto=
+m:20px">
+                                    <h4 style=3D"Margin:0;line-height:18px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;color:#FFFFFF;font-size:15px">
+                                      <i>Over 17,000 line item to choose fr=
+om, pre-priced for your local area.
+                                      </i>
+                                    </h4>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:10px">
+                                    <span class=3D"es-button-border" style=
+=3D"border-style:solid;border-color:#2CB543;background:#48C15A;border-width=
+:0px;display:inline-block;border-radius:5px;width:auto">
+                                      <a href=3D"https://htm.hometechstore.=
+store/r/d05bf5239d6422ce3f98cbb46?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7=
+czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA=
+3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIj=
+thOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" class=3D"es-button" target=3D"_bla=
+nk" style=3D"mso-style-priority:100 !important;text-decoration:none;-webkit=
+-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exact=
+ly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#48C15A;bor=
+der-width:10px 40px;display:inline-block;background:#48C15A;border-radius:5=
+px;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;font-we=
+ight:normal;font-style:normal;line-height:19px;width:auto;text-align:center=
+">Buy Now
+                                      </a>
+                                    </span>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>=20
+                        <!--[if mso]></td><td style=3D"width:20px"></td><td=
+ style=3D"width:270px" valign=3D"top"><![endif]-->=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"es-right" align=3D"right" style=3D"mso-table-lspace:0pt;mso-table-rspace:0=
+pt;border-collapse:collapse;border-spacing:0px;float:right">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"left" style=3D"padding:0;Margin:0;=
+width:270px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:separate;border-spacing:0px;border-left:1px dashed #FFFFFF;border-righ=
+t:1px dashed #FFFFFF;border-top:1px dashed #FFFFFF;border-bottom:1px dashed=
+ #FFFFFF;border-radius:4px" role=3D"presentation">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:10px;padding-bottom:15px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/22ef2d1ea3a4a1195509ea148?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://hometechonline.co=
+m/wp-content/uploads/remodeling-and-renovation-book.jpg" alt style=3D"displ=
+ay:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:=
+bicubic" width=3D"250">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" style=3D"padding:0;Mar=
+gin:0;padding-left:10px">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">Remodeling & Renovation Cost Estimator
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" class=3D"es-m-txt-c" s=
+tyle=3D"padding:0;Margin:0;padding-top:10px;padding-left:10px;padding-botto=
+m:20px">
+                                    <h4 style=3D"Margin:0;line-height:18px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;color:#FFFFFF;font-size:15px">
+                                      <i>Thousands=C2=A0of line item to cho=
+ose from, pre-priced for your local area.
+                                      </i>
+                                    </h4>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:10px">
+                                    <span class=3D"es-button-border" style=
+=3D"border-style:solid;border-color:#2CB543;background:#48C15A;border-width=
+:0px;display:inline-block;border-radius:5px;width:auto">
+                                      <a href=3D"https://htm.hometechstore.=
+store/r/22ef2d1ea3a4a1195509ea148?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7=
+czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA=
+3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIj=
+thOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" class=3D"es-button" target=3D"_bla=
+nk" style=3D"mso-style-priority:100 !important;text-decoration:none;-webkit=
+-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exact=
+ly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#48C15A;bor=
+der-width:10px 40px;display:inline-block;background:#48C15A;border-radius:5=
+px;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;font-we=
+ight:normal;font-style:normal;line-height:19px;width:auto;text-align:center=
+">Buy Now
+                                      </a>
+                                    </span>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>=20
+                        <!--[if mso]></td></tr></table><![endif]-->
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#781389" style=3D"Margi=
+n:0;padding-bottom:10px;padding-top:20px;padding-left:20px;padding-right:20=
+px;background-color:#781389">=20
+                        <!--[if mso]><table style=3D"width:560px" cellpaddi=
+ng=3D"0" cellspacing=3D"0"><tr><td style=3D"width:270px" valign=3D"top"><![=
+endif]-->=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"es-left" align=3D"left" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt=
+;border-collapse:collapse;border-spacing:0px;float:left">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td class=3D"es-m-p20b" align=3D"left" style=3D=
+"padding:0;Margin:0;width:270px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:separate;border-spacing:0px;border-left:1px dashed #FFFFFF;border-righ=
+t:1px dashed #FFFFFF;border-top:1px dashed #FFFFFF;border-bottom:1px dashed=
+ #FFFFFF;border-radius:4px" role=3D"presentation">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:10px;padding-bottom:15px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/3c5fe5f079325e6d4b4bed6e9?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://hometechonline.co=
+m/wp-content/uploads/kitchen-and-bath-estimator-book.jpg" alt style=3D"disp=
+lay:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode=
+:bicubic" width=3D"250">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" style=3D"padding:0;Mar=
+gin:0;padding-left:10px">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">Kitchen & Bath Cost Estimator
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" class=3D"es-m-txt-c" s=
+tyle=3D"padding:0;Margin:0;padding-top:10px;padding-left:10px;padding-botto=
+m:20px">
+                                    <h4 style=3D"Margin:0;line-height:18px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;color:#FFFFFF;font-size:15px">
+                                      <i>
+                                        <strong>300+
+                                        </strong>=C2=A0Specialties, Includi=
+ng Layouts
+                                      </i>
+                                    </h4>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:10px">
+                                    <span class=3D"es-button-border" style=
+=3D"border-style:solid;border-color:#2CB543;background:#48C15A;border-width=
+:0px;display:inline-block;border-radius:5px;width:auto">
+                                      <a href=3D"https://htm.hometechstore.=
+store/r/3c5fe5f079325e6d4b4bed6e9?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7=
+czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA=
+3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIj=
+thOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" class=3D"es-button" target=3D"_bla=
+nk" style=3D"mso-style-priority:100 !important;text-decoration:none;-webkit=
+-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exact=
+ly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#48C15A;bor=
+der-width:10px 40px;display:inline-block;background:#48C15A;border-radius:5=
+px;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;font-we=
+ight:normal;font-style:normal;line-height:19px;width:auto;text-align:center=
+">Buy Now
+                                      </a>
+                                    </span>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>=20
+                        <!--[if mso]></td><td style=3D"width:20px"></td><td=
+ style=3D"width:270px" valign=3D"top"><![endif]-->=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"es-right" align=3D"right" style=3D"mso-table-lspace:0pt;mso-table-rspace:0=
+pt;border-collapse:collapse;border-spacing:0px;float:right">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"left" style=3D"padding:0;Margin:0;=
+width:270px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:separate;border-spacing:0px;border-left:1px dashed #FFFFFF;border-righ=
+t:1px dashed #FFFFFF;border-top:1px dashed #FFFFFF;border-bottom:1px dashed=
+ #FFFFFF;border-radius:4px" role=3D"presentation">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:10px;padding-bottom:15px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/5ae0a6e4b3e3ad4e4e1493ad4?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://hometechonline.co=
+m/wp-content/uploads/handiman-maintenance-and-repair-book.jpg" alt style=3D=
+"display:block;border:0;outline:none;text-decoration:none;-ms-interpolation=
+-mode:bicubic" width=3D"250">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" style=3D"padding:0;Mar=
+gin:0;padding-left:10px">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">Handyman Maintenance & Repair Cost Estimator
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"left" class=3D"es-m-txt-c" s=
+tyle=3D"padding:0;Margin:0;padding-top:10px;padding-left:10px;padding-botto=
+m:20px">
+                                    <h4 style=3D"Margin:0;line-height:18px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;color:#FFFFFF;font-size:15px">
+                                      <i>For Most Jobs Under=C2=A0
+                                        <strong>$5,000
+                                        </strong>
+                                      </i>
+                                    </h4>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:10px">
+                                    <span class=3D"es-button-border" style=
+=3D"border-style:solid;border-color:#2CB543;background:#48C15A;border-width=
+:0px;display:inline-block;border-radius:5px;width:auto">
+                                      <a href=3D"https://htm.hometechstore.=
+store/r/5ae0a6e4b3e3ad4e4e1493ad4?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7=
+czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA=
+3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIj=
+thOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" class=3D"es-button" target=3D"_bla=
+nk" style=3D"mso-style-priority:100 !important;text-decoration:none;-webkit=
+-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exact=
+ly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#48C15A;bor=
+der-width:10px 40px;display:inline-block;background:#48C15A;border-radius:5=
+px;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;font-we=
+ight:normal;font-style:normal;line-height:19px;width:auto;text-align:center=
+">Buy Now
+                                      </a>
+                                    </span>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>=20
+                        <!--[if mso]></td></tr></table><![endif]-->
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#781389" style=3D"paddi=
+ng:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;backgro=
+und-color:#781389">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"left" style=3D"padding:0;Margin:0;=
+width:560px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:separate;border-spacing:0px;border-left:1px dashed #FFFFFF;border-righ=
+t:1px dashed #FFFFFF;border-top:1px dashed #FFFFFF;border-bottom:1px dashed=
+ #FFFFFF;border-radius:4px" role=3D"presentation">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:10px;padding-bottom:15px;font-size:0px">
+                                    <a target=3D"_blank" href=3D"https://ht=
+m.hometechstore.store/r/e6c3c534f060882e75d401e10?ct=3DYTo1OntzOjY6InNvdXJj=
+ZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3R=
+hdCI7czoyMjoiNjA3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7cz=
+o3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" style=3D"-webkit-t=
+ext-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly=
+;text-decoration:underline;color:#2CB543;font-size:14px">
+                                      <img src=3D"https://hometechonline.co=
+m/wp-content/uploads/house-builders-estimator-book.jpg" alt style=3D"displa=
+y:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:b=
+icubic" width=3D"250">
+                                    </a>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-left:10px">
+                                    <h2 style=3D"Margin:0;line-height:29px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:24px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">Housebuilders Cost Estimato
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" class=3D"es-m-txt-c"=
+ style=3D"padding:0;Margin:0;padding-top:10px;padding-left:10px;padding-bot=
+tom:20px">
+                                    <h4 style=3D"Margin:0;line-height:18px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;color:#FFFFFF;font-size:15px">
+                                      <i>For Most Jobs Additions / New Home=
+ Construction
+                                        <strong>
+                                        </strong>
+                                      </i>
+                                    </h4>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-bottom:35px">
+                                    <span class=3D"es-button-border" style=
+=3D"border-style:solid;border-color:#2CB543;background:#48C15A;border-width=
+:0px;display:inline-block;border-radius:5px;width:auto">
+                                      <a href=3D"https://htm.hometechstore.=
+store/r/e6c3c534f060882e75d401e10?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7=
+czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoyMjoiNjA=
+3NDgyMWEzOWE0NDE0OTk4NjUzNiI7czo0OiJsZWFkIjtzOjM6IjEyNyI7czo3OiJjaGFubmVsIj=
+thOjE6e3M6NToiZW1haWwiO2k6NDt9fQ%3D%3D&" class=3D"es-button" target=3D"_bla=
+nk" style=3D"mso-style-priority:100 !important;text-decoration:none;-webkit=
+-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exact=
+ly;color:#FFFFFF;font-size:16px;border-style:solid;border-color:#48C15A;bor=
+der-width:10px 40px;display:inline-block;background:#48C15A;border-radius:5=
+px;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;font-we=
+ight:normal;font-style:normal;line-height:19px;width:auto;text-align:center=
+">Buy Now
+                                      </a>
+                                    </span>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td align=3D"left" style=3D"padding:0;Margin:0;paddin=
+g-top:20px;padding-left:20px;padding-right:20px">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:560px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:5px=
+;Margin:0;font-size:0">=20
+                                    <table border=3D"0" width=3D"100%" heig=
+ht=3D"100%" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;bord=
+er-spacing:0px">=20
+                                      <tr style=3D"border-collapse:collapse=
+">=20
+                                        <td style=3D"padding:0;Margin:0;bor=
+der-bottom:0px solid #CCCCCC;background:none;height:1px;width:100%;margin:0=
+px">
+                                        </td>=20
+                                      </tr>=20
+                                    </table>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr style=3D"border-collapse:collapse">=20
+                      <td class=3D"es-m-p25r es-m-p25l" style=3D"Margin:0;p=
+adding-bottom:15px;padding-top:40px;padding-left:40px;padding-right:40px;ba=
+ckground-color:#333333" bgcolor=3D"#333333" align=3D"left">=20
+                        <table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td class=3D"es-m-p0r" align=3D"center" style=
+=3D"padding:0;Margin:0;width:520px">=20
+                              <table width=3D"100%" cellspacing=3D"0" cellp=
+adding=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"Margin:0;pa=
+dding-top:5px;padding-bottom:20px;padding-left:20px;padding-right:20px;font=
+-size:0">=20
+                                    <table border=3D"0" width=3D"100%" heig=
+ht=3D"100%" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;bord=
+er-spacing:0px">=20
+                                      <tr style=3D"border-collapse:collapse=
+">=20
+                                        <td style=3D"padding:0;Margin:0;bor=
+der-bottom:2px solid #666666;background:none;height:1px;width:100%;margin:0=
+px">
+                                        </td>=20
+                                      </tr>=20
+                                    </table>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:5px;padding-bottom:15px">
+                                    <h2 style=3D"Margin:0;line-height:17px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:14px;font-style:normal;font-weight:normal;colo=
+r:#40E0D0">
+                                      <em>Copyright =C2=A9 2020 HomeTech, A=
+ll rights reserved.
+                                      </em>
+                                    </h2>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td class=3D"es-m-txt-=D1=81" align=3D"ce=
+nter" style=3D"padding:0;Margin:0;padding-bottom:30px">
+                                    <h3 style=3D"Margin:0;line-height:32px;=
+mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica,=
+ arial, sans-serif;font-size:27px;font-style:normal;font-weight:normal;colo=
+r:#FFFFFF">800-240-8210
+                                    </h3>
+                                  </td>=20
+                                </tr>=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"padding:0;M=
+argin:0;padding-top:5px">
+                                    <p style=3D"Margin:0;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-fam=
+ily:lato, 'helvetica neue', helvetica, arial, sans-serif;line-height:21px;c=
+olor:#4FBEAE;font-size:14px">
+                                      <em>Click=20
+                                        <a target=3D"_blank" style=3D"-webk=
+it-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exa=
+ctly;text-decoration:underline;color:#999999;font-size:14px;font-family:lat=
+o, 'helvetica neue', helvetica, arial, sans-serif" href=3D"https://htm.home=
+techstore.store/email/unsubscribe/6074821a39a44149986536">here=20
+                                        </a>to unsubscribe=C2=A0.
+                                      </em>
+                                    </p>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                    <tr class=3D"es-mobile-hidden" style=3D"border-collapse=
+:collapse">=20
+                      <td align=3D"left" bgcolor=3D"#f6f6f6" style=3D"paddi=
+ng:0;Margin:0;padding-top:5px;padding-right:5px;padding-left:20px;backgroun=
+d-color:#F6F6F6">=20
+                        <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:c=
+ollapse;border-spacing:0px">=20
+                          <tr style=3D"border-collapse:collapse">=20
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding:0;Margin:0;width:575px">=20
+                              <table cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation" style=3D"mso-table-lspace:0pt;mso-table-=
+rspace:0pt;border-collapse:collapse;border-spacing:0px">=20
+                                <tr style=3D"border-collapse:collapse">=20
+                                  <td align=3D"center" style=3D"Margin:0;pa=
+dding-top:15px;padding-bottom:15px;padding-left:20px;padding-right:20px;fon=
+t-size:0">=20
+                                    <table border=3D"0" width=3D"100%" heig=
+ht=3D"100%" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;bord=
+er-spacing:0px">=20
+                                      <tr style=3D"border-collapse:collapse=
+">=20
+                                        <td style=3D"padding:0;Margin:0;bor=
+der-bottom:0px solid #CCCCCC;background:none;height:1px;width:100%;margin:0=
+px">
+                                        </td>=20
+                                      </tr>=20
+                                    </table>
+                                  </td>=20
+                                </tr>=20
+                              </table>
+                            </td>=20
+                          </tr>=20
+                        </table>
+                      </td>=20
+                    </tr>=20
+                  </table>
+                </td>=20
+              </tr>=20
+            </table>
+          </td>=20
+        </tr>=20
+      </table>=20
+    </div> =20
+  <img height=3D"1" width=3D"1" src=3D"https://htm.hometechstore.store/emai=
+l/6074821a39a44149986536.gif" alt=3D"" /></body>
+</html>
+
+--_=_swift_1618248208_c7f88ae8547e863158fe790e478795b8_=_--
+

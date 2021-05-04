@@ -1,0 +1,75 @@
+Return-Path: <affiliate-renewal-by-andersen-bruce=untroubled.org@upcred4.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1215372 invoked from network); 5 Apr 2021 13:52:59 -0000
+Received: (qmail 174171 invoked by uid 222); 5 Apr 2021 13:52:59 -0000
+Return-Path: <affiliate-renewal-by-andersen-bruce=untroubled.org@upcred4.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 174168 invoked from network); 5 Apr 2021 13:52:59 -0000
+Received: from mail.upcred4.com ([70.102.103.102])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 13:50:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=upcred4.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=affiliate-renewal-by-andersen@upcred4.com;
+ bh=wtZgDs39ke+Ql1Y1gw7pF3im3NI=;
+ b=atJUYGz5+Fo3PMmEkWdfYF+hLmXqAQrzYEfUhFAL1WMs66HHLXeHRhChbBiryF2zbLuCraAtHOnm
+   jNWnLzAc08lREcCfb4jh7LdP7TLh6fDB5aLq8B8L6EvkDHhfMJvsMl/QhoPsaRx+EWDLH8ngFgBs
+   frjtVymWBUwDpmovXBQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=upcred4.com;
+ b=m4SFlz8vHXMULTi663thRlf3PX5IFRyRkdSRi+tLld84yOtV+ivoRt43ycYod2j4sMalVOLrHdiS
+   +ZJSBm+V/6NzVIXzxqv4zCnMjynbhGbLJxyvP5n+YjNaQYhXP9iv231cLAPpfMqkPkPh5cn0kvhS
+   SSB9DWylc0u/iPkPV84=;
+Received: by mail.upcred4.com id hdcaoo0001gb for <bruce@untroubled.org>; Mon, 5 Apr 2021 09:46:32 -0400 (envelope-from <affiliate-renewal-by-andersen-bruce=untroubled.org@upcred4.com>)
+Date: Mon, 5 Apr 2021 09:46:32 -0400
+From: "Affiliate Renewal By Andersen" <affiliate-renewal-by-andersen@upcred4.com>
+To:   <bruce@untroubled.org>
+Subject: Buy One, Get One 40% off* *with minimum purchase
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_910_1996033792.1617630381399"
+List-Unsubscribe: <http://www.upcred4.com/Norway-Fairfield/dc84P2395ipS8911WJ1F1h4a4dN21aFv4GIf4rxvs4FhIHEsvZ8iRVnKKSK5jp1P05aNTcY>
+Message-ID: <0.0.0.65.1D72A2216993B36.1DEB98@mail.upcred4.com>
+Content-Length: 3475
+
+------=_Part_910_1996033792.1617630381399
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>incorrectly</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.upcred4.com/conveyers-intoxicating/8dc4G2395d86Kh13P15abVdy4a4dR21zFv4GIf4rxvs4FhIHEsvZ8CRVnKKSK6i1r0Ki6VJkcXY"><img alt="Renewal By Andersen Window" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 676px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:tahoma,geneva,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.upcred4.com/4495d23j95u8W6k17h1l5ZniabeLB4a4dh21SFv4GIf4rxvs4FhIHEsvZ8aRVnKKSK5J1v0S6BBcYl@/hallucinate-nonorthogonal">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:tahoma,geneva,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.upcred4.com/Greenwich-social/d8c5pO2395OJB8612d15abfK4a4d_21MFv4GIf4rxvs4FhIHEsvZ8HRVnKKSK5jU1k05zApcY">here.</a></b></span></span></p> <span style="font-family:tahoma,geneva,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Leave<a href="http://www.upcred4.com/e3f5v23J95D8LI917uj15PHCacK0D4a4dX21HFv4GIf4rxvs4FhIHEsvZ8wRVnKKSK7ANMg10R5Q0lcY/Norway-Fairfield"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <span color="opposite"></span><font><font></font><font class="aerospace"></font></font><style id="clapboard"></style><span></span><span></span><font dir="carted"></font><big><style></style><font lang="plotting"></font></big>  
+ <img src="http://www.upcred4.com/Greenwich-social/bca6H2H39Z5Rm85w13B15tac1w4a4di21BFv4GIf4rxvs4FhIHEsvZ8zRVnKKSK6v1n0QY5X1NcY" alt=""/></body>
+</html>
+
+------=_Part_910_1996033792.1617630381399--
+

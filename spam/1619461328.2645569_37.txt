@@ -1,0 +1,75 @@
+Return-Path: <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed44.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27985 invoked from network); 26 Apr 2021 14:21:48 -0000
+Received: (qmail 55764 invoked by uid 222); 26 Apr 2021 14:21:47 -0000
+Return-Path: <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed44.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 55761 invoked from network); 26 Apr 2021 14:21:47 -0000
+Received: from mail.tspeed44.cloud ([69.94.138.189])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 14:21:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed44.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=my.senior.perks.american.seniors@tspeed44.cloud;
+ bh=2O57h7ZF4a/ilMZBw1tO1Ip5chs=;
+ b=UU3WdRETRzN1hxJNfroNiwEVQnJMyfOFJMxwmZaavo7hkORfXO09rhILqxkqM25o53ViCldOsw21
+   DvC3okVY+Sn+AkpC2LjYj2X1dMs7/QzOanCByUSilgDTwU0qhsQyLw2NM+o3SpL57/t3Qsjkk2GC
+   T8y7NQxAOL7obyPjJyU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed44.cloud;
+ b=k4m2TKC02XoslsMIRy24Mp1arHhOE47G06uTn53mvMi5BqsOaopdu9DBppaD+4VgY1H3xuS11bFo
+   vE6xGwyt/bhpOk7pB0FyeF/xqABQYOWFRumMPhCg1uxKMSZR2XZAdbvd2V48YmPv93NE//JmGz4s
+   r5v3+lpJCmPlJBV46B0=;
+Received: by mail.tspeed44.cloud id hgr67c0001g6 for <bruce@untroubled.org>; Mon, 26 Apr 2021 10:09:58 -0400 (envelope-from <my.senior.perks.american.seniors-bruce=untroubled.org@tspeed44.cloud>)
+Date: Mon, 26 Apr 2021 10:09:58 -0400
+From: "My Senior Perks American Seniors" <my.senior.perks.american.seniors@tspeed44.cloud>
+To:   <bruce@untroubled.org>
+Subject: Seniors - don't miss out
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_229_208450648.1619446184647"
+List-Unsubscribe: <http://www.tspeed44.cloud/3ef6w2A3W95Gpt8913gy1kg1Yh4b7fr21oFv4GIf4rxvs4FhIHEsvZ11cRiomoKKos95fv1Z05zjcYy/reconstruct-verses>
+Message-ID: <0.0.0.19.1D73AA5D72CC5F0.456370@mail.tspeed44.cloud>
+Content-Length: 2990
+
+------=_Part_229_208450648.1619446184647
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>crunchier</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:20px; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.tspeed44.cloud/5b14C2395Pj86j17U1S6HV1JX2ao4b7fQ21JFv4GIf4rxvs4FhIHEsvZ11BRiomoKKos97tO10myw6sBcXBY/reconstruct-verses">18 Hidden perks just for Seniors </a></span></span>
+  </div> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.tspeed44.cloud/5b14C2395Pj86j17U1S6HV1JX2ao4b7fQ21JFv4GIf4rxvs4FhIHEsvZ11BRiomoKKos97tO10myw6sBcXBY/reconstruct-verses"><img alt="senior sv" src="http://www.tspeed44.cloud/obstacle-joust/8ao4e2395uh7Va12m1612dJ4b7fq21HFv4GIf4rxvs4FhIHEsvZ11IRiomoKKos97J1o0Gom6UjcJYP" style="border-width: 0px; border-style: solid; height: 1232px; width: 658px; " /></a></span>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:times new roman,times,serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <font color="#666666">Leave</font><a href="http://www.tspeed44.cloud/circlet-sagebrush/d8c5Uu2395mo86g13O16Q12bY4b7fQ21pFv4GIf4rxvs4FhIHEsvZ11wRiomoKKos95J10uz6QBAcpY"><font color="#666666"> Here</font></a>.<br /> <a href="http://www.tspeed44.cloud/5b14C2395Pj86j17U1S6HV1JX2ao4b7fQ21JFv4GIf4rxvs4FhIHEsvZ11BRiomoKKos97tO10myw6sBcXBY/reconstruct-verses"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.tspeed44.cloud/reinforcements-bombast/3d25f2i395P8XF913y1612cXq4b7fs21cFv4GIf4rxvs4FhIHEsvZ11PRiomoKKos96Ct1B0g6mBy@cY">&nbsp; Quit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <style></style><style><style face="earthen"><style id="womanly"></style><small></small><span><big><style></big></style></span><small><big></style></small><small></big></style></small>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.tspeed44.cloud/reinforcements-bombast/35a5G23U95b85mJ13l161y2eI4b7fL21AFv4GIf4rxvs4FhIHEsvZ11lRiomoKKos97z1LmYW06zl1@cY" alt=""/></body>
+</html>
+
+------=_Part_229_208450648.1619446184647--
+

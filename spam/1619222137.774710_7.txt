@@ -1,0 +1,206 @@
+Return-Path: <info@moqqv.uz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3522968 invoked from network); 23 Apr 2021 18:30:08 -0000
+Received: (qmail 21882 invoked by uid 222); 23 Apr 2021 18:30:07 -0000
+Return-Path: <info@moqqv.uz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 21879 invoked from network); 23 Apr 2021 18:30:07 -0000
+Received: from mail.moqqv.uz (mail.moqqv.uz [195.158.6.55])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Apr 2021 18:30:07 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+	d=moqqv.uz; s=mail;
+	h=from:reply-to:subject:date:message-id:to:mime-version:content-type;
+	bh=9wc8j3dZdDOU6NMYKxT7+uqxWyZulDTVfbAaUvK10SA=;
+	b=DJ/RvocvWn/zK1wRSbllTcwgfAR5Do+5/78agHGtAgiGElt9YgEavc+kq86RWq5UWf3y/Z/WhvYSp
+	 1mBnF8X1ao0OZLgd9I76sJ9s+I6g2sr9HGa/nIxqcdkMxJfmxnxDEZKcDbmP58cbIGCj6ee+Pilnq0
+	 qttc/euF9WYKPTOW4W4+/U1IH54chqOr/19oePwlGXdWodRxfyFmwSy8sm4tXJ4jejCieLr9Y2CjWb
+	 sMD5CJ5ICEVcowZrsgjxuqV9d72eqv5F3m41HySPhUAqgGQsB8ML88pvBNUpDPSFSSewA2b+s7Etu6
+	 8Jx/7WabSfCiNvT6x1SKpQnK1u0CIow==
+Message-ID: <287981015-3636@mail.moqqv.uz>
+Received: from [192.168.43.230] ([197.229.137.41])
+	(authenticated user info@moqqv.uz)
+	by mail.moqqv.uz (Kerio Connect 9.2.8 patch 1) with ESMTPSA
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256 bits));
+	Wed, 17 Mar 2021 23:05:54 +0500
+Content-Type: multipart/alternative; boundary="===============0884516680=="
+MIME-Version: 1.0
+Subject: Debt Free Seasons !!!
+To: Recipients <info@moqqv.uz>
+From: "Payment Approved" <info@moqqv.uz>
+Date: Wed, 17 Mar 2021 20:06:31 +0200
+Reply-To: info@easy4uloan.co.za
+Content-Length: 12310
+
+You will not see this in a MIME-aware mail reader.
+--===============0884516680==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Easy 4 U Cash Loan. Move to a simpler way to get credit. Get an estimate
+online to apply for a loan of up to R10,000,000.00 You'll get a
+personalised offer based on your affordability, and you can choose
+between the amount you want, the lowest monthly instalment or the lowest
+interest rate, starting at 5%. Call +27870958752 or WhatsApp message on
+: +27639777905 Email: info@easy4uloan.co.za Website:
+https://www.easy4uloan.co.za
+
+--===============0884516680==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><SPAN style=3D'FONT-SIZE: 15px; FONT-FAMILY: "=
+Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blink=
+MacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE-SPACE: normal; W=
+ORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLO=
+R: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inlin=
+e !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); T=
+EXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal;=
+ -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-d=
+ecoration-style: initial; text-decoration-color: initial'>Easy 4 U Cash Loa=
+n. Move to a simpler way to get credit. Get an estimate</SPAN><BR style=3D'=
+FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West European)", "=
+Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", san=
+s-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT=
+-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS:=
+ 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT=
+: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-t=
+ext-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-=
+style: initial; text-decoration-color: initial; -webkit-font-smoothing: ant=
+ialiased'><SPAN style=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe U=
+I Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Robo=
+to, "Helvetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; T=
+EXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30); F=
+ONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTE=
+R-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; fo=
+nt-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-strok=
+e-width: 0px; text-decoration-thickness: initial; text-decoration-style: in=
+itial; text-decoration-color: initial'>online to apply for a loan of up to =
+R10,000,000.00 You'll get a</SPAN><BR style=3D'FONT-SIZE: 15px; FONT-FAMILY=
+: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Bl=
+inkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE-SPACE: normal=
+; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(32,=
+31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligature=
+s: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-=
+decoration-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial; -webkit-font-smoothing: antialiased'><SPAN style=3D'FON=
+T-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West European)", "Seg=
+oe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-s=
+erif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: =
+none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: =
+2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUN=
+D-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal=
+; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoratio=
+n-thickness: initial; text-decoration-style: initial; text-decoration-color=
+: initial'>personalised offer based on your affordability, and you can choo=
+se</SPAN><BR style=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI W=
+eb (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto,=
+ "Helvetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT=
+-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: norma=
+l; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255=
+,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-c=
+aps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: ini=
+tial; text-decoration-style: initial; text-decoration-color: initial; -webk=
+it-font-smoothing: antialiased'><SPAN style=3D'FONT-SIZE: 15px; FONT-FAMILY=
+: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Bl=
+inkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE-SPACE: normal=
+; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; C=
+OLOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: in=
+line !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255)=
+; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: norm=
+al; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; tex=
+t-decoration-style: initial; text-decoration-color: initial'>between the am=
+ount you want, the lowest monthly instalment or the lowest</SPAN><BR style=
+=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West European)=
+", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue",=
+ sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; =
+FONT-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WID=
+OWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-IN=
+DENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webk=
+it-text-stroke-width: 0px; text-decoration-thickness: initial; text-decorat=
+ion-style: initial; text-decoration-color: initial; -webkit-font-smoothing:=
+ antialiased'><SPAN style=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Seg=
+oe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, =
+Roboto, "Helvetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0p=
+x; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30=
+); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; L=
+ETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px=
+; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-s=
+troke-width: 0px; text-decoration-thickness: initial; text-decoration-style=
+: initial; text-decoration-color: initial'>interest rate, starting at 5%. C=
+all +27870958752 or WhatsApp message on</SPAN><BR style=3D'FONT-SIZE: 15px;=
+ FONT-FAMILY: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -appl=
+e-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE-S=
+PACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; CO=
+LOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACI=
+NG: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-vari=
+ant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width=
+: 0px; text-decoration-thickness: initial; text-decoration-style: initial; =
+text-decoration-color: initial; -webkit-font-smoothing: antialiased'><SPAN =
+style=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West Euro=
+pean)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica N=
+eue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: n=
+one; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: norma=
+l; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: norma=
+l; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligat=
+ures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; te=
+xt-decoration-thickness: initial; text-decoration-style: initial; text-deco=
+ration-color: initial'>: +27639777905 Email:<SPAN>&nbsp;</SPAN></SPAN><A st=
+yle=3D'FONT-SIZE: 15px; BORDER-TOP: 0px; FONT-FAMILY: "Segoe UI", "Segoe UI=
+ Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Robot=
+o, "Helvetica Neue", sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baselin=
+e; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: 0px; TEXT-TRANSFO=
+RM: none; FONT-WEIGHT: 400; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDIN=
+G-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MAR=
+GIN: 0px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; -webkit-font-smoothing: an=
+tialiased; font-variant-numeric: inherit; font-variant-east-asian: inherit;=
+ font-stretch: inherit' rel=3D"noopener noreferrer" target=3D_blank data-au=
+th=3D"NotApplicable">info@easy4uloan.co.za</A><SPAN style=3D'FONT-SIZE: 15p=
+x; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -ap=
+ple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE=
+-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-=
+WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: =
+2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness=
+: initial; text-decoration-style: initial; text-decoration-color: initial'>=
+<SPAN>&nbsp;</SPAN>Website:</SPAN><BR style=3D'FONT-SIZE: 15px; FONT-FAMILY=
+: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Bl=
+inkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; WHITE-SPACE: normal=
+; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(32,=
+31,30); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligature=
+s: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-=
+decoration-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial; -webkit-font-smoothing: antialiased'><A style=3D'FONT-S=
+IZE: 15px; BORDER-TOP: 0px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (West Eu=
+ropean)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica=
+ Neue", sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; WHITE-SPAC=
+E: normal; WORD-SPACING: 0px; BORDER-BOTTOM: 0px; TEXT-TRANSFORM: none; FON=
+T-WEIGHT: 400; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; P=
+ADDING-LEFT: 0px; BORDER-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LET=
+TER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255)=
+; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: norm=
+al; -webkit-text-stroke-width: 0px; -webkit-font-smoothing: antialiased; fo=
+nt-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch=
+: inherit' href=3D"https://www.easy4uloan.co.za/" rel=3D"noopener noreferre=
+r" target=3D_blank data-auth=3D"NotApplicable">https://www.easy4uloan.co.za=
+</A><BR style=3D'FONT-SIZE: 15px; FONT-FAMILY: "Segoe UI", "Segoe UI Web (W=
+est European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Hel=
+vetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRAN=
+SFORM: none; FONT-WEIGHT: 400; COLOR: rgb(32,31,30); FONT-STYLE: normal; OR=
+PHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,=
+255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: =
+normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial;=
+ text-decoration-style: initial; text-decoration-color: initial; -webkit-fo=
+nt-smoothing: antialiased'></BODY></HTML>
+--===============0884516680==--
+

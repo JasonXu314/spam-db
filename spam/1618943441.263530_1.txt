@@ -1,0 +1,360 @@
+Return-Path: <marketing@mentalidadperuana.com>
+Delivered-To: bruce-bait@localhost
+Received: (qmail 3066171 invoked by alias); 20 Apr 2021 08:39:04 -0000
+Delivered-To: bait@home.untroubled.org
+Received: (qmail 3066166 invoked from network); 20 Apr 2021 08:39:03 -0000
+Received: (qmail 49800 invoked by uid 222); 20 Apr 2021 08:39:03 -0000
+Return-Path: <marketing@mentalidadperuana.com>
+Delivered-To: virtmail-bait@untroubled.org
+Received: (qmail 49797 invoked from network); 20 Apr 2021 08:39:03 -0000
+Received: from vps1.mentalidadperuana.com (mentalidadperuana.com [167.71.207.20])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Apr 2021 08:39:02 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=mentalidadperuana.com;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type;
+ i=marketing@mentalidadperuana.com;
+ bh=AFR7mflEWQn482ge9CkFpGFZFXII7tdouQAyNVLc66w=;
+ b=ENyWJ2j9m61jBHTAcOvGyA6dV11QLSw2deDUsDXE2B/W3duV/3F8Dyze/Cg949jv4LRp7YC54sqD
+   pnYy2z7a6d1yvdJOterjX9mURZWbRpiDEqe4usmf7clzRuVFdm1ZZEKIpdlAPCC9aSXmL3CZB36g
+   Nf3IGJ+uHpmmSp6XoNM=
+Message-ID: <060cbf8a7eaab7a1827224777ca897fbd89f554c22@mentalidadperuana.com>
+Reply-To: "T-Capacita Virtual [Promo 3x2]" <capacitacion@seminarios-peru.com>
+From: "T-Capacita Virtual [Promo 3x2]" <marketing@mentalidadperuana.com>
+To: bait <bait@untroubled.org>
+Subject: Evento Confirmado este Viernes 23 - Contrataciones con el Estado (16 horas)
+Date: Tue, 20 Apr 2021 03:38:56 -0500
+Organization: moreno
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a359108b65b191825e5b12ab3feb7cf05fc6"
+Disposition-Notification-To: <dermatusperu@infonegocio.net.pe>
+X-Mailer: Microsoft Outlook 14.0
+Content-Length: 13279
+
+--a359108b65b191825e5b12ab3feb7cf05fc6
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+t-capacita sac virtual Zoom
+
+.=20
+
+DEL 23 DE ABRIL AL 12 DE MAYO DE 2021 (16 HORAS DE APLICACIONES PR=C1CTIC=
+AS)=A0=20
+
+PROGRAMA DE ACTUALIZACI=D3N EN CONTRATACIONES CON EL ESTADO.
+POR QUE ASISTIR
+En el Per=FA, el Estado maneja el mayor presupuesto para compras p=FAblic=
+as. A trav=E9s de sus Ministerios, Organismos Aut=F3nomos, Gobiernos Regi=
+onales, Municipalidades, es el mayor y principal comprador de bienes, ser=
+vicios, ejecuci=F3n de obras y consultor=EDas de obras a nivel nacional. =
+Ser un proveedor del Estado puede ser una gran oportunidad para los negoc=
+ios legalmente constituidos.
+DIRIGIDO
+- Medianas, peque=F1as y micro empresas que desean iniciar o especializar=
+se a venderle o incrementar sus ventas con el Estado.
+- Proveedores, participantes y funcionarios o servidores que desean actua=
+lizar conocimientos.
+TEM=C1TICA
+MODULO 1: REQUISITOS PARA CONTRATAR CON EL ESTADO (2 HORAS)
+Contenido:
+- Requisitos para contratar con el Estado.
+- Obtenci=F3n del RNP
+- Contrataciones de hasta 8 UITs
+- Impedimentos
+- Opiniones OSCE
+MODULO 2: CONVOCATORIA Y ACCIONES DE PARTICIPACI=D3N (2 HORAS)
+Contenido:
+- Convocatoria
+- Registro de participantes
+- Consultas, observaciones y (Pronunciamientos OSCE)
+- Absoluci=F3n de consultas y observaciones
+- Integraci=F3n de bases
+- Elevaci=F3n de las consultas y observaci=F3n
+MODULO 3: PRESENTACI=D3N DE OFERTAS (2 HORAS)
+Contenido:
+- Desarrollo de cada uno de los procedimientos de selecci=F3n.
+- Presentaci=F3n de ofertas
+- Acreditaci=F3n de experiencia seg=FAn Bases
+MODULO 4: ADMISI=D3N, EVALUACI=D3N, CALIFICACI=D3N Y OTORGAMIENTO DE LA B=
+UENAS PRO (2 HORAS)
+Contenido:
+- Admisibilidad
+- Evaluaci=F3n y
+- Calificaci=F3n de ofertas
+- Subsanaci=F3n de ofertas. (Resoluciones Tribunal OSCE)
+- Buena Pro
+MODULO 5: ACTOS DE SUSCRIPCI=D3N DE CONTRATO Y CONDICIONES ACTUALES (2 HO=
+RAS)
+Contenido:
+- Condiciones de suscripci=F3n de contrato
+- Plazos y subsanaci=F3n de documentaci=F3n para firma de contrato
+- Condiciones y requisitos de carta finas
+- Excepci=F3n de cartas fianzas
+MODULO 6: TEMAS PR=C1CTICOS DE EJECUCI=D3N CONTRACTUAL (2 HORAS)
+Contenido:
+- Ejecuci=F3n contractual
+- Contrataciones Adicionales
+- Contrataciones Complementarias
+- Penalidades
+- Conformidad y pago
+- Revisi=F3n de material OSCE
+MODULO 7: CONTROVERSIAS Y MEDIOS IMPUGNATORIOS ANTES DE LA EJECUCI=D3N
+CONTRACTUAL (2 HORAS)
+Contenido:
+- Soluci=F3n de Controversias durante el procedimiento de selecci=F3n
+- Apelaciones
+- Ante la entidad y el Tribunal del OSCE
+- Nulidad del contrato
+- Resoluciones del Tribunal
+- Revisiones de Resoluciones del Tribunal OSCE
+MODULO 8: CONTROVERSIAS EN EJECUCI=D3N CONTRACTUAL (2 HORAS)
+Contenido:
+- Conciliaci=F3n.
+- Arbitraje.
+- Junta de resoluci=F3n de disputas.
+- Revisi=F3n de un Laudo.=20
+
+EXPOSITORES: Abog. Boris Mitac Mestanza / Abog. Alberto Aponte L=E9ctor
+
+DURACI=D3N:
+16 HORAS ACAD=C9MICAS - (23, 26, 28, 30 de abril, 03, 05, 07 y 12 de mayo=
+).
+Inicia : 23 de abril de 2021.
+Finaliza: 12 de mayo de 2021.
+Horarios: de 7:00 pm a 9:00 pm
+
+=A0 INVERSI=D3N REBAJADA POR PANDEMIA:=A0
+=A0 Por 01 Participante: S/. 480.00 Soles c/u
+=A0 PROMOCI=D3N 3 X 2 =3D ASISTEN 3 Y SOLO PAGAN 2=A0
+=A0 Costo Promoci=F3n 3x2: S/. 960.00 Soles
+=A0 Nota: Todos los precios incluyen IGV
+Realizar los dep=F3sitos a las siguientes cuentas:
+viaBCP a nombre de T-CAPACITA SAC - RUC: 20520883216
+CUENTA CORRIENTE SOLES: 191-1778431-0-48
+C=D3DIGO INTERBANCARIO: 00219100177843104858
+INCLUYE: Accesos ZOOM, Material de Trabajo Online (PPT) y Certificado Dig=
+ital.
+SOLICITE ESTE CURSO IN HOUSE: Lo Dictamos en su Propia Oficina y a la med=
+ida de sus necesidades.
+INSCRIPCIONES:
+Contacto: Helen Cruces A.
+Email: capacitateperusac @ gmail .com
+Celulares WhatsApp: +51 994228799 / +51 994098450
+
+Le Pedimos Disculpas si este aviso no es de su inter=E9s, Si no desea rec=
+ibir nuestras promociones
+
+por favor responder con el asunto: NO AVISOS DE CONTRATACIONES
+
+--a359108b65b191825e5b12ab3feb7cf05fc6
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD><TITLE>programa de ventas</TITLE>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1">
+</HEAD>
+<BODY bgColor=3D#ffcccc>
+<TABLE height=3D800 cellSpacing=3D0 cellPadding=3D0 width=3D600 bgColor=3D=
+#ffffff=20
+border=3D0>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#ffcccc height=3D11 colSpan=3D2>&nbsp;</TD></TR>
+  <TR>
+    <TD bgColor=3D#6600cc height=3D11>&nbsp;</TD>
+    <TD bgColor=3D#ff9900 height=3D11>&nbsp;</TD></TR>
+  <TR>
+    <TD=20
+    style=3D"COLOR: rgb(255,0,102); PADDING-BOTTOM: 15px; PADDING-TOP: 0p=
+x; PADDING-LEFT: 20px; PADDING-RIGHT: 20px"=20
+    bgColor=3D#6600cc height=3D50 vAlign=3Dtop width=3D600 colSpan=3D2 al=
+ign=3Dleft>
+      <P=20
+      style=3D"FONT-SIZE: 30pt; FONT-FAMILY: Eras Bold ITC; FONT-WEIGHT: =
+normal; COLOR: rgb(0,0,128); PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDI=
+NG-LEFT: 0px; MARGIN: 0px; LETTER-SPACING: -1px; LINE-HEIGHT: 28px; PADDI=
+NG-RIGHT: 0px"><FONT=20
+      style=3D"FONT-SIZE: 26pt" color=3D#ff9900>t-capacita sac</FONT><FON=
+T size=3D6>=20
+      </FONT><FONT color=3D#ffffff size=3D5>virtual Zoom</FONT></P></TD><=
+/TR>
+  <TR>
+    <TD colSpan=3D2>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD width=3D26>&nbsp;=20
+            <P>&nbsp;</P></TD>
+          <TD>
+            <DL>
+              <DIV align=3Djustify>
+              <DT><FONT color=3D#ffffff>.</FONT> </DT></DIV>
+              <DIV align=3Djustify>
+              <DT><B><FONT color=3D#cc0000 size=3D2 face=3D"Trebuchet MS"=
+>DEL 23 DE=20
+              ABRIL AL 12 DE MAYO DE 2021 (16 HORAS DE APLICACIONES=20
+              PR=C1CTICAS)</FONT><FONT color=3D#000080 size=3D2=20
+              face=3D"Trebuchet MS">&nbsp; </FONT></B></DT></DIV>
+              <DIV align=3Djustify>
+              <DT></DT></DIV>
+              <DIV align=3Djustify>
+              <DT><FONT color=3D#000080 face=3D"Trebuchet MS"><B>PROGRAMA=
+ DE=20
+              ACTUALIZACI=D3N EN CONTRATACIONES CON EL ESTADO. </B></FONT=
+><FONT=20
+              size=3D2 face=3D"Trebuchet MS"><BR><BR><B><FONT color=3D#00=
+0080>POR QUE=20
+              ASISTIR</FONT></B><BR>En el Per=FA, el Estado maneja el may=
+or=20
+              presupuesto para compras p=FAblicas. A trav=E9s de sus Mini=
+sterios,=20
+              Organismos Aut=F3nomos, Gobiernos Regionales, Municipalidad=
+es, es el=20
+              mayor y principal comprador de bienes, servicios, ejecuci=F3=
+n de=20
+              obras y consultor=EDas de obras a nivel nacional. Ser un pr=
+oveedor=20
+              del Estado puede ser una gran oportunidad para los negocios=
+=20
+              legalmente constituidos.<BR><BR><FONT=20
+              color=3D#000080><B>DIRIGIDO</B></FONT><BR>- Medianas, peque=
+=F1as y=20
+              micro empresas que desean iniciar o especializarse a vender=
+le o=20
+              incrementar sus ventas con el Estado.<BR>- Proveedores,=20
+              participantes y funcionarios o servidores que desean actual=
+izar=20
+              conocimientos.<BR><BR><B><FONT color=3D#000080>TEM=C1TICA</=
+FONT><FONT=20
+              color=3D#cc0000><BR></FONT><FONT color=3D#000080>MODULO 1: =
+REQUISITOS=20
+              PARA CONTRATAR CON EL ESTADO (2=20
+              HORAS)</FONT></B><BR>Contenido:<BR>- Requisitos para contra=
+tar con=20
+              el Estado.<BR>- Obtenci=F3n del RNP<BR>- Contrataciones de =
+hasta 8=20
+              UITs<BR>- Impedimentos<BR>- Opiniones OSCE<BR><BR><B><FONT=20
+              color=3D#000080>MODULO 2: CONVOCATORIA Y ACCIONES DE PARTIC=
+IPACI=D3N=20
+              (2 HORAS)</FONT></B><BR>Contenido:<BR>- Convocatoria <BR>-=20
+              Registro de participantes <BR>- Consultas, observaciones y=20
+              (Pronunciamientos OSCE)<BR>- Absoluci=F3n de consultas y=20
+              observaciones <BR>- Integraci=F3n de bases<BR>- Elevaci=F3n=
+ de las=20
+              consultas y observaci=F3n<BR><BR><FONT color=3D#000080><B>M=
+ODULO 3:=20
+              PRESENTACI=D3N DE OFERTAS (2 HORAS)</B></FONT><BR>Contenido=
+:<BR>-=20
+              Desarrollo de cada uno de los procedimientos de selecci=F3n=
+.<BR>-=20
+              Presentaci=F3n de ofertas<BR>- Acreditaci=F3n de experienci=
+a seg=FAn=20
+              Bases<BR><BR><FONT color=3D#000080><B>MODULO 4: ADMISI=D3N,=
+=20
+              EVALUACI=D3N, CALIFICACI=D3N Y OTORGAMIENTO DE LA BUENAS PR=
+O (2=20
+              HORAS)</B></FONT><BR>Contenido:<BR>- Admisibilidad<BR>- Eva=
+luaci=F3n=20
+              y <BR>- Calificaci=F3n de ofertas<BR>- Subsanaci=F3n de ofe=
+rtas.=20
+              (Resoluciones Tribunal OSCE) <BR>- Buena Pro<BR><BR><FONT=20
+              color=3D#000080><B>MODULO 5: ACTOS DE SUSCRIPCI=D3N DE CONT=
+RATO Y=20
+              CONDICIONES ACTUALES (2 HORAS)</B></FONT><BR>Contenido:<BR>=
+-=20
+              Condiciones de suscripci=F3n de contrato<BR>- Plazos y subs=
+anaci=F3n=20
+              de documentaci=F3n para firma de contrato<BR>- Condiciones =
+y=20
+              requisitos de carta finas<BR>- Excepci=F3n de cartas=20
+              fianzas<BR><BR><FONT color=3D#000080><B>MODULO 6: TEMAS PR=C1=
+CTICOS DE=20
+              EJECUCI=D3N CONTRACTUAL (2 HORAS)</B></FONT><BR>Contenido:<=
+BR>-=20
+              Ejecuci=F3n contractual<BR>- Contrataciones Adicionales<BR>=
+-=20
+              Contrataciones Complementarias<BR>- Penalidades<BR>- Confor=
+midad y=20
+              pago <BR>- Revisi=F3n de material OSCE<BR><BR><FONT=20
+              color=3D#000080><B>MODULO 7: CONTROVERSIAS Y MEDIOS IMPUGNA=
+TORIOS=20
+              ANTES DE LA EJECUCI=D3N <BR>CONTRACTUAL (2=20
+              HORAS)</B></FONT><BR>Contenido:<BR>- Soluci=F3n de Controve=
+rsias=20
+              durante el procedimiento de selecci=F3n<BR>- Apelaciones<BR=
+>- Ante=20
+              la entidad y el Tribunal del OSCE<BR>- Nulidad del contrato=
+<BR>-=20
+              Resoluciones del Tribunal<BR>- Revisiones de Resoluciones d=
+el=20
+              Tribunal OSCE<BR><BR><FONT color=3D#000080><B>MODULO 8:=20
+              CONTROVERSIAS EN EJECUCI=D3N CONTRACTUAL (2=20
+              HORAS)</B></FONT><BR>Contenido:<BR>- Conciliaci=F3n. <BR>-=20
+              Arbitraje.<BR>- Junta de resoluci=F3n de disputas.<BR>- Rev=
+isi=F3n de=20
+              un Laudo.</FONT> </DT></DIV></DL>
+            <P align=3Djustify><FONT size=3D2 face=3D"Trebuchet MS"><B><F=
+ONT=20
+            color=3D#000080>EXPOSITORES:</FONT> </B>Abog. Boris Mitac Mes=
+tanza /=20
+            Abog. Alberto Aponte L=E9ctor</FONT></P>
+            <P align=3Djustify><FONT size=3D2 face=3D"Trebuchet MS"><FONT=
+=20
+            color=3D#000080><B>DURACI=D3N:</B></FONT><BR>16 HORAS ACAD=C9=
+MICAS - (23,=20
+            26, 28, 30 de abril, 03, 05, 07 y 12 de mayo).<BR>Inicia : 23=
+ de=20
+            abril de 2021.<BR>Finaliza: 12 de mayo de 2021.<BR>Horarios: =
+de 7:00=20
+            pm a 9:00 pm</FONT></P>
+            <P align=3Djustify><FONT size=3D2 face=3D"Trebuchet MS"><FONT=
+=20
+            color=3D#000080><SPAN=20
+            style=3D"FONT-WEIGHT: 700; BACKGROUND-COLOR: #ffcc00">&nbsp; =
+INVERSI=D3N=20
+            REBAJADA POR PANDEMIA:&nbsp; </SPAN></FONT><BR>&nbsp; Por 01=20
+            Participante: S/. 480.00 Soles c/u<BR><BR><FONT color=3D#0000=
+80><SPAN=20
+            style=3D"BACKGROUND-COLOR: #ffcc00"><B>&nbsp; PROMOCI=D3N 3 X=
+ 2 =3D=20
+            ASISTEN 3 Y SOLO PAGAN 2&nbsp; </B></SPAN></FONT><BR>&nbsp; C=
+osto=20
+            Promoci=F3n 3x2: S/. 960.00 Soles<BR><BR>&nbsp; Nota: Todos l=
+os=20
+            precios incluyen IGV<BR><BR>Realizar los dep=F3sitos a las si=
+guientes=20
+            cuentas:<BR>viaBCP a nombre de T-CAPACITA SAC - RUC:=20
+            20520883216<BR>CUENTA CORRIENTE SOLES: 191-1778431-0-48<BR>C=D3=
+DIGO=20
+            INTERBANCARIO: 00219100177843104858<BR><BR><FONT=20
+            color=3D#000080><B>INCLUYE:</B></FONT><FONT color=3D#cc0000>=20
+            </FONT>Accesos ZOOM, Material de Trabajo Online (PPT) y Certi=
+ficado=20
+            Digital.<BR><BR><FONT color=3D#000080><B>SOLICITE ESTE CURSO =
+IN=20
+            HOUSE:</B></FONT> Lo Dictamos en su Propia Oficina y a la med=
+ida de=20
+            sus necesidades.<BR><BR><FONT=20
+            color=3D#000080><B>INSCRIPCIONES:</B></FONT><BR>Contacto: Hel=
+en Cruces=20
+            A.<BR>Email: capacitateperusac @ gmail .com<BR>Celulares What=
+sApp:=20
+            +51 994228799 / +51 994098450</FONT></P></TD>
+          <TD width=3D25>&nbsp;</TD></TR></TBODY></TABLE>
+      <P align=3Dcenter>&nbsp;</P>
+      <P align=3Dcenter>&nbsp;</P>
+      <DIV align=3Dcenter><FONT size=3D1 face=3D"Trebuchet MS">Le Pedimos=
+ Disculpas si=20
+      este aviso no es de su inter=E9s, Si no desea recibir nuestras=20
+      promociones</FONT></DIV>
+      <DIV align=3Dcenter><FONT size=3D1 face=3D"Trebuchet MS">por favor =
+responder con=20
+      el asunto: NO AVISOS DE CONTRATACIONES</FONT></DIV>
+      <DIV align=3Dcenter>&nbsp;</DIV></TD></TR>
+  <TR>
+    <TD bgColor=3D#ff9900 height=3D11>&nbsp;</TD>
+    <TD bgColor=3D#6600cc height=3D11>&nbsp;</TD></TR></TBODY></TABLE></B=
+ODY></HTML>
+
+--a359108b65b191825e5b12ab3feb7cf05fc6--

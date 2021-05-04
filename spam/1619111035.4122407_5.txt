@@ -1,0 +1,65 @@
+Return-Path: <canvas.prints.partner-bruce=untroubled.org@tspeed11.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3335102 invoked from network); 22 Apr 2021 15:56:49 -0000
+Received: (qmail 86316 invoked by uid 222); 22 Apr 2021 15:56:49 -0000
+Return-Path: <canvas.prints.partner-bruce=untroubled.org@tspeed11.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 86313 invoked from network); 22 Apr 2021 15:56:49 -0000
+Received: from mail.tspeed11.cloud ([208.187.244.137])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Apr 2021 15:56:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tspeed11.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.partner@tspeed11.cloud;
+ bh=apgQ2nu1ZEGPcKFOijQXcnX2Zo0=;
+ b=jMuXYiwc2/AW3H/FABnt3JIAScgCAxLBxjgCFzc2E77lKzmAgqKK8sb+gFZebR+TIBimj2KIvzqf
+   wGoR87S/Ne77NGlQSics92/hwP6Lz1Y3RuF/W36WsZTSa3MqOlCCGmbwNgLDsSmPv8pgg93TRSw7
+   ndig2DC+S0fEn/u3q/0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tspeed11.cloud;
+ b=LPr4fa9qrW6Zm30n7fvMyi2W1bwprRTY/eqNU4A+carE0CMfHdMMbQA6Np1sy/hcYywanppxUgVI
+   QI8cjiCJy+8t8dGBRx7KMjO2RFK4MFXgBoRI4sSG+K/oNJBuFPZ3Sp3sMhnaTqR4+hEY5xv6yGtG
+   7FMgwiekODM5ygBPQuo=;
+Received: by mail.tspeed11.cloud id hg6ebi0001g1 for <bruce@untroubled.org>; Thu, 22 Apr 2021 11:46:21 -0400 (envelope-from <canvas.prints.partner-bruce=untroubled.org@tspeed11.cloud>)
+Date: Thu, 22 Apr 2021 11:46:21 -0400
+From: "Canvas Prints Partner" <canvas.prints.partner@tspeed11.cloud>
+To:   <bruce@untroubled.org>
+Subject: FLASH SALE! $14.99 for 16x20 Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_424_879653955.1619106367042"
+List-Unsubscribe: <http://www.tspeed11.cloud/6dd6Q2m3j95w8F9m11gZ11vr4b4ei21fFv4GIf4rxvs4FhIHEsvZ8cRiomode7JH1jC0v5YT@cY/legendary-replication>
+Message-ID: <0.0.0.2F.1D7378EA44039AC.79681@mail.tspeed11.cloud>
+Content-Length: 2966
+
+------=_Part_424_879653955.1619106367042
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>replicates</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:tahoma,geneva,sans-serif; "><a href="http://www.tspeed11.cloud/equipped-reactionary/bac6s23J9O5OA86n12z16016D4b4eu21RFv4GIf4rxvs4FhIHEsvZ8QRiomode7J1nZ0QZ5s3cjY"><span style="font-size:18px; ">Lowest price on Mothers Day Canvas Prints </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.tspeed11.cloud/equipped-reactionary/bac6s23J9O5OA86n12z16016D4b4eu21RFv4GIf4rxvs4FhIHEsvZ8QRiomode7J1nZ0QZ5s3cjY"><img alt="canvas mom" src="http://www.tspeed11.cloud/8f96uD23I95o7zma13J160W19S4b4eR21QFv4GIf4rxvs4FhIHEsvZ8QRiomode6PA1M0G5IL3cY/Ortega-purring" style="width: 616px; height: 759px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:11px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.tspeed11.cloud/e036iq239I5Yg8C613y160J17G4b4e_21QFv4GIf4rxvs4FhIHEsvZ8QRiomode5W1n0H6k@cYNy/vacuumed-spading"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Quit&nbsp; <a href="http://www.tspeed11.cloud/6fb4i2395C89DO13S1601S8O4b4eG21qFv4GIf4rxvs4FhIHEsvZ8ARiomode5S10Bh6Hkj@cY/adjusting-Tucker"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span> </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font style="Brady"></font><font lang="craftsman"></font><span title="goldenness"><span dir="precedence"></span></span><style></style><style color="stardom"></style><span id="spatter"></span>
+  </center>   
+ <img src="http://www.tspeed11.cloud/equipped-reactionary/c6C6a2g3L95A85yW13M1601_aR4b4eF21nFv4GIf4rxvs4FhIHEsvZ8CRiomode5fMt105cTUcY" alt=""/></body>
+</html>
+
+------=_Part_424_879653955.1619106367042--
+

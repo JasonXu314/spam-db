@@ -1,0 +1,108 @@
+Return-Path: <splash_wine-bruce=untroubled.org@upcred3.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1229608 invoked from network); 5 Apr 2021 20:18:09 -0000
+Received: (qmail 178548 invoked by uid 222); 5 Apr 2021 20:18:09 -0000
+Return-Path: <splash_wine-bruce=untroubled.org@upcred3.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 178545 invoked from network); 5 Apr 2021 20:18:09 -0000
+Received: from mail.upcred3.com ([70.102.103.69])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2021 20:18:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=upcred3.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=splash_wine@upcred3.com;
+ bh=egcEeV0f1DYnu0VoVr3IplJ2dtk=;
+ b=0Dh3kDrO6CR9yVO8/FIwwy6/EySFnsno8hBqHp8MRMFl/INSHpKXBoCqMpQFtnn/hEQy5r1w0qxV
+   w4jO7nGVUJow4mjxK1G1LPav4zMsZFSaGskryvJREE4hDDEQpVkGaEYVlEhd33IybEnbTba/vl/j
+   wZfwlWqVymR8mrSTEWM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=upcred3.com;
+ b=daHZh6CIEfxSbZ/pmd9HccfkI8B7ZCxWqXKJ/fQenIN8a/r6g+FQO+j81WJQTpksVtI0YwqNIrO2
+   WWLARYAnMdNcY7ShQM1x74IqUZmwWfjzBazIjwp28caStOolwnLA/4D/oJipjZSkdmWGzwTkfBaX
+   9ydU+p9zwm3M2NRIhRw=;
+Received: by mail.upcred3.com id hddo800001gg for <bruce@untroubled.org>; Mon, 5 Apr 2021 16:07:43 -0400 (envelope-from <splash_wine-bruce=untroubled.org@upcred3.com>)
+Date: Mon, 5 Apr 2021 16:07:43 -0400
+From: "Splash Wine" <splash_wine@upcred3.com>
+To:   <bruce@untroubled.org>
+Subject: 15 Wines You Must Try Under $7!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_931_1753497211.1617653253908"
+List-Unsubscribe: <http://www.upcred3.com/biplane-competency/c6D5Yt2395Y8C9T13nD11LFxi4a57C21wFv4GIf4rxvs4FhIHEsvZ8pRwnKKKm7z10PFNg5njcYl>
+Message-ID: <0.0.0.67.1D72A5756A9D124.6016A4@mail.upcred3.com>
+Content-Length: 4732
+
+------=_Part_931_1753497211.1617653253908
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>tolerably</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.upcred3.com/3d15i239I5N86qu12j15af1L4a57X21EFv4GIf4rxvs4FhIHEsvZ8kRwnKKKm5W10lH6wycYXJ/glaciers-tease">Splash into the best Wine ever</a>
+  </div>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "><a href=3D"=
+http://www.upcred3.com/3d15i239I5N86qu12j15af1L4a57X21EFv4GIf4rxvs4FhIHEsvZ8kRwnKKKm5W10lH6wycYXJ/glaciers-tease" style=3D"text-decoration: none; "><img alt=3D"bottle" src=3D"=
+http://www.upcred3.com/9175U239t5yK7aP12z15af4k4a57v21XFv4GIf4rxvs4FhIHEsvZ8oRwnKKKm7tDVIv106gjTMcY/prescribes-glaring" style=3D"width: 550px; max-width: 600px; background-color: rgb(255, 25=
+5, 255); font-family: sans-serif; font-size: 15px; line-height: 15px; color=
+: rgb(85, 85, 85); margin: auto; display: block; border-width: 0px; border-=
+style: solid; " /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not w=
+ish to receive future messages click here to <span class=3D"unstyle-auto-de=
+tected-links"><a href=3D"http://www.upcred3.com/valley-intimations/15c5r239V5Cu86C12r15af2S4a57o21jFv4GIf4rxvs4FhIHEsvZ8pRwnKKKm7u1O0pBw5PPcYJ" style=3D"text-decoration: underline !i=
+mportant; border-bottom-width: 0px !important; cursor: default !important; =
+color: rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-w=
+eight: inherit !important; line-height: 14px; ">unsubscribe</a></span><br /=
+> <br /> <span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.upcred3.com/3d15i239I5N86qu12j15af1L4a57X21EFv4GIf4rxvs4FhIHEsvZ8kRwnKKKm5W10lH6wycYXJ/glaciers-tease"=
+ style=3D"text-decoration: underline !important; border-bottom-width: 0px !=
+important; cursor: default !important; color: rgb(153, 153, 153); font-size=
+: 10px; font-family: sans-serif; font-weight: inherit !important; line-heig=
+ht: 14px; text-align: center; ">Splash Wines</a>&nbsp; |&nbsp; 1191 E Iron =
+Eagle Dr., Suite #101 - Eagle, ID 83616</span><br /> <br /> <span style=3D"=
+color:#A9A9A9; ">Remove</span><a href=3D"http://www.upcred3.com/preinitialize-collects/c066S2mM395S8X9Y17jlv1u5ajf3Wo4a57g21VFv4GIf4rxvs4FhIHEsvZ8SRwnKKKm5X1H0i5AzzcY"><span style=3D=
+"color:#A9A9A9; "> Here</span></a><br /> 6547 N Academy Boulevard #1170<br =
+/> 80918 Colorado Springs CO<br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> <font></font><font title="Heinrich"><span style="steeled"></font><font style="Winograd"><style><span><style><font title="measured"></style></span></font></style><font></font><span id="launching"><span></span></span></span></font> =20
+ <img src=3D"http://www.upcred3.com/89f6t2MM395A8j5l17U15vVllaf5Tv4a57Q21qFv4GIf4rxvs4FhIHEsvZ8XRwnKKKm5EYY105CXcYP/carnage-helium" alt=3D""/></body>
+</html>
+
+------=_Part_931_1753497211.1617653253908--
+

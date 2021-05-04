@@ -1,0 +1,135 @@
+Return-Path: <selectquote.insurance-bruce=untroubled.org@tox21.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2183690 invoked from network); 11 Apr 2021 15:01:41 -0000
+Received: (qmail 11338 invoked by uid 222); 11 Apr 2021 15:01:40 -0000
+Return-Path: <selectquote.insurance-bruce=untroubled.org@tox21.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 11335 invoked from network); 11 Apr 2021 15:01:40 -0000
+Received: from mail.tox21.us ([69.94.138.127])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Apr 2021 15:01:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox21.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote.insurance@tox21.us;
+ bh=Y6mmxW6Ptd4ZPKpj1Z48d48o8eA=;
+ b=CSXf9PqurQl/Pw0OcyyQwehet7B19j5pjcGiibw/10dlm1YryR+bs+Hrk3L2hhH7eY4YyMYSjXG+
+   m0QijrCnPzn5xOW455qbHwEhqvUf4SraTjnTKKUBUGznfVaTad4SS8jywPMhiNj7ZFsYpDvekr45
+   1/bl8L+DDnkWhKosCeo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox21.us;
+ b=nP1GlHLwcpebNwvw9y1BJpQNpfW9UUOyrks2OlSlNqWaJjkYwMoicL62yopkpRutRFzR6aOXe2jA
+   tlVCnuJCyNn1FyBYGivt7HIICucBf26CT5DbHSbo3mDILePdCSIStRjNqtMp94PT5MSIaAh9y9K5
+   IQv4k7s2FTG35krAVYA=;
+Received: by mail.tox21.us id hec7ks0001gd for <bruce@untroubled.org>; Sun, 11 Apr 2021 10:52:17 -0400 (envelope-from <selectquote.insurance-bruce=untroubled.org@tox21.us>)
+Date: Sun, 11 Apr 2021 10:52:17 -0400
+From: "SelectQuote Insurance" <selectquote.insurance@tox21.us>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_913_1265669522.1618152728736"
+List-Unsubscribe: <http://www.tox21.us/3b34j2395GR8L912QW1JJ1B4aa3S21zFv4GIf4rxvs4FhIHEsvZ11tRzommReox95Aq10g6P@cLNY/conduit-territorial>
+Message-ID: <0.0.0.66.1D72EE244A4E236.80C4E0@mail.tox21.us>
+Content-Length: 6768
+
+------=_Part_913_1265669522.1618152728736
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>gardener</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.tox21.us/a255i23n95L86XR12S15c8eo4aa3L21bFv4GIf4rxvs4FhIHEsvZ11BRzommReox95vF1B05YWycY/seducers-ejaculations">Get covered in just a few clicks </a><br /> &nb=
+sp;=20
+      <center>
+       <a href=3D"http://www.tox21.us/a255i23n95L86XR12S15c8eo4aa3L21bFv4GIf4rxvs4FhIHEsvZ11BRzommReox95vF1B05YWycY/seducers-ejaculations"><img alt=3D"happyr" src=3D"http://www.tox21.us/bc96aqM2395k7Zna13p15c9L2S4aa3X21yFv4GIf4rxvs4FhIHEsvZ11nRzommReox96i10ihz5QplcY/conduit-territorial" style=
+=3D"border-width: 0px; border-style: solid; width: 74%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">Copyright &copy; SelectQuote | A=
+ll Rights Reserved 2020</span></span></p>=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">SelectQuote Insurance Services o=
+ffers insurance products and services through its licensed insurance agency=
+, SelectQuote Insurance Services, LLC. SelectQuote Insurance Services is no=
+t an insurance company. We represent trusted insurance companies, and recei=
+ve commissions ? and possibly other performance-based compensation ? for ou=
+r services. Products and services are not available in all states.</span></=
+span></p>=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">*40 year-old male in excellent h=
+ealth, $500,000, 10-year policy for under a $1 a day. Example policy is for=
+ $23 a month. Policy is a United of Omaha : Term Life Answers 10 is a non-p=
+articipating term life insurance to age 95, policy form 6179L-0696 (in TX, =
+5957L-0495), underwritten by United of Omaha Life Insurance Company, Omaha,=
+ NE 68175. The premium is guaranteed to stay the same for the 10 year perio=
+d. Minimum issue amount is $100,000. Premiums include a $62.50 annual polic=
+y fee. Forms and plan provisions may vary by state. Plan is available in al=
+l states except New York. Suicide and other limits may apply. The most favo=
+rable rate classes (and lowest rates) are generally intended for those who =
+can meet strict health/lifestyle criteria. All rates subject to underwritin=
+g qualifications. Rates effective as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">* Best' s Credit Ratings? are un=
+der continuous review and subject to change and/or affirmation. For the lat=
+est Best' s Credit Ratings? and Best' s Credit Reports (which include Best'=
+ s Credit Ratings? ), visit the A.M. Best website at ambest.com. See Guide =
+to Best' s Credit Ratings? for explanation of use and charges.? ? Best' s C=
+redit Ratings? reproduced herein appear under license from A.M. Best and do=
+ not constitute, either expressly or impliedly, an endorsement of SelectQuo=
+te or its recommendations, formulas, criteria or comparisons to any other r=
+atings, rating scales or rating organizations which are published or refere=
+nced herein. A.M. Best is not responsible for transcription errors made in =
+presenting Best' s Credit Ratings? . Best' s Credit Ratings? are proprietar=
+y and may not be reproduced or distributed without the express written perm=
+ission of A.M. Best Company.? A Best' s Financial Strength Rating opinion a=
+ddresses the relative ability of an insurer to meet its ongoing insurance o=
+bligations. It is not a warranty of a company' s financial strength and abi=
+lity to meet its obligations to policyholders. View our Important Notice: B=
+est' s Credit Ratings for a disclaimer notice and complete details at <a hr=
+ef=3D"http://www.tox21.us/51b5z239J5Q86pQ12G15c8fO4aa3_21SFv4GIf4rxvs4FhIHEsvZ11QRzommReox96LV1QU05sqTcY/seducers-ejaculations">http://www.tox21.us/51b5z239J5Q86pQ12G15c8fO4aa3_21SFv4GIf4rxvs4FhIHEsvZ11QRzommReox96LV1QU05sqTcY/seducers-ejaculations</a></span></span></p>=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">SelectQuote Insurance Services C=
+orporate Office: 6800 W. 115th Street, Suite 2511, Overland Park, KS 66211<=
+/span></span></p>=20
+       <p><span style=3D"font-size:10px; "><span style=3D"font-family:lucid=
+a sans unicode,lucida grande,sans-serif; ">This email was sent to you on be=
+half of SelectQuote by a third-party marketing company. You are receiving e=
+mail from this third-party marketing company because you have expressed you=
+r interest in receiving commercial email through a site or sites associated=
+ with them.</span></span></p>=20
+       <p><span style=3D"font-size:9px; "><span style=3D"font-family:georgi=
+a,serif; ">This email contains information regarding products and services =
+offered by SelectQuote. If you do not wish to receive email messages from S=
+electQuote that are advertising or promotional in nature, please<a href=3D"=
+http://www.tox21.us/shedding-Winthrop/be85j239Y5sK8z617RIT1F5c9tG0S4aa3R21mFv4GIf4rxvs4FhIHEsvZ11MRzommReox95M10Iw5DM3cY"> unsubscribe here.</a></span></span></p>=20
+      </div> <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; =
+"> &nbsp; leave <a href=3D"http://www.tox21.us/2ff4W2395Qj89O17D1vimV5c91qA4aa3q21XFv4GIf4rxvs4FhIHEsvZ11bRzommReox96AJ1Us06n2c@YB/Raleigh-sidings">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <font><font><font></font><font></font></font></font><style class="personifying"></style><font lang="broadside"></font><font id="amanuensis"></font><big><font size="Etruscan"></big></font> =20
+ <img src=3D"http://www.tox21.us/doctrinaire-hopeful/9cc5X2S395U85CU17H15gTHcK9p3v4aa3z21GFv4GIf4rxvs4FhIHEsvZ11LRzommReox97HF1ySI06CyqcjY" alt=3D""/></body>
+</html>
+
+------=_Part_913_1265669522.1618152728736--
+

@@ -1,0 +1,94 @@
+Return-Path: <31229-44520-39280-8157-bruce=untroubled.org@mail.applereward.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1371661 invoked from network); 8 Apr 2021 13:35:40 -0000
+Received: (qmail 228149 invoked by uid 222); 8 Apr 2021 13:35:40 -0000
+Return-Path: <31229-44520-39280-8157-bruce=untroubled.org@mail.applereward.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 228146 invoked from network); 8 Apr 2021 13:35:40 -0000
+Received: from ink.applereward.us ([134.73.142.242])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2021 13:35:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=applereward.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=AppleFeedback@applereward.us;
+ bh=kOYvoI7RBoBthe3rM/1YhZZ0Pz8=;
+ b=Oz9t5RXCRQVUEXMIdPvOLKq4gop81rI0pl8y4lr5GiHlehM7lzujqt7dglxymmwUbgmoq+7i1jzq
+   Ti9Y6zyB028cfG7Ohv5PjD8/KpGBohpw6v2QCu59sTBGwL28hPu/0g1KU1d0cqg+EZsYjQ7SI34n
+   OiMcmsSl/aP2/e6lrYs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=applereward.us;
+ b=A1njn1HsHxcEuv5pA0aayhFgX1h1zOT/4rZfU5l+9LI9JcdHKr34CpO6w1KOD4/YYJzhoVt8nf+p
+   AavUytoSPWyxW+YW4QX6gLRig2fwEUWUvoRJwsi4kcD6x+r7692+OL3qhMirjyXbm39LJUsJ/FQb
+   hf2LFgaP1aQNujacq54=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5294ecc4d151d2600be784b70a03228b_ade8_9970"
+Date: Thu, 8 Apr 2021 06:35:39 -0700
+From: "Exclusive Reward" <AppleFeedback@applereward.us>
+Reply-To: "Exclusive Reward" <ExclusiveReward@applereward.us>
+Subject: Apple reward - Open immediately!
+To: <bruce@untroubled.org>
+Message-ID: <hfxatfuzu0y32zhe-olpjpnksydvviqsp-ade8-9970@applereward.us>
+Content-Length: 5440
+
+--5294ecc4d151d2600be784b70a03228b_ade8_9970
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Apple reward - Open immediately!
+
+http://applereward.us/U-iF14Pc2tPhXiUhwCIfzPjOOzXOR6dTgv1D4Uk-UbSH4ikv
+
+http://applereward.us/nmrI15IOqXGMGcq3DcUfmpCgf6vx7yQkW-A8pIElD3YS0O02
+
+ains to any form of competitive physical activity or game that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators. Sports can, through casual or organized participation, improve one's physical health. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a "tie" or "draw", in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.
+
+Sport is generally recognised as system of activities based in physical athleticism or physical dexterity, with major competitions such as the Olympic Games admitting only sports meeting this definition. Other organisations, such as the Council of Europe, preclude activities without a physical element from classification as sports. However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee (through ARISF) recognises both chess and bridge as bona fide sports, and SportAccord, the international sports federation association, recognises five non-physical sports: bridge, chess, draughts (checkers), Go and xiangqi, and limits the number of mind games which can be admitted as spo
+
+--5294ecc4d151d2600be784b70a03228b_ade8_9970
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://applereward.us/TsQ7azxZAk_kQ_5ihyfz2QywAwQEFT82-k25IScBtQt5cnnS"><img src="http://applereward.us/adc993670ebeb77445.jpg" /><img height="1" src="http://www.applereward.us/bmvgDDgH4B8lRZLd5tvO31oIuwFR1clqDFULPezkS-sdV-rZ" width="1" /></a>
+<center>&nbsp;
+<div><span style="font-size:25px;"><a href="http://applereward.us/U-iF14Pc2tPhXiUhwCIfzPjOOzXOR6dTgv1D4Uk-UbSH4ikv" style="color:#37B89A;" target="_blank"><b>Apple reward - Open immediately!</b></a></span></div>
+<br />
+<a href="http://applereward.us/U-iF14Pc2tPhXiUhwCIfzPjOOzXOR6dTgv1D4Uk-UbSH4ikv" target="_blank"><img src="http://applereward.us/aeee62814827888fb8.jpg" style="border:3px solid #37B89A;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:5px;">ains to any form of competitive physical activity or game that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators. Sports can, through casual or organized participation, improve one&#39;s physical health. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a &quot;tie&quot; or &quot;draw&quot;, in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Sport is generally recognised as system of activities based in physical athleticism or physical dexterity, with major competitions such as the Olympic Games admitting only sports meeting this definition. Other organisations, such as the Council of Europe, preclude activities without a physical element from classification as sports. However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee (through ARISF) recognises both chess and bridge as bona fide sports, and SportAccord, the international sports federation association, recognises five non-physical sports: bridge, chess, draughts (checkers), Go and xiangqi, and limits the number of mind games which can be admitted as spo</span><br />
+<a href="http://applereward.us/WyHNhtEPCxwfIPAivQ73wLcRh_8FIYXRXbpgj4waYKFBOzjc" target="_blank"><img src="http://applereward.us/9132197240524b24eb.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://applereward.us/nmrI15IOqXGMGcq3DcUfmpCgf6vx7yQkW-A8pIElD3YS0O02" target="_blank"><img src="http://applereward.us/346373cdfeb0f7a9e4.jpg" /><br />
+<img src="http://applereward.us/0354a30ead5e84b30e.jpg" /></a></center>
+</body>
+</html>
+
+--5294ecc4d151d2600be784b70a03228b_ade8_9970--

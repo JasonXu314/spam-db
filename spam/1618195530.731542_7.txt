@@ -1,0 +1,75 @@
+Return-Path: <renewal.by.andersen.window.replacement.offer-bruce=untroubled.org@tox25.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2189606 invoked from network); 11 Apr 2021 16:01:25 -0000
+Received: (qmail 11675 invoked by uid 222); 11 Apr 2021 16:01:24 -0000
+Return-Path: <renewal.by.andersen.window.replacement.offer-bruce=untroubled.org@tox25.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 11672 invoked from network); 11 Apr 2021 16:01:24 -0000
+Received: from mail.tox25.us ([70.102.102.80])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Apr 2021 16:01:19 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tox25.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=renewal.by.andersen.window.replacement.offer@tox25.us;
+ bh=+kmxd/V7Sc6d08nw6PShn4U48uw=;
+ b=Ywwj6LJD/W4XnPoXy7A74e2DIMG4eKY38hpXO1nK4eu5F7ayDT6B1mVKtNnrNgEQqGWLeGnkkXqB
+   4eU36Y2kOuxH+rIFU9FPYq7/0DdPYUoKLllGVBToBNYczHz+IyYLNPOT6ZeWR7RPXFZ1wyfIFPfN
+   GXu6Ear+ZvhAfu/xy74=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tox25.us;
+ b=MMvSamwP8/F49aJSFUyca9lRLARpu7p6WyIPT9uTD+UpWWfC5yNyxC46MHtQQVCxez0cwiVn4L/m
+   PpHHJv+gYjcWNQjjtPYWBoiRXOgqcHIOAjCv5pIZzXCwbSgvNUz0OJ9A0mOgpc0fPfzDQOCVZgqZ
+   faA/zdhn4aMaNsv+Bdg=;
+Received: by mail.tox25.us id heceku0001g6 for <bruce@untroubled.org>; Sun, 11 Apr 2021 11:55:36 -0400 (envelope-from <renewal.by.andersen.window.replacement.offer-bruce=untroubled.org@tox25.us>)
+Date: Sun, 11 Apr 2021 11:55:36 -0400
+From: "Renewal By Andersen Window Replacement Offer" <renewal.by.andersen.window.replacement.offer@tox25.us>
+To:   <bruce@untroubled.org>
+Subject: Holiday Plans? Window Makeover
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_589_1166600701.1618156523483"
+List-Unsubscribe: <http://www.tox25.us/drowsy-strengthens/8645r2G395a8k9i13K1jv1CIY4aa5p21DFv4GIf4rxvs4FhIHEsvZ8FRgommSm6o1ZYX06Yyq0cY>
+Message-ID: <0.0.0.41.1D72EEB1CABAEB4.2ED3B3@mail.tox25.us>
+Content-Length: 3452
+
+------=_Part_589_1166600701.1618156523483
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>cleverness</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.tox25.us/sleeps-altar/15c5j23M95qh_8612r15c99j4aa5G21DFv4GIf4rxvs4FhIHEsvZ8oRgommSm7rn10Pqq6gqJMcY"><img alt="Renewal By Andersen Windows" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 685px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <b>To be removed from receiving future emails, <a href="http://www.tox25.us/Ticonderoga-audiology/a624q2395hz8t613y15ck9aj4aa5D21pFv4GIf4rxvs4FhIHEsvZ8pRgommSm5zQC105cUMcY">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.tox25.us/d6d5P23z95f8VZ617z1UT5iCc9xbv4aa5B21FFv4GIf4rxvs4FhIHEsvZ8pRgommSm6h1NG0I5wkOcY/Ticonderoga-audiology">here.</a></b></span></span></p> <span style="font-size:9px; "><span style="font-family:arial,helvetica,sans-serif; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> Exit<a href="http://www.tox25.us/11D4Y2395r8s9w12D15c9cl4aa5z21uFv4GIf4rxvs4FhIHEsvZ8kRgommSm6DOx1Y05oMcYk/sophomores-terms"> Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <font dir="fare"><span></span></font><font dir="Leger"></font><small><span id="Athenians"></small></span><span lang="supply"></span><font style="interleaved"></font><big><font></font></big><big></big><font class="Delaney"></font>  
+ <img src="http://www.tox25.us/volcanic-contraster/8fa5Q239M5Kh8_513aG15c9dn4aa5Q21NFv4GIf4rxvs4FhIHEsvZ8URgommSm5Y10PT5GB0cY" alt=""/></body>
+</html>
+
+------=_Part_589_1166600701.1618156523483--
+

@@ -1,0 +1,75 @@
+Return-Path: <affiliate.renewal.by.andersen-bruce=untroubled.org@scoreznow.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1040311 invoked from network); 1 Apr 2021 20:29:33 -0000
+Received: (qmail 128451 invoked by uid 222); 1 Apr 2021 20:29:32 -0000
+Return-Path: <affiliate.renewal.by.andersen-bruce=untroubled.org@scoreznow.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 128448 invoked from network); 1 Apr 2021 20:29:32 -0000
+Received: from mail.scoreznow.xyz ([69.94.155.46])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2021 20:29:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=scoreznow.xyz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=affiliate.renewal.by.andersen@scoreznow.xyz;
+ bh=7wudjB177yqdWYjY/dTcsagdyBk=;
+ b=oySgxTID/OaIEpxqoLrVdLDE0tvJrtQ2HZfKDeFSboQVOXf5l5HbGKM78f9OXVN9+X08bZJMb4eE
+   Maj0XbPyb3d+sDqHFcnM0GB84qeUoCa9yvTnQe0w0fedlyQYydURLBQ670PHSqZssP/LYTfiL0DN
+   upPJoaKFIHFjW6qvzWs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=scoreznow.xyz;
+ b=LeWAVMprrD0NM/c+yg8GV2wLW2Gwg8I3YTMIuWsudZlRN8yir5AH142QlBRIbTANeoMk9gHqJqqD
+   7ORPGg+8IAzBLJfMhkHCI4wvd+bcfJG4BODcg0KQ+uR0pe4U1C6S+cMz+UxTtujrhjejVrTamNOH
+   dzdXkVo1k5gvozx0vdQ=;
+Received: by mail.scoreznow.xyz id hcomia0001gq for <bruce@untroubled.org>; Thu, 1 Apr 2021 16:19:54 -0400 (envelope-from <affiliate.renewal.by.andersen-bruce=untroubled.org@scoreznow.xyz>)
+Date: Thu, 1 Apr 2021 16:19:54 -0400
+From: "Affiliate Renewal By Andersen" <affiliate.renewal.by.andersen@scoreznow.xyz>
+To:   <bruce@untroubled.org>
+Subject: Save on windows this Save on windows this [insert] season &ndash; Consultation From Renewal by Andersen season &ndash; Consultation From Renewal by Andersen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_112_388262831.1617308390651"
+List-Unsubscribe: <http://www.scoreznow.xyz/slammed-compensatory/8dc4h2395Y89tx11O11TvR4a18W21NFv4GIf4rxvs4FhIHEsvZ8rRxnKKon6QS1R0I5gTJcY>
+Message-ID: <0.0.0.C.1D7273460854BA4.4032B3@mail.scoreznow.xyz>
+Content-Length: 3444
+
+------=_Part_112_388262831.1617308390651
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>adumbrated</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#f0f2ea" border="0" cellpadding="0" cellspacing="0" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width="100%"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+       <tbody> 
+        <tr> 
+         <td class="center-on-narrow" style="font-size: 20px; padding: 3px 0px; text-align: center; ">&nbsp; </td> 
+        </tr> 
+        <tr> 
+         <td width="600"><a href="http://www.scoreznow.xyz/slammed-compensatory/e225W2u395i8zq613q1Y59a5D4a18n21cFv4GIf4rxvs4FhIHEsvZ8XRxnKKon7z1oAGD06s@zcYz"><img alt="Renewal By Andersen Window" src="http://d3j8ve1d4jn5g7.cloudfront.net/18575/WFH 40p 2.jpg" style="display: block; border: 0px none; margin: 0px; width: 659px; " title="Renewal By Andersen Window Replacement" /></a> 
+          <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-align: center; padding-top: 20px; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td width="600">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="center"><span style="font-family:arial,helvetica,sans-serif; ">This is an advertisement. This message has been sent to you through an affiliate of Renewal by Andersen.<br /> <br /> <span style="font-size:11px; "><b>To be removed from receiving future emails, <a href="http://www.scoreznow.xyz/pretense-Bolshevist/4Ke6Byk2395PS8C612w159a6S4a18X21MFv4GIf4rxvs4FhIHEsvZ8aRxnKKon7eAt1I0Q6vTc1WY">Unsubscribe here.</a></b></span></span> <p>&nbsp; </p> <p style="font-size: 12px; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:11px; "><b>If you have questions or concerns, contact our customer support team, <a href="http://www.scoreznow.xyz/Ronald-distasteful/c9c4d2395zpt8617fv15I9VJTa7o4a18u21CFv4GIf4rxvs4FhIHEsvZ8ORxnKKon6t1ksu05SyckY">here.</a></b></span></span></p> <span style="font-family:arial,helvetica,sans-serif; "> <span style="font-size:11px; "> 5123 W 98th St #2171 Minneapolis MN 55437<br /> <br /> <br /> <br /> end<a href="http://www.scoreznow.xyz/Cyrillic-mangers/1f24b2395hk89o13B159aD8H4a18D21FFv4GIf4rxvs4FhIHEsvZ8ARxnKKon6V10JUX5hPLcY"> Here</a><br /> 6547 N Academy Boulevard #1170</span><br /> 80918 Colorado Springs CO</span><br /> &nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> <font><font title="censures"></font><small></font></small><style size="indicators"></style><span face="functionalities"></span><font></font><style dir="Carlyle"></style><span></span>  
+ <img src="http://www.scoreznow.xyz/6a16l2R3D95j85Py17hAiy15G9Ka9u4a18x21AFv4GIf4rxvs4FhIHEsvZ8jRxnKKon6FVX1T05u0cOY/pretense-Bolshevist" alt=""/></body>
+</html>
+
+------=_Part_112_388262831.1617308390651--
+

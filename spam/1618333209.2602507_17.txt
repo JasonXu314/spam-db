@@ -1,0 +1,48 @@
+Return-Path: <lea_edem@naver.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2322414 invoked from network); 13 Apr 2021 09:09:21 -0000
+Received: (qmail 42838 invoked by uid 222); 13 Apr 2021 09:09:20 -0000
+Return-Path: <lea_edem@naver.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 42835 invoked from network); 13 Apr 2021 09:09:20 -0000
+Received: from vps-zap65083-7 (vps-zap720240-1.zap-srv.com [45.137.116.53])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Apr 2021 09:09:20 -0000
+Received: from User ([40.127.233.31]) by vps-zap65083-7 with Microsoft SMTPSVC(10.0.17763.1);
+	 Tue, 13 Apr 2021 02:08:36 -0700
+Reply-To: <leaedem12@gmail.com>
+From: "Mrs.Lea  Edem"<lea_edem@naver.com>
+Subject: Mrs.Lea  Edem
+Date: Tue, 13 Apr 2021 09:08:36 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Bcc:
+Return-Path: lea_edem@naver.com
+Message-ID: <VPS-ZAP65083-7Gvs0Q000009b3@vps-zap65083-7>
+X-OriginalArrivalTime: 13 Apr 2021 09:08:36.0381 (UTC) FILETIME=[960924D0:01D73044]
+Content-Length: 898
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+I'm Mrs.Lea Edem, I work with one of the leading banks here in Lome, the capital, I sent mail earlier without an answer. I have an important business that I want to discuss with you. I want to move a substantial amount of money that belonged to our client who died since 2010 leaving nobody to claim his deposit. As his personal account manager, our bank mandated me to look for his relatives to claim the money but I have not been able to locate his relatives. Now, I want us to make a deal and transfer this money within days and share at an equal ratio at the end.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+I will give you full details when i hear from you.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Thanks</DIV>
+<DIV>
+Mrs.Lea&nbsp; Edem</DIV>
+</FONT>
+</BODY></HTML>

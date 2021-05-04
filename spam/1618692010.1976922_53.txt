@@ -1,0 +1,258 @@
+Return-Path: <brain-blueprint-news-bruce=untroubled.org@speed35.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2747859 invoked from network); 16 Apr 2021 15:05:53 -0000
+Received: (qmail 106174 invoked by uid 222); 16 Apr 2021 15:05:53 -0000
+Return-Path: <brain-blueprint-news-bruce=untroubled.org@speed35.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 106171 invoked from network); 16 Apr 2021 15:05:53 -0000
+Received: from mail.speed35.cloud ([69.94.138.226])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Apr 2021 15:05:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed35.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=brain-blueprint-news@speed35.cloud;
+ bh=dSWIs16nPavi98wMJw8215Ca8VM=;
+ b=cgLIE+Tx3whywQwmY/U1562JDR7BAa79Ai++k+RwFZVNkTrQT9iVR1KYCNdc9zy8k36MXC6WTlS3
+   vVyn6Ay28VeMKVm954hA9YCugshs+k3M7ZfD6c4zlPZrSraK/JqUXhronp+BLhA3tIfJYCp47coL
+   lR/34vR/8xOpajXmnBE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed35.cloud;
+ b=DX0j1g+tHoVcFjaskSbco1LNjOetB7Y3YheSREsvU43kgGI6EuqO/vgQX7lewsAVnhjyDuiwQgCB
+   I5J4JhRMFHZRADj7KX4pjtN566+KMJX1Mb+79NVipJnQ9LW2mJG05bn4Gf7CT6iTSMIJ3zd+UDTV
+   WQ1NLnvZnfvhP9DtgXI=;
+Received: by mail.speed35.cloud id hf6js60001g0 for <bruce@untroubled.org>; Fri, 16 Apr 2021 11:01:26 -0400 (envelope-from <brain-blueprint-news-bruce=untroubled.org@speed35.cloud>)
+Date: Fri, 16 Apr 2021 11:01:26 -0400
+From: "Brain Blueprint News" <brain-blueprint-news@speed35.cloud>
+To:   <bruce@untroubled.org>
+Subject: The food that saves your brain
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_208_707755349.1618585280232"
+List-Unsubscribe: <http://www.speed35.cloud/2a55F239C5ISR8911B1Z1ym4af2S21JFv4GIf4rxvs4FhIHEsvZ11nRTomnQnoB97LALq1G06L03cYl/expertness-Melville>
+Message-ID: <0.0.0.17.1D732D15F988A28.58A40F@mail.speed35.cloud>
+Content-Length: 16391
+
+------=_Part_208_707755349.1618585280232
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>accomplished</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan style=3D"font-family:tahoma,geneva,sans-serif; "><span style=3D"color:#=
+A9A9A9; "><span style=3D"caret-color: rgb(66, 66, 66); font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width=
+: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display=
+: inline !important; float: none; ">Improve memory, mental speed, and focus=
+</span></span></span> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-=
+variant-caps: normal; font-weight: normal; letter-spacing: normal; text-ind=
+ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -mo=
+z-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: =
+none; "><span style=3D"font-family:tahoma,geneva,sans-serif; ">A new study =
+from Harvard Scientists has revealed<br /> that <a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" targ=
+et=3D"_blank">ONE of the following foods</a> is linked to combating<br /> A=
+lzheimer' s and dementia. Can you guess which it is?</span></p>=20
+      <div>
+       <span style=3D"font-family:tahoma,geneva,sans-serif; "><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">1. </span><a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; font=
+-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: auto; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; " target=3D"_blank">Red wine</a><span style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; word-s=
+pacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; t=
+ext-decoration: none; display: inline !important; float: none; "> </span><b=
+r style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Ari=
+al, Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; f=
+ont-weight: normal; letter-spacing: normal; orphans: auto; text-align: star=
+t; text-indent: 0px; text-transform: none; white-space: normal; widows: aut=
+o; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-w=
+idth: 0px; text-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-vari=
+ant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; word-sp=
+acing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; display: inline !important; float: none; ">2. </span><=
+a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" style=3D"font-family: Arial, Helvetica, sans-serif; f=
+ont-style: normal; font-variant-caps: normal; font-weight: normal; letter-s=
+pacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: auto; word-spacing: 0px; -webki=
+t-text-size-adjust: auto; -webkit-text-stroke-width: 0px; " target=3D"_blan=
+k">Fish</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); f=
+ont-size: medium; font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; text-align: start; text-indent: 0px; tex=
+t-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-a=
+djust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display=
+: inline !important; float: none; "> </span><br style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; fo=
+nt-style: normal; font-variant-caps: normal; font-weight: normal; letter-sp=
+acing: normal; orphans: auto; text-align: start; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-size: medium; font-style: normal; font-variant-caps: normal; font-weight=
+: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text=
+-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display:=
+ inline !important; float: none; ">3. </span><a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: au=
+to; text-align: start; text-indent: 0px; text-transform: none; white-space:=
+ normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; " target=3D"_blank">Avocados</a><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font=
+-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans=
+: auto; text-align: start; text-indent: 0px; text-transform: none; white-sp=
+ace: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: aut=
+o; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">4. </span><a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-style: normal; font-variant-caps: normal; font=
+-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: auto; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; " target=3D"_blank">Clams</a><span style=3D"caret-color: rgb(0, 0, =
+0); color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-varian=
+t-caps: normal; font-weight: normal; letter-spacing: normal; text-align: st=
+art; text-indent: 0px; text-transform: none; white-space: normal; word-spac=
+ing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text=
+-decoration: none; display: inline !important; float: none; "> </span></spa=
+n>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&=
+nbsp; </p>=20
+      <div>
+       <span style=3D"font-family:times new roman,times,serif; "><span styl=
+e=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; fon=
+t-style: normal; font-variant-caps: normal; font-weight: normal; letter-spa=
+cing: normal; text-align: start; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; display: inline !important; =
+float: none; ">Select your answer to find out...</span></span>
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: auto; word-sp=
+acing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;=
+ text-decoration: none; ">
+       <span style=3D"font-family:georgia,serif; "><a href=3D"http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" t=
+arget=3D"_blank"><img alt=3D"alzheimers and sleep" src=3D"http://www.speed35.cloud/ed56I23m9O5BVl7a13jK15e30U4af2K21zFv4GIf4rxvs4FhIHEsvZ11wRTomnQnoB96jj10Bo5INcY1/expertness-Melville" styl=
+e=3D"max-width: 40%; height: 234px; width: 406px; " title=3D"alzheimers and=
+ sleep" /></a></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><=
+span style=3D"font-family:tahoma,geneva,sans-serif; "><strong><a href=3D"=
+http://www.speed35.cloud/6835D23m95X8j6X17C1v5eXsD2coB4af2T21bFv4GIf4rxvs4FhIHEsvZ11GRTomnQnoB96vu1oK06v0OcUY/indeterminacy-repercussion" target=3D"_blank">Or click HERE to see the answer &gt; &gt; &gt; =
+&gt; </a></strong></span></p> <p style=3D"caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-deco=
+ration: none; "><span style=3D"font-family:tahoma,geneva,sans-serif; ">To y=
+our health,</span></p> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font=
+-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-in=
+dent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -m=
+oz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; "><span style=3D"font-family:tahoma,geneva,sans-serif; ">Dr. Will Mi=
+tchell, DOM, MS Nutrition</span></p>=20
+      <div>
+       &nbsp;=20
+      </div> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> <span style=3D"font-family:georgia,s=
+erif; ">&nbsp; If you do not wish to receive future messages click here to =
+<span class=3D"unstyle-auto-detected-links"><a href=3D"http://www.speed35.cloud/ef36v2I39n5nn86Q17Y15leHt2qHdU4af2I21wFv4GIf4rxvs4FhIHEsvZ11SRTomnQnoB97u10P_sU5m3pcY/envision-Quantico" style=3D=
+"text-decoration: underline !important; border-bottom-width: 0px !important=
+; cursor: default !important; color: rgb(153, 153, 153); font-size: 10px; f=
+ont-family: sans-serif; font-weight: inherit !important; line-height: 14px;=
+ ">unsubs</a><span style=3D"text-decoration: underline !important; border-b=
+ottom-width: 0px !important; cursor: default !important; color: rgb(153, 15=
+3, 153); font-size: 10px; font-weight: inherit !important; line-height: 14p=
+x; "> here</span></span><br /> <br /> <span class=3D"unstyle-auto-detected-=
+links"><a href=3D"http://www.speed35.cloud/shakes-Kenosha/80a4y2395CA86P17ERB1v5heW2eZ4af2X21wFv4GIf4rxvs4FhIHEsvZ11hRTomnQnoB95E1SG06uALcYy" style=3D"text-decoration: underline !importan=
+t; border-bottom-width: 0px !important; cursor: default !important; color: =
+rgb(153, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: =
+inherit !important; line-height: 14px; text-align: center; ">New Brain Blue=
+print</a>&nbsp; |&nbsp; 321 N Central Expressway Suite 351 - McKinney, TX 7=
+5070</span></span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:georgia,serif; "><span style=3D"font-size:12p=
+x; "><a href=3D"http://www.speed35.cloud/e214H2395O8Ss917J1RZ5LeHh2fp4af2l21SFv4GIf4rxvs4FhIHEsvZ11ARTomnQnoB95jw1v05NqUcY/usurper-fascist">Leave Here</a><br /> 6547 N Academy Bou=
+levard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <font dir="Mickey"><span lang="imperatives"></font></span><font id="bestowed"></font><style><style size="holly"></style></style><font style="Heywood"></font><span color="plywood"><span style="reabbreviate"></span></span> =20
+ <img src=3D"http://www.speed35.cloud/e7b6wlw2395oT85T13R15eD31v4af2v21LFv4GIf4rxvs4FhIHEsvZ11aRTomnQnoB96lhU1F05pLcYA/usurper-fascist" alt=3D""/></body>
+</html>
+
+------=_Part_208_707755349.1618585280232--
+

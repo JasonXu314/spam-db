@@ -1,0 +1,54 @@
+Return-Path: <support@clickirr.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1058307 invoked from network); 2 Apr 2021 10:44:56 -0000
+Received: (qmail 136648 invoked by uid 222); 2 Apr 2021 10:44:56 -0000
+Return-Path: <support@clickirr.com>
+Delivered-To: virtmail-bruceg@untroubled.org
+Received: (qmail 136645 invoked from network); 2 Apr 2021 10:44:56 -0000
+Received: from mail.clickirr.com ([IPv6:2002:24ff:38e::24ff:38e])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 02 Apr 2021 10:44:55 -0000
+dkim-signature:v=1; c=relaxed/relaxed; h=reply-to:from:subject:date:mime-version:content-type:content-transfer-encoding:message-id;
+ d=clickirr.com; s=default; a=rsa-sha256;
+ bh=86AUx2CQLmK8OlVPFXTexyJhIGY0+EajecQPz2TVw5s=;
+ b=muLRX9BRrIakJ2C/efkDtl5PpamHuobKyuQPu2L67YfWrHyS1EvISTR+jnL5thsra
+ M6M8jKNBlwwileDSfyNAdJX0TwpQzM/jp5GwOfHNE28imLsavmaqLrOf/Beriw6vKee
+ eiWSxi0UGMdExUIH4VislwkZggcvhzvGNeG78nE=;
+Received: from User ([13.232.184.108]) by clickirr.com with
+ MailEnable ESMTPA; Mon, 29 Mar 2021 18:57:39 +0530
+Reply-To: <maryp1799_8335@yahoo.co.jp>
+From: "Mrs Julianna N"<support@clickirr.com>
+Subject: My name is Mrs.Julianna Stefan Ndoi
+Date: Mon, 29 Mar 2021 13:27:46 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <C3DD0E82774945EC8C9B13714D4D00E1.MAI@clickirr.com>
+Content-Length: 937
+
+Greetings my beloved,
+My name is Mrs.Julianna Stefan Ndoi,I am a deaf woman and also a cancer
+patient who had decided to donate what I have to you for God's works. I
+want to donate $8.5 million to you so that you will use part of the this
+fund to help the poor ones,while you use the rest for your family.If you
+are interested,Respond now for more details on how to receive this fund.
+
+Regards,
+Mrs.Julianna,greeting from the sick bed
+**************************************
+Saludos mi amado,
+Mi nombre es Sra. Julianna Stefan Ndoi, soy una hermana sorda ... Soy
+una paciente de c?ncer que ten?a
+Decid? donarles lo que tengo para las obras de Dios. Quiero donar
+$ 8.5 millones para usted para que use parte de este fondo para ayudar
+los pobres, mientras que el resto lo usas para tu familia.
+interesado, responda ahora para obtener m?s detalles sobre c?mo recibir
+este fondo.
+
+Saludos,
+Se?ora Julianna, saludando desde la cama de enferma

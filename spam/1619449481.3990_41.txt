@@ -1,0 +1,48 @@
+Return-Path: <daniel.hernadez@daworth.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15409 invoked from network); 26 Apr 2021 07:36:22 -0000
+Received: (qmail 50830 invoked by uid 222); 26 Apr 2021 07:36:21 -0000
+Return-Path: <daniel.hernadez@daworth.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 50827 invoked from network); 26 Apr 2021 07:36:21 -0000
+Received: from mail.daworth.com (mail.daworth.com [80.211.40.175])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Apr 2021 07:36:21 -0000
+Received: by mail.daworth.com (Postfix, from userid 1001)
+	id 9503BA1A6B; Mon, 26 Apr 2021 08:35:42 +0100 (BST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=daworth.com; s=mail;
+	t=1619422565; bh=OziyFyb0TJaikI5mb5qzMx0PrMNhEJgTu8FmlP4cJdw=;
+	h=Date:From:To:Subject:From;
+	b=LEp5DbX9rA6i+9OiM4upf9cZX0TcVuBpc0V017vEePO8QEA/RSaaZAaawZ5GOpcUc
+	 wxUwEUIsc1t9Hzsx61M0JLjxNoQmiOffnZGVCO/UkzAMGZrtcWlwIyghC6KX/DhxA+
+	 /o99Uw19K84Ce0AXTQKV9oOtO8Ro55MCvzXhf7is9fK1+bTHeQX5S+kPNYLb6upI2b
+	 Ia4AaktAwR+R1OSqUca4ajijLmLZh4FfViLdIJEHLwtGVWlhF6/LSnsgAJozRE19UI
+	 VvkPKoMCKllSeKQJmIzIEWy3bDLYy0mtvap0T6VeUZBrTIRPobz/1JCaxOmxHT3sJ0
+	 zwCjbYFP4ySng==
+Received: by mail.daworth.com for <bruce@untroubled.org>; Mon, 26 Apr 2021 07:35:30 GMT
+Message-ID: <20210426074500-0.1.22.4gfa.0.1npg4jbpom@daworth.com>
+Date: Mon, 26 Apr 2021 07:35:30 GMT
+From: =?UTF-8?Q?"Daniel_Batista_Hern=C3=A1dez"?= <daniel.hernadez@daworth.com>
+To: <bruce@untroubled.org>
+Subject: Servicio de la flota
+X-Mailer: mail.daworth.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 418
+
+Buenos d=C3=ADas:
+
+Le escribo para hablarle sobre una de las mejores herramientas GPS en el =
+mercado.
+
+La herramienta, que me gustar=C3=ADa presentarle brevemente, dispone de m=
+uchas funciones =C3=BAtiles para su trabajo, que optimizan los procesos d=
+e transporte y le ayudan a realizar tareas de campo de manera m=C3=A1s ef=
+iciente.
+
+=C2=BFQuiere conocer los detalles?
+
+
+Atentamente,
+Daniel Batista Hern=C3=A1dez

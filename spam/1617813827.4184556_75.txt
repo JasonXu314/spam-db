@@ -1,0 +1,133 @@
+Return-Path: <selectquote-insurance-bruce=untroubled.org@bvws.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1306616 invoked from network); 7 Apr 2021 13:36:25 -0000
+Received: (qmail 209242 invoked by uid 222); 7 Apr 2021 13:36:24 -0000
+Return-Path: <selectquote-insurance-bruce=untroubled.org@bvws.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 209239 invoked from network); 7 Apr 2021 13:36:24 -0000
+Received: from mail.bvws.us ([208.187.164.61])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 13:33:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bvws.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=selectquote-insurance@bvws.us;
+ bh=9UK2hYNMOf+UlA+nWyKIMYSLzJ8=;
+ b=m07YYljQIy8A6X6tHR/0j5PdH0xU/bdz618o9DtNqXpgP0PFN9wBCD619K9OuP9o7Eu/aL3GM/Jd
+   l4xDtDPox2Kz/9E0bIEeJ7luxL/SX7hOsigJKULJEAzxk5kWA0NG7gWx1aa00rZ/DdrCgsi7XYEP
+   wvoUW/ucBfelk0yirL4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bvws.us;
+ b=fKrbSeKWBeHdZG8qOf2+jdSC1BVs4H45h8jAqCSpWt+BmL6l5aE9hqOx7VdK636AmjRZAdd9fn19
+   QVEZTYO9q15/uvkm3nS4qJhOtTQ+ErN0Kt4enaAN4rV2RJtBBeexBTu+wph73eQukTFyLa2e3mLg
+   owIEDff/ZVTK8Av+4dk=;
+Received: by mail.bvws.us id hdmqaq0001gh for <bruce@untroubled.org>; Wed, 7 Apr 2021 09:17:45 -0400 (envelope-from <selectquote-insurance-bruce=untroubled.org@bvws.us>)
+Date: Wed, 7 Apr 2021 09:17:45 -0400
+From: "SelectQuote Insurance" <selectquote-insurance@bvws.us>
+To:   <bruce@untroubled.org>
+Subject: The quick way to compare and buy life insurance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_991_1916724312.1617801453601"
+List-Unsubscribe: <http://www.bvws.us/complement-enquirer/8825Sm2395dp8T911J11OlR4a6ai21jFv4GIf4rxvs4FhIHEsvZ11PRUommmKo.95H1tI05hTcjY>
+Message-ID: <0.0.0.6E.1D72BB0661D9EE2.52595B@mail.bvws.us>
+Content-Length: 6554
+
+------=_Part_991_1916724312.1617801453601
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>brazier</title>=20
+ </head>=20
+ <body>=20
+  <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; width: 876px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mid=
+dle"><a href=3D"http://www.bvws.us/complement-enquirer/3b44X2395RPR8617z1s5byBr5avU4a6aG21UFv4GIf4rxvs4FhIHEsvZ11ARUommmKo.97S10tjxW5P@cYN">Simple and quick way for lifes most important c=
+overage&nbsp; </a><br /> &nbsp;=20
+      <center>
+       <a href=3D"http://www.bvws.us/complement-enquirer/3b44X2395RPR8617z1s5byBr5avU4a6aG21UFv4GIf4rxvs4FhIHEsvZ11ARUommmKo.97S10tjxW5P@cYN"><img alt=3D"happyr" src=3D"http://www.bvws.us/crumbling-gumming/6c05o239W5u7awj17Q15qb5q_wFer4a6ao21vFv4GIf4rxvs4FhIHEsvZ11PRUommmKo.97zC10CnT5KPczY" style=
+=3D"border-width: 0px; border-style: solid; width: 70%; " /></a>
+      </center>=20
+      <div align=3D"center">
+       &nbsp;=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">Copyright &copy; SelectQuote | All Rights Reserved 2020</span></=
+span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">SelectQuote Insurance Services offers insurance products and ser=
+vices through its licensed insurance agency, SelectQuote Insurance Services=
+, LLC. SelectQuote Insurance Services is not an insurance company. We repre=
+sent trusted insurance companies, and receive commissions ? and possibly ot=
+her performance-based compensation ? for our services. Products and service=
+s are not available in all states.</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">*40 year-old male in excellent health, $500,000, 10-year policy =
+for under a $1 a day. Example policy is for $23 a month. Policy is a United=
+ of Omaha : Term Life Answers 10 is a non-participating term life insurance=
+ to age 95, policy form 6179L-0696 (in TX, 5957L-0495), underwritten by Uni=
+ted of Omaha Life Insurance Company, Omaha, NE 68175. The premium is guaran=
+teed to stay the same for the 10 year period. Minimum issue amount is $100,=
+000. Premiums include a $62.50 annual policy fee. Forms and plan provisions=
+ may vary by state. Plan is available in all states except New York. Suicid=
+e and other limits may apply. The most favorable rate classes (and lowest r=
+ates) are generally intended for those who can meet strict health/lifestyle=
+ criteria. All rates subject to underwriting qualifications. Rates effectiv=
+e as of 1/1/2020. </span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">* Best' s Credit Ratings? are under continuous review and subjec=
+t to change and/or affirmation. For the latest Best' s Credit Ratings? and =
+Best' s Credit Reports (which include Best' s Credit Ratings? ), visit the =
+A.M. Best website at ambest.com. See Guide to Best' s Credit Ratings? for e=
+xplanation of use and charges.? ? Best' s Credit Ratings? reproduced herein=
+ appear under license from A.M. Best and do not constitute, either expressl=
+y or impliedly, an endorsement of SelectQuote or its recommendations, formu=
+las, criteria or comparisons to any other ratings, rating scales or rating =
+organizations which are published or referenced herein. A.M. Best is not re=
+sponsible for transcription errors made in presenting Best' s Credit Rating=
+s? . Best' s Credit Ratings? are proprietary and may not be reproduced or d=
+istributed without the express written permission of A.M. Best Company.? A =
+Best' s Financial Strength Rating opinion addresses the relative ability of=
+ an insurer to meet its ongoing insurance obligations. It is not a warranty=
+ of a company' s financial strength and ability to meet its obligations to =
+policyholders. View our Important Notice: Best' s Credit Ratings for a disc=
+laimer notice and complete details at <a href=3D"http://www.bvws.us/glitters-Sharpe/13e5s239_5S86FR12c15b5bG4a6a_21WFv4GIf4rxvs4FhIHEsvZ11WRUommmKo.95zG1J06slk@cY">http://www.bvws.us/glitters-Sharpe/13e5s239_5S86FR12c15b5bG4a6a_21WFv4GIf4rxvs4FhIHEsvZ11WRUommmKo.95zG1J06slk@cY</a>=
+</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">SelectQuote Insurance Services Corporate Office: 6800 W. 115th S=
+treet, Suite 2511, Overland Park, KS 66211</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:8px; ">This email was sent to you on behalf of SelectQuote by a third-p=
+arty marketing company. You are receiving email from this third-party marke=
+ting company because you have expressed your interest in receiving commerci=
+al email through a site or sites associated with them.</span></span></p>=20
+       <p><span style=3D"font-family:georgia,serif; "><span style=3D"font-s=
+ize:9px; "><span style=3D"font-size:8px; ">This email contains information =
+regarding products and services offered by SelectQuote. If you do not wish =
+to receive email messages from SelectQuote that are advertising or promotio=
+nal in nature, pleas</span>e<a href=3D"http://www.bvws.us/da96V239DX5byq8617gzvF1kI5b5cl4a6aZ21QFv4GIf4rxvs4FhIHEsvZ11gRUommmKo.96lz10Yi5JNLcY/glitters-Sharpe"> unsubscribe here.</a></=
+span></span></p>=20
+      </div> <span style=3D"font-family:georgia,serif; "> &nbsp; End <a hre=
+f=3D"http://www.bvws.us/e034S2395Yv8q917K1UwP5UbA5dR4a6ah21hFv4GIf4rxvs4FhIHEsvZ11zRUommmKo.97iY10YvG5H@c3Y/Thessaly-circumspectly">Here</a></span>=20
+      <table>=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"text-align: center; "><span style=3D"font-size:10px; =
+">6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></td=
+>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br /> <big><span title="troubleshoot"></big><span color="accumulated"></span><font class="scurvy"><style></span></style></font><small></small> =20
+ <img src=3D"http://www.bvws.us/complement-enquirer/d325k2O395MxH8512A15b5fs4a6aj21PFv4GIf4rxvs4FhIHEsvZ11bRUommmKo.95H1CO05WUclY" alt=3D""/></body>
+</html>
+
+------=_Part_991_1916724312.1617801453601--
+

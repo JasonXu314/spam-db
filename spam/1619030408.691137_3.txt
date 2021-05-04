@@ -1,0 +1,78 @@
+Return-Path: <myseniorperks-bruce=untroubled.org@speed64.cloud>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3203627 invoked from network); 21 Apr 2021 13:54:55 -0000
+Received: (qmail 69351 invoked by uid 222); 21 Apr 2021 13:54:55 -0000
+Return-Path: <myseniorperks-bruce=untroubled.org@speed64.cloud>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 69348 invoked from network); 21 Apr 2021 13:54:55 -0000
+Received: from mail.speed64.cloud ([208.187.244.211])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Apr 2021 13:54:46 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=speed64.cloud;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=myseniorperks@speed64.cloud;
+ bh=7LKgEwXzOx8npeuQP+m/MJIGC6Y=;
+ b=h1Uqgq2pdO8b1HQnbuRKlAOMT8p4h7+VOZevlzekpsYakNZOridbG+xz3kZt3RPeAfXR4JKBYPxT
+   W5U40qodYaM2DAjYguC9iaiEeScjdhKL0ckRHSU+5UA9+PsTxg5VOgG2/SLoivfm8dBoqO58pq6A
+   EP2Ses+QdF6VLlSuQvo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=speed64.cloud;
+ b=KZ4o9CxonfwQOzD1I+n+MjBx0C6fjy8dhW7sQu+lC3OTEk057Jaf2Xg0TchdLvKS20/QrkDYEUH/
+   XipxqT1SrzZZGCZU+66KZhgIfjVBMe+andCwfJPtRmgQr4HAQK7Xnr0LUOHuxKriu++hxc+J6PuZ
+   oy55KdnK89s1qXHVMAw=;
+Received: by mail.speed64.cloud id hg0nac0001g1 for <bruce@untroubled.org>; Wed, 21 Apr 2021 09:48:48 -0400 (envelope-from <myseniorperks-bruce=untroubled.org@speed64.cloud>)
+Date: Wed, 21 Apr 2021 09:48:48 -0400
+From: Myseniorperks <myseniorperks@speed64.cloud>
+To:   <bruce@untroubled.org>
+Subject: 18 Senior Savings That you Can Only Get if You Ask
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_757_978758205.1619012914799"
+List-Unsubscribe: <http://www.speed64.cloud/d4f5A2X395vNO8912O1AiH1V4b3bB21nFv4GIf4rxvs4FhIHEsvZ11GRwomooeoI95suJ106p3JycY/rewinding-Ingram>
+Message-ID: <0.0.0.53.1D736B50E424884.7EAA1@mail.speed64.cloud>
+Content-Length: 2874
+
+------=_Part_757_978758205.1619012914799
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>yelping</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.speed64.cloud/a255Gr2395k86No13yZ15fb2k4b3bl21fFv4GIf4rxvs4FhIHEsvZ11qRwomooeoI97yQHMO105L@c@Y/assembly-bulwark">&nbsp; Top ways for seniors to save a bunch of money</a></span></span>
+  </div> 
+  <center style="text-align: center; ">
+   &nbsp; 
+  </center> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <a href="http://www.speed64.cloud/a255Gr2395k86No13yZ15fb2k4b3bl21fFv4GIf4rxvs4FhIHEsvZ11qRwomooeoI97yQHMO105L@c@Y/assembly-bulwark"><img alt="senior s" src="http://www.speed64.cloud/strongest-veiling/af85y23J95p7Uap12i15fb5s4b3bn21QFv4GIf4rxvs4FhIHEsvZ11pRwomooeoI95B10g_5ENJcY" style="border-width: 0px; border-style: solid; height: 1211px; width: 647px; " /></a>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:times new roman,times,serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <a href="http://www.speed64.cloud/assembly-bulwark/a084c2395E86Js13A15qfb3G4b3by21sFv4GIf4rxvs4FhIHEsvZ11FRwomooeoI97U1DJ_0o5ByXcY"><font color="#666666">Unsubscribe Here</font></a>.<br /> <a href="http://www.speed64.cloud/a255Gr2395k86No13yZ15fb2k4b3bl21fFv4GIf4rxvs4FhIHEsvZ11qRwomooeoI97yQHMO105L@c@Y/assembly-bulwark"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <a href="http://www.speed64.cloud/rewinding-Ingram/12p4D2395zRw8912S15fb4m4b3bm21zFv4GIf4rxvs4FhIHEsvZ11rRwomooeoI96rA1Fh05m3cXY">&nbsp; Quit Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <font face="resignation"><font id="bothered"></font></font><font id="softened"></font><style face="triangles"></style>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.speed64.cloud/4df4H2395XOo8512I15fb6n4b3bD21UFv4GIf4rxvs4FhIHEsvZ11SRwomooeoI95y1z0X6pLjjcY/Heinrich-thump" alt=""/></body>
+</html>
+
+------=_Part_757_978758205.1619012914799--
+

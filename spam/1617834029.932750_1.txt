@@ -1,0 +1,207 @@
+Return-Path: <new-brain-blueprint-bruce=untroubled.org@credup3.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1320401 invoked from network); 7 Apr 2021 19:56:29 -0000
+Received: (qmail 215204 invoked by uid 222); 7 Apr 2021 19:56:28 -0000
+Return-Path: <new-brain-blueprint-bruce=untroubled.org@credup3.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 215201 invoked from network); 7 Apr 2021 19:56:28 -0000
+Received: from mail.credup3.com ([208.187.164.112])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2021 19:56:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=credup3.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=new-brain-blueprint@credup3.com;
+ bh=reKcFLB8jeYhMKZyWgr1pCEWjbM=;
+ b=UMp2XFB/y0HK5MQpAHQFEJ5iPw/d4eUSTY6G3CfQOOp8gigATV7BHcC+DUyuBzGtgCtYa2OwCmSq
+   hzVuPTRTTRKSK29ZBWbbOI6BRz3RK3/qRuM4KQoCbYeKd2Qvq9TqZNBj86q3ctQyehV7yGOkvoaY
+   Kie7AznKLlQvax5otuY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=credup3.com;
+ b=joo5vZIalKgJ39H9iHfSK7rqvrBL6IFRFCQKLoXVrISoIq4A0JrdyA2FCzXyQgnOaK5iMP+feFTH
+   KZ/xAs/UEfWLBy/V/YquhCFkTVmwpn0UoFO0ph823oUAlaFHIu1uhH3+pQzXCcl+icFnUJsmT+sR
+   5bNiN9uQudNXHTudAV0=;
+Received: by mail.credup3.com id hdo76c0001go for <bruce@untroubled.org>; Wed, 7 Apr 2021 15:49:44 -0400 (envelope-from <new-brain-blueprint-bruce=untroubled.org@credup3.com>)
+Date: Wed, 7 Apr 2021 15:49:44 -0400
+From: "New Brain Blueprint" <new-brain-blueprint@credup3.com>
+To:   <bruce@untroubled.org>
+Subject: Ancient Indonesian food reverses her husband's Dementia
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_145_1171622243.1617824975345"
+List-Unsubscribe: <http://www.credup3.com/generalist-explanation/9185iI2395SL8m912A11Xmin4a76z21EFv4GIf4rxvs4FhIHEsvZ11oR8ommonoC97zB1o0jh5VXOcY>
+Message-ID: <0.0.0.10.1D72BE728787B20.316F97@mail.credup3.com>
+Content-Length: 11732
+
+------=_Part_145_1171622243.1617824975345
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>pageant</title>=20
+ </head>=20
+ <body>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 20px 15px; font-family: sans-serif; font-size: 1=
+8px; line-height: 20px; text-align: center; color: rgb(153, 153, 153); "><s=
+pan class=3D"unstyle-auto-detected-links" style=3D"text-decoration: none !i=
+mportant; font-family: sans-serif; font-size: 18px; line-height: 20px; text=
+-align: center; color: rgb(153, 153, 153); ">Find </span><a class=3D"unstyl=
+e-auto-detected-links" href=3D"http://www.credup3.com/materializes-Gauls/S4e5an2395r8q6L13J15b94ii4a76I21cFv4GIf4rxvs4FhIHEsvZ11lR8ommonoC95iyZ105aB2cY" style=3D"text-decoration: none !=
+important; font-family: sans-serif; font-size: 18px; line-height: 20px; tex=
+t-align: center; color: rgb(153, 153, 153); ">your Brains Blueprint</a></td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"background-color: rgb(255, 255, 255); "> <p style=3D"care=
+t-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, =
+sans-serif; font-style: normal; font-variant-caps: normal; font-weight: nor=
+mal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text=
+-stroke-width: 0px; text-decoration: none; text-align: center; "><span styl=
+e=3D"font-family:verdana,geneva,sans-serif; ">Though bizarre, Harvard resea=
+rchers have discovered a<br /> shocking link between your sleep and the ons=
+et of Alzheimer' s.</span></p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:verdana,geneva,sans-serif; "><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">The big question is - do you sleep on your side or on your ba=
+ck? </span></span>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; ">&nbsp; </p>=20
+      <div style=3D"text-align: center; ">
+       <span style=3D"font-family:verdana,geneva,sans-serif; "><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; font=
+-style: normal; font-variant-caps: normal; font-weight: normal; letter-spac=
+ing: normal; text-align: start; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; ">Because further research shows, </span><a href=3D"http://www.credup3.com/materializes-Gauls/S4e5an2395r8q6L13J15b94ii4a76I21cFv4GIf4rxvs4FhIHEsvZ11lR8ommonoC95iyZ105aB2cY"=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-style: normal; fo=
+nt-variant-caps: normal; font-weight: normal; letter-spacing: normal; orpha=
+ns: auto; text-align: start; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: a=
+uto; -webkit-text-stroke-width: 0px; " target=3D"_blank">ONE of these posit=
+ions</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font=
+-size: medium; font-style: normal; font-variant-caps: normal; font-weight: =
+normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-t=
+ransform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: i=
+nline !important; float: none; "> </span><br style=3D"caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-=
+style: normal; font-variant-caps: normal; font-weight: normal; letter-spaci=
+ng: normal; orphans: auto; text-align: start; text-indent: 0px; text-transf=
+orm: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-te=
+xt-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none=
+; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-=
+size: medium; font-style: normal; font-variant-caps: normal; font-weight: n=
+ormal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: in=
+line !important; float: none; ">is linked to the first signs of dementia.</=
+span></span>
+       <br />=20
+       <br /> &nbsp;=20
+      </div>=20
+      <div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text=
+-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-ad=
+just: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-ali=
+gn: center; ">
+       <a href=3D"http://www.credup3.com/materializes-Gauls/S4e5an2395r8q6L13J15b94ii4a76I21cFv4GIf4rxvs4FhIHEsvZ11lR8ommonoC95iyZ105aB2cY" target=3D"_blank"><img alt=3D"alzheimers and =
+sleep" src=3D"http://www.credup3.com/d316t23O9A5SOX7a17v15Zbuog9o8s4a76J21WFv4GIf4rxvs4FhIHEsvZ11vR8ommonoC96bXF1W05vNcY@/materializes-Gauls" style=3D"max-width: 40%; height: 400px; width: 6=
+53px; " title=3D"alzheimers and sleep" /></a>
+      </div> <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px;=
+ text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-si=
+ze-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; tex=
+t-align: center; "><span style=3D"font-family:arial,helvetica,sans-serif; "=
+><strong><a href=3D"http://www.credup3.com/materializes-Gauls/S4e5an2395r8q6L13J15b94ii4a76I21cFv4GIf4rxvs4FhIHEsvZ11lR8ommonoC95iyZ105aB2cY" target=3D"_blank">Sleeping In THIS Position=
+ Is Linked To Alzheimer</a></strong></span></p> <p style=3D"caret-color: rg=
+b(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; text-indent: 0px; text-transform: none; white-space: norm=
+al; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-wid=
+th: 0px; text-decoration: none; text-align: center; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">To your health,</span></p> <p style=3D"=
+caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, Helveti=
+ca, sans-serif; font-style: normal; font-variant-caps: normal; font-weight:=
+ normal; letter-spacing: normal; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; text-align: center; "><span =
+style=3D"font-family:arial,helvetica,sans-serif; ">Dr. Will Mitchell, DOM, =
+MS Nutrition</span></p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"50" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing: 0px !important; border-colla=
+pse: collapse !important; table-layout: fixed !important; margin: auto; car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " width=3D"=
+100%">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding: 0px 15px; font-family: sans-serif; font-size: 10=
+px; line-height: 14px; text-align: center; color: rgb(153, 153, 153); "><br=
+ /> <br /> <br /> <br /> <br /> <br /> &nbsp; If you do not wish to receive=
+ future messages click here to <span class=3D"unstyle-auto-detected-links">=
+<a href=3D"http://www.credup3.com/normalized-fallacious/7384i2395nk8u612q15b95Y4a76Z21AFv4GIf4rxvs4FhIHEsvZ11qR8ommonoC97XL1SP0L6wPkcAY" style=3D"text-decoration: underline !important; bord=
+er-bottom-width: 0px !important; cursor: default !important; color: rgb(153=
+, 153, 153); font-size: 10px; font-family: sans-serif; font-weight: inherit=
+ !important; line-height: 14px; ">unsubscribe</a></span><br /> <br /> <span=
+ class=3D"unstyle-auto-detected-links"><a href=3D"http://www.credup3.com/2c34G2395AK86l12c15b96u4a76s21EFv4GIf4rxvs4FhIHEsvZ11hR8ommonoC95d1H0A5SOcUY/normalized-fallacious" style=3D"text=
+-decoration: underline !important; border-bottom-width: 0px !important; cur=
+sor: default !important; color: rgb(153, 153, 153); font-size: 10px; font-f=
+amily: sans-serif; font-weight: inherit !important; line-height: 14px; text=
+-align: center; ">New Brain Blueprint</a>&nbsp; |&nbsp; 321 N Central Expre=
+ssway Suite 351 - McKinney, TX 75070</span><br /> <br /> &nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td aria-hidden=3D"true" height=3D"30" style=3D"font-size: 0px; line-h=
+eight: 0px; ">&nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-v=
+ariant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; ">
+   <br />=20
+   <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D"=
+font-size:12px; "><a href=3D"http://www.credup3.com/4c14c2395AM89D13z15bN97G4a76_21IFv4GIf4rxvs4FhIHEsvZ11nR8ommonoC97tD10Psw6MyjcYU/normalized-fallacious">Leave Here</a><br /> 6547 =
+N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+   <br /> &nbsp;=20
+  </div> <font><small></small><big></font><small></big></small><style title="contemplate"></style><big><font dir="Prussianizers"></font></big><span style="spirit"></span><font face="chapels"></font> =20
+ <img src=3D"http://www.credup3.com/33b4f2395OA8m512l15b99O4a76H21XFv4GIf4rxvs4FhIHEsvZ11ER8ommonoC95S1r0x5yqycY/sublime-lingua" alt=3D""/></body>
+</html>
+
+------=_Part_145_1171622243.1617824975345--
+

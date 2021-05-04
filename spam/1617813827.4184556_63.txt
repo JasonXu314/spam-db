@@ -1,0 +1,82 @@
+Return-Path: <tinnitus_ringing_ears-bruce=untroubled.org@vnir.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1270753 invoked from network); 6 Apr 2021 16:04:47 -0000
+Received: (qmail 192988 invoked by uid 222); 6 Apr 2021 16:04:47 -0000
+Return-Path: <tinnitus_ringing_ears-bruce=untroubled.org@vnir.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 192985 invoked from network); 6 Apr 2021 16:04:47 -0000
+Received: from mail.vnir.us ([208.187.164.39])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Apr 2021 16:03:09 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=vnir.us;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus_ringing_ears@vnir.us;
+ bh=9Lcf8cTlIRP1VmmxX7MB78zVyTQ=;
+ b=V5OI3xL8C6TuFkLRA0VPzfM4oE27XguDZQF/Xmo7cFkgINQYtWZkBe/nbBdG3qb10uR3rXVmW0DZ
+   Uj4Ug/jUOgQBq+eB8VVdOZUnuAuwiR6ioaDCgcTS9o1lGxr/dOIAmGi77nNbz+Q+yixIAU1/pX7v
+   qPkNycvKycwDQbwXE2A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=vnir.us;
+ b=U6v9YB59/SZ99PuYIBTqfFWwCf6Lf3h6El76jJGqDdDcmNHxLeFmETM6CRUWKsLKeadi5W4a80+o
+   ekwhUaP7miNXiWUoFL8EQTA2ySBdDOIKLPc2HI7Qyn960PmfBUW5G7g8aDgdDkay10ja1VrstEfP
+   vJN4WNs7yKkpAnazykw=;
+Received: by mail.vnir.us id hdi33s0001g3 for <bruce@untroubled.org>; Tue, 6 Apr 2021 11:47:31 -0400 (envelope-from <tinnitus_ringing_ears-bruce=untroubled.org@vnir.us>)
+Date: Tue, 6 Apr 2021 11:47:31 -0400
+From: "Tinnitus Ringing Ears" <tinnitus_ringing_ears@vnir.us>
+To:   <bruce@untroubled.org>
+Subject: Ringing Ears? Eat THIS for Breakfast & Destroy Tinnitus Fast&hellip;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_658_544996803.1617724038116"
+List-Unsubscribe: <http://www.vnir.us/toughness-secure/7385X2j395ky8Y913RGl11qkS4a61C21eFv4GIf4rxvs4FhIHEsvZ8pR5ommmm5ng1F06BXPWcY>
+Message-ID: <0.0.0.49.1D72AFC2787077C.719309@mail.vnir.us>
+Content-Length: 14478
+
+------=_Part_658_544996803.1617724038116
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>gopher</title> 
+ </head> 
+ <body> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">Doctors are baffled by this new study that reveals the true cause of tinnitus? </span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">Turns out tinnitus is NOT an ear problem at all? </span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><strong>In fact, that buzzing, clicking and clipping that tortures you is actually an early ? warning signal? that your brain is dying!</strong></span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">And it' s all because of <a href="http://www.vnir.us/e036M2uN395a8sZ612h15b26D4a61F21eFv4GIf4rxvs4FhIHEsvZ8NR5ommmm7m1x0iBH6a@WcYl/twiner-spareness">THIS shocking thing happening in your brain right now.</a></span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><strong><em>&nbsp; </em></strong></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><strong><em><img alt="" src="http://www.vnir.us/twiner-spareness/eb84t2395D7FaS12z15b29o4a61v21pFv4GIf4rxvs4FhIHEsvZ8NR5ommmm7nwo1CO05a@cYl" style="width: 400px; height: 450px; " /></em></strong></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">It' s similar to when your car breaks down? </span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">First you hear a strange humming or clanking sound. Then it gets louder? until smoke starts to rise from the engine or worse <em>it just stops working altogether</em>.</span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">Tinnitus is exactly the same. It' s the symptom of something much worse.</span></p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+  <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.vnir.us/e036M2uN395a8sZ612h15b26D4a61F21eFv4GIf4rxvs4FhIHEsvZ8NR5ommmm7m1x0iBH6a@WcYl/twiner-spareness"><strong>==&gt; </strong><strong>Find out all the details in this eye-opening video - before it' s too late</strong></a></span></p> 
+  <div align="left" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+   <br /> 
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.vnir.us/7eb6pUW2395B8Up617mg1sw5b2n7Io4a61h21tFv4GIf4rxvs4FhIHEsvZ8WR5ommmm6Yr10AV5VjcYO/Jonas-repealed"><font color="#666666">Unsubscribe Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+  </div> 
+  <div align="left" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+   <br /> 
+   <span style="font-size:12px; ">Exit <a href="http://www.vnir.us/1Z14y2395W89wm13d1w5b28L4a61F21VFv4GIf4rxvs4FhIHEsvZ8UR5ommmm5ep10V5LOcYL/antiquate-chairmen">Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span>
+   <br /> 
+   <br /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> &nbsp; 
+  </div> <style title="rocker"><span dir="irrigating"></style></span><style></style><span></span><style size="turban"></style><font id="speedometer"></font>  
+ <img src="http://www.vnir.us/7196h239op5E8kI513q15bw2aA4a61G21kFv4GIf4rxvs4FhIHEsvZ8wR5ommmm6z1K0wW5qkjcY/toughness-secure" alt=""/></body>
+</html>
+
+------=_Part_658_544996803.1617724038116--
+

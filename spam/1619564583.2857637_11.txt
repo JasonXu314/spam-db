@@ -1,0 +1,65 @@
+Return-Path: <canvasprints-ad-bruce=untroubled.org@le-h.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 149500 invoked from network); 27 Apr 2021 15:28:08 -0000
+Received: (qmail 73077 invoked by uid 222); 27 Apr 2021 15:28:07 -0000
+Return-Path: <canvasprints-ad-bruce=untroubled.org@le-h.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 73074 invoked from network); 27 Apr 2021 15:28:07 -0000
+Received: from mail.le-h.cyou ([69.94.138.185])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 15:28:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=le-h.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-ad@le-h.cyou;
+ bh=JRa4AvRSF1hfF7TQeZo7v5iN3l0=;
+ b=P+3liIdMulQGmcKl6LDEDoiPi97YDwseWfHjkC6kM4shI9XD5uLTQTNe48MK8cJjx4HlTzPtjuwH
+   zbDhPV+twGarxIZjOcaYpCSvmj9meBSgS4sQBV9BtyRsHficv7cWqHkOK08maxZP/tiYL5GwoWWx
+   F3KLmuE1/zwteWxLMUc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=le-h.cyou;
+ b=sZ/JUQ60jQhF+svjcn6a4WElWFeeeWDUA5rExThqtLe32FysiWDQLCgY5mhEkuiBWDCqyJhXeGEE
+   N6dVxp4Z6xmuq51EvaWGsQ2Xg2C+Y0c1dtPcQfti9qAiW/DKc4DXf9i729zCPptTS6INKI01ttRl
+   ip2FEmuSYnmDSKLQphg=;
+Received: by mail.le-h.cyou id hh0moa0001gl for <bruce@untroubled.org>; Tue, 27 Apr 2021 11:23:33 -0400 (envelope-from <canvasprints-ad-bruce=untroubled.org@le-h.cyou>)
+Date: Tue, 27 Apr 2021 11:23:33 -0400
+From: "CanvasPrints Ad" <canvasprints-ad@le-h.cyou>
+To:   <bruce@untroubled.org>
+Subject: Get UNLIMITED 16 x 20 Custom Canvas Prints for $14.99
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_898_1958340753.1619537007114"
+List-Unsubscribe: <http://www.le-h.cyou/a434a2395GW8K911r11OFL4b92v21dFv4GIf4rxvs4FhIHEsvZ8FR1om9nK5a1l0Q6FyzMcY/Rorschach-exaggerate>
+Message-ID: <0.0.0.64.1D73B794901CD50.69F17D@mail.le-h.cyou>
+Content-Length: 2882
+
+------=_Part_898_1958340753.1619537007114
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>unconnected</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.le-h.cyou/2694G2395V86Yr17Q16GB1sz91Oz4b92r21eFv4GIf4rxvs4FhIHEsvZ8mR1om9nK5uo1Y05t3cqY/victualer-shacks"><span style="font-size:18px; ">Mothers Day BLOWOUT SALE </span></a></span>
+   <br /> &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><a border="0" href="http://www.le-h.cyou/2694G2395V86Yr17Q16GB1sz91Oz4b92r21eFv4GIf4rxvs4FhIHEsvZ8mR1om9nK5uo1Y05t3cqY/victualer-shacks"><img alt="canvas momse" src="http://www.le-h.cyou/McIntosh-curs/8fa5S23K95NAg7a12z16194z4b92D21yFv4GIf4rxvs4FhIHEsvZ8QR1om9nK5w10PL5y3lcY" style="width: 602px; height: 753px; " /> </a></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; " width="600"> 
+    <tbody> 
+     <tr style="text-align: center; " width="600"> 
+      <td style="text-align: center; " width="600"><span style="font-family:georgia,serif; "><span style="font-size:10px; ">This is an advertisement.<br /> This email was sent on behalf of Easy Canvas Prints.<br /> To stop receiving emails about Easy Canvas Prints, <a href="http://www.le-h.cyou/6bf4F2395c86Qr13k16192My4b92h21UFv4GIf4rxvs4FhIHEsvZ8rR1om9nK7Q1g0Hyw5YWPcY/McIntosh-curs"> Unsubsc </a> or write to:<br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758<br /> <br /> Leave&nbsp; <a href="http://www.le-h.cyou/thrives-Kauffman/d145S23u95s8L9W17Nhtx1619Ci3g4b92h21eFv4GIf4rxvs4FhIHEsvZ8GR1om9nK6zC1TR06rycjOY"> Here </a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO </span></span></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font color="camera"><span color="incomprehensibility"><font title="Dutchman"></span></font></font><span></span><small></small><font dir="compendium"><style></font><font lang="filters"><font></font></font></style><font size="heeling"></font><font></font>
+  </center>   
+ <img src="http://www.le-h.cyou/cb96Cs2R395O8l5X12C16195r4b92F21KFv4GIf4rxvs4FhIHEsvZ8ER1om9nK5D1FI06PAAcYj/Rorschach-exaggerate" alt=""/></body>
+</html>
+
+------=_Part_898_1958340753.1619537007114--
+

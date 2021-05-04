@@ -1,0 +1,75 @@
+Return-Path: <mysenior-perks-bruce=untroubled.org@le-b.cyou>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 157590 invoked from network); 27 Apr 2021 21:07:27 -0000
+Received: (qmail 76658 invoked by uid 222); 27 Apr 2021 21:07:27 -0000
+Return-Path: <mysenior-perks-bruce=untroubled.org@le-b.cyou>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 76655 invoked from network); 27 Apr 2021 21:07:27 -0000
+Received: from mail.le-b.cyou ([208.187.244.229])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Apr 2021 21:07:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=le-b.cyou;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mysenior-perks@le-b.cyou;
+ bh=FJwfInTBRT44V0oDEMNjDLXnKq4=;
+ b=W36tXOXnYg1lMQSvYitp6JJdbqhYCtqjlaDq7FCYMcNjH2CL9fWgaU2VW3F12Ij1/1u14KldjnnY
+   rbz4GLRPVznrSEbtASOryJoThQ7HA2sYJyCfk8/fi9u4e8s/5cRH9M98x5B0xuSPzwmm8i6hU8Fq
+   7OXnn5DBjvi/+PBUDNM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=le-b.cyou;
+ b=REqrAHVuAI6LdGirMQAKmtVcNoiQZodVtAXDMXpv/LWSBaPbQwpcrdMlH7PkfgcqvdefnN8KbLA6
+   jHO3mIIMm0/Z4Q7nA3o/E5k0HidpQ2Fte/YsgMSTP5r+LVff/zkhGsK0Z7W/waG5AmVP7QZ5xsWU
+   D/XdZpkAH+1aO4mTXHU=;
+Received: by mail.le-b.cyou id hh1ugi0001gc for <bruce@untroubled.org>; Tue, 27 Apr 2021 17:03:15 -0400 (envelope-from <mysenior-perks-bruce=untroubled.org@le-b.cyou>)
+Date: Tue, 27 Apr 2021 17:03:15 -0400
+From: "MySenior Perks" <mysenior-perks@le-b.cyou>
+To:   <bruce@untroubled.org>
+Subject: Updated - 18 of the best senior deals today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_961_1437259508.1619557375138"
+List-Unsubscribe: <http://www.le-b.cyou/2694O2395b89wv12Cw1Cg1s4b97s21eFv4GIf4rxvs4FhIHEsvZ11jR1om9oQop95qh10F5y@ckY/meditated-dollars>
+Message-ID: <0.0.0.6A.1D73BA8BD94FE2E.6505E2@mail.le-b.cyou>
+Content-Length: 2912
+
+------=_Part_961_1437259508.1619557375138
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>medicines</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:20px; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.le-b.cyou/31d5zl2395j8Wg613K1u61bar4b97Z21HFv4GIf4rxvs4FhIHEsvZ11LR1om9oQop96ip1B0h6ELcXNY/strangler-skates">19 Seceret ways for Seniors to save a bunch </a></span></span>
+  </div> 
+  <center>
+   &nbsp; 
+   <center> 
+    <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+     <tbody> 
+      <tr> 
+       <td align="center" class="preview-mid" colspan="2" valign="middle"> 
+        <div style="text-align: right; ">
+         &nbsp; 
+        </div> 
+        <center style="text-align: center; ">
+         <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.le-b.cyou/31d5zl2395j8Wg613K1u61bar4b97Z21HFv4GIf4rxvs4FhIHEsvZ11LR1om9oQop96ip1B0h6ELcXNY/strangler-skates"><img alt="senior sv" src="http://www.le-b.cyou/8816S23k9g5dCV7a13v161vbdT4b97k21UFv4GIf4rxvs4FhIHEsvZ11JR1om9oQop96AS1yS05PpqcY/chuckled-ballooning" style="border-width: 0px; border-style: solid; height: 769px; width: 629px; " /></a></span>
+        </center> 
+        <div style="text-align: center; ">
+         <br /> 
+         <span style="font-family:georgia,serif; "><span style="font-size:12px; ">If you' d prefer not to receive future emails, <font color="#666666">Leave</font><a href="http://www.le-b.cyou/chuckled-ballooning/8646yk23l95z8NR613C1l61bbL4b97X21OFv4GIf4rxvs4FhIHEsvZ11VR1om9oQop97JZ1uXC06uXcy3Y"><font color="#666666"> Here</font></a>.<br /> <a href="http://www.le-b.cyou/31d5zl2395j8Wg613K1u61bar4b97Z21HFv4GIf4rxvs4FhIHEsvZ11LR1om9oQop96ip1B0h6ELcXNY/strangler-skates"><font color="#666666">SeniorPerks.com</font></a> | 302 Washington St #150-7835 San Diego, CA 92103<br /> <br /> <br /> <a href="http://www.le-b.cyou/c9b5oC2395W8Z9Z13V161sbcO4b97J21iFv4GIf4rxvs4FhIHEsvZ11DR1om9oQop95Qo10G6r@cMYq/dutchess-athletics">Vacate Here</a><br /> 6547 N Academy Boulevard #1170<br /> 80918 Colorado Springs CO</span></span>
+         <br /> &nbsp; 
+        </div> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div style="text-align: center; ">
+     <span></span><small><big></small></big><style class="condemnations"></style><font title="relish"><span id="broadcasters"></span></font><small></small><big></big>
+    </div> 
+   </center> 
+  </center>   
+ <img src="http://www.le-b.cyou/33b4L2395uP85G13L161beQP4b97v21rFv4GIf4rxvs4FhIHEsvZ11zR1om9oQop96h1U0Fm5v0BcY/strangler-skates" alt=""/></body>
+</html>
+
+------=_Part_961_1437259508.1619557375138--
+
