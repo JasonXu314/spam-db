@@ -1,8 +1,11 @@
 const express = require('express');
+const cors = require('cors');
 const fs = require('fs');
 
 const port = process.env.PORT || 5000;
 const app = express();
+
+app.use(cors({ origin: true }));
 
 const plaintextEncodings = ['8bit', 'quoted-printable', '7bit'];
 const encodings = [...plaintextEncodings, 'base64'];
