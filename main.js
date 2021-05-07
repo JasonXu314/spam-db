@@ -21,7 +21,7 @@ function extractParts(lines) {
 			if (/\s*boundary=".+"$/.test(line)) {
 				boundary = line.match(/\s*boundary="(?<boundary>.+)"$/).groups.boundary;
 			}
-			if (inPart && line === 'Content-Type: multipart/alternative') {
+			if (inPart && (line === 'Content-Type: multipart/alternative' || line === 'Content-Type: multipart/alternative;')) {
 				inPart = false;
 			}
 
@@ -93,7 +93,7 @@ app.get('/', (req, res) => {
 				const contentLines = part.lines.slice(part.lines.findIndex((ln) => !/[a-zA-Z\-]+: /.test(ln)));
 
 				const plaintext = plaintextEncodings.includes(encoding)
-					? contentLines.join('\n')
+					? contentLines.join('')
 					: Buffer.from(contentLines.join(''), 'base64').toString('ascii');
 				textParts.push(plaintext);
 			}
