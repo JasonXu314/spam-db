@@ -9,6 +9,7 @@ app.use(cors({ origin: true }));
 
 const plaintextEncodings = ['8bit', 'quoted-printable', '7bit'];
 const encodings = [...plaintextEncodings, 'base64'];
+const ascii = /^[\x00\x09\x0D\x20\x21-\x7F]+$/;
 
 function extractParts(lines) {
 	const parts = [];
@@ -73,39 +74,58 @@ app.post('/wakeup', (_, res) => {
 });
 
 app.get('/', (req, res) => {
-	const files = fs.readdirSync('./spam');
-	const amt = req.query.amt ? parseInt(req.query.amt) : files.length;
-	const mail = files.slice(0, amt).map((path) => {
-		const raw = fs.readFileSync(`./spam/${path}`).toString();
-		const lines = raw.split(/\r?\n/);
+	const parsedExists = fs.existsSync('./parsed');
+	if (parsedExists) {
+		const files = fs.readdirSync('./parsed');
+		const amt = req.query.amt ? parseInt(req.query.amt) : files.length;
+		const mail = files.slice(0, amt).map((path) => fs.readFileSync(`./parsed/${path}`).toString());
 
-		try {
-			const parts = extractParts(lines);
+		res.json(mail);
+	} else {
+		const files = fs.readdirSync('./spam');
+		const amt = req.query.amt ? parseInt(req.query.amt) : files.length;
+		const mail = files.slice(0, amt).map((path) => {
+			const raw = fs.readFileSync(`./spam/${path}`).toString();
+			const lines = raw.split(/\r?\n/);
 
-			const textParts = [];
-			for (const part of parts) {
-				const encodingLine = part.lines.find((line) => line.startsWith('Content-Transfer-Encoding: '));
-				const encoding = encodingLine?.split(': ')[1] || '8bit';
-				if (!encodings.includes(encoding)) {
-					console.log(path, 'Unrecognized Encoding', encoding);
+			try {
+				const parts = extractParts(lines);
+
+				const textParts = [];
+				for (const part of parts) {
+					const encodingLine = part.lines.find((line) => line.startsWith('Content-Transfer-Encoding: '));
+					const encoding = encodingLine?.split(': ')[1] || '8bit';
+					if (!encodings.includes(encoding)) {
+						console.log(path, 'Unrecognized Encoding', encoding);
+					}
+
+					const contentLines = part.lines.slice(part.lines.findIndex((ln) => !/[a-zA-Z\-]+: /.test(ln)));
+
+					const plaintext = plaintextEncodings.includes(encoding)
+						? contentLines.join('')
+						: Buffer.from(contentLines.join(''), 'base64').toString('ascii');
+					textParts.push(plaintext);
 				}
 
-				const contentLines = part.lines.slice(part.lines.findIndex((ln) => !/[a-zA-Z\-]+: /.test(ln)));
-
-				const plaintext = plaintextEncodings.includes(encoding)
-					? contentLines.join('')
-					: Buffer.from(contentLines.join(''), 'base64').toString('ascii');
-				textParts.push(plaintext);
+				return { path, textParts };
+			} catch (e) {
+				console.log(path, 'No Parts', e.message);
+				return null;
 			}
+		});
 
-			return textParts;
-		} catch (e) {
-			console.log(path, 'No Parts', e.message);
-			return null;
-		}
-	});
+		fs.mkdirSync('./parsed');
+		mail.forEach(({ path, textParts }) => {
+			const rawText = textParts.join('\n');
+			if (rawText.trim() !== '' && ascii.test(rawText)) {
+				fs.writeFileSync(`./parsed/${path}`, rawText);
+			}
+		});
 
-	res.json(mail.reduce((arr, mail) => [...arr, ...mail], []).filter((mail) => mail.trim() !== '' && /^[\x21-\x7F]+$/.test(mail)));
+		const rawMail = mail.map(({ textParts }) => textParts);
+
+		res.json(rawMail.reduce((arr, mail) => [...arr, mail.join('\n')], []).filter((mail) => mail.trim() !== '' && ascii.test(mail)));
+	}
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
