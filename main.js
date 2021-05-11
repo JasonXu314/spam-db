@@ -105,7 +105,7 @@ app.get('/', (req, res) => {
 		}
 	});
 
-	res.json(mail.reduce((arr, mail) => [...arr, ...mail], []));
+	res.json(mail.reduce((arr, mail) => [...arr, ...mail], []).filter((mail) => mail.trim() !== '' && /^[\x21-\x7F]+$/.test(mail)));
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
